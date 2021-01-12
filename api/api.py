@@ -413,6 +413,14 @@ everyydaytools = [
 ]
    
 awesome_websites = [
+    {
+        'id': 0,
+        'image': 'https://jonkuperman.com/static/9d5f8d15762e685534467c67e2cf281f/72e01/joshwcomeau.jpg',
+        'into': 'As I was going through rebuilding my blog, I spent a lot of time looking at other people’s sites trying to get inspiration. Below is a list of my absolute favorite blog designs and my favorite thing about them.',
+        'name': 'jonkuperman/best-blog-designs',
+        'type': "best-blog-designs",
+        'url': 'https://www.joshwcomeau.com/https://jonkuperman.com/best-blog-designs-2020/'
+    },
         {
             
         
@@ -483,10 +491,10 @@ awesome_websites = [
       {
 
         'id': 0,
-        'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
-        'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
-        'name': '10ideesrecuesenuxdesign',
-        'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
+        'image': 'https://image.winudf.com/v2/image/Y29tLml5dG9yLmVyZXJ6X3NjcmVlbl82XzE1MzU0MDY1NDZfMDIy/screen-6.jpg?fakeurl=1&type=.jpg',
+        'intro': "skribbl.io is a free multiplayer drawing and guessing game. One game consists of a few rounds in which every round someone has to draw their chosen word and others have to guess it to gain points! The person with the most points at the end of game will then be crowned as the winner!",
+        'name': 'skribbl',
+        'url': 'https://skribbl.io/',
     },
     
       {
@@ -825,6 +833,152 @@ web_Development = [
     {
         "name": "css",
         "css": [
+            
+    {
+        'id':0,
+        'image': 'https://miro.medium.com/max/1200/1*d7_iZtG8vNH0OJrAc1SwIQ.png',
+        'intro': "A tool to generate soft-UI CSS code for neumorphic card designs.",
+        'name': "Neumorphism",
+        'type': 'CSS_Tools',
+        'url':  'https://neumorphism.io/'
+    },
+    {
+        'id':0,
+        'image': 'https://www.lapa.ninja/assets/blog/doodad.jpg',
+        'intro': "Highly customizable pattern generator. Can create unique patterns and has a nice shuffle function also.",
+        'name': "Doodad Pattern Generator",
+        'type': 'CSS_Tools',
+        'url':  'https://doodad.dev/pattern-generator/'
+    },
+    {
+        'id':0,
+        'image': 'https://responsively.app/assets/img/screenshot.png',
+        'intro': "This app helps you to get preview all target screens in a single window side-by-side.",
+        'name': "Responsively App",
+        'type': 'CSS_Tools',
+        'url':  'https://responsively.app/'
+    },
+    {
+        'id':0,
+        'image': 'https://www.noupe.com/wp-content/uploads/2013/01/easing.png',
+        'intro': "This page helps you choose the right easing function for your CSS animations.",
+        'name': "Easings.net",
+        'type': 'CSS_Tools',
+        'url':  'https://easings.net/'
+    },
+    {
+        'id':0,
+        'image': 'https://michael.chtoen.com/image/ultimate-css-gradient-generator.jpg',
+        'intro': "A CSS gradient generator, that allows multiple colorstops and different kinds of gradients.",
+        'name': "Ultimate CSS Gradient Generator",
+        'type': 'CSS_Tools',
+        'url':  'http://www.colorzilla.com/gradient-editor/'
+    },
+    {
+        'id':0,
+        'image': 'https://miro.medium.com/max/3000/0*Y03deVPEIa7AypAo.png',
+        'intro': "Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible.",
+        'name': "Tachyons",
+        'type': 'CSS_Tools',
+        'url':  'https://tachyons.io/'
+    },
+    {
+        'id':0,
+        'image': 'https://9elements.github.io/fancy-border-radius/fancy-border-radius.png',
+        'intro': "Generator that helps you create organic looking shapes with border radius.",
+        'name': "Fancy Border Radius",
+        'type': 'CSS_Tools',
+        'url':  'https://9elements.github.io/fancy-border-radius/'
+    },
+    {
+        'id':0,
+        'image': 'https://s3.amazonaws.com/coursetro/posts/content_images/3-1520178989301.png',
+        'intro': "A great tool for creating bezier curve animations in CSS without having to guess at the code.",
+        'name': "cubic-bezier.com",
+        'type': 'CSS_Tools',
+        'url':  'http://cubic-bezier.com/#.17,.67,.83,.67'
+    },
+    {
+        'id':0,
+        'image': 'https://www.bypeople.com/wp-content/uploads/2014/02/tooltip-arrows-generator.jpg',
+        'intro': "Create and export CSS code for a custom box with an arrow extending out from the side.",
+        'name': "CSS Arrow Please",
+        'type': 'CSS_Tools',
+        'url':  'http://www.cssarrowplease.com/'
+    },
+    {
+        'id':0,
+        'image': 'https://www.bram.us/wordpress/wp-content/uploads/2017/06/css-clip-path-maker.png',
+        'intro': "A tool that helps you create shapes and generate its equivalent CSS code.",
+        'name': "Clippy – CSS clip-path maker",
+        'type': 'CSS_Tools',
+        'url':  'https://bennettfeely.com/clippy/'
+    },
+    {
+        'id':0,
+        'image': 'https://ph-files.imgix.net/1572cc90-fdc9-4df8-8373-70697695f597.png',
+        'intro': "Generate beautiful blob shapes for web and flutter apps.",
+        'name': "Blobs",
+        'type': 'CSS_Tools',
+        'url':  'https://blobs.app/'
+    },
+    {
+        'id':0,
+        'image': 'https://user-images.githubusercontent.com/33191954/78983001-0a0ef880-7b43-11ea-904f-42a572d93c53.png',
+        'intro': "Really cool collection of loading spinners with React.js",
+        'name': "React Spinners",
+        'type': 'CSS_Tools',
+        'url':  'https://github.com/davidhu2000/react-spinners'
+    },
+    {
+        'id':0,
+        'image': 'https://regexr.com/assets/card.png',
+        'intro': "An online tool to learn, build, & test Regular Expressions (RegEx / RegExp).",
+        'name': "RegExr",
+        'type': 'CSS_Tools',
+        'url':  'https://regexr.com/'
+    },
+    {
+        'id':0,
+        'image': 'https://d2qlddhczasafd.cloudfront.net/img/marketing/product-16x9@2x.png',
+        'intro': "A server for your static websites and HTML forms.",
+        'name': "Pageclip",
+        'type': 'CSS_Tools',
+        'url':  'https://pageclip.co/'
+    },
+     {
+        'id':0,
+        'image': 'https://extendsclass.com/image/me.png',
+        'intro': "An online toolbox for developers: Playgrounds (XPath, Regex, JavaScript and SQL), HTTP clients (SOAP, REST), formatters, converters and encoders.",
+        'name': "ExtendsClass",
+        'type': 'CSS_Tools',
+        'url':  'https://extendsclass.com/'
+    },
+    {
+        'id':0,
+        'image': 'https://miro.medium.com/max/1200/1*57WtFAIwhYej3eIAFzM71A.jpeg',
+        'intro': "A curated repository of Tools for FrontEnd developers..",
+        'name': "FrontEnd Tools",
+        'type': 'CSS_Tools',
+        'url':  'http://frontendtools.com/'
+    },
+    {
+        'id':0,
+        'image': 'https://sweetalert2.github.io/images/sweetalert2-social.png',
+        'intro': "Some really nice looking alerts that you can use.",
+        'name': "SweetAlert2:",
+        'type': 'CSS_Tools',
+        'url':  'https://sweetalert2.github.io/?utm_content=buffer5396d&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer'
+    },
+    {
+        'id':0,
+        'image': 'https://sweetalert2.github.io/images/sweetalert2-social.png',
+        'intro': "Some really nice looking alerts that you can use.",
+        'name': "SweetAlert2:",
+        'type': 'CSS_Tools',
+        'url':  'https://sweetalert2.github.io/?utm_content=buffer5396d&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer'
+    },
+
             {
                 'id':0,
                 'image': 'https://images.ctfassets.net/aq13lwl6616q/30kC4o240eHFh0fE6n1PYH/09dbf4e8ca8e19f761a9d754ba4fa50f/image.png?w=800&h=486&q=50&fm=webp',
@@ -897,7 +1051,10 @@ web_Development = [
     }
 ]
 web_designer = [
+ {
 
+     
+ }
 ]
 android_cources = [
             {
@@ -2421,7 +2578,7 @@ DataStructures_Algorithms = [
 youTube_channnels = [
     {
         "id": "0",
-        "image": "",
+        "image": "https://i.ytimg.com/vi/YcMdUjcq3eQ/maxresdefault.jpg",
         "topic": "A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS)."
     },
     {
@@ -2435,102 +2592,106 @@ youTube_channnels = [
                 "name": "Tom Scott:",
                 "intro":"A science and tech focused vlog, with a general focus on computer science topics (given that the host is/was a computer programmer).",
                 "url": "https://www.youtube.com/user/enyay",
+                'id': 'UCBa659QWEk1AI4Tg--mrJ2A'
             },
             {
+                'id': 'UCXgGY0wkgOzynnHvSEVmE3A',
                 "url": "https://www.youtube.com/user/hiteshitube",
                 "name": "Hitesh Choudhary",
                 "intro": "An informative young man educates the user when it comes to programming languages as well as information security, along with the occasional vlog"
             },
             {
+                'id': 'UCeVMnSShP_Iviwkknt83cww',
                 "url": "https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww",
                 "name": "Code With Harry",
                 "intro": "Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took him ages to learn (Mostly Hindi Tutorials). At Code With Harry, he provide a quick and to the point demo along with resources of anything and everything he teach. Source code and other resources are hosted on his website CodeWithHarry.com."
             },
             {
+                'id': 'UCeVMnSShP_Iviwkknt83cww',
                 "url": "https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww",
                 "name": "CS Dojo",
                 "intro": "All type of fun content and also he left Google."
             },
             {
+                'id': 'UC4JX40jDee_tINbkjycV4Sg',
                 "url": "https://www.youtube.com/c/TechWithTim/featured",
                 "name": "Tech With Tim",
                 "intro": "Python Programming, Game Development, Pygame, Java Tutorials and Machine Learning. This is a list of a few of the things I love to post on my channel. My goal is share my knowledge of programming with you and allow everyone access to education for FREE."
             },
             {
+                'id': 'UC8g_o_0wHJUsp67lJA69yhg',
                 "url": "https://www.youtube.com/channel/UC8g_o_0wHJUsp67lJA69yhg",
                 "name": "Joe Parys Academy",
                 "intro": "Joe Parys’s channel features free content from his own website and Udemy, including, but not limited to, tutorials for various programming languages, cryptocurrency, growing an online business, videography, and Final Cut Pro X (A macOSe-exclusive video-editing software"
             },
             {
+                'id': 'UCyU5wkjgQYGRB0hIHMwm2Sg',
                 "url": "https://www.youtube.com/user/LevelUpTuts",
                 "name": "LevelUpTuts",
                 "intro": "Scott Tolinski – producer and maintainer of the channel, friends with the people behind LearnCode.academy, Josh Owens’ Space Dojo, DevTips, and Wes Bos - aims to offer current, accessible, in-depth, high-quality content on all things web development and design with over 840+ video tutorials and counting."
             },
             {
+                'id': 'UCzyuZJ8zZ-Lhfnz41DG5qLw',
                 "url": "https://www.youtube.com/user/TheCharmefis/featured",
                 "name": "mmtuts",
                 "intro": "mmtuts (a.k.a MultiMedia Tutorials) aims to provide tutorials spanning the gamut of programming, video editing/production, animation, and graphic design."
             },
+            
             {
-                "url": "https://www.youtube.com/user/shiffman",
-                "name": "sentdex",
-                "intro": "It’s all about Python here folks. From learning the fundamentals to the advanced work, Harrison Kinsley walks you through areas where Python is concerned, namely: machine learning, finances, data analysis, web development, game development, robotics, and more."
-            },
-            {
+                'id': 'UCvjgXvBlbQiydffZU7m1_aw',
                 "url": "https://www.youtube.com/user/shiffman",
                 "name": "The Coding Train",
                 "intro": "A seeming Jack of All Trades, Daniel Shiffman walks you through a wide range of topics like p5.js (JS, HTML, CSS), Neural Networks and Machine Learning, The Nature of Code (Simulating Natural Systems with Processing), etc. He seems to have a nice grasp on Full-Stack development and computer science."
             },
             {
+                'id': 'UCJbPGzawDH1njbqV-D5HqKw',
                 "url": "https://www.youtube.com/user/thenewboston",
                 "name": "Thenewboston",
                 "intro": "Bucky Roberts’ immensely popular channel features over 4,200 video tutorials, diving through the vast expanses known as programming, web design, game development, graphic design, and networking. For those interested, he also delves into other asides like the sciences (biology, math, physics) and DIY projects (how to build a computer, Go Kart, Beer, etc.)"
             },
             {
+                'id': 'UC29ju8bIPH5as8OGnQzwJyA',
                 "url": "https://www.youtube.com/user/TechGuyWeb",
                 "name": "Traversy Media",
                 "intro": "Brad Traversy, the man behind this channel/company, explores Full-Stack web development with his current tutorials on all things JavaScript (React, Redux, Node, Express, Vue, Angular, Gatsby), Python (Django), Ruby (Rails), Apollo, GraphQL, Docker, and more. He also features a Developer Discussion where he talks about the ‘soft’ side of programming, namely, dealing with your emotions, psychology, and motivation."
             },
             {
+                'id': 'UCrqAGUPPMOdo0jfQ6grikZ',
                 "url": "https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw",
                 "name": "Colt Steele",
                 "intro": "Colt is a developer with a serious love for teaching. Colt spent a few years teaching people to program at 2 different immersive bootcamps where he helped hundreds of people become web developers and changed their lives. His graduates work at companies like Google, Salesforce, and Square. In 2016 Colt launched his Web Developer Bootcamp course, which has since gone on to become one of the best selling and top rated courses on Udemy. He was also voted Udemy’s Best New Instructor of 2016."
             },
             {
+                'id': 'UC54NcJvLCvM2CNaBjd5j6HA',
                 "url": "https://www.youtube.com/realtoughcandy",
                 "name": "Real Tough Candy",
                 "intro": "Real Tough Candy combines technical expertise with soft skills in this vlog oriented channel. Besides discussing the latest technologies and trends, RTC offers an insight into her career, delving into topics such as freelancing, work ethics, and a lot of tips for beginners. There is a video for everyone in her vast catalog."
             }
             ,
             {
+                'id': 'UCSJbGtTlrDami-tDGPUV9-w',
                 "url": "https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w",
                 "name": "Ben Ward",
                 "intro": " Ben is a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding."
             }
             ,
             {
+                'id': 'UC9JWnvl5ZjZv09F5RqiLptw',
                 "url": "https://www.youtube.com/ScalerAcademy",
                 "name": "Scaler Academy",
                 "intro": "Accelerate Your Tech Career. Learn computer programming concepts, Data Sturcutres & Algorithms from Ex-Google, Ex-Facebook instructors. Also, watch tech talks from tech leaders, live coding sessions & more."
             }
             ,
             {
+                'id': 'UCLNgu_OupwoeESgtab33CCw',
                 "url": "https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw",
                 "name": "Coding Garden with CJ",
                 "intro": "CJ does live streams about full stack web development showcasing a wide variety of frameworks and technologies. In the streams, he shows step by step how to use those tools in creating projects. He also has tutorials about topics related to web development."
             }
             ,
+         
             {
-                "url": "https://www.youtube.com/c/Coreyms",
-                "name": "Corey Schafer",
-                "intro": "Has tutorials for (mostly) python. But it has a bunch of other useful gems as well, like SQL, Git, termial, and a few others. H"
-            },
-            {
-                "url": "https://www.youtube.com/c/Coreyms",
-                "name": "Java Brains",
-                "intro": " Has Java & Javascript tutorials."
-            },
-            {
+                'id': 'UCCezIgC97PvUuR4_gbFUs5g',
                 "url": "https://www.youtube.com/c/Coreyms",
                 "name": "Codevolution",
                 "intro": "Mostly does React tutorial. High quality content (English)"
@@ -2544,36 +2705,43 @@ youTube_channnels = [
         "topic": "Computer science",
         "start": [
             {
+                'id': 'UC9-y-6csu5WGm29I7JiwpnA',
                 "url": "https://www.youtube.com/user/Computerphile",
                 "name": "Computerphile",
                 "intro": "A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc."
             },
             {
+                'id': 'UCX6b17PVsYBQ0ip5gyeme-Q',
                 "url": "https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo",
                 "name": "Crash Course Computer Science",
                 "intro": "A very thorough and upbeat channel covering everything within the computer science world: from it’s history to the design decisions that went into computers, how operating systems work (or don’t work), how the internet works, how our smartphones are getting smarter, and the more mysterious subjects, like quantum computing or the present-day hacking. It also discusses algorithms and data structures, cryptography and cyber security, machine learning, and the singularity. Well-worth the lookup."
             },
             {
+                'id': 'UCcabW7890RKJzL968QWEykA',
                 "url": "https://www.youtube.com/user/cs50tv/",
                 "name": "CS50",
                 "intro": "Welcome to Harvard University’s Intro to the fundamentals of computer science and the art of programming, taught with languages such as Scratch, C, and Python."
             },
             {
+                'id': 'UC0RhatS1pyxInC00YKjjBqQ',
                 "url": "https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ",
                 "name": "GeeksforGeeks",
                 "intro": "GeeksforGeeks is one of the largest portal for computer science students and professional housing nearly every concept in great detail in data structure, algorithms, operating systems, languages like C++, Java etc. Check out the website GeekforGeeks"
             },
             {
+                'id': 'UCxX9wt5FWQUAAz4UrysqK9A',
                 "url": "https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A",
                 "name": "CS Dojo",
                 "intro": "CS Dojo is a channel with mostly programming and computer science videos. CS Dojo"
             },
             {
+                'id': 'UCWN3xxRkmTPmbKwht9FuE5A',
                 "url": "https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A",
                 "name": "Siraj Raval",
                 "intro": "Siraj Raval is on a mission of data literacy. Artificial Intelligence, Mathematics, Science, Technology, he simplfies these topics to help you understand how they work. Using his knowledge you can build wealth and live a happier, more meaningful life. He is the part of the fastest growing AI community in the world! He is also a Data Scientist, AI Educator, Rapper, Author, Speaker, and Founder of the School of AI."
             },
             {
+                'id': 'UCLSSymhN34xcMkihq_ULeCQ',
                 "url": "https://www.youtube.com/c/AniaKub%C3%B3w",
                 "name": "Code with Ania Kubów #JavaScriptGames",
                 "intro": "Learn JavaScript, React, Html, CSS and Express by making retro game in these tutorials."
@@ -2586,27 +2754,31 @@ youTube_channnels = [
         "topic": "Web Development",
         "start": [
             {
+                'id': 'UCMXPX2dNVZUIArP7r8PCO4Q',
                 "url": "https://www.youtube.com/channel/UCMXPX2dNVZUIArP7r8PCO4Q",
                 "name": "BEAM Channel",
                 "intro": "Follow Zachary Kessin as he shows you how to build powerful web applications using Elixir, a general-purpose programming language, and BEAM, an Erlang virtual machine (Erlang is also a general-purpose programming language)."
             },
             {
+                'id': 'UCwRXb5dUK4cvsHbx-rGzSgw',
                 "url": "https://www.youtube.com/user/derekbanas",
                 "name": "Derek Banas",
                 "intro": "(Mostly) A beginner programmer-oriented channel that teaches users the basics or fundamentals of programming languages (C++, JS, Python, etc.)"
             },
             {
+                'id': 'UC5Wi_NYysX-LfcqT3Hq9Faw',
                 "url": "https://www.youtube.com/user/pizzapokerguy87",
                 "name": "Dylan Israel",
                 "intro": "Tutorials + career/industry advice."
             },
             {
+                'id': 'UCkw4JCwteGrDHIsyIIKo4tQ',
                 "url": "https://www.youtube.com/user/edurekaIN",
                 "name": "Edureka",
                 "intro": "Features high-quality tutorials and lectures (available also in Hindi and Telugu) where they curate the following topics:,Big Data and Hadoop,DevOps,Block Chain,Artificial Intelligence (AI),Angular,Python,AWS,Data Science and Digital Marketing"
             },
             {
-
+'id': 'UCP-ijZJqrGr0drSrps-Loow',
                 "url": "https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow",
                 "name": "Logictuts",
                 "intro": "Featuring web development tutorials in the Hindi language."
@@ -2619,43 +2791,50 @@ youTube_channnels = [
         "topic": "Full stack",
         "start": [
             {
+                'id': 'UCVTlvUkGslCV_h-nSAId8Sw',
                 "url": "https://www.youtube.com/user/learncodeacademy",
                 "intro": "Free, current web development tutorials covering the entire development stack (Front-End, Back-End, DevOps, Server Administration, and Deployment Stategies).",
                 "name": "LearnCode.academy"
             },
             {
+                'id': 'UCwHrYi0GL6dmYaRB0StEbEA',
                 "url": "https://www.youtube.com/user/CodersGuide",
                 "name": "Neil Rowe",
                 "intro": "This channel features more Front-End tutorials (think HTML, CSS, JS, and Bootstrap) than Back-End (Java, building a Windows web server with IIS, PHP, and MySQL)."
             },
             {
+                'id': 'UCW5YeuERMmlnqo4oq8vwUpg',
                 "url": "https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg",
                 "name": "The Net Ninja",
                 "intro": "Inspired by the Martial Arts, Shaun focuses on getting you towards ‘black-belt’ mastery with his deep-dive into Full-Stack web development tutorials, featuring JavaScript (ES6, React & Redux, Vue, Angular, Node), Python (Django), GraphQL, MongoDB, Git & GitHub, HTML5, CSS3, and more."
             },
             {
+                'id': 'UCWv7vMbMWH4-V0ZXdmDpPBA',
                 "url": "https://www.youtube.com/user/programmingwithmosh",
                 "name": "Programming with Mosh",
                 "intro": " Code along with Mosh Hamedani – a software engineer with 18 years of experience – in his fun, upbeat, no-fluff video tutorials (free on YouTube, paid on his website codewithmosh) where he explores the fundamental tools needed to become a Full-Stack developer (JavaScript, Node, Angular, React, Redux, Python, C#, ASP.NET, Object-Oriented programming)"
             },
             {
+                'id': 'UCs6nmQViDpUw0nuIx9c_WvA',
                 "url": "https://www.youtube.com/user/ProgrammingKnowledge",
                 "name": "ProgrammingKnowledge",
                 "intro": "This channel covers a huge breadth of languages and frameworks in the context of Full-Stack development, like Git and Github, Bootstrap, Python, JavaScript, Node, Redis, Java, C#, MongoDB, MySQL, Android, ASP.NET, and many more!"
             },
             {
+                'id': 'UCFbNIlppjAuEX4znoulh0Cw',
                 "url": "https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw/",
                 "name": "Web Dev Simplified",
                 "intro": "Kyle Cook’s channel is full of videos about the most useful tools in modern web development, from HTML and CSS to database structure and even AI development for web pages; but it focuses heavily on Javascript and all the tools related with it: NodeJS, React, Express, MongoDB, the recent Deno and many more."
             },
             {
+                'id': 'UClb90NQQcskPUGDIXsQEz5Q',
                 "url": "https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q",
                 "name": "Dev Ed",
                 "intro": "Learn web development, web design, 3d modelling, tools like figma and more without getting bored! The goes of this channel is to get you to become as creative you can be! So if you like to create video games in Unity or develop an application in node.js, stick around and have fun!"
 
             },
             {
-                
+                'id': 'UCqrILQNl5Ed9Dz6CGMyvMTQ',
                 "url": "https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ",
                 "name": "Clever Programmer",
                 "intro": "These guys teach Full-Stack Web Development through a Project based approach."
@@ -2669,41 +2848,49 @@ youTube_channnels = [
         "topic": "Front-End/Design",
         "start": [
             {
+                'id': 'UCVyRiMvfUNMA1UPlDPzG5Ow',
                 "url": "https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow",
                 "name": "DesignCourse",
                 "intro": "Here you can learn more about making good looking websites via Graphic Design and Front-End Development. This channel also features Full-Stack Development tutorials."
             },
             {
+            'id': 'UCyIe-61Y8C4_o-zZCtO4ETQ',
                 "url": "https://www.youtube.com/user/DevTipsForDesigners",
                 "name": "DevTips",
                 "intro": "The sister-channel of Fun Fun Function, this fun (and funny) design-oriented channel features tutorials and tips/opinions on all things design/front-end related like CSS, JavaScript, React, Adobe XD, and container platforms (think Docker and Kubernetes)."
             },
             {
+                'id': ' UCoebwHSTvwalADTJhps0emA',
                 "url": "https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog",
                 "name": "Online Tutorials",
                 "intro": "Online Tutorials and its sister channel, Creative Creations, is rich with beautiful, modular snippets of HTML5 and CSS3 design tutorials."
             },
             {
+                'id': '',
                 "url": "https://www.youtube.com/user/wesbos",
                 "name": "Wes Bos",
                 "intro": "Follow Wes Bos as he teaches you all about Wordpress, JavaScript, CSS3, and HTML5 in his web development tutorials, his javascript30 course in which he builds 30 different projects everyday, is very popular and is recommended by many famous developers on twitter."
             },
             {
+                'id': 'UCJZv4d5rbIKd4QHMPkcABCw',
                 "url": "https://www.youtube.com/user/KepowOb/featured",
                 "name": "Kevin Powell",
                 "intro": "With a new video every Wednesday, I’ll be bringing you How Tos and Tutorials, and well as simple tips and tricks. I’m mostly looking to help people who are new to the world of web development."
             },
             {
+                'id': 'UC7TizprGknbDalbHplROtag',
                 "url": "https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag/featured",
                 "name": "Layout Land",
                 "intro": "Hosted by Jen Simmons. Learn what’s now possible in graphic design on the web — layout, CSS Grid, and more. A series for designers and web developers."
             },
             {
+                'id': 'UCD3KVjbb7aq2OiOffuungzw',
                 "url": "https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw",
                 "name": "DarkCode",
                 "intro": "DarkCode is a channel for Learning Web Designs, Websites Building, Ui Designs Using Only HTML5 And CSS3 and some Javascript. If you love creative designs and amazing animations, please do follow him."
             },
             {
+                'id': 'UC80PWRj_ZU8Zu0HSMNVwKWw',
                 "url": "https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw",
                 "name": "Codevolution",
                 "intro": "Codevolution is a channel for learning front end web development.The React series on this channel is one of the best react tutorials out there.It also has tutorials on Angular, ES6 and basic HTML & CSS please do follow him."
@@ -2718,31 +2905,32 @@ youTube_channnels = [
         "topic": "Data Structures and Algorithms",
         "start": [
             {
+                'id': 'UClEEsT7DkdVO_fkrBw0OTrA',
                 "url": "https://www.youtube.com/user/mycodeschool",
                 "name": "mycodeschool",
                 "intro": "MyCodeSchool is a channel for Learning Data structures, Programming Interview Questions, Algorithms, Recursion, Time Complexity Analysis, Mathematics for Programmers and pointers in c/c++."
             },
             {
+                'id': 'UCF7BExjT2zH_mmyqOB139Dg',
                 "url": "https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s",
                 "name": "Apni Kaksha",
                 "intro": "Apni kaksha is a channel for Learning Data structures, Programming Interview Questions, Algorithms, Recursion, Time Complexity Analysis, Mathematics for Programmers and pointers in c/c++ and all interview related stuffs"
             },
+          
             {
-                "url": "https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j",
-                "name": "Naresh i Technologies",
-                "intro": "Naresh i Technologies is a channel to learn various programming languages and these video tutorials are used to learn and to be good at all the Data Structure Algorithms with their implementations in C programming language in a very clear manner"
-            },
-            {
+                'id': 'UC-yuWVUplUJZvieEligKBkA',
                 "url": "https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j",
                 "name": "Naresh i Technologies",
                 "intro": "Naresh i Technologies is a channel to learn various programming languages and these video tutorials are used to learn and to be good at all the Data Structure Algorithms with their implementations in C programming language in a very clear manner."
             },
             {
+                'id': 'UCM-yUTYGmrNvKOCcAl21g3w',
                 "url": "https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w",
                 "name": "Jenny’s lectures CS/IT NET&JRF",
                 "intro": "Jenny’s Lectures CS/IT NET&JRF is a Free YouTube Channel providing Computer Science / Information Technology / Computer-related tutorials including Important Computer Science Tutorials and much more. Their Data Structure and Algorithms playlist is outstanding. It is covered using C Language. The explanation is in such a manner that any newbie can easily grasp the concepts"
             },
             {
+                'id': 'UCvLEP7Hu6SHd5a2CWeQXalg',
                 "url": "https://www.youtube.com/channel/UCvLEP7Hu6SHd5a2CWeQXalg/videos",
                 "name": "Inside Code",
                 "intro": "Inside Code creates content about Data Structures and Algorithms in Python programming language."
@@ -2757,11 +2945,13 @@ youTube_channnels = [
         "topic": "Machine Learning and Data Science",
         "start": [
             {
+                'id': 'UCYO_jab_esuFRV4b17AJtAw"',
                 "url": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
                 "name": "3Blue1Brown",
                 "intro": "3blue1brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective(this channel has very good explaination about deep nural Network and CNN)"
             },
             {
+                'id': 'UCV8e2g4IWQqK71bbzGDEI4Q',
                 "url": "https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q",
                 "name": "Data Professor",
                 "intro": "This channel provides Data Science contents consisting of explainer videos and practical tutorials by Chanin Nantasenamat, Ph.D"
@@ -2774,11 +2964,13 @@ youTube_channnels = [
         "topic": "Game Development",
         "start": [
             {
+                'id': 'UC-yuWVUplUJZvieEligKBkA',
                 "url": "https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw",
                 "name": "The Cherno",
                 "intro": "Focuses mainly on Game Development and related topics like C++ and Git."
             },
             {
+                'id': 'UC-yuWVUplUJZvieEligKBkA',
                 "url": "https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA",
                 "name": "javidx9",
                 "intro": "Talks about implementations of C++ in Game Development, Networking and many more."
@@ -2791,11 +2983,13 @@ youTube_channnels = [
         "topic": "Blockchain and Blockchain development",
         "start": [
             {
+            'id': 'UC59K-uG2A5ogwIrHw4bmlEg',
                 "url": "https://www.youtube.com/watch?v=UqQMSVfugFA&list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-",
                 "name": "Telusko",
                 "intro": " Telusko is a channel where the speaker, Naveen Reddy, speaks about, and teaches various technologies. In the link to the playlist provided above, one can start learning the basics of Blockchain."
             },
             {
+                'id': 'UCY0xL8V6NzzFcwzHCgB8orQ',
                 "url": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
                 "name": "DappUniversity ",
                 "intro": "Dapp university is for those who are heading towards Blockchain development, that is, the development of Decentralized Applications(Dapps).These are basically websites built over blockchain."
@@ -2808,6 +3002,7 @@ youTube_channnels = [
         "topic": "Bug Bounties",
         "start": [
             {
+                'id': 'UCQN2DsjnYH60SFBIA6IkNwg',
                 "url": "https://www.youtube.com/c/STOKfredrik/",
                 "name": "STÖK",
                 "intro": " STÖK is a beginner-friendly channel for those who are looking to get started in bug bounty hunting."
