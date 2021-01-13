@@ -200,13 +200,27 @@ api_ = [
 ]
 
 Podcasts = [
-    {'id': 0,
+    {
+        
+     'image': 'https://i.ytimg.com/vi/V2P7pC3e-_M/maxresdefault.jpg',
+     'intro': 'Julia Ferraioli says if you’re already dealing with blurry vision, making something blurry bigger, isn’t necessarily going to help that much.',
+     'name': 'EBU Access Cast',
+     'url': 'http://ebuaccesscast.libsyn.com/'
+    },
+    {
+        
+     'image': 'https://i.ytimg.com/vi/V2P7pC3e-_M/maxresdefault.jpg',
+     'intro': 'Julia Ferraioli says if you’re already dealing with blurry vision, making something blurry bigger, isn’t necessarily going to help that much.',
+     'name': 'A11y Rules',
+     'url': 'https://a11yrules.com/'
+    },
+    {
      'image': 'https://miro.medium.com/max/1000/1*c4KOwhSRiE53ril7PQg2ow.png',
      'intro': 'We are a few guys who’ve been professional programmers for years. As avid listeners of podcasts and consumers of many things code-related, we were frustrated by the lack of quality programming (pun) available in listenable formats. Given our years of experience and real-world problem-solving skills, we thought it might be worth getting into this world of podcasting and “giving back” a shot.',
      'name': 'Coding Blocks',
      'url': 'https://www.codingblocks.net/'
      },
-    {'id': 1,
+    {
      'image': 'https://spec.fm/static/img/shows/developertea.jpg',
      'intro' : "In January 2015, two independent podcasts — Design Details and Developer Tea — were started by three individuals who wanted to talk about the work they do every day. After an amazing response from the web community, we’ve teamed up to create the Spec Network to help designers and developers to learn, find great resources and connect with one another.",
      'name': 'Developer Tea',
@@ -2579,12 +2593,12 @@ youTube_channnels = [
     {
         "id": "0",
         "image": "https://i.ytimg.com/vi/YcMdUjcq3eQ/maxresdefault.jpg",
-        "topic": "A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS)."
+        "name": "A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS)."
     },
     {
         "id": "1",
         'image': "https://www.technotification.com/wp-content/uploads/2017/06/Best-youtube-channels-to-learn-coding.jpg",
-        "topic" : "A Little of Everything (Web Dev, Computer Science, and Musings)",
+        "name" : "A Little of Everything (Web Dev, Computer Science, and Musings)",
 
         "start": [
             
@@ -2702,7 +2716,7 @@ youTube_channnels = [
     {
         "id": "2",
         'image': 'https://i.pinimg.com/originals/87/97/77/879777f0a9b857873992612a2427f814.png',
-        "topic": "Computer science",
+        "name": "Computer science",
         "start": [
             {
                 'id': 'UC9-y-6csu5WGm29I7JiwpnA',
@@ -2751,7 +2765,7 @@ youTube_channnels = [
     {
         "id": "3",
         'image': 'https://charisintelligence.com.ng/wp-content/uploads/2020/01/learn-web-development-1024x565.jpg',
-        "topic": "Web Development",
+        "name": "Web Development",
         "start": [
             {
                 'id': 'UCMXPX2dNVZUIArP7r8PCO4Q',
@@ -2788,7 +2802,7 @@ youTube_channnels = [
     {
         "id": "2",
         'image': 'https://www.delta-solutions.nl/wp-content/uploads/2019/10/full-stack-development-by-weblineindia.jpg',
-        "topic": "Full stack",
+        "name": "Full stack",
         "start": [
             {
                 'id': 'UCVTlvUkGslCV_h-nSAId8Sw',
@@ -2845,7 +2859,7 @@ youTube_channnels = [
     {
         "id": "2",
         'image': 'https://i.ytimg.com/vi/f6FJTWZgoQ0/hqdefault.jpg',
-        "topic": "Front-End/Design",
+        "name": "Front-End/Design",
         "start": [
             {
                 'id': 'UCVyRiMvfUNMA1UPlDPzG5Ow',
@@ -2902,7 +2916,7 @@ youTube_channnels = [
     {
         "id": "2",
     'image': 'https://images.idgesg.net/images/article/2020/03/jw_pt4_data_structure_algorithms_java_coding_programmer_2400x1600_pmdumuid_cc0_davidgoh_akindo_gettyimages_531237630_473456596-100834803-large.jpg',
-        "topic": "Data Structures and Algorithms",
+        "name": "Data Structures and Algorithms",
         "start": [
             {
                 'id': 'UClEEsT7DkdVO_fkrBw0OTrA',
@@ -2942,7 +2956,7 @@ youTube_channnels = [
     {
         "id": "2",
         'image': 'https://cdn.datafloq.com/cache/blog_images/1200x630/best-gitter-channels-data-science-machine-learning.jpg',
-        "topic": "Machine Learning and Data Science",
+        "name": "Machine Learning and Data Science",
         "start": [
             {
                 'id': 'UCYO_jab_esuFRV4b17AJtAw"',
@@ -2961,7 +2975,7 @@ youTube_channnels = [
     {
         "id": "2",
         'image': 'https://i.ytimg.com/vi/pQtdCAeHUgA/maxresdefault.jpg',
-        "topic": "Game Development",
+        "name": "Game Development",
         "start": [
             {
                 'id': 'UC-yuWVUplUJZvieEligKBkA',
@@ -2980,7 +2994,7 @@ youTube_channnels = [
     {
         "id": "2",
         'image':'https://www.visualcapitalist.com/wp-content/uploads/2019/10/shareable-2-1000x600.jpg',
-        "topic": "Blockchain and Blockchain development",
+        "name": "Blockchain and Blockchain development",
         "start": [
             {
             'id': 'UC59K-uG2A5ogwIrHw4bmlEg',
@@ -2999,7 +3013,7 @@ youTube_channnels = [
     {
         "id": "2",
         'image': 'https://cdn.ttgtmedia.com/visuals/searchMidmarketSecurity/threat_management/midmarketsecurity_article_008.jpg',
-        "topic": "Bug Bounties",
+        "name": "Bug Bounties",
         "start": [
             {
                 'id': 'UCQN2DsjnYH60SFBIA6IkNwg',
