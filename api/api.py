@@ -81,6 +81,10 @@ all_resources = [
     }
     ,
     {
+        'name': 'freecourses',
+        'url': 'https://edu-link-api.herokuapp.com/freecourses',
+    },
+    {
         'name': 'animationimage',
         'url': 'https://edu-link-api.herokuapp.com/animationimage',
     }
@@ -565,12 +569,13 @@ game_development = [
         'url':  'https://www.unrealengine.com/en-US/onlinelearning-courses'
     },
 ]
-programming = [
+freecourses = [
     
     {   
-        'type': "learn computer science in 6 months free",
-        'stage': "biggners",
-        "biggners": [
+        'name': "learn computer science in 6 months free",
+        'image': 'https://sikshaedunation.in/assets/img/courses/2.jpg',
+        
+        "start": [
             {
                 'id':0,
         'image': 'https://prod-discovery.edx-cdn.org/media/course/image/9e0d9bd0-8557-49bc-a949-4fc7ff7727ac-c1670bfffbc8.small.jpg',
@@ -647,16 +652,8 @@ programming = [
                 'type': 'video + assigment',
                 'url':  'https://www.coursera.org/learn/computer-networking'
             }
-            ,
-            {
-                'id':0,
-                'image': 'https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~computer-networking/XDP~COURSE!~computer-networking.jpeg',
-                'intro': "This course is designed to provide a full overview of computer networking. We’ll cover everything from the fundamentals of modern networking technologies and protocols to an overview of the cloud to practical applications and network troubleshooting. ",
-                'name': 'The Bits and Bytes of Computer Networking by google',
-                'Return': 'computer networking',
-                'type': 'video + assigment',
-                'url':  'https://www.coursera.org/learn/computer-networking'
-            }
+            
+           
             ,
             {
                 'id':0,
@@ -673,15 +670,15 @@ programming = [
                 'image': 'https://miro.medium.com/max/1000/1*k500wvs7Qev35Yd9wOUEvg.jpeg',
                 'intro': "This course provides an introduction to computer vision including fundamentals of image formation, camera imaging geometry, feature detection and matching, multiview geometry including stereo, motion estimation and tracking, and classification",
                 'name': 'Introduction to Computer Vision',
-                'Return': 'Comuter vison to read real world',
+                'Return': 'Natural Language Processing',
                 'type': 'video + assigment',
                 'url':  'https://www.udacity.com/course/introduction-to-computer-vision--ud810'
             }
             ,
             {
                 'id':0,
-                'image': 'https://miro.medium.com/max/1000/1*k500wvs7Qev35Yd9wOUEvg.jpeg',
-                'intro': "This course will introduce the learner to text mining and text manipulation basics. The course begins with an understanding of how text is handled by python, the structure of text both to the machine and to humans, and an overview of the nltk framework for manipulating text",
+                'image': 'https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/21/381850484011e6a1703762dd1d87c0/python_datascience_thumbnail_textmining_1x1.png',
+                'intro': "This course will introduce the learner to text mining and text manipulation basics. The course begins with an understanding of how text is handled by python, the structure of text both to the machine and to humans, and an overview of the nltk framework for manipulating text. The second week focuses on common manipulation needs, including regular expressions (searching for text), cleaning text, and preparing text for use by machine learning processes. The third week will apply basic natural language processing methods to text, and demonstrate how text classification is accomplished. The final week will explore more advanced methods for detecting the topics in documents and grouping them by similarity (topic modelling). ",
                 'name': 'Applied Text Mining in Python',
                 'Return': 'Comuter vison to read real world',
                 'type': 'video + assigment',
@@ -691,17 +688,132 @@ programming = [
             {
                 'id':0,
                 'image': 'https://cdn.velvetech.com/wp-content/uploads/2019/08/software-development-life-cycle.jpg',
-                'intro': "This course provides an introduction to computer vision including fundamentals of image formation, camera imaging geometry, feature detection and matching, multiview geometry including stereo, motion estimation and tracking, and classification",
+                'intro': "In this course,  you will get an overview of  how software teams work? What processes they use?  What are some of the industry standard methodologies? What are pros and cons of each?  You will learn enough to have meaningful conversation around software development processes.",
                 'name': 'Software Development Processes and Methodologies',
-                'Return': 'Comuter vison to read real world',
+                'Return': 'Software Engineering Practices',
                 'type': 'video + assigment',
                 'url':  'https://www.coursera.org/learn/software-processes'
+            }
+            
+        ]
+    },
+    {
+        'name': "learn computer science in 6 months free",
+        'image': 'https://miro.medium.com/max/2400/1*c_fiB-YgbnMl6nntYGBMHQ.jpeg',
+      
+        'start':[
+            {
+                'id':0,
+        'image': 'https://img.youtube.com/vi/FX4C-JpTFgY/0.jpg',
+        'intro': 'This course parallels the combination of theory and applications in Professor Strang’s textbook Introduction to Linear Algebra. The course picks out four key applications in the book: Graphs and Networks; Systems of Differential Equations; Least Squares and Projections; and Fourier Series and the Fast Fourier Transform.',
+        'name': "Linear Algebera",
+        'month':'1',
+        'Return': 'free',
+        'type': 'course + Assigments',
+        'url':  'https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/'
+            },
+            {
+                'id':0,
+        'image': 'https://i.ytimg.com/vi/WUvTyaaNkzM/hqdefault.jpg',
+        'intro': 'The goal here is to make calculus feel like something that you yourself could have discovered.',
+        'name': "Essence of calculus",
+        'month':'1',
+        'Return': 'free',
+        'type': 'Youtube course + Assigments',
+        'url':  'https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr'
+            },
+            {
+                'id':0,
+        'image': 'https://prod-discovery.edx-cdn.org/media/course/image/84251067-b212-4355-a9d3-246d91896b90-41bac59be40f.small.jpg',
+        'intro': 'Build foundational knowledge of data science with this introduction to probabilistic models, including random processes and the basic elements of statistical inference -- Part of the MITx MicroMasters program in Statistics and Data Science.',
+        'name': "Probability - The Science of Uncertainty and Data",
+        'month':'1',
+        'Return': 'free',
+        'type': 'course + Assigments',
+        'url':  'https://www.edx.org/course/probability-the-science-of-uncertainty-and-data'
+            },
+            {
+                'id':0,
+        'image': 'https://algs4.cs.princeton.edu/cover.png',
+        'intro': 'This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations. Part I covers elementary data structures, sorting, and searching algorithms. Part II focuses on graph- and string-processing algorithms.',
+        'name': "Algorithms, Part I",
+        'month':'1',
+        'Return': 'free',
+        'type': 'course + Assigments',
+        'url':  'https://www.coursera.org/learn/algorithms-part1'
+            },
+            {
+                'id':0,
+        'image': 'https://i0.wp.com/examinedexistence.com/wp-content/uploads/2013/10/math-equation_chalkboard.jpg',
+        'intro': "Welcome to The Math of Intelligence! In this 3 month course, we'll cover the most fundamental math concepts in Machine Learning. In this first lesson, we'll go over a very popular optimization technique called gradient descent to help us predict how many calories a cyclist would burn given just their distance traveled. We'll also follow the story of 2 data scientists as they attempt to find the Higgs-Boson (God particle) via anomaly detection. No collaborations, this is an independent course. ",
+        'name': "Math of Intelligence",
+        'month':'2',
+        'Return': 'free',
+        'type': 'course + Assigments',
+        'url':  'https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&ab_channel=SirajRaval'
+            },
+            {
+                'id':0,
+        'image': 'https://i.ytimg.com/vi/MotG3XI2qSs/maxresdefault.jpg',
+        'intro': "Machine Learning represents a new paradigm in programming, where instead of programming explicit rules in a language such as Java or C++, you build a system which is trained on data to infer the rules itself. But what does ML actually look like? In part one of Machine Learning Zero to Hero, AI Advocate Laurence Moroney (lmoroney@) walks through a basic Hello World example of building an ML model, introducing ideas which we'll apply in later episodes to a more interesting problem: computer vision.",
+        'name': "Algorithms, Part I",
+        'month':'2',
+        'Return': 'free',
+        'type': 'course + Assigments',
+        'url':  'https://www.youtube.com/watch?v=KNAWp2S3w94&t=4s&ab_channel=TensorFlow'
+            },
+            {
+                'id':0,
+        'image': 'https://i.ytimg.com/vi/nLw1RNvfElg/maxresdefault.jpg',
+        'intro': 'This course will introduce the learner to the basics of the python programming environment, including fundamental python programming techniques such as lambdas, reading and manipulating csv files, and the numpy library. The course will introduce data manipulation and cleaning techniques using the popular python pandas data science library and introduce the abstraction of the Series and DataFrame as the central data structures for data analysis, along with tutorials on how to use functions such as groupby, merge, and pivot tables effectively. By the end of this course, students will be able to take tabular data, clean it, manipulate it, and run basic inferential statistical analyses. ',
+        'name': "Introduction to Data Science in Python",
+        'month':'2',
+        'Return': 'free',
+        'type': 'course + Assigments',
+        'url':  'https://www.coursera.org/learn/python-data-analysis'
+            },
+            {
+                
+                'id':0,
+        'image': 'https://blog.udacity.com/wp-content/uploads/2016/11/AI_ML_SDC-1024x574.png',
+        'intro': 'This class will teach you the end-to-end process of investigating data through a machine learning lens. Learn online, with Udacity.',
+        'name': "Introduction to Machine Learning Course",
+        'month':'2',
+        'Return': 'free',
+        'type': 'course + Assigments',
+        'url':  'https://www.udacity.com/course/intro-to-machine-learning--ud120'
+            
+            },
+            {
+                
+                'id':0,
+        'image': 'https://i.ytimg.com/vi/Af61SygTVFs/maxresdefault.jpg',
+        'intro': 'A curated list of practical deep learning and machine learning project ideas',
+        'name': "awesome-project-ideas(github)",
+        'month':'2',
+        'Return': 'free',
+        'type': 'course + Assigments',
+        'url':  'https://github.com/NirantK/awesome-project-ideas'
+            
+            },
+            {
+                
+                'id':0,
+        'image': 'https://blog.paperspace.com/content/images/2020/09/Fast.ai-4.0-Newsletter-Banner.jpg',
+        'intro': "Welcome to Practical Deep Learning for Coders. This web site covers the book and the 2020 version of the course, which are designed to work closely together. If you haven't yet got the book, you can buy it here. It's also freely available as interactive Jupyter Notebooks; read on to learn how to access them..",
+        'name': "Practical Deep Learning for Coders",
+        'month':'2',
+        'Return': 'free',
+        'type': 'course + Assigments',
+        'url':  'https://course.fast.ai/'
+            
             }
         ]
     },
     {
+        'image':'https://analyticsindiamag.com/wp-content/uploads/2020/03/32-Free-Online-Courses-and-Certificates-You-can-earn-in-2019.jpg',
         "type": "learning resources",
-        "courses": 
+        "start": 
         [
             {
                 'id': 2,
@@ -724,6 +836,7 @@ programming = [
         ]
     },
     {
+        'image':'https://blog.eduonix.com/wp-content/uploads/2017/07/Software-Development-Tools.jpg',
         "type": "programming tools",
         "toools": [
             {
@@ -736,6 +849,7 @@ programming = [
         ]
     },
     {
+        'image': 'https://resources.workable.com/wp-content/uploads/2017/09/employee-handbook-640x230-1.png',
         "type": "handbook and guides",
         "handbook and guides": [
             {
@@ -3039,6 +3153,9 @@ def api_all():
 @app.route('/podcasts')
 def api_pod():
     return jsonify(Podcasts)
+@app.route('/freecourses')
+def api_Freecourses():
+    return jsonify(freecourses)
 @app.route('/mustprogrammer')
 def api_Mprogram():
     return jsonify(Must_programmer)
@@ -3115,7 +3232,7 @@ def api_GraphicDesigner():
 @app.route('/freebooks')
 def api_FBI():
     return jsonify(free_books_illegal)
-@app.route('/freecourses')
+@app.route('/freecoursesillegal')
 def api_FCI():
     return jsonify(free_courses_illegal)
 @app.route('/freesoftware')
@@ -3750,6 +3867,7 @@ android = [
 @app.route('/programming/tools')
 def api_programming_tools():
     return jsonify(programming)
+
 @app.route('/Ui_Ux/tools')
 def api_Ui_Ux_tools():
     return jsonify(Ui_Ux)
