@@ -170,35 +170,35 @@ api_ = [
         'id': 0,
      'image': 'https://i.ytimg.com/vi/yY0ciWj8oco/maxresdefault.jpg',
      'intro': 'A JSON API for pulling headlines and news articles from news sources and blogs across the web',
-     'name': 'News API',
+     'type':'websites','name': 'News API',
      'url': 'https://newsapi.org/https://www.codingblocks.net/'
     },
     {
         'id': 0,
      'image': 'https://devlinduldulao.pro//wp-content/uploads/2017/12/jsonplaceholder-api.png',
      'intro': 'Free to use fake Online REST API for testing and prototyping.',
-     'name': 'JSON Placeholder API',
+     'type':'websites','name': 'JSON Placeholder API',
      'url': 'https://jsonplaceholder.typicode.com/'
     },
     {
         'id': 0,
      'image': 'https://cdn.slidesharecdn.com/ss_thumbnails/voicerssapipresentation-140129132037-phpapp01-thumbnail-4.jpg',
      'intro': 'PI for converting text to speech with support for many different languages and voices.',
-     'name': 'News APIVoice RSS Text-to-Speech API',
+     'type':'websites','name': 'News APIVoice RSS Text-to-Speech API',
      'url': 'http://www.voicerss.org/api/'
     },
     {
         'id': 0,
      'image': 'https://miro.medium.com/max/3756/1*EEn-tB8M38krdKQuuTR-9Q.png',
      'intro': 'pen-source API for generating random user data',
-     'name': 'Random User Generator API',
+     'type':'websites','name': 'Random User Generator API',
      'url': 'https://randomuser.me/'
     },
     {
         'id': 0,
      'image': 'https://www.connectioncafe.com/wp-content/uploads/2018/07/API-Design-Skills.png',
      'intro': 'Collection of APIs on a list of issues ranging from health to geocoding',
-     'name': 'Useful API’s',
+     'type':'websites','name': 'Useful API’s',
      'url': 'https://github.com/public-apis/public-apis'
     },
 ]
@@ -208,46 +208,46 @@ Podcasts = [
         
      'image': 'https://i.ytimg.com/vi/V2P7pC3e-_M/maxresdefault.jpg',
      'intro': 'Julia Ferraioli says if you’re already dealing with blurry vision, making something blurry bigger, isn’t necessarily going to help that much.',
-     'name': 'EBU Access Cast',
+     'type':'websites','name': 'EBU Access Cast',
      'url': 'http://ebuaccesscast.libsyn.com/'
     },
     {
         
      'image': 'https://i.ytimg.com/vi/V2P7pC3e-_M/maxresdefault.jpg',
      'intro': 'Julia Ferraioli says if you’re already dealing with blurry vision, making something blurry bigger, isn’t necessarily going to help that much.',
-     'name': 'A11y Rules',
+     'type':'websites','name': 'A11y Rules',
      'url': 'https://a11yrules.com/'
     },
     {
      'image': 'https://miro.medium.com/max/1000/1*c4KOwhSRiE53ril7PQg2ow.png',
-     'intro': 'We are a few guys who’ve been professional programmers for years. As avid listeners of podcasts and consumers of many things code-related, we were frustrated by the lack of quality programming (pun) available in listenable formats. Given our years of experience and real-world problem-solving skills, we thought it might be worth getting into this world of podcasting and “giving back” a shot.',
-     'name': 'Coding Blocks',
+     'intro': 'We are a few guys who’ve been professional programmers for years. As avid listeners of podcasts and consumers of many things code-related, we were frustrated by the lack of quality programming (pun) available in listenable formats. Given our years of experience and real-world problem-solving skills, we thought it might be worth getting intro this world of podcasting and “giving back” a shot.',
+     'type':'websites','name': 'Coding Blocks',
      'url': 'https://www.codingblocks.net/'
      },
     {
      'image': 'https://spec.fm/static/img/shows/developertea.jpg',
      'intro' : "In January 2015, two independent podcasts — Design Details and Developer Tea — were started by three individuals who wanted to talk about the work they do every day. After an amazing response from the web community, we’ve teamed up to create the Spec Network to help designers and developers to learn, find great resources and connect with one another.",
-     'name': 'Developer Tea',
+     'type':'websites','name': 'Developer Tea',
      'url': 'https://spec.fm/podcasts/developer-tea'
      },
     {'id': 2,
      'image': 'https://fullstackradio.com/podcast-cover.jpg',
      'intro': 'A podcast for developers interested in building great software products. Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration.',
-     'name': 'Full Stack Radio',
+     'type':'websites','name': 'Full Stack Radio',
      'url': 'https://fullstackradio.com/'
      },
     {
         'id': 4,
-        'image':    'https://assets.libsyn.com/secure/item/12121229',
+        'image':    'https://ssl-static.libsyn.com/p/assets/2/f/f/7/2ff7cc8aa33fe438/freecodecamp-square-logo-large-1400.jpg',
         'intro':'The official podcast of the freeCodeCamp open source community. Learn to code with free online courses, programming projects, and interview preparation for developer jobs.',
-        'name': 'freeCodeCamp podcast',
+        'type':'websites','name': 'freeCodeCamp podcast',
         'url': "https://freecodecamp.libsyn.com/",
     },
     {
         'id': 5,
         'image':    'https://media.simplecast.com/episode/image/324092/thumb_1602263739-artwork.jpg',
         'intro':    'The Laracasts Snippet, each episode, offers a single thought on some aspect of web development. Nothing more, nothing less. Hosted by Jeffrey Way.',
-        'name': 'the laracasts snippet',
+        'type':'websites','name': 'the laracasts snippet',
         'url': 'https://laracasts.simplecast.fm/',
     },
 ]
@@ -256,21 +256,21 @@ Must_programmer_main = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/33tbBpGanLQYMSxpnkL7nC/02bc0ffd5053dd8b0b146faa145f37f2/Git_Branching.PNG?w=800&h=387&q=50&fm=webp',
         'intro':'Coursera Course (Not CS Specific) teach you how the mind grasp thing and how to train it to learn things as convinient and fast as possible',
-        'name': 'Learn Git Branching Interactively',
+        'type':'websites','name': 'Learn Git Branching Interactively',
         'url': 'https://www.coursera.org/learn/learning-how-to-learn'
     },
     {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/33tbBpGanLQYMSxpnkL7nC/02bc0ffd5053dd8b0b146faa145f37f2/Git_Branching.PNG?w=800&h=387&q=50&fm=webp',
         'intro':'The most visual, interactive and fun way to learn Git on the web.',
-        'name': 'Learn Git Branching Interactively',
+        'type':'websites','name': 'Learn Git Branching Interactively',
         'url': 'https://learngitbranching.js.org/'
     },
     {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/5qFgoOTACYlbYpc2pPlqjM/a0f2662b4e2a3bfc2fc30c84b7f6e963/1500x500?w=800&h=267&q=50&fm=webp',
         'intro':'Find the right git commands you need without digging through the web.',
-        'name': 'Git Command Explorer',
+        'type':'websites','name': 'Git Command Explorer',
         'url': 'https://gitexplorer.com/'
     },
 
@@ -278,7 +278,7 @@ Must_programmer_main = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/5qFgoOTACYlbYpc2pPlqjM/a0f2662b4e2a3bfc2fc30c84b7f6e963/1500x500?w=800&h=267&q=50&fm=webp',
         'intro':'Free individual licenses of the award-winning professional developer tools from JetBrains for students and faculty members.',
-        'name': 'JetBrains Student License',
+        'type':'websites','name': 'JetBrains Student License',
         'url': 'https://www.jetbrains.com/student/'
     },
     
@@ -289,21 +289,21 @@ Must_programmer_main = [
         'id': 0,
         'image': 'https://github.blog/wp-content/uploads/2014/10/4b0317bc-4599-11e4-8bc3-0ca4dd5223e8.png?resize=2284%2C889',
         'intro':'There’s no substitute for hands-on experience, but for most students, real world tools can be cost prohibitive. That’s why github created the GitHub Student Developer Pack with some of there partners and friends: to give students free access to the best developer tools in one place so they can learn by doing',
-        'name': 'GitHub Student Developer Pack',
+        'type':'websites','name': 'GitHub Student Developer Pack',
         'url': 'https://education.github.com/'
     },
     {
         'id': 0,
         'image': 'https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/02/college-degrees-1024x395.jpg',
         'intro':'Do developers need college degrees? Just a generation ago, it was a given that a college degree was the best way to maximize the likelihood of securing a high-paying job in the field of your choice. But the world has changed, and more and more you hear of successful developers who never earned a degree,',
-        'name': 'Do Developers Need College Degrees?',
+        'type':'websites','name': 'Do Developers Need College Degrees?',
         'url': 'https://stackoverflow.blog/2016/10/07/do-developers-need-college-degrees/?fbclid=IwAR1H9tBaYd1zGUIam6nVQovHcJETHwoo11VHBlV8peR0JO8PJNgAHMsQqvw'
     },
     {
                 'id':0,
         'image': 'https://online-learning.harvard.edu/sites/default/files/styles/social_share/public/course/cs50x-original.jpg?itok=kR_JV8DW',
         'intro': 'An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently.',
-        'name': 'cs50',
+        'type':'websites','name': 'cs50',
         'Return': 'free certificate',
         'url':  'https://www.edx.org/course/cs50s-introduction-to-computer-science'
     },
@@ -311,14 +311,14 @@ Must_programmer_main = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/6YUQllDI9KrCgiZy8GsMnZ/c38322baa2bfc2d8af1f6ca19ae6e564/maxresdefault.jpg?w=800&h=450&q=50&fm=webp',
         'intro':'This tutorial will teach you modern git and Github',
-        'name': 'In Depth Tutorial on Git & Github (DevOps Tools)',
+        'type':'websites','name': 'In Depth Tutorial on Git & Github (DevOps Tools)',
         'url': 'https://www.youtube.com/watch?v=6bjCvZEX52w'
     },
     {
         'id': 0,
         'image': 'https://pr.azureedge.net/img/picresize_logo_registered.png',
         'intro': "visual representaiton of Diffrent Algorithms",
-        'name': 'Visual Algo',
+        'type':'websites','name': 'Visual Algo',
         'url': 'https://visualgo.net/en',
     }
     ,
@@ -326,7 +326,7 @@ Must_programmer_main = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/6lslLWTrtJOvT9uKL76BdA/c68fa37469f4052acc66944843ba310a/image.png?w=300&h=168&q=50&fm=webp',
         'intro': "Better understand how far computers have taken us and how far they may carry us.",
-        'name': 'Crash Course Computer Science',
+        'type':'websites','name': 'Crash Course Computer Science',
         'url': 'https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo',
     }
     ,
@@ -334,7 +334,7 @@ Must_programmer_main = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/2MdYGTNWLQ4qpBn9lv6Npy/700fed96c05f8149567c70aa871f9bd7/maxresdefault.jpg?w=800&h=450&q=50&fm=webp',
         'intro': "The latest edition of the fantastic, free computer science lectures from Harvard.",
-        'name': 'Cs50 2020',
+        'type':'websites','name': 'Cs50 2020',
         'url': 'https://youtu.be/Tpl7k8IOT6E',
     }
 
@@ -347,7 +347,7 @@ everyydaytools = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/4tfKlG1Ylr94FeVUQH5Oic/2bfef3e8d5536a47e52e6e5f50c258c8/og-square.png?w=640&h=640&q=50&fm=webp',
         'intro': "An interactive map of popular screen sizes showing the responsive and adaptive device landscape",
-        'name': 'Screen Size Map',
+        'type':'websites','name': 'Screen Size Map',
         'url': 'https://www.screensizemap.com/',
     }
     ,
@@ -355,63 +355,63 @@ everyydaytools = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/5FX7FgtToDupaRBZuRFW3m/3e822bfe48221fe462ba9205ead4be9b/image.png?w=636&h=300&q=50&fm=webp',
         'intro': "Automatically remove an image background with no clicks and for free in 5 seconds.",
-        'name': 'Image Background Remover',
+        'type':'websites','name': 'Image Background Remover',
         'url': 'https://www.remove.bg/',
     },
     {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/3D1UOB3RrnRLcTtMytmyJa/284a58d52a99d52ded174c17790daeb8/image.png?w=800&h=421&q=50&fm=webp',
         'intro': "Create and share beautiful images of your source code.",
-        'name': 'Codeimg.io',
+        'type':'websites','name': 'Codeimg.io',
         'url': 'https://codeimg.io/',
     },
     {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/2SSyh2voG8mIcUlkpNDDbp/850fa97bd0d109fb16e318edbbfaa7db/image.png?w=636&h=300&q=50&fm=webp',
         'intro': "Free online tools for bulk image processing (resize, crop, compress and more).",
-        'name': 'Bulk Image Processing',
+        'type':'websites','name': 'Bulk Image Processing',
         'url': 'https://www.imgbot.ai/',
     },
     {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/71B5MfU2Oe5l9BNITmQYYi/ca1fd6bf70dbbf19879648232f4f2497/screenshot.png?w=800&h=450&q=50&fm=webp',
         'intro': "Develop responsive web apps 5x faster. A must-have DevTool for all Front-End developers that will ma",
-        'name': 'Responsively',
+        'type':'websites','name': 'Responsively',
         'url': 'https://responsively.app/',
     },
     {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/5UJgTMBsuDqpV1JVgOryvn/59e8e7289d63ba2cd2c6eb884f18014b/image.png?w=304&h=166&q=50&fm=webp',
         'intro': "The most complete resource for the best monospace coding fonts.",
-        'name': 'Programming Fonts',
+        'type':'websites','name': 'Programming Fonts',
         'url': 'https://app.programmingfonts.org/',
     },
     {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/11n7eqjDE3UFlt5v6OkRBT/dd0beaf8e09dc2a61c651833f3ed553f/image.png?w=800&h=416&q=50&fm=webp',
         'intro': "A tool to debug and generate meta tag code for any website.",
-        'name': 'Meta Tags',
+        'type':'websites','name': 'Meta Tags',
         'url': 'https://metatags.io/',
     },
     {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/4kVxycBS3keteNdBmEDsC8/abbd160757896407cd696c964719dfda/image.png?w=175&h=175&q=50&fm=webp',
         'intro': "Lorem Ipsum... but for photos.",
-        'name': 'Lorem Picsum',
+        'type':'websites','name': 'Lorem Picsum',
         'url': 'https://picsum.photos/',
     },
      {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/5iPXVJ2jpDKGyPyfcHhMJ9/36b7d3f8af92ab6703f94b6152e5c547/image.png?w=676&h=676&q=50&fm=webp',
         'intro': "Collection of open APIs (movies, weather, food, news, and more) for development",
-        'name': 'Public APIs',
+        'type':'websites','name': 'Public APIs',
         'url': 'https://public-apis.xyz/',
     },
     {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/5b7A0ciaL5LU4wmb2ZYG0v/bb681d4a2c55c2b3c5aedb3479dda7e7/5aecb012-4bda-467c-9782-1ef157aec0d2?w=800&h=450&q=50&fm=webp',
         'intro': "Instantly resize and crop your photos & images for all web and social media formats with one click",
-        'name': 'Free Image and Photo Resizer',
+        'type':'websites','name': 'Free Image and Photo Resizer',
 
         'url': 'https://promo.com/tools/image-resizer/'
     },
@@ -425,7 +425,7 @@ everyydaytools = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/1YefYhckdPwmjhjvfUhsI7/c3371fb888864ad70bb0af1b40bf54de/image.png?w=636&h=300&q=50&fm=webp',
         'intro': "Use generative art for your image placeholders.",
-        'name': 'Generative Placeholders',
+        'type':'websites','name': 'Generative Placeholders',
         'url': 'https://generative-placeholders.glitch.me/',
     },
 ]
@@ -434,35 +434,35 @@ awesome_websites = [
     {
         'id': 0,
         'image': 'https://jonkuperman.com/static/9d5f8d15762e685534467c67e2cf281f/72e01/joshwcomeau.jpg',
-        'into': 'As I was going through rebuilding my blog, I spent a lot of time looking at other people’s sites trying to get inspiration. Below is a list of my absolute favorite blog designs and my favorite thing about them.',
+        'intro': 'As I was going through rebuilding my blog, I spent a lot of time looking at other people’s sites trying to get inspiration. Below is a list of my absolute favorite blog designs and my favorite thing about them.',
         'name': 'jonkuperman/best-blog-designs',
         'type': "best-blog-designs",
-        'url': 'https://www.joshwcomeau.com/https://jonkuperman.com/best-blog-designs-2020/'
+        'url': 'https://www.joshwcomeau.com/'
     },
         {
             
         
         'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/3aqr7XDogg9jcGnUglJYOt/05488b640b4307bf3a2e96259bc9bd39/image.png?w=636&h=300&q=50&fm=webp',
-        'into': 'Free resource of 100k high-quality faces, each entirely generated by AI.',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/3aqr7XDogg9jcGnUglJYOt/05488b640b4307bf3a2e96259bc9bd39/image.png',
+        'intro': 'Free resource of 100k high-quality faces, each entirely generated by AI.',
         'name': '100,000 AI-Generated Faces',
         'type': "Ai Photos",
         'url': 'https://generated.photos/'
     
     
     },
-    {
+  {
         'id': 0,
         'image': 'https://ichef.bbci.co.uk/news/800/cpsprodpb/2E61/production/_110537811_ec96af27-c995-4ed0-b977-9fb4f1d05d3f.jpg',
         'intro': "The Spinner* is a service that enables you to subconsciously influence a specific person, by controlling the content on the websites he or she usually visits. The targeted person gets repetitively exposed to hundreds of items which are placed and disguised as editorial content.",
-        'name': 'thespinner',
+        'type':'websites','name': 'thespinner',
         'url': 'https://www.thespinner.net/',
     },
     {
         'id': 0,
         'image': 'https://pr.azureedge.net/img/picresize_logo_registered.png',
         'intro': "PicResize.com was created in March 2005 and is the original picture editing tool on the Internet. The service has always remained free to use and has processed more than 150 million pictures since its launch",
-        'name': 'pixel resize',
+        'type':'websites','name': 'pixel resize',
         'url': 'https://picresize.com/en/results#',
     }
     ,
@@ -470,7 +470,7 @@ awesome_websites = [
         'id': 0,
         'image': 'https://kk.org/img/bloglogos/KevinKelly1-logo-sketch.gif',
         'intro': "a must read palce to broden your understanding if you are ",
-        'name': 'Kevin kelly',
+        'type':'websites','name': 'Kevin kelly',
         'url': 'https://kk.org/',
     }
     ,
@@ -479,7 +479,7 @@ awesome_websites = [
         'image': 'https://twinery.org/homepage/img/logo.svg',
         'intro': "You don't need to write any code to create a simple story with Twine, but you can extend your stories with variables, conditional logic, images, CSS, and JavaScript when you're ready.",
         'sum+up': "where you can write stories",
-        'name': 'twine',
+        'type':'websites','name': 'twine',
         'url': 'https://twinery.org/',
     },
     {
@@ -487,7 +487,7 @@ awesome_websites = [
         'id': 0,
         'image': 'https://www.irishnews.com/picturesarchive/irishnews/irishnews/2018/09/21/161005946-89fb1e98-8158-4b08-9bbd-dc01a0736cda.jpg',
         'intro': "Hit the bongos like Bongo Cat!",
-        'name': 'Bango cat',
+        'type':'websites','name': 'Bango cat',
         'url': 'https://bongo.cat/?fbclid=IwAR1xcOLH5dyp3tKne-uVMOAESHQxX3Ep6sBBSh6EdaL6Gzr8aZkgZITFY8E',
     },
     {
@@ -495,7 +495,7 @@ awesome_websites = [
         'id': 0,
         'image': 'https://phreesite.com/wp-content/uploads/2018/12/audiobook-Bay-alternatives-.jpg',
         'intro': "Download unabridged audiobook for free or share your audio books, safe, fast and high quality! Safe to get and share audio book here and downloading speed",
-        'name': 'AudioBook Bay',
+        'type':'websites','name': 'AudioBook Bay',
         'url': 'http://audiobookbay.nl/',
     },
     {
@@ -503,7 +503,7 @@ awesome_websites = [
         'id': 0,
         'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
         'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
-        'name': '10ideesrecuesenuxdesign',
+        'type':'websites','name': '10ideesrecuesenuxdesign',
         'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
     },
       {
@@ -511,7 +511,7 @@ awesome_websites = [
         'id': 0,
         'image': 'https://image.winudf.com/v2/image/Y29tLml5dG9yLmVyZXJ6X3NjcmVlbl82XzE1MzU0MDY1NDZfMDIy/screen-6.jpg?fakeurl=1&type=.jpg',
         'intro': "skribbl.io is a free multiplayer drawing and guessing game. One game consists of a few rounds in which every round someone has to draw their chosen word and others have to guess it to gain points! The person with the most points at the end of game will then be crowned as the winner!",
-        'name': 'skribbl',
+        'type':'websites','name': 'skribbl',
         'url': 'https://skribbl.io/',
     },
     
@@ -520,7 +520,7 @@ awesome_websites = [
         'id': 0,
         'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
         'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
-        'name': '10ideesrecuesenuxdesign',
+        'type':'websites','name': '10ideesrecuesenuxdesign',
         'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
     },
     
@@ -529,7 +529,7 @@ awesome_websites = [
         'id': 0,
         'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
         'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
-        'name': '10ideesrecuesenuxdesign',
+        'type':'websites','name': '10ideesrecuesenuxdesign',
         'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
     },
     
@@ -538,7 +538,7 @@ awesome_websites = [
         'id': 0,
         'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
         'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
-        'name': '10ideesrecuesenuxdesign',
+        'type':'websites','name': '10ideesrecuesenuxdesign',
         'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
     },
     
@@ -547,8 +547,8 @@ awesome_websites = [
         
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/3aqr7XDogg9jcGnUglJYOt/05488b640b4307bf3a2e96259bc9bd39/image.png?w=636&h=300&q=50&fm=webp',
-        'into': 'Free resource of 100k high-quality faces, each entirely generated by AI.',
-        'name': '100,000 AI-Generated Faces',
+        'intro': 'Free resource of 100k high-quality faces, each entirely generated by AI.',
+        'type':'websites','name': '100,000 AI-Generated Faces',
         'type': "Ai Photos",
         'url': 'https://generated.photos/'
     
@@ -558,14 +558,14 @@ awesome_websites = [
         'id': 0,
         'image': 'https://ichef.bbci.co.uk/news/800/cpsprodpb/2E61/production/_110537811_ec96af27-c995-4ed0-b977-9fb4f1d05d3f.jpg',
         'intro': "The Spinner* is a service that enables you to subconsciously influence a specific person, by controlling the content on the websites he or she usually visits. The targeted person gets repetitively exposed to hundreds of items which are placed and disguised as editorial content.",
-        'name': 'thespinner',
+        'type':'websites','name': 'thespinner',
         'url': 'https://www.thespinner.net/',
     },
     {
         'id': 0,
         'image': 'https://pr.azureedge.net/img/picresize_logo_registered.png',
         'intro': "PicResize.com was created in March 2005 and is the original picture editing tool on the Internet. The service has always remained free to use and has processed more than 150 million pictures since its launch",
-        'name': 'pixel resize',
+        'type':'websites','name': 'pixel resize',
         'url': 'https://picresize.com/en/results#',
     }
     ,
@@ -573,7 +573,7 @@ awesome_websites = [
         'id': 0,
         'image': 'https://kk.org/img/bloglogos/KevinKelly1-logo-sketch.gif',
         'intro': "a must read palce to broden your understanding if you are ",
-        'name': 'Kevin kelly',
+        'type':'websites','name': 'Kevin kelly',
         'url': 'https://kk.org/',
     }
     ,
@@ -582,7 +582,7 @@ awesome_websites = [
         'image': 'https://twinery.org/homepage/img/logo.svg',
         'intro': "You don't need to write any code to create a simple story with Twine, but you can extend your stories with variables, conditional logic, images, CSS, and JavaScript when you're ready.",
         'sum+up': "where you can write stories",
-        'name': 'twine',
+        'type':'websites','name': 'twine',
         'url': 'https://twinery.org/',
     }
     
@@ -600,17 +600,17 @@ game_development = [
         'id': 1,
         'image': 'https://blogs.unity3d.com/wp-content/uploads/2019/04/Unity-Learn-blog-header_1280x720.jpg',
         'intro': 'Unity Learn provides award-winning free tutorials, sample projects, and full courses for mastering real-time 3D development skills with Unity Learn',
-        'name': 'Unity learn',
+        'type':'websites','name': 'Unity learn',
         'url':  'https://learn.unity.com/'
     },
     {
         'id':2,
         'image': 'https://cdn2.unrealengine.com/Unreal+Engine%2Fonlinelearning-courses%2FNews_UOLDec_fb_image-1200x630-520419d3e9c82ff29459b6844fb50ed0262e715c.jpg',
         'intro': 'Unreal Online Learning is a free learning platform that offers hands-on video courses and guided learning paths.',
-        'name': 'unreal engine',
+        'type':'websites','name': 'unreal engine',
         'url':  'https://www.unrealengine.com/en-US/onlinelearning-courses'
     },
-]
+]  
 freecourses = [
     
     {   
@@ -852,31 +852,31 @@ freecourses = [
             }
         ]
     },
-    {
-        'image':'https://analyticsindiamag.com/wp-content/uploads/2020/03/32-Free-Online-Courses-and-Certificates-You-can-earn-in-2019.jpg',
-        "name": "learning resources",
-        "start": 
-        [
-            {
-                'id': 2,
-'image': 'https://www.codecademy.com/webpack/e908164f059c81faded2866ab983e950.png',
-'intro': 'Bring your apps and games to life with real-time animation. Rive is a powerful design and animation tool, which allows designers and developers to easily',
-'name': 'rive 2',
-'url':'https://www.2dimensions.com/',
-'extra': 'animation',
-'price': 'free'
-            },
-             {
-                'id': 2,
-'image': 'https://www.codecademy.com/webpack/e908164f059c81faded2866ab983e950.png',
-'intro': 'Bring your apps and games to life with real-time animation. Rive is a powerful design and animation tool, which allows designers and developers to easily',
-'name': 'rive 2',
-'url':"mycodeschool’s playlist: https://bit.ly/1NPQ2wQ ,{# %%} MIT course on YouTube: https://bit.ly/1BEh9DL , Stanford courses on Coursera: https://bit.ly/2g8OALL , The Algorithm Design Manual by Skiena (book): https://amzn.to/2KIEYGB , The Google course on Udacity: https://bit.ly/2t7lRLe , Algorithms (book): https://amzn.to/2KG5b8n",
-'extra': 'animation',
-'price': 'free'
-            }
-        ]
-    },
+#     {
+#         'image':'https://analyticsindiamag.com/wp-content/uploads/2020/03/32-Free-Online-Courses-and-Certificates-You-can-earn-in-2019.jpg',
+#         "name": "learning resources",
+#         "start": 
+#         [
+#             {
+#                 'id': 2,
+# 'image': 'https://www.codecademy.com/webpack/e908164f059c81faded2866ab983e950.png',
+# 'intro': 'Bring your apps and games to life with real-time animation. Rive is a powerful design and animation tool, which allows designers and developers to easily',
+# 'name': 'rive 2',
+# 'url':'https://www.2dimensions.com/',
+# 'extra': 'animation',
+# 'price': 'free'
+#             },
+#              {
+#                 'id': 2,
+# 'image': 'https://www.codecademy.com/webpack/e908164f059c81faded2866ab983e950.png',
+# 'intro': 'Bring your apps and games to life with real-time animation. Rive is a powerful design and animation tool, which allows designers and developers to easily',
+# 'name': 'rive 2',
+# 'url':"mycodeschool’s playlist: https://bit.ly/1NPQ2wQ ,{# %%} MIT course on YouTube: https://bit.ly/1BEh9DL , Stanford courses on Coursera: https://bit.ly/2g8OALL , The Algorithm Design Manual by Skiena (book): https://amzn.to/2KIEYGB , The Google course on Udacity: https://bit.ly/2t7lRLe , Algorithms (book): https://amzn.to/2KG5b8n",
+# 'extra': 'animation',
+# 'price': 'free'
+#             }
+#         ]
+#     },
     {
         'image':'https://blog.eduonix.com/wp-content/uploads/2017/07/Software-Development-Tools.jpg',
         "name": "programming tools",
@@ -885,7 +885,7 @@ freecourses = [
         'id': 0,
         'image': 'https://pr.azureedge.net/img/picresize_logo_registered.png',
         'intro': "visual representaiton of Diffrent Algorithms",
-        'name': 'Visual Algo',
+        'type':'websites','name': 'Visual Algo',
         'url': 'https://visualgo.net/en',
             }
         ]
@@ -898,7 +898,7 @@ freecourses = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/7k2ITsrafHNRdWa4PuXhEx/6ff203074bbdb245c79771ec808605bd/web.dev_learn.PNG?w=800&h=387&q=50&fm=webp',
         'intro': "Structured learning paths to discover everything you need to know about building for the modern web.",
-        'name': 'Visual Algo',
+        'type':'websites','name': 'Visual Algo',
         'url': 'https://web.dev/learn/',
             },
             {
@@ -906,7 +906,7 @@ freecourses = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/2OZOkKLeAMVSC8OiPDCPg0/b200e92264c0f91d670d0456ee4c884e/van-tay-media-TFFn3BYLc5s-unsplash.jpg',
         'intro': "Carefully curated content to help you ace your next technical interview with a focus on algorithms.",
-        'name': 'The Tech Interview Handbook',
+        'type':'websites','name': 'The Tech Interview Handbook',
         'url': 'https://yangshun.github.io/tech-interview-handbook/introduction/',
             
             },
@@ -915,7 +915,7 @@ freecourses = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/7tTIAd75XfjyTTpBoicYHn/e790bb58cb4fbdc2928d79701738da68/curriculum-diagram-full.jpg',
         'intro': "This website is full of useful articles about all things and topics related to programming.",
-        'name': 'freeCodeCamp Guide',
+        'type':'websites','name': 'freeCodeCamp Guide',
         'url': 'https://www.freecodecamp.org/news/',
             
             },
@@ -924,7 +924,7 @@ freecourses = [
         'id': 0,
         'image': 'https://frontendmasters.com/books/front-end-handbook/2019/assets/images/FM_2019Cover_final.jpg',
         'intro': "Front-end engineering: how to learn it and what tools are used when practicing it in 2020.",
-        'name': 'freeCodeCamp Guide',
+        'type':'websites','name': 'freeCodeCamp Guide',
         'url': 'https://frontendmasters.com/books/front-end-handbook/2019/',
             
             }
@@ -935,16 +935,17 @@ web_Development = [
     # {
     #             'id':0,
     #             'image': 'https://prod-discovery.edx-cdn.org/media/course/image/8f8e5124-1dab-47e6-8fa6-3fbdc0738f0a-762af069070e.small.jpg',
-    #             'intro': "This course picks up where CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
+    #             'intro': "This course picks up where CS50 leaves off, diving more deeply intro the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
     #             'name': "CS50's Web Programming with Python and JavaScript",
     #             'Return': 'free certificate',
     #             'type': 'video + assigment',
     #             'url':  'https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript'
     # },
     {
+        'intro': "Download the best Free Themes & Templates developed by Creative Tim.",
         'image': 'https://s.tmimgcdn.com/scr/1204x1146/52500/free-responsive-corporate-template-website-template_52524-0-original.jpg',
         "name": "free templates",
-        "free templates": [
+        "start": [
             {
                 'id':0,
                 'image': 'https://images.ctfassets.net/aq13lwl6616q/3omokxCIh3RiqdeL9EBVjb/9cb68edffc9099dcd1f108ab7f6fd18f/image.png?w=636&h=300&q=50&fm=webp',
@@ -965,12 +966,13 @@ web_Development = [
     }
     ,
     {
+        'intro': "From the basics to advanced topics with simple, but detailed explanations.",
         'image': 'https://www.simplilearn.com/ice9/free_resources_article_thumb/X_Reasons_to_learn_Javascript.jpg',
         "name": "javascript",
         "start": [
             {
                 'id':0,
-                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png?w=636&h=300&q=50&fm=webp',
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
                 'intro': "From the basics to advanced topics with simple, but detailed explanations.",
                 'name': "The Modern JavaScript Tutorial",
                 'type': 'text',
@@ -978,7 +980,7 @@ web_Development = [
             },
             {
                 'id':0,
-                'image': 'https://images.ctfassets.net/aq13lwl6616q/4RGBWl2tZ0bYIt0GX7XVw1/25f59ffd9052d12bba2a4f562c2ff25f/image.png?w=636&h=300&q=50&fm=webphttps://images.ctfassets.net/aq13lwl6616q/4RGBWl2tZ0bYIt0GX7XVw1/25f59ffd9052d12bba2a4f562c2ff25f/image.png?w=636&h=300&q=50&fm=webp',
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/4RGBWl2tZ0bYIt0GX7XVw1/25f59ffd9052d12bba2a4f562c2ff25f/image.png',
                 'intro': "Guide for JavaScript & Node.js reliability from A-Z.",
                 'name': "Testing JavaScript: Best Practices",
                 'type': 'free templates',
@@ -986,7 +988,7 @@ web_Development = [
             },
             {
                 'id':0,
-                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png?w=636&h=300&q=50&fm=webp',
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
                 'intro': "From the basics to advanced topics with simple, but detailed explanations.",
                 'name': "The Modern JavaScript Tutorial",
                 'type': 'free templates',
@@ -994,7 +996,7 @@ web_Development = [
             },
             {
                 'id':0,
-                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png?w=636&h=300&q=50&fm=webp',
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
                 'intro': "From the basics to advanced topics with simple, but detailed explanations.",
                 'name': "The Modern JavaScript Tutorial",
                 'type': 'free templates',
@@ -1003,6 +1005,50 @@ web_Development = [
         ]
     },
     {
+        'intro': "From the basics to advanced topics with simple, but detailed explanations.",
+                'image': 'https://www.bypeople.com/wp-content/uploads/2019/01/css-animation-101-featured.jpg',
+                'type':'websites','name': 'css animation"',
+                "start": [
+                    {
+                        'image': 'https://www.best4webdesign.com/wp-content/uploads/2015/03/css3-animation.jpg',
+                        'intro': "AniCollection is the easiest way to find, use and share animations. We are putting together awesome animations from many libraries and many people.",
+                        'url': "http://anicollection.github.io/#/",
+                        'type':'websites','name': "anicollection"
+                    },
+                    {
+                        'image': 'https://i.ytimg.com/vi/CBQGl6zokMs/maxresdefault.jpg',
+                        'intro': "Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.",
+                        'url': "https://daneden.github.io/animate.css/",
+                        'type':'websites','name': "animate.css"
+                    },
+                    {
+                        'image': 'https://i.ytimg.com/vi/qMTiK0BV5Z0/maxresdefault.jpg',
+                        'intro': "ANIMISTA IS A PLACE WHERE YOU CAN PLAY WITH A COLLECTION OF PRE-MADE CSS ANIMATIONS, TWEAK THEM AND GET ONLY THOSE YOU WILL ACTUALLY USE.",
+                        'url': "http://animista.net/",
+                        'type':'websites','name': "animista.net   "
+                    },
+                    {
+                        'image': 'https://frontntweaks.com/wp-content/uploads/2019/12/thumbnail650.jpg',
+                        'intro': "Anime.js is a small, lightweight JavaScript library with a simple and small powerful API. It works with the DOM element, CSS, and JavaScript object.",
+                        'url': "http://animejs.com/",
+                        'type':'websites','name': "animejs.com"
+                    },
+                    {
+                        'image': 'https://vuejsexamples.com/content/images/2018/01/epic-spinners-1.png',
+                        'intro': "We’re working on Vuestic UI component library, which lets you easily customize components to your own design.Get early access and receive support from the core team! 😎",
+                        'url': "https://epic-spinners.epicmax.co/#/",
+                        'type':'websites','name': "Css only. Easy to use. VueJS integration."
+                    },
+                    {
+                        'image': 'https://cdn.dribbble.com/users/580/screenshots/2362765/spinkit.gif',
+                        'intro': "Simple loading spinners animated with CSS. See demo. SpinKit only uses (transform and opacity) CSS animations to create smooth and easily customizable animations.",
+                        'url': "http://tobiasahlin.com/spinkit/",
+                        'type':'websites','name': "loading spinners animated with CSS."
+                    },
+                ]
+            },
+    {
+        'intro': "A tool to generate soft-UI CSS code for neumorphic card designs.",
         'image': 'https://pixelmechanics.com.sg/wp-content/uploads/2019/04/css.jpg',
         "name": "css",
         "start": [
@@ -1192,36 +1238,7 @@ web_Development = [
                 'type': 'css Games',
                 'url':  'https://cssbattle.dev/'
             },
-            {
-                'image': 'https://www.bypeople.com/wp-content/uploads/2019/01/css-animation-101-featured.jpg',
-                'name': 'css animation"',
-                "start": [
-                    {
-                        'name': "http://anicollection.github.io/#/",
-                        'url': "collection of copy-paste animations"
-                    },
-                    {
-                        'name': "https://daneden.github.io/animate.css/",
-                        'url': "Just-add-water CSS animations"
-                    },
-                    {
-                        'name': "http://animista.net/",
-                        'url': "CSS animations on demand."
-                    },
-                    {
-                        'name': "http://animejs.com/",
-                        'url': "JavaScript animation engine."
-                    },
-                    {
-                        'name': "https://epic-spinners.epicmax.co/#/",
-                        'url': "Css only. Easy to use. VueJS integration."
-                    },
-                    {
-                        'name': "http://tobiasahlin.com/spinkit/",
-                        'url': "loading spinners animated with CSS."
-                    },
-                ]
-            }
+            
         ]
     }
 ]
@@ -1235,7 +1252,7 @@ android_cources = [
             {
                 'id':0,
                 'image': 'https://prod-discovery.edx-cdn.org/media/course/image/8f8e5124-1dab-47e6-8fa6-3fbdc0738f0a-762af069070e.small.jpg',
-                'intro': "This course picks up where CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
+                'intro': "This course picks up where CS50 leaves off, diving more deeply intro the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
                 'name': "CS50's Web Programming with Python and JavaScript",
                 'Return': 'free certificate',
                 'type': 'video + assigment',
@@ -1324,7 +1341,7 @@ android_learning = [
             {
                 'id':0,
                 'image': 'https://prod-discovery.edx-cdn.org/media/course/image/8f8e5124-1dab-47e6-8fa6-3fbdc0738f0a-762af069070e.small.jpg',
-                'intro': "This course picks up where CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
+                'intro': "This course picks up where CS50 leaves off, diving more deeply intro the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
                 'name': "CS50's Web Programming with Python and JavaScript",
                 'Return': 'free certificate',
                 'type': 'video + assigment',
@@ -1362,7 +1379,7 @@ android_development = [
             {
                 'id':0,
                 'image': 'https://prod-discovery.edx-cdn.org/media/course/image/8f8e5124-1dab-47e6-8fa6-3fbdc0738f0a-762af069070e.small.jpg',
-                'intro': "This course picks up where CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
+                'intro': "This course picks up where CS50 leaves off, diving more deeply intro the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
                 'name': "CS50's Web Programming with Python and JavaScript",
                 'Return': 'free certificate',
                 'type': 'video + assigment',
@@ -1436,7 +1453,7 @@ android_development = [
             {
         'id': 0,
         'image': 'https://giphy.com/static/img/giphy_logo_square_social.png',
-        'into': 'GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reaction GIFs, unique GIFs and more',
+        'intro': 'GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reaction GIFs, unique GIFs and more',
         'name': 'giphy.com',
         'url': 'https://giphy.com/',
         'extra': 'Giphy',
@@ -1450,7 +1467,7 @@ android_development = [
             {
                 'id':0,
                 'image': 'https://prod-discovery.edx-cdn.org/media/course/image/8f8e5124-1dab-47e6-8fa6-3fbdc0738f0a-762af069070e.small.jpg',
-                'intro': "This course picks up where CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
+                'intro': "This course picks up where CS50 leaves off, diving more deeply intro the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
                 'name': "CS50's Web Programming with Python and JavaScript",
                 'Return': 'free certificate',
                 'type': 'video + assigment',
@@ -1595,7 +1612,7 @@ user_interface = [
 'intro': 'Slick mockup movies and images for promo videos, presentations, portfolios, app store images.Showcasing like the big boys is no longer just for the big boys.',
 'name': 'Rotato',
 'url':'https://www.rotato.xyz/',
-'extra': 'mockups',
+'type': 'mockups',
 'price': 'half free'
     },
     {
@@ -1604,7 +1621,7 @@ user_interface = [
 'intro': 'Bring your apps and games to life with real-time animation. Rive is a powerful design and animation tool, which allows designers and developers to easily',
 'name': 'rive 2',
 'url':'https://www.2dimensions.com/',
-'extra': 'animation',
+'type': 'animation',
 'price': 'free'
     },
     {
@@ -1613,7 +1630,7 @@ user_interface = [
 'intro': 'Understand how users are really experiencing your site without drowning in numbers Traditional web analytics tools help you analyze traffic data. But numbers alone can’t tell you what users really do on your site — Hotjar will.',
 'name': 'hotjar',
 'url':'https://www.hotjar.com/?utm_expid=.EinRyQaiRjGYjFEJFTUl4Q.0&utm_referrer=',
-'extra': 'analytics',
+'type': 'analytics',
 'price': 'paid'
     },
     {
@@ -1622,7 +1639,7 @@ user_interface = [
 'intro': 'Are you working with design files? Start saving time today.In all plans you can present, comment, create screen flows, and inspect Sketch, Adobe XD, Photoshop, Illustrator, & Figma files - using our web, macOS, Windows, & Linux app',
 'name': 'Avocode',
 'url':'https://avocode.com/hand-off-and-inspect',
-'extra': 'UI/UX designing',
+'type': 'UI/UX designing',
 'price': 'paid'
     },
     {
@@ -1631,7 +1648,7 @@ user_interface = [
 'intro': 'Are you working with design files? Start saving time today.In all plans you can present, comment, create screen flows, and inspect Sketch, Adobe XD, Photoshop, Illustrator, & Figma files - using our web, macOS, Windows, & Linux app',
 'name': 'micro',
 'url':'https://realtimeboard.com/',
-'extra': 'team collaboration for brainstroming + video call',
+'type': 'team collaboration for brainstroming + video call',
 'price': 'free'
     },
     {
@@ -1640,7 +1657,7 @@ user_interface = [
 'intro': 'To empower the work of design teams by facilitating a creative synergy through effortless collaboration.',
 'name': 'plant',
 'url':'https://plantapp.io/#about',
-'extra': 'team collaboration for brainstroming + video call',
+'type': 'team collaboration for brainstroming + video call',
 'price': 'free'
     },
     {
@@ -1649,7 +1666,7 @@ user_interface = [
 'intro': 'Generate professional, customizable buyer persona documents with the help of this quick and intuitive generator.',
 'name': 'Make my persona',
 'url': 'https://www.hubspot.com/make-my-persona',
-'extra': 'personal portfolio',
+'type': 'personal portfolio',
 'price': 'free'
     },
     {
@@ -1658,7 +1675,7 @@ user_interface = [
 'intro': 'Vaadin comes with a big set of web components that are fine-tuned for UX, performance, and accessibility.',
 'name': 'vaadin',
 'url':'https://vaadin.com/',
-'extra': 'web apps => java',
+'type': 'web apps => java',
 'price': 'free'
     },
     {
@@ -1667,7 +1684,7 @@ user_interface = [
 'intro': 'Discover how real users interact with your prototype: define missions, collect actionable insights and analyze how your design performed, with 0 lines of code.',
 'name': 'maze',
 'url':'https://maze.design/',
-'extra': 'ui/ux testing + analytics for prototypes',
+'type': 'ui/ux testing + analytics for prototypes',
 'price': 'free 1 month trial'
     },
     {
@@ -1676,7 +1693,7 @@ user_interface = [
 'intro': 'The Material Theme Editor helps you make your own branded symbol library and apply global style changes to color, shape, and typography.',
 'name': 'gallery',
 'url':'https://gallery.io/apps',
-'extra': 'matrial theme editor',
+'type': 'matrial theme editor',
 'price': 'free'
     },
     {
@@ -1685,7 +1702,7 @@ user_interface = [
 'intro': "By choosing a set of 50 colors, you'll train a neural network powered algorithm to generate colors you like and block ones you don’t, right in your browser.",
 'name': 'khroma',
 'url':'http://khroma.co/',
-'extra': 'Design with colors you love. Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save.',
+'type': 'Design with colors you love. Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save.',
 'price': 'free'
     },
     {
@@ -1694,7 +1711,7 @@ user_interface = [
 'intro': 'Share your ideas visually. Lightning fast.',
 'name': 'gallery',
 'url':'https://whimsical.co/',
-'extra': 'brainstrming workspace',
+'type': 'brainstrming workspace',
 'price': 'create 4 free boards '
     },
     {
@@ -1703,7 +1720,7 @@ user_interface = [
 'intro': 'Piece hi-fi interactions together, build sensor-aided prototypes and share your amazing creations in a matter of minutes.',
 'name': 'protopie',
 'url':'https://www.protopie.io/',
-'extra': 'prototyping tool',
+'type': 'prototyping tool',
 'price': 'free for students'
     },
     {
@@ -1712,7 +1729,7 @@ user_interface = [
 'intro': 'Blocs Website Builder Fast, easy to use and powerful visual web design software, that lets you create responsive websites without writing code.',
 'name': 'blocs',
 'url':'https://blocsapp.com/',
-'extra': 'websitebuilder',
+'type': 'websitebuilder',
 'price': 'free'
     },
     {
@@ -1721,7 +1738,7 @@ user_interface = [
 'intro': 'Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time, allowing apps to use animations as easily as they use static images.',
 'name': 'lottie',
 'url':'https://lottiefiles.com/getting-started#',
-'extra': 'animation maker',
+'type': 'animation maker',
 'price': 'free'
     },
     {
@@ -1730,7 +1747,7 @@ user_interface = [
 'intro': 'With more than 2,200 font families all in one location, you can easily find the perfect typeface for your project. Whether it’s for your own, a client’s or your company’s design, having complete access to a broad selection of high-quality, premium type is a must.',
 'name': 'monotype library',
 'url':'https://blocsapp.com/',
-'extra': 'fonts',
+'type': 'fonts',
 'price': 'free'
     },
     {
@@ -1740,7 +1757,7 @@ user_interface = [
 
 'name': 'webflows',
 'url':'https://webflow.com/',
-'extra': 'websitebuilder',
+'type': 'websitebuilder',
 'price': 'free'
     },
     {
@@ -1749,7 +1766,7 @@ user_interface = [
 'intro': "Online app that enables designers to customize their own typeface in a few clicks.",
 'name': 'prototypo',
 'url':'https://www.prototypo.io/',
-'extra': 'fonts',
+'type': 'fonts',
 'price': 'free'
     },
     {
@@ -1758,7 +1775,7 @@ user_interface = [
 'intro': "The world's leading prototyping, collaboration & workflow platform",
 'name': 'invision',
 'url':'https://www.invisionapp.com/',
-'extra': 'prototyping + devlopment fro m design',
+'type': 'prototyping + devlopment fro m design',
 'price': 'free'
     },
     {
@@ -1767,7 +1784,7 @@ user_interface = [
 'intro': "Share your story with designs that look and feel like the real thing. Wireframe, animate, prototype, collaborate and more — it’s all right here, all in one place.",
 'name': 'Adobe xd',
 'url':'https://www.adobe.com/in/products/xd.html',
-'extra': 'ui/ux designing',
+'type': 'ui/ux designing',
 'price': 'free'
     },
     {
@@ -1828,7 +1845,7 @@ user_interface = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e9c297e87a4d000109e13d_1-t2L7WZC7hpZFexm47qzQSA-p-1600.jpeg',
-        'into': 'Collection of articles, videos, and resources made by designers at Facebook.',
+        'intro': 'Collection of articles, videos, and resources made by designers at Facebook.',
         'name': 'facebook design',
         'url': 'http://facebook.design/',
         'extra': 'Human illustrations',
@@ -1911,7 +1928,7 @@ user_interface = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5c05205a90375ebb9d52fad7_Image-p-1600.jpeg',
-        'into': 'Mix-&-match illustrations of people with a design library',
+        'intro': 'Mix-&-match illustrations of people with a design library',
         'name': 'Hummans',
         'url': 'https://www.humaaans.com/?ref=producthunt',
         'extra': 'Human illustrations',
@@ -1921,7 +1938,7 @@ user_interface = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5bf6e3d14ae3421f52814444_download.jpg',
-        'into': 'Mobbin is a hand-picked collection of the latest mobile design patterns from apps that reflect the best in design. Get inspiration from over 150 iOS apps and 8,000 patterns (screenshots from iPhone X) available on the platform. Sign up to save your favorite patterns.',
+        'intro': 'Mobbin is a hand-picked collection of the latest mobile design patterns from apps that reflect the best in design. Get inspiration from over 150 iOS apps and 8,000 patterns (screenshots from iPhone X) available on the platform. Sign up to save your favorite patterns.',
         'name': 'mobbin',
         'url': 'https://mobbin.design/',
         'extra': 'ios design pattrens',
@@ -1931,7 +1948,7 @@ user_interface = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59fc7d4b605d4b0001f003e9_marriot_copy.jpg',
-        'into': 'Take responsive screenshots with the click of button',
+        'intro': 'Take responsive screenshots with the click of button',
         'name': 'Responsive screenshorts',
         'url': 'https://responsive-screenshots.com/',
         'extra': 'Human illustrations',
@@ -1942,7 +1959,7 @@ user_interface = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5c05205a90375ebb9d52fad7_Image-p-1600.jpeg',
-        'into': 'Mix-&-match illustrations of people with a design library',
+        'intro': 'Mix-&-match illustrations of people with a design library',
         'name': 'Hummans',
         'url': 'https://www.humaaans.com/?ref=producthunt',
         'extra': 'Human illustrations',
@@ -1952,7 +1969,7 @@ user_interface = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e9bea6e87a4d000109dbd1_jakub-dziubak-394720-(1).jpg',
-        'into': 'Beautiful high quality free images and photos you can download and use for any project. No attribution required.',
+        'intro': 'Beautiful high quality free images and photos you can download and use for any project. No attribution required.',
         'name': 'unsplash',
         'url': 'https://unsplash.com/',
         'extra': 'Photos',
@@ -1963,7 +1980,7 @@ user_interface = [
     {
         'id': 0,
         'image': 'https://www.logo-designer.co/wp-content/uploads/2013/09/iStock-logo-design-identity-getty-images-Build.jpg',
-        'into': 'free photos',
+        'intro': 'free photos',
         'name': 'istock',
         'url': 'https://www.istockphoto.com/collaboration/boards/L9m43WDlbUO8O94wqUFIIA',
         'extra': 'Human illustrations',
@@ -1973,7 +1990,7 @@ user_interface = [
     {
         'id': 0,
         'image': 'https://cdn.joypixels.com/sections/coverphotos/6.0%20Release%20FINAL%20FINAL-02-min.png',
-        'into': 'New for 2020! JoyPixels 6.0 includes 3,342 originally crafted icon designs and is 100% Unicode 13 compatible. We offer the largest selection of files ranging from png, svg, iconjar, sprites, and fonts.',
+        'intro': 'New for 2020! JoyPixels 6.0 includes 3,342 originally crafted icon designs and is 100% Unicode 13 compatible. We offer the largest selection of files ranging from png, svg, iconjar, sprites, and fonts.',
         'name': 'PIXELS',
         'url': 'https://www.joypixels.com/',
         'extra': 'Emoji',
@@ -1983,7 +2000,7 @@ user_interface = [
     {
         'id': 0,
         'image': 'https://static-cdn.pixlr.com/images/pixlr-header-logo.png',
-        'into': 'Pixlr, the World’s Favorite #1 Online Photo Editor lets you edit photos right in your browser for Free. Experience next level, intuitive photo editing with AI-powered tools for quick yet professional edits',
+        'intro': 'Pixlr, the World’s Favorite #1 Online Photo Editor lets you edit photos right in your browser for Free. Experience next level, intuitive photo editing with AI-powered tools for quick yet professional edits',
         'name': 'PIXLR',
         'url': 'https://www.joypixels.com/',
         'extra': 'Emoji',
@@ -1998,7 +2015,7 @@ user_interface = [
             {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5bf6e3d14ae3421f52814444_download.jpg',
-        'into': 'Mobbin is a hand-picked collection of the latest mobile design patterns from apps that reflect the best in design. Get inspiration from over 150 iOS apps and 8,000 patterns (screenshots from iPhone X) available on the platform. Sign up to save your favorite patterns.',
+        'intro': 'Mobbin is a hand-picked collection of the latest mobile design patterns from apps that reflect the best in design. Get inspiration from over 150 iOS apps and 8,000 patterns (screenshots from iPhone X) available on the platform. Sign up to save your favorite patterns.',
         'name': 'mobbin',
         'url': 'https://mobbin.design/',
         'extra': 'ios design pattrens',
@@ -2008,7 +2025,7 @@ user_interface = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e9c90cc3e5160001ed80f0_fb.png',
-        'into': 'The best design inspiration - expertly curated for you. Muzli is a new-tab Chrome extension that instantly delivers relevant design stories and inspiration. Learn more',
+        'intro': 'The best design inspiration - expertly curated for you. Muzli is a new-tab Chrome extension that instantly delivers relevant design stories and inspiration. Learn more',
         'name': 'Muzil',
         'url': 'https://muz.li/',
         'extra': 'inspiration',
@@ -2018,7 +2035,7 @@ user_interface = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e9c297e87a4d000109e13d_1-t2L7WZC7hpZFexm47qzQSA-p-1600.jpeg',
-        'into': 'Collection of articles, videos, and resources made by designers at Facebook.',
+        'intro': 'Collection of articles, videos, and resources made by designers at Facebook.',
         'name': 'facebook design',
         'url': 'http://facebook.design/',
         'extra': 'Human illustrations',
@@ -2028,7 +2045,7 @@ user_interface = [
     {
         'id': 0,
         'image': 'https://s3.amazonaws.com/www-inside-design/uploads/2015/06/Dribbble-InVision-feature.jpg',
-        'into': 'Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.',
+        'intro': 'Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.',
         'name': 'Dribble',
         'url': 'https://dribbble.com/',
         'extra': 'Ui/Ux',
@@ -2038,7 +2055,7 @@ user_interface = [
     {
         'id': 0,
         'image': 'https://i.pinimg.com/280x280_RS/e9/f7/e1/e9f7e101e3b7484d53b2b4d5a6004740.jpg',
-        'into': 'Behance is a social media platform owned by Adobe which claims "to showcase and discover creative work"',
+        'intro': 'Behance is a social media platform owned by Adobe which claims "to showcase and discover creative work"',
         'name': 'Behance',
         'url': 'https://www.behance.net/',
         'extra': 'Ui / ux / animation / design 2d / 3d',
@@ -2048,7 +2065,7 @@ user_interface = [
     {
         'id': 0,
         'image': 'https://cdn-images-1.medium.com/max/1200/1*A0FnBy5FBoVQC02SZXLXPg.png',
-        'into': 'One-stop resource for everything related to user experience"',
+        'intro': 'One-stop resource for everything related to user experience"',
         'name': 'uxplanet',
         'url': 'https://uxplanet.org/',
         'extra': 'ux / animation / design 2d / 3d',
@@ -2064,12 +2081,258 @@ user_interface = [
 
 
 ]
-animation_images = [
+
+Stock = [
+    {
+    'image': 'https://i.pinimg.com/originals/41/a3/c5/41a3c51c1a7a7a973da81a119e2db6d3.jpg',
+    'type':'websites','name': 'music_asset',
+'start' : [
+    {
+        'id': 0,
+        'image': 'https://ichef.bbci.co.uk/news/800/cpsprodpb/2E61/production/_110537811_ec96af27-c995-4ed0-b977-9fb4f1d05d3f.jpg',
+        'intro': "The Spinner* is a service that enables you to subconsciously influence a specific person, by controlling the content on the websites he or she usually visits. The targeted person gets repetitively exposed to hundreds of items which are placed and disguised as editorial content.",
+        'type':'websites','name': 'thespinner',
+        'url': 'https://www.thespinner.net/',
+    },
+    {
+        'id': 0,
+        'image': 'https://i1.sndcdn.com/avatars-000042402560-fxpy9a-t500x500.jpg',
+        'intro': "PaponeMusic is a music label dedicated to promoting FREE music for the sole purpose of providing creators with the best songs to enhance the creativity",
+        'type':'websites','name': 'papone music',
+        'url': 'https://www.youtube.com/user/PaponeMusic',
+    },
+    {
+        'id': 0,
+        'image': 'https://i1.sndcdn.com/artworks-000105267662-86i42r-t500x500.jpg',
+        'intro': "music producer who makes music for everyone to enjoy and use for free. No charges! Please credit me in the description of your Youtube videos! If you ",
+        'type':'websites','name': 'HolFix - Royalty Free Music',
+        'url': 'https://www.youtube.com/user/holfix',
+    },
+    {
+        'id': 0,
+        'image': '  https://i1.sndcdn.com/artworks-000102769935-nkultb-t500x500.jpg',
+        'intro': "NoCopyrightSounds is a copyright free / stream safe record label, providing free to use music to the content creator community. We work with artists from around the globe",
+        'type':'websites','name': 'NoCopyrightSounds',
+        'url': 'https://www.youtube.com/user/NoCopyrightSounds',
+    },
+    {
+        'id': 0,
+        'image': 'http://dig.ccmixter.org/images/logo.png',
+        'intro': "NoCopyrightSounds is a copyright free / stream safe record label, providing free to use music to the content creator community. We work with artists from around the globe",
+        'type':'websites','name': 'NoCopyrightSounds',
+        'url': 'http://dig.ccmixter.org/',
+    },
+    {
+        'id': 0,
+        'image': 'https://incompetech.com/wordpress/wp-content/uploads/2015/02/2013janlogo.png',
+        'intro': "royality free music",
+        'type':'websites','name': 'incompetech',
+        'url': 'hhttps://incompetech.com/',
+    },
+    {
+        'id': 0,
+        'image': 'https://offeo.com/learn/wp-content/uploads/2019/03/freeplay-music.jpg',
+        'intro': "OVER 50,000 SONGS FREE FOR youtube AND MORE",
+        'type':'websites','name': 'incompetech',
+        'url': 'https://freeplaymusic.com/#/',
+    },
+]
+},
+
+    {
+        'image':'https://cdn.logo.com/hotlink-ok/logo-social.png',
+        'type':'websites','name': 'Logo',
+        'start': [
+             {
+'id': 0,
+'image':'https://images.ctfassets.net/aq13lwl6616q/7pXZyzPorK4xsex7ezbkmL/467b15c94755a21c67ad623aec9fd232/maxresdefault.jpg',
+'intro': 'Squarespaces free logo maker. Choose from thousands of design options.',
+'type':'websites','name': 'Squarespace Logo Maker',
+'url':'https://www.squarespace.com/logo',
+
+    },
+     {
+'id': 0,
+'image':'https://images.ctfassets.net/aq13lwl6616q/1bqjiu41cA1kJS6x9cQzXr/ef7072cfccbae7af67591f332207e06a/fiverr-logo-new-green-64920d4e75a1e04f4fc7988365357c16.png?w=400&h=400&q=50&fm=webp',
+'intro': 'Make a Free Logo that matches your look & feel in 5 min and only pay when satisfied!',
+'type':'websites','name': 'Fiverr logo maker',
+'url':'https://www.squarespace.com/logo#N4IghgrgLgFgpgExALgGZgDYGc4F8gAA',
+
+    },
+     {
+'id': 0,
+'image':'https://cdn.shopify.com/shopifycloud/hatchful-web/assets/5332ffcb554a06a5ecd7351a5309f011.svg',
+'intro': 'High-resolution logos in just a few clicks, no design experience necessary.',
+'type':'websites','name': 'cool fancy symbol',
+'url':'https://hatchful.shopify.com/',
+
+    },
+     {
+'id': 0,
+'image':'https://images.ctfassets.net/aq13lwl6616q/395InwAs6M2FAyXD21s0Lo/0ca13306b6dbb2b03e0ba6429a9b5440/namecheap_img.png?w=636&h=300&q=50&fm=webp',
+'intro': 'Create a free professional logo in minutes',
+'type':'websites','name': 'Namecheaps Free Logo Maker',
+'url':'https://www.namecheap.com/logo-maker/',
+
+    },
+        ]
+    },
+
+    {
+        'image': 'https://devassets.com/img/dev-assets-promo.jpg',
+        'name': 'free_developer_assets',
+        'type':'astes',
+        'start' : [
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/1LbokUAQ0rQgQTuX1z93zk/291d0a604dcf55e8068425ade74d1a5e/professions-avatars.png?w=410&h=418&q=50&fm=webp',
+        'intro': 'GIGrowing library of free avatar illustrations. Use them royalty-free for your commercial or personal ',
+        'name': 'Ultimate Avatar Library',
+        'url': 'https://limitlessdesigns.io/avatar-illustrations',
+        
+        'price': 'free',
+        'type': "avatar",
+    },
+    {
+        'id': 0,
+        'image': 'https://background-generator.com/layout_thumbs/1.png',
+        'intro': 'Make cool, free backgrounds quickly for your project with this easy to use tool.',
+        'name': 'Background Generator',
+        'url': 'https://background-generator.com/',
+        'type': 'background generator',
+        'price': 'free',
+    },
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/11LBC9qMWMFoQd4HzkFoQL/f8b485951af22e3d47b81cae07c6335e/image.png?w=636&h=300&q=50&fm=webp',
+        'intro': 'Free vector illustrations to class up your project',
+        'name': 'Free Vector Illustrations',
+        'url': 'https://icons8.com/illustrations',
+        'type': 'free illustrations',
+        'price': 'free',
+    },
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/15CE9nlVDqJdcGZjgfAtsN/c9fc44c9eafa17d9e1eb606b28a9f732/image.png?w=636&h=300&q=50&fm=webp',
+        'intro': 'Beautiful, free art and illustrations available for commercial use.',
+        'name': 'Free Stock Illustrations',
+        'url': 'https://mixkit.co/art/',
+        'type': 'illustrations',
+        'price': 'free',
+    },
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/6As3uO6qMDulI1hXHPHG3e/2200acd27a4122fa8a7745853911a4ed/image.png?w=636&h=300&q=50&fm=webp',
+        'intro': 'A collection of free images for landing pages.',
+        'name': 'LandingStock',
+        'url': 'https://landingstock.com/',
+        'type': 'illustrations',
+        'price': 'free',
+    },
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/22axf05qxm9dQbAbbYtLaH/d5c67f33edc640b35abb54bf5feff24c/image.png?w=636&h=300&q=50&fm=webp',
+        'intro': 'Free collection of beautiful, customizable patterns for all vector formats.',
+        'name': 'Beautiful & Customizable Patterns',
+        'url': 'https://lstore.graphics/paaatterns/',
+        'type': 'illustrations',
+        'price': 'free',
+    },
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/3wJpjVIhvOjtmbqQp6JpdI/5ec308fbb5055b4f2882518cdfadcfde/image.png?w=636&h=300&q=50&fm=webp',
+        'intro': 'Royalty-free designs for your website, social media, blog, and email newsletters.',
+        'name': 'Royalty Free Designs',
+        'url': 'https://getwaves.io/',
+        'type': 'illustrations',
+        'price': 'free',
+    },
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/5EJ5x6MtYpfEWBY0FY2hUi/379b3947ca4d2b47a3541a1113bd05cf/getwaves-cover-a91094679addf32c17ee7fb66d5f8215.jpg?w=786&h=443&q=50&fm=webp',
+        'intro': 'A free SVG wave generator to make unique SVG waves for your next web design.',
+        'name': 'Svg wave generator',
+        'url': 'https://delesign.com/free-designs/graphics/',
+        'type': 'illustrations',
+        'price': 'free',
+    },
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/5p24UI5cVtJierhSmaopzt/c2394a30ae7d2800067f781019ab10c9/image.png?w=636&h=300&q=50&fm=webp',
+        'intro': 'Collection of illustrations that you can use for your websites 404 page.',
+        'name': '404 Illustrations',
+        'url': 'https://www.kapwing.com/404-illustrations',
+        'type': 'illustrations',
+        'price': 'free',
+    },
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/18O3O4VWUt1QndX1JFdSC9/e175401b14981419f38ed0488623a805/image.png?w=636&h=300&q=50&fm=webp',
+        'intro': 'Free paper illustrations for personal or commercial use.',
+        'name': 'Paper Illustrations',
+        'url': 'https://iconscout.com/paper-illustrations',
+        'type': 'illustrations',
+        'price': 'free',
+    },
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/1qBOtbcmoTeaZ4rNRdsAhe/64954cd609c9419dc9345112b5cb5563/5e51ce05258ffe802886ef21_cover-1.png?w=800&h=542&q=50&fm=webp',
+        'intro': 'Open Peeps is a hand-drawn illustration library to create scenes of people.',
+        'name': 'Hand-Drawn Illustration Library',
+        'url': 'https://www.openpeeps.com/',
+        'type': 'illustrations',
+        'price': 'free',
+    },
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/4et82Ql1pqOAkmLKddAjXo/ded0c3cd3bf7fc09d0ea7519acf6dc21/image.png?w=636&h=300&q=50&fm=webp',
+        'intro': 'Colors & Fonts is a curated library of colors and fonts for digital designers and web developers.',
+        'name': 'Paper Illustrations',
+        'url': 'https://www.colorsandfonts.com/',
+        'type': 'illustrations',
+        'price': 'free',
+    },
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/7tUYkp5C3ZqF0kZxxAEhTC/1a11bd19e8dcd401ba38cc69305dc127/image.png?w=636&h=300&q=50&fm=webp',
+        'intro': 'Find, Vote, Save, Share your favorite design tools!',
+        'name': 'Ultimate Design Tools Depository',
+        'url': 'https://www.designvalley.club/',
+        'type': 'illustrations',
+        'price': 'free',
+    },
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/1JRFwk2fZ0CMZggKjzpH61/acfaa773b892e5d6caea40e44beca4f2/image.png?w=636&h=300&q=50&fm=webp',
+        'intro': 'MIT licensed (free for personal or commerical) SVG illustration images in different shapes & styles.',
+        'name': 'Free Illustrations & Icons',
+        'url': 'https://lukaszadam.com/illustrations',
+        'type': 'illustrations',
+        'price': 'free',
+    },
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/2dryfsoBtiKn5Nblx9FIVW/7526bcb9a502f224854573ab9a6509ce/image.png?w=636&h=300&q=50&fm=webp',
+        'intro': 'Gives you real world examples as to how your colors could be used in your projects.',
+        'name': 'Curated Colors in Context',
+        'url': 'https://www.happyhues.co/',
+        'type': 'illustrations',
+        'price': 'free',
+    },
+    
+    
+]
+    },
+    {
+        'image':'https://marionettestudio.com/wp-content/uploads/2016/11/22-despicable-me-2-animation-movie.jpg',
+        
+        'name': 'animation_images',
+        'start': [
     {
         
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/3aqr7XDogg9jcGnUglJYOt/05488b640b4307bf3a2e96259bc9bd39/image.png?w=636&h=300&q=50&fm=webp',
-        'into': 'Free resource of 100k high-quality faces, each entirely generated by AI.',
+        'intro': 'Free resource of 100k high-quality faces, each entirely generated by AI.',
         'name': '100,000 AI-Generated Faces',
         'type': "Ai Photos",
         'url': 'https://generated.photos/'
@@ -2078,7 +2341,7 @@ animation_images = [
     {
         'id': 0,
         'image': 'https://static.lottiefiles.com/images/og_img.jpg',
-        'into': 'Lottie animations and the tools you need to test and perfect them. Simply edit and ship your animations in just a few clicks.',
+        'intro': 'Lottie animations and the tools you need to test and perfect them. Simply edit and ship your animations in just a few clicks.',
         'name': 'lottie',
         'type': "aniamtion",
         'url': 'https://lottiefiles.com/featured'
@@ -2086,7 +2349,7 @@ animation_images = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5c05205a90375ebb9d52fad7_Image-p-1600.jpeg',
-        'into': 'Mix-&-match illustrations of people with a design library',
+        'intro': 'Mix-&-match illustrations of people with a design library',
         'name': 'Hummans',
         'type': "Human illustrations",
         'url': 'https://www.humaaans.com/?ref=producthunt'
@@ -2104,7 +2367,7 @@ animation_images = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e9bea6e87a4d000109dbd1_jakub-dziubak-394720-(1).jpg',
-        'into': 'Beautiful high quality free images and photos you can download and use for any project. No attribution required.',
+        'intro': 'Beautiful high quality free images and photos you can download and use for any project. No attribution required.',
         'name': 'unsplash',
         'url': 'https://unsplash.com/',
         'price': 'free',
@@ -2113,7 +2376,7 @@ animation_images = [
     {
         'id': 0,
         'image': 'https://www.logo-designer.co/wp-content/uploads/2013/09/iStock-logo-design-identity-getty-images-Build.jpg',
-        'into': 'free photos',
+        'intro': 'free photos',
         'name': 'istock',
         'url': 'https://www.istockphoto.com/collaboration/boards/L9m43WDlbUO8O94wqUFIIA',
         'extra': 'Human illustrations',
@@ -2123,7 +2386,7 @@ animation_images = [
     {
         'id': 0,
         'image': 'https://illlustrations.co/notebook.png',
-        'into': 'Designed 100 awesome illustrations during 100 days of illustration challenge (Now added more than 120+ illustrations). You can download all illustrations completely free and use these to design awesome - landing pages, mobile app or presentations.',
+        'intro': 'Designed 100 awesome illustrations during 100 days of illustration challenge (Now added more than 120+ illustrations). You can download all illustrations completely free and use these to design awesome - landing pages, mobile app or presentations.',
         'name': 'illustration.co',
         'url': 'https://illlustrations.co/',
         'extra': 'Human illustrations',
@@ -2133,7 +2396,7 @@ animation_images = [
     {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/22Ou5s2XiiP6SlL9pZg68a/64957a5a1aee0ccaca08b30c65ee94ab/image.png?w=636&h=300&q=50&fm=webp',
-        'into': 'High quality, royalty free video footage and art.',
+        'intro': 'High quality, royalty free video footage and art.',
         'name': 'Free Video Footage, Update Daily',
         'url': 'https://mixkit.co/',
         'extra': 'videos daily',
@@ -2143,7 +2406,7 @@ animation_images = [
     {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/2qhSA5GyzwhG0WpUYJjb51/a9223b2026797a52c9d6187da61f907c/image.png?w=800&h=413&q=50&fm=webp',
-        'into': 'Royalty free (personal or commercial use), unique and beautiful video footage.',
+        'intro': 'Royalty free (personal or commercial use), unique and beautiful video footage.',
         'name': 'Royalty Free Video Footage',
         'url': 'https://coverr.co/',
         'extra': 'photos daily',
@@ -2153,7 +2416,7 @@ animation_images = [
     {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/4ZkTkQZHZsd1FdnwJ2oeiF/c699c7ed50d4ee7905d5f759fca4efe3/image.png?w=636&h=300&q=50&fm=webp',
-        'into': 'Free stock footage for your website, promo video or anything else..',
+        'intro': 'Free stock footage for your website, promo video or anything else..',
         'name': 'Free Stock Video Footage',
         'url': 'https://www.pexels.com/videos',
         'extra': 'photos daily',
@@ -2163,7 +2426,7 @@ animation_images = [
     {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/5wB8gtukadk7CMWmMuAhuk/3d8ed5be50859e924270db679f329707/image.png?w=175&h=131&q=50&fm=webp',
-        'into': 'Animals, people, landscapes, buildings. Find illustrations by artist, title of book or periodical.',
+        'intro': 'Animals, people, landscapes, buildings. Find illustrations by artist, title of book or periodical.',
         'name': 'Old Book Illustrations',
         'url': 'https://www.oldbookillustrations.com/',
         'extra': 'photos daily',
@@ -2173,7 +2436,7 @@ animation_images = [
     {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/SSCSWWFQCXndWa3sy7G6l/d29788e796598b065dc772b0f90df355/Blog-Featured-Images-Dec-2019-11.jpg?w=700&h=400&q=50&fm=webp',
-        'into': 'Free deliver localized, personalized photography stock photos for Digital Marketing.',
+        'intro': 'Free deliver localized, personalized photography stock photos for Digital Marketing.',
         'name': 'Royalty-Free Stock Photos',
         'url': 'https://www.shotzr.com/',
         'extra': 'photos daily',
@@ -2183,7 +2446,7 @@ animation_images = [
     {
         'id': 0,
         'image': 'https://giphy.com/static/img/giphy_logo_square_social.png',
-        'into': 'GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reaction GIFs, unique GIFs and more',
+        'intro': 'GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reaction GIFs, unique GIFs and more',
         'name': 'giphy.com',
         'url': 'https://giphy.com/',
         'extra': 'Giphy',
@@ -2193,187 +2456,18 @@ animation_images = [
     
 
 ]
-free_developer_assets = [
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/1LbokUAQ0rQgQTuX1z93zk/291d0a604dcf55e8068425ade74d1a5e/professions-avatars.png?w=410&h=418&q=50&fm=webp',
-        'into': 'GIGrowing library of free avatar illustrations. Use them royalty-free for your commercial or personal ',
-        'name': 'Ultimate Avatar Library',
-        'url': 'https://limitlessdesigns.io/avatar-illustrations',
-        
-        'price': 'free',
-        'type': "avatar",
     },
     {
-        'id': 0,
-        'image': 'https://background-generator.com/layout_thumbs/1.png',
-        'into': 'Make cool, free backgrounds quickly for your project with this easy to use tool.',
-        'name': 'Background Generator',
-        'url': 'https://background-generator.com/',
-        'extra': 'background generator',
-        'price': 'free',
-    },
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/11LBC9qMWMFoQd4HzkFoQL/f8b485951af22e3d47b81cae07c6335e/image.png?w=636&h=300&q=50&fm=webp',
-        'into': 'Free vector illustrations to class up your project',
-        'name': 'Free Vector Illustrations',
-        'url': 'https://icons8.com/illustrations',
-        'extra': 'free illustrations',
-        'price': 'free',
-    },
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/15CE9nlVDqJdcGZjgfAtsN/c9fc44c9eafa17d9e1eb606b28a9f732/image.png?w=636&h=300&q=50&fm=webp',
-        'into': 'Beautiful, free art and illustrations available for commercial use.',
-        'name': 'Free Stock Illustrations',
-        'url': 'https://mixkit.co/art/',
-        'extra': 'illustrations',
-        'price': 'free',
-    },
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/6As3uO6qMDulI1hXHPHG3e/2200acd27a4122fa8a7745853911a4ed/image.png?w=636&h=300&q=50&fm=webp',
-        'into': 'A collection of free images for landing pages.',
-        'name': 'LandingStock',
-        'url': 'https://landingstock.com/',
-        'extra': 'illustrations',
-        'price': 'free',
-    },
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/22axf05qxm9dQbAbbYtLaH/d5c67f33edc640b35abb54bf5feff24c/image.png?w=636&h=300&q=50&fm=webp',
-        'into': 'Free collection of beautiful, customizable patterns for all vector formats.',
-        'name': 'Beautiful & Customizable Patterns',
-        'url': 'https://lstore.graphics/paaatterns/',
-        'extra': 'illustrations',
-        'price': 'free',
-    },
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/3wJpjVIhvOjtmbqQp6JpdI/5ec308fbb5055b4f2882518cdfadcfde/image.png?w=636&h=300&q=50&fm=webp',
-        'into': 'Royalty-free designs for your website, social media, blog, and email newsletters.',
-        'name': 'Royalty Free Designs',
-        'url': 'https://getwaves.io/',
-        'extra': 'illustrations',
-        'price': 'free',
-    },
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/5EJ5x6MtYpfEWBY0FY2hUi/379b3947ca4d2b47a3541a1113bd05cf/getwaves-cover-a91094679addf32c17ee7fb66d5f8215.jpg?w=786&h=443&q=50&fm=webp',
-        'into': 'A free SVG wave generator to make unique SVG waves for your next web design.',
-        'name': 'Svg wave generator',
-        'url': 'https://delesign.com/free-designs/graphics/',
-        'extra': 'illustrations',
-        'price': 'free',
-    },
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/5p24UI5cVtJierhSmaopzt/c2394a30ae7d2800067f781019ab10c9/image.png?w=636&h=300&q=50&fm=webp',
-        'into': 'Collection of illustrations that you can use for your websites 404 page.',
-        'name': '404 Illustrations',
-        'url': 'https://www.kapwing.com/404-illustrations',
-        'extra': 'illustrations',
-        'price': 'free',
-    },
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/18O3O4VWUt1QndX1JFdSC9/e175401b14981419f38ed0488623a805/image.png?w=636&h=300&q=50&fm=webp',
-        'into': 'Free paper illustrations for personal or commercial use.',
-        'name': 'Paper Illustrations',
-        'url': 'https://iconscout.com/paper-illustrations',
-        'extra': 'illustrations',
-        'price': 'free',
-    },
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/1qBOtbcmoTeaZ4rNRdsAhe/64954cd609c9419dc9345112b5cb5563/5e51ce05258ffe802886ef21_cover-1.png?w=800&h=542&q=50&fm=webp',
-        'into': 'Open Peeps is a hand-drawn illustration library to create scenes of people.',
-        'name': 'Hand-Drawn Illustration Library',
-        'url': 'https://www.openpeeps.com/',
-        'extra': 'illustrations',
-        'price': 'free',
-    },
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/4et82Ql1pqOAkmLKddAjXo/ded0c3cd3bf7fc09d0ea7519acf6dc21/image.png?w=636&h=300&q=50&fm=webp',
-        'into': 'Colors & Fonts is a curated library of colors and fonts for digital designers and web developers.',
-        'name': 'Paper Illustrations',
-        'url': 'https://www.colorsandfonts.com/',
-        'extra': 'illustrations',
-        'price': 'free',
-    },
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/7tUYkp5C3ZqF0kZxxAEhTC/1a11bd19e8dcd401ba38cc69305dc127/image.png?w=636&h=300&q=50&fm=webp',
-        'into': 'Find, Vote, Save, Share your favorite design tools!',
-        'name': 'Ultimate Design Tools Depository',
-        'url': 'https://www.designvalley.club/',
-        'extra': 'illustrations',
-        'price': 'free',
-    },
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/1JRFwk2fZ0CMZggKjzpH61/acfaa773b892e5d6caea40e44beca4f2/image.png?w=636&h=300&q=50&fm=webp',
-        'into': 'MIT licensed (free for personal or commerical) SVG illustration images in different shapes & styles.',
-        'name': 'Free Illustrations & Icons',
-        'url': 'https://lukaszadam.com/illustrations',
-        'extra': 'illustrations',
-        'price': 'free',
-    },
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/2dryfsoBtiKn5Nblx9FIVW/7526bcb9a502f224854573ab9a6509ce/image.png?w=636&h=300&q=50&fm=webp',
-        'into': 'Gives you real world examples as to how your colors could be used in your projects.',
-        'name': 'Curated Colors in Context',
-        'url': 'https://www.happyhues.co/',
-        'extra': 'illustrations',
-        'price': 'free',
-    },
-    
-    
-]
-logo = [
-     {
-'id': 0,
-'image':'https://images.ctfassets.net/aq13lwl6616q/7pXZyzPorK4xsex7ezbkmL/467b15c94755a21c67ad623aec9fd232/maxresdefault.jpg?w=800&h=450&q=50&fm=webp',
-'intro': 'Squarespaces free logo maker. Choose from thousands of design options.',
-'name': 'Squarespace Logo Maker',
-'url':'https://www.squarespace.com/logo',
-
-    },
-     {
-'id': 0,
-'image':'https://images.ctfassets.net/aq13lwl6616q/1bqjiu41cA1kJS6x9cQzXr/ef7072cfccbae7af67591f332207e06a/fiverr-logo-new-green-64920d4e75a1e04f4fc7988365357c16.png?w=400&h=400&q=50&fm=webp',
-'intro': 'Make a Free Logo that matches your look & feel in 5 min and only pay when satisfied!',
-'name': 'Fiverr logo maker',
-'url':'https://www.squarespace.com/logo#N4IghgrgLgFgpgExALgGZgDYGc4F8gAA',
-
-    },
-     {
-'id': 0,
-'image':'https://cdn.shopify.com/shopifycloud/hatchful-web/assets/5332ffcb554a06a5ecd7351a5309f011.svg',
-'intro': 'High-resolution logos in just a few clicks, no design experience necessary.',
-'name': 'cool fancy symbol',
-'url':'https://hatchful.shopify.com/',
-
-    },
-     {
-'id': 0,
-'image':'https://images.ctfassets.net/aq13lwl6616q/395InwAs6M2FAyXD21s0Lo/0ca13306b6dbb2b03e0ba6429a9b5440/namecheap_img.png?w=636&h=300&q=50&fm=webp',
-'intro': 'Create a free professional logo in minutes',
-'name': 'Namecheaps Free Logo Maker',
-'url':'https://www.namecheap.com/logo-maker/',
-
-    },
-]
-font = [
+        'image': 'https://betterthansuccess.com/wp-content/uploads/2016/06/font-example-1440x720.jpg',
+        'name': 'font',
+        'start' : [
     {
 'id': 0,
 'image':'https://images.ctfassets.net/aq13lwl6616q/4oMoXn0XeYnYcLbwzBLZeS/ad36c11f691a21c977fe8c1a1719c47b/fontpairings-social-thumb.jpg?w=800&h=420&q=50&fm=webp',
 'intro': 'Create and test amazing font pair combinations and see how they look in your project.',
 'name': '99 Font Pairings & Typeface Combinations',
 'url':'https://fontpairings.bypeople.com/',
+'type':'font website',
 
     },
     {
@@ -2382,6 +2476,7 @@ font = [
 'intro': 'A fancy cool ✅ font generator that helps create stylish text font styles with beautiful symbols and fancy characters for social networks & any other places.',
 'name': 'cool fancy symbol',
 'url':'https://coolsymbol.com/cool-fancy-text-generator.html',
+'type':'font website',
 
     },
     {
@@ -2390,6 +2485,7 @@ font = [
 'intro':'Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.',
 'name': 'dafront.com',
 'url': 'https://www.dafont.com/base-02.font',
+'type':'font website',
 
     }
     ,
@@ -2399,6 +2495,7 @@ font = [
 'intro': 'Free download digital fonts. Get TTF, OTF or ZIP. Free for commercial use fonts, and more.',
 'name': 'font mirror',
 'url': 'https://www.fontmirror.com',
+'type':'font website',
 
     }
     ,
@@ -2408,6 +2505,7 @@ font = [
 'intro': '23232 free fonts in 12468 families · Free licenses for commercial use · Direct font downloads',
 'name': '101 fonts',
 'url': 'https://www.1001fonts.com/signature-fonts.html',
+'type':'font website',
 
     }
     ,
@@ -2417,6 +2515,7 @@ font = [
 'intro': 'Free downloads of legally licensed fonts that are perfect for your design projects. The best place in the universe to search for amazing fonts.',
 'name': 'fontspace',
 'url': 'https://www.fontspace.com/category/shadow',
+'type':'font website',
 
     }
     ,
@@ -2426,10 +2525,14 @@ font = [
 'intro': 'https://fontflipper.com/canvas-editor',
 'name': 'font flipper',
 'url': 'https://fontflipper.com/canvas-editor',
-
+'type':'font website',
     }
 ]
-colors = [
+    },
+{
+    'image': 'https://ceblog.s3.amazonaws.com/wp-content/uploads/2018/10/25102730/best-colors-websites-3.png',
+    'name': 'colors',
+'start': [
     {
         'id': 6,
 'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5ba399a0d65e6ec06564fe74_undraw_High_five_u364.svg',
@@ -2451,71 +2554,26 @@ colors = [
 'type': 'Resources'
     },
 ]
+},
 
-music_asset = [
-    {
-        'id': 0,
-        'image': 'https://ichef.bbci.co.uk/news/800/cpsprodpb/2E61/production/_110537811_ec96af27-c995-4ed0-b977-9fb4f1d05d3f.jpg',
-        'intro': "The Spinner* is a service that enables you to subconsciously influence a specific person, by controlling the content on the websites he or she usually visits. The targeted person gets repetitively exposed to hundreds of items which are placed and disguised as editorial content.",
-        'name': 'thespinner',
-        'url': 'https://www.thespinner.net/',
-    },
-    {
-        'id': 0,
-        'image': 'https://i1.sndcdn.com/avatars-000042402560-fxpy9a-t500x500.jpg',
-        'intro': "PaponeMusic is a music label dedicated to promoting FREE music for the sole purpose of providing creators with the best songs to enhance the creativity",
-        'name': 'papone music',
-        'url': 'https://www.youtube.com/user/PaponeMusic',
-    },
-    {
-        'id': 0,
-        'image': 'https://i1.sndcdn.com/artworks-000105267662-86i42r-t500x500.jpg',
-        'intro': "music producer who makes music for everyone to enjoy and use for free. No charges! Please credit me in the description of your Youtube videos! If you ",
-        'name': 'HolFix - Royalty Free Music',
-        'url': 'https://www.youtube.com/user/holfix',
-    },
-    {
-        'id': 0,
-        'image': '  https://i1.sndcdn.com/artworks-000102769935-nkultb-t500x500.jpg',
-        'intro': "NoCopyrightSounds is a copyright free / stream safe record label, providing free to use music to the content creator community. We work with artists from around the globe",
-        'name': 'NoCopyrightSounds',
-        'url': 'https://www.youtube.com/user/NoCopyrightSounds',
-    },
-    {
-        'id': 0,
-        'image': 'http://dig.ccmixter.org/images/logo.png',
-        'intro': "NoCopyrightSounds is a copyright free / stream safe record label, providing free to use music to the content creator community. We work with artists from around the globe",
-        'name': 'NoCopyrightSounds',
-        'url': 'http://dig.ccmixter.org/',
-    },
-    {
-        'id': 0,
-        'image': 'https://incompetech.com/wordpress/wp-content/uploads/2015/02/2013janlogo.png',
-        'intro': "royality free music",
-        'name': 'incompetech',
-        'url': 'hhttps://incompetech.com/',
-    },
-    {
-        'id': 0,
-        'image': 'https://offeo.com/learn/wp-content/uploads/2019/03/freeplay-music.jpg',
-        'intro': "OVER 50,000 SONGS FREE FOR youtube AND MORE",
-        'name': 'incompetech',
-        'url': 'https://freeplaymusic.com/#/',
-    },
-]
-Artices = [
-    {
-        "programming": [
+{
+    'image': 'https://benjweinberg.files.wordpress.com/2017/08/what-is-an-definite-and-indefinite-articles-hd.png',
+    'name': 'Artices',
+    'start': [
+    
+        
             
                 {
         'id': 0,
         'image': 'https://miro.medium.com/max/1909/1*ywYwvB-aydv0Ovx7K-5P3g.jpeg',
         'intro': "A new take on the age-old question: Should you rewrite your application from scratch, or is that “the single worst strategic mistake that any software company can make”? ",
         'name': 'Lessons from 6 software rewrite stories',
+        'type': 'Artices',
         'url': 'https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22',
         },
     {
         'id': 0,
+        'type': 'Artices',
         'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
         'intro': "How to escape tutorial purgatory as a new developer — or at any time in your career.",
         'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
@@ -2523,6 +2581,7 @@ Artices = [
     },
     {
         'id': 0,
+        'type': 'Artices',
         'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
         'intro': "How to escape tutorial purgatory as a new developer — or at any time in your career.",
         'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
@@ -2530,22 +2589,74 @@ Artices = [
     },
     {
         'id': 0,
+        'type': 'Artices',
         'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
         'intro': "How to escape tutorial purgatory as a new developer — or at any time in your career.",
         'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
         'url': 'https://www.freecodecamp.org/news/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40/',
     },
             
-        ]
-    }
+      
+    
 ]
+},
+{
+    'image' : 'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191213191344/Why-Data-Structures-and-Algorithms-Are-Important-to-Learn.png',
+    'name': 'DataStructures_Algorithms',
+    'start': [
+    {
+        'id': 0,
+        'image': 'https://www.telcoma.in/en/wp-content/uploads/2019/09/Mastering-Data-Structures-Algorithms-using-C-and-C0-.jpg',
+        'intro': "Download Free Your Desired AppIntroduction to Algorithms Introduction to course. Why we write Algorithm? Who writes Algorithm? When Algorithms are written? Differences between Algorithms and Programs",
+        'type': "Youtube videos",
+        'name': 'Abdul Bari: YouTubeChannel for Algorithms',
+        'url': 'https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=2&t=0s',
+    },
+    {
+        'id': 0,
+        'image': 'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190529171221/Learning-Data-Structures-and-Algorithms-is-Important1-1024x424.png',
+        'intro': "Hey guys, we have created this channel to provide quality education to students who want to learn, grow and do something beautiful with their life",
+        'type': "Youtube videos",
+        'name': 'Data Structures and algorithms',
+        'url': 'https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s',
+    },
+    {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/1024/1*9QRFQdpO2f59GsN2KsE9XA.png',
+        'intro': "Data Structure & Algorithms course is the most easiest way, that also at free of cost. This playlist has been created by WsCube Tech to help you learn and understand the concepts of Data Structure Algorithm(DSA). All videos cover a wide range of topics and explain each topic with practical examples. You can easily learn about Data Structure Algorithm(DSA), Subscribe the channel to get the latest videos. ",
+        'type': "Youtube videos(Hindi)",
+        'name': 'Data Structures and algorithms Course',
+        'url': 'https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9',
+    },
+    {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/1024/1*9QRFQdpO2f59GsN2KsE9XA.pnghttps://i.ytimg.com/vi/CvSOaYi89B4/maxresdefault.jpg',
+        'intro': "What are algorithms and why should you care? We'll start with an overview of algorithms and then discuss two games that you could use an algorithm to solve more efficiently - the number guessing game and a route-finding game.",
+        'type': "videos + exersise",
+        'name': 'Khan Academy',
+        'url': 'https://www.khanacademy.org/computing/computer-science/algorithms',
+    },
+    {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/1000/0*ZzOeJHpQQk4RhhWW.png',
+        'intro': " Pre-requisite for this lesson is good understanding of pointers in C. In this series of lessons, we will study and implement data structures. We will be implementing these data structures in c or c++.  Pre-requisite for this lesson is good understanding of pointers in C. Watch this series on pointers before starting on this series: ",
+        'type': "Youtube videos",
+        'name': 'Data structures by mycodeschool',
+        'url': 'https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P',
+    },
 
-Graphic_deginer = [
+]
+}
+,
+{
+    'image': 'https://www.thebalancecareers.com/thmb/EzVIPY9EHd15iMMBUVwJVjIM0jI=/735x0/ScreenShot2019-08-13at12.32.30PM-a5be9aa6e07f4b1381ff525cf7a3ecad.png',
+    'name':'Graphic_deginer',
+    'start': [
     {
         'id': 0,
         'image': 'https://speckyboy.com/wp-content/uploads/2019/02/free-adobe-premier-pro-video-templates-01.jpg',
         'intro': "Video is a great way to build trust with potential clients, showcase your products in use, and add a touch of personality to your brand. But if you want to achieve results with video marketing, you need to make sure your videos stand out from the competition.",
-        'sum+up': "Free motion graphic templates",
+        'type': "Free motion graphic templates",
         'name': 'speckybou',
         'url': 'https://speckyboy.com/free-templates-adobe-premier-pro/',
     },
@@ -2553,7 +2664,7 @@ Graphic_deginer = [
         'id': 0,
         'image': 'https://creativetimblog.com/blog/wp-content/uploads/2020/02/ira-design.jpg',
         'intro': "Ira Design is a free and open-source illustration tool developed by Creative Tim that help designers to build their own amazing illustrations using awesome gradients and hand-drawn sketch components.",
-        'sum+up': "Free motion graphic templates",
+        'type': "Free motion graphic templates",
         'name': 'Ira Design ',
         'url': 'https://iradesign.io/?ref=creativetim',
     },
@@ -2561,7 +2672,7 @@ Graphic_deginer = [
         'id': 0,
         'image': 'https://creativetimblog.com/blog/wp-content/uploads/2020/02/stubborn-generator-768x576.png',
         'intro': "Stubborn is a generator for customizable illustrations that can help you:",
-        'sum+up': "illustration creator",
+        'type': "illustration creator",
         'name': 'stburn generator',
         'url': 'https://stubborn.fun/',
     },
@@ -2569,7 +2680,7 @@ Graphic_deginer = [
         'id': 0,
         'image': 'https://creativetimblog.com/blog/wp-content/uploads/2020/02/vector-creator-768x480.jpeg',
         'intro': "Vector Illustration Creator is a free tool for creating illustrations with no need for design teamwork.",
-        'sum+up': "Illustartion creator",
+        'type': "Illustartion creator",
         'name': 'Vector Illustration Creator',
         'url': 'https://icons8.com/vector-creator',
     },
@@ -2577,7 +2688,7 @@ Graphic_deginer = [
         'id': 0,
         'image': 'https://creativetimblog.com/blog/wp-content/uploads/2020/02/unnamed-file-768x363.jpg',
         'intro': "Gravit Designer is a full-featured, vector graphic design solution for designers. The program provides a set of powerful tools that help the user to unleash true creativity in designing beautiful and detailed vector imagery. It is suitable for:",
-        'sum+up': "Free motion graphic templates",
+        'type': "Free motion graphic templates",
         'name': 'Gravit designer',
         'url': 'https://www.designer.io/en/',
     },
@@ -2585,20 +2696,32 @@ Graphic_deginer = [
         'id': 0,
         'image': 'https://creativetimblog.com/blog/wp-content/uploads/2020/02/smash-768x403.png',
         'intro': "Smash Illustration Is a very nice free illustration constructor that offers more than 250 illustrations ready to help you create unique scenes.",
-        'sum+up': "Free motion graphic templates",
+        'type': "Free motion graphic templates",
         'name': 'Smash Illustration ',
         'url': 'https://usesmash.com/',
     },
 ]
+}
 
-free = [
+]
+
+
+
+
+
+
+
+freesoftware = [
  {
-     'free_courses_illegal':[
+     'name':'free_courses_illegal',
+     'image': 'https://www.learningcrux.com/logo-dark.png',
+    'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
+     'start':[
     {
         'id': 0,
         'image': 'https://freecoursesite.com/wp-content/uploads/2018/03/hjhjh.png',
         'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
-        'sum+up': "Downoload free ",
+        'type': "Downoload free ",
         'name': 'freecoursesites (illegal)',
         'url': 'https://freecoursesite.com/',
     }
@@ -2607,7 +2730,7 @@ free = [
         'id': 0,
         'image': 'https://www.learningcrux.com/logo-dark.png',
         'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
-        'sum+up': "Downoload + watch online ",
+        'type': "Downoload + watch online ",
         'name': 'Learning crux (illegal)',
         'url': 'https://www.learningcrux.com/',
     }
@@ -2616,32 +2739,38 @@ free = [
         'id': 0,
         'image': 'https://tutflix.com/wp-content/uploads/2020/06/Copy-of-Tutorials-Netflix-4.png',
         'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
-        'sum+up': "Downoload + watch online ",
+        'type': "Downoload + watch online ",
         'name': 'Learning crux (illegal)',
         'url': 'https://tutflix.com/',
     }
      ]
 },
 {
-'free_softwares_illegal' : [
+    'name':'free_softwares_illegal',
+     'image': 'https://brutalbusiness.com/wp-content/uploads/2015/12/07/GetintroPC.png',
+    'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
+'start' : [
     
         {
             'id': 0,
-            'image': 'https://brutalbusiness.com/wp-content/uploads/2015/12/07/GetIntoPC.png',
+            'image': 'https://brutalbusiness.com/wp-content/uploads/2015/12/07/GetintroPC.png',
             'intro': "Download Free Your Desired App",
-            'sum+up': "download softwares desired for your niche",
-            'name': 'get into pc (illegal)',
+            'type': "download softwares desired for your niche",
+            'name': 'get intro pc (illegal)',
             'url': 'https://tutflix.com/',
         },
     ]
 },
 {
-    'free_books_illegal' :[
+    'name':'free_books_illegal',
+     'image': 'https://www.pdfdrive.com/assets/img/logo-1.png.pagespeed.ce.vTZcG00TGG.png',
+    'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
+    'start' :[
     {
         'id': 0,
         'image': 'https://librarygenesis.pro/wp-content/uploads/2020/07/library_genesis-1200x675.png',
         'intro': "Download free books",
-        'sum+up': "download any book",
+        'type': "download any book",
         'name': 'library genisis (illegal)',
         'url': 'http://libgen.li/',
     },
@@ -2649,7 +2778,7 @@ free = [
         'id': 0,
         'image': 'https://www.pdfdrive.com/assets/img/logo-1.png.pagespeed.ce.vTZcG00TGG.png',
         'intro': "Download free books",
-        'sum+up': "Downlad any book",
+        'type': "Downlad any book",
         'name': 'pdf drive (illegal)',
         'url': 'https://www.pdfdrive.com/',
     }
@@ -2658,7 +2787,7 @@ free = [
         'id': 0,
         'image': 'https://miro.medium.com/max/1200/1*UbVgZ1J254k2E7NSsEAL9g.jpeg',
         'intro': "Download free books",
-        'sum+up': "free books and science papers",
+        'type': "free books and science papers",
         'name': 'sci hub (illegal)',
         'url': 'https://scihub.wikicn.top/',
     }
@@ -2672,61 +2801,19 @@ motivation = [
         
     }
 ]
-DataStructures_Algorithms = [
-    {
-        'id': 0,
-        'image': 'https://www.telcoma.in/en/wp-content/uploads/2019/09/Mastering-Data-Structures-Algorithms-using-C-and-C0-.jpg',
-        'intro': "Download Free Your Desired AppIntroduction to Algorithms Introduction to course. Why we write Algorithm? Who writes Algorithm? When Algorithms are written? Differences between Algorithms and Programs",
-        'sum+up': "Youtube videos",
-        'name': 'Abdul Bari: YouTubeChannel for Algorithms',
-        'url': 'https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=2&t=0s',
-    },
-    {
-        'id': 0,
-        'image': 'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190529171221/Learning-Data-Structures-and-Algorithms-is-Important1-1024x424.png',
-        'intro': "Hey guys, we have created this channel to provide quality education to students who want to learn, grow and do something beautiful with their life",
-        'sum+up': "Youtube videos",
-        'name': 'Data Structures and algorithms',
-        'url': 'https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s',
-    },
-    {
-        'id': 0,
-        'image': 'https://miro.medium.com/max/1024/1*9QRFQdpO2f59GsN2KsE9XA.png',
-        'intro': "Data Structure & Algorithms course is the most easiest way, that also at free of cost. This playlist has been created by WsCube Tech to help you learn and understand the concepts of Data Structure Algorithm(DSA). All videos cover a wide range of topics and explain each topic with practical examples. You can easily learn about Data Structure Algorithm(DSA), Subscribe the channel to get the latest videos. ",
-        'sum+up': "Youtube videos(Hindi)",
-        'name': 'Data Structures and algorithms Course',
-        'url': 'https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9',
-    },
-    {
-        'id': 0,
-        'image': 'https://miro.medium.com/max/1024/1*9QRFQdpO2f59GsN2KsE9XA.pnghttps://i.ytimg.com/vi/CvSOaYi89B4/maxresdefault.jpg',
-        'intro': "What are algorithms and why should you care? We'll start with an overview of algorithms and then discuss two games that you could use an algorithm to solve more efficiently - the number guessing game and a route-finding game.",
-        'sum+up': "videos + exersise",
-        'name': 'Khan Academy',
-        'url': 'https://www.khanacademy.org/computing/computer-science/algorithms',
-    },
-    {
-        'id': 0,
-        'image': 'https://miro.medium.com/max/1000/0*ZzOeJHpQQk4RhhWW.png',
-        'intro': " Pre-requisite for this lesson is good understanding of pointers in C. In this series of lessons, we will study and implement data structures. We will be implementing these data structures in c or c++.  Pre-requisite for this lesson is good understanding of pointers in C. Watch this series on pointers before starting on this series: ",
-        'sum+up': "Youtube videos",
-        'name': 'Data structures by mycodeschool',
-        'url': 'https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P',
-    },
 
-]
 
 youTube_channnels = [
   
     {
         "id": "1",
         'image': "https://www.technotification.com/wp-content/uploads/2017/06/Best-youtube-channels-to-learn-coding.jpg",
-        "name" : "A Little of Everything (Web Dev, Computer Science, and Musings)",
+        'type':'Youtube videos',"name" : "A Little of Everything (Web Dev, Computer Science, and Musings)",
 
         "start": [
             
             {
-                "name": "Tom Scott:",
+                'type':'Youtube videos',"name": "Tom Scott:",
                 "intro":"A science and tech focused vlog, with a general focus on computer science topics (given that the host is/was a computer programmer).",
                 "url": "https://www.youtube.com/user/enyay",
                 'id': 'UCBa659QWEk1AI4Tg--mrJ2A'
@@ -2734,95 +2821,95 @@ youTube_channnels = [
             {
                 'id': 'UCXgGY0wkgOzynnHvSEVmE3A',
                 "url": "https://www.youtube.com/user/hiteshitube",
-                "name": "Hitesh Choudhary",
+                'type':'Youtube videos',"name": "Hitesh Choudhary",
                 "intro": "An informative young man educates the user when it comes to programming languages as well as information security, along with the occasional vlog"
             },
             {
                 'id': 'UCeVMnSShP_Iviwkknt83cww',
                 "url": "https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww",
-                "name": "Code With Harry",
+                'type':'Youtube videos',"name": "Code With Harry",
                 "intro": "Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took him ages to learn (Mostly Hindi Tutorials). At Code With Harry, he provide a quick and to the point demo along with resources of anything and everything he teach. Source code and other resources are hosted on his website CodeWithHarry.com."
             },
             {
                 'id': 'UCeVMnSShP_Iviwkknt83cww',
                 "url": "https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww",
-                "name": "CS Dojo",
+                'type':'Youtube videos',"name": "CS Dojo",
                 "intro": "All type of fun content and also he left Google."
             },
             {
                 'id': 'UC4JX40jDee_tINbkjycV4Sg',
                 "url": "https://www.youtube.com/c/TechWithTim/featured",
-                "name": "Tech With Tim",
+                'type':'Youtube videos',"name": "Tech With Tim",
                 "intro": "Python Programming, Game Development, Pygame, Java Tutorials and Machine Learning. This is a list of a few of the things I love to post on my channel. My goal is share my knowledge of programming with you and allow everyone access to education for FREE."
             },
             {
                 'id': 'UC8g_o_0wHJUsp67lJA69yhg',
                 "url": "https://www.youtube.com/channel/UC8g_o_0wHJUsp67lJA69yhg",
-                "name": "Joe Parys Academy",
+                'type':'Youtube videos',"name": "Joe Parys Academy",
                 "intro": "Joe Parys’s channel features free content from his own website and Udemy, including, but not limited to, tutorials for various programming languages, cryptocurrency, growing an online business, videography, and Final Cut Pro X (A macOSe-exclusive video-editing software"
             },
             {
                 'id': 'UCyU5wkjgQYGRB0hIHMwm2Sg',
                 "url": "https://www.youtube.com/user/LevelUpTuts",
-                "name": "LevelUpTuts",
+                'type':'Youtube videos',"name": "LevelUpTuts",
                 "intro": "Scott Tolinski – producer and maintainer of the channel, friends with the people behind LearnCode.academy, Josh Owens’ Space Dojo, DevTips, and Wes Bos - aims to offer current, accessible, in-depth, high-quality content on all things web development and design with over 840+ video tutorials and counting."
             },
             {
                 'id': 'UCzyuZJ8zZ-Lhfnz41DG5qLw',
                 "url": "https://www.youtube.com/user/TheCharmefis/featured",
-                "name": "mmtuts",
+                'type':'Youtube videos',"name": "mmtuts",
                 "intro": "mmtuts (a.k.a MultiMedia Tutorials) aims to provide tutorials spanning the gamut of programming, video editing/production, animation, and graphic design."
             },
             
             {
                 'id': 'UCvjgXvBlbQiydffZU7m1_aw',
                 "url": "https://www.youtube.com/user/shiffman",
-                "name": "The Coding Train",
+                'type':'Youtube videos',"name": "The Coding Train",
                 "intro": "A seeming Jack of All Trades, Daniel Shiffman walks you through a wide range of topics like p5.js (JS, HTML, CSS), Neural Networks and Machine Learning, The Nature of Code (Simulating Natural Systems with Processing), etc. He seems to have a nice grasp on Full-Stack development and computer science."
             },
             {
                 'id': 'UCJbPGzawDH1njbqV-D5HqKw',
                 "url": "https://www.youtube.com/user/thenewboston",
-                "name": "Thenewboston",
-                "intro": "Bucky Roberts’ immensely popular channel features over 4,200 video tutorials, diving through the vast expanses known as programming, web design, game development, graphic design, and networking. For those interested, he also delves into other asides like the sciences (biology, math, physics) and DIY projects (how to build a computer, Go Kart, Beer, etc.)"
+                'type':'Youtube videos',"name": "Thenewboston",
+                "intro": "Bucky Roberts’ immensely popular channel features over 4,200 video tutorials, diving through the vast expanses known as programming, web design, game development, graphic design, and networking. For those interested, he also delves intro other asides like the sciences (biology, math, physics) and DIY projects (how to build a computer, Go Kart, Beer, etc.)"
             },
             {
                 'id': 'UC29ju8bIPH5as8OGnQzwJyA',
                 "url": "https://www.youtube.com/user/TechGuyWeb",
-                "name": "Traversy Media",
+                'type':'Youtube videos',"name": "Traversy Media",
                 "intro": "Brad Traversy, the man behind this channel/company, explores Full-Stack web development with his current tutorials on all things JavaScript (React, Redux, Node, Express, Vue, Angular, Gatsby), Python (Django), Ruby (Rails), Apollo, GraphQL, Docker, and more. He also features a Developer Discussion where he talks about the ‘soft’ side of programming, namely, dealing with your emotions, psychology, and motivation."
             },
             {
                 'id': 'UCrqAGUPPMOdo0jfQ6grikZ',
                 "url": "https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw",
-                "name": "Colt Steele",
+                'type':'Youtube videos',"name": "Colt Steele",
                 "intro": "Colt is a developer with a serious love for teaching. Colt spent a few years teaching people to program at 2 different immersive bootcamps where he helped hundreds of people become web developers and changed their lives. His graduates work at companies like Google, Salesforce, and Square. In 2016 Colt launched his Web Developer Bootcamp course, which has since gone on to become one of the best selling and top rated courses on Udemy. He was also voted Udemy’s Best New Instructor of 2016."
             },
             {
                 'id': 'UC54NcJvLCvM2CNaBjd5j6HA',
                 "url": "https://www.youtube.com/realtoughcandy",
-                "name": "Real Tough Candy",
-                "intro": "Real Tough Candy combines technical expertise with soft skills in this vlog oriented channel. Besides discussing the latest technologies and trends, RTC offers an insight into her career, delving into topics such as freelancing, work ethics, and a lot of tips for beginners. There is a video for everyone in her vast catalog."
+                'type':'Youtube videos',"name": "Real Tough Candy",
+                "intro": "Real Tough Candy combines technical expertise with soft skills in this vlog oriented channel. Besides discussing the latest technologies and trends, RTC offers an insight intro her career, delving intro topics such as freelancing, work ethics, and a lot of tips for beginners. There is a video for everyone in her vast catalog."
             }
             ,
             {
                 'id': 'UCSJbGtTlrDami-tDGPUV9-w',
                 "url": "https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w",
-                "name": "Ben Ward",
+                'type':'Youtube videos',"name": "Ben Ward",
                 "intro": " Ben is a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding."
             }
             ,
             {
                 'id': 'UC9JWnvl5ZjZv09F5RqiLptw',
                 "url": "https://www.youtube.com/ScalerAcademy",
-                "name": "Scaler Academy",
+                'type':'Youtube videos',"name": "Scaler Academy",
                 "intro": "Accelerate Your Tech Career. Learn computer programming concepts, Data Sturcutres & Algorithms from Ex-Google, Ex-Facebook instructors. Also, watch tech talks from tech leaders, live coding sessions & more."
             }
             ,
             {
                 'id': 'UCLNgu_OupwoeESgtab33CCw',
                 "url": "https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw",
-                "name": "Coding Garden with CJ",
+                'type':'Youtube videos',"name": "Coding Garden with CJ",
                 "intro": "CJ does live streams about full stack web development showcasing a wide variety of frameworks and technologies. In the streams, he shows step by step how to use those tools in creating projects. He also has tutorials about topics related to web development."
             }
             ,
@@ -2830,7 +2917,7 @@ youTube_channnels = [
             {
                 'id': 'UCCezIgC97PvUuR4_gbFUs5g',
                 "url": "https://www.youtube.com/c/Coreyms",
-                "name": "Codevolution",
+                'type':'Youtube videos',"name": "Codevolution",
                 "intro": "Mostly does React tutorial. High quality content (English)"
             },
 
@@ -2839,48 +2926,48 @@ youTube_channnels = [
     {
         "id": "2",
         'image': 'https://i.pinimg.com/originals/87/97/77/879777f0a9b857873992612a2427f814.png',
-        "name": "Computer science",
+        'type':'Youtube videos',"name": "Computer science",
         "start": [
             {
                 'id': 'UC9-y-6csu5WGm29I7JiwpnA',
                 "url": "https://www.youtube.com/user/Computerphile",
-                "name": "Computerphile",
+                'type':'Youtube videos',"name": "Computerphile",
                 "intro": "A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc."
             },
             {
                 'id': 'UCX6b17PVsYBQ0ip5gyeme-Q',
                 "url": "https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo",
-                "name": "Crash Course Computer Science",
-                "intro": "A very thorough and upbeat channel covering everything within the computer science world: from it’s history to the design decisions that went into computers, how operating systems work (or don’t work), how the internet works, how our smartphones are getting smarter, and the more mysterious subjects, like quantum computing or the present-day hacking. It also discusses algorithms and data structures, cryptography and cyber security, machine learning, and the singularity. Well-worth the lookup."
+                'type':'Youtube videos',"name": "Crash Course Computer Science",
+                "intro": "A very thorough and upbeat channel covering everything within the computer science world: from it’s history to the design decisions that went intro computers, how operating systems work (or don’t work), how the internet works, how our smartphones are getting smarter, and the more mysterious subjects, like quantum computing or the present-day hacking. It also discusses algorithms and data structures, cryptography and cyber security, machine learning, and the singularity. Well-worth the lookup."
             },
             {
                 'id': 'UCcabW7890RKJzL968QWEykA',
                 "url": "https://www.youtube.com/user/cs50tv/",
-                "name": "CS50",
+                'type':'Youtube videos',"name": "CS50",
                 "intro": "Welcome to Harvard University’s Intro to the fundamentals of computer science and the art of programming, taught with languages such as Scratch, C, and Python."
             },
             {
                 'id': 'UC0RhatS1pyxInC00YKjjBqQ',
                 "url": "https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ",
-                "name": "GeeksforGeeks",
+                'type':'Youtube videos',"name": "GeeksforGeeks",
                 "intro": "GeeksforGeeks is one of the largest portal for computer science students and professional housing nearly every concept in great detail in data structure, algorithms, operating systems, languages like C++, Java etc. Check out the website GeekforGeeks"
             },
             {
                 'id': 'UCxX9wt5FWQUAAz4UrysqK9A',
                 "url": "https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A",
-                "name": "CS Dojo",
+                'type':'Youtube videos',"name": "CS Dojo",
                 "intro": "CS Dojo is a channel with mostly programming and computer science videos. CS Dojo"
             },
             {
                 'id': 'UCWN3xxRkmTPmbKwht9FuE5A',
                 "url": "https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A",
-                "name": "Siraj Raval",
+                'type':'Youtube videos',"name": "Siraj Raval",
                 "intro": "Siraj Raval is on a mission of data literacy. Artificial Intelligence, Mathematics, Science, Technology, he simplfies these topics to help you understand how they work. Using his knowledge you can build wealth and live a happier, more meaningful life. He is the part of the fastest growing AI community in the world! He is also a Data Scientist, AI Educator, Rapper, Author, Speaker, and Founder of the School of AI."
             },
             {
                 'id': 'UCLSSymhN34xcMkihq_ULeCQ',
                 "url": "https://www.youtube.com/c/AniaKub%C3%B3w",
-                "name": "Code with Ania Kubów #JavaScriptGames",
+                'type':'Youtube videos',"name": "Code with Ania Kubów #JavaScriptGames",
                 "intro": "Learn JavaScript, React, Html, CSS and Express by making retro game in these tutorials."
             },
         ]
@@ -2888,36 +2975,36 @@ youTube_channnels = [
     {
         "id": "3",
         'image': 'https://charisintelligence.com.ng/wp-content/uploads/2020/01/learn-web-development-1024x565.jpg',
-        "name": "Web Development",
+        'type':'Youtube videos',"name": "Web Development",
         "start": [
             {
                 'id': 'UCMXPX2dNVZUIArP7r8PCO4Q',
                 "url": "https://www.youtube.com/channel/UCMXPX2dNVZUIArP7r8PCO4Q",
-                "name": "BEAM Channel",
+                'type':'Youtube videos',"name": "BEAM Channel",
                 "intro": "Follow Zachary Kessin as he shows you how to build powerful web applications using Elixir, a general-purpose programming language, and BEAM, an Erlang virtual machine (Erlang is also a general-purpose programming language)."
             },
             {
                 'id': 'UCwRXb5dUK4cvsHbx-rGzSgw',
                 "url": "https://www.youtube.com/user/derekbanas",
-                "name": "Derek Banas",
+                'type':'Youtube videos',"name": "Derek Banas",
                 "intro": "(Mostly) A beginner programmer-oriented channel that teaches users the basics or fundamentals of programming languages (C++, JS, Python, etc.)"
             },
             {
                 'id': 'UC5Wi_NYysX-LfcqT3Hq9Faw',
                 "url": "https://www.youtube.com/user/pizzapokerguy87",
-                "name": "Dylan Israel",
+                'type':'Youtube videos',"name": "Dylan Israel",
                 "intro": "Tutorials + career/industry advice."
             },
             {
                 'id': 'UCkw4JCwteGrDHIsyIIKo4tQ',
                 "url": "https://www.youtube.com/user/edurekaIN",
-                "name": "Edureka",
+                'type':'Youtube videos',"name": "Edureka",
                 "intro": "Features high-quality tutorials and lectures (available also in Hindi and Telugu) where they curate the following topics:,Big Data and Hadoop,DevOps,Block Chain,Artificial Intelligence (AI),Angular,Python,AWS,Data Science and Digital Marketing"
             },
             {
 'id': 'UCP-ijZJqrGr0drSrps-Loow',
                 "url": "https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow",
-                "name": "Logictuts",
+                'type':'Youtube videos',"name": "Logictuts",
                 "intro": "Featuring web development tutorials in the Hindi language."
             },
         ]
@@ -2925,55 +3012,55 @@ youTube_channnels = [
     {
         "id": "2",
         'image': 'https://www.delta-solutions.nl/wp-content/uploads/2019/10/full-stack-development-by-weblineindia.jpg',
-        "name": "Full stack",
+        'type':'Youtube videos',"name": "Full stack",
         "start": [
             {
                 'id': 'UCVTlvUkGslCV_h-nSAId8Sw',
                 "url": "https://www.youtube.com/user/learncodeacademy",
                 "intro": "Free, current web development tutorials covering the entire development stack (Front-End, Back-End, DevOps, Server Administration, and Deployment Stategies).",
-                "name": "LearnCode.academy"
+                'type':'Youtube videos',"name": "LearnCode.academy"
             },
             {
                 'id': 'UCwHrYi0GL6dmYaRB0StEbEA',
                 "url": "https://www.youtube.com/user/CodersGuide",
-                "name": "Neil Rowe",
+                'type':'Youtube videos',"name": "Neil Rowe",
                 "intro": "This channel features more Front-End tutorials (think HTML, CSS, JS, and Bootstrap) than Back-End (Java, building a Windows web server with IIS, PHP, and MySQL)."
             },
             {
                 'id': 'UCW5YeuERMmlnqo4oq8vwUpg',
                 "url": "https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg",
-                "name": "The Net Ninja",
-                "intro": "Inspired by the Martial Arts, Shaun focuses on getting you towards ‘black-belt’ mastery with his deep-dive into Full-Stack web development tutorials, featuring JavaScript (ES6, React & Redux, Vue, Angular, Node), Python (Django), GraphQL, MongoDB, Git & GitHub, HTML5, CSS3, and more."
+                'type':'Youtube videos',"name": "The Net Ninja",
+                "intro": "Inspired by the Martial Arts, Shaun focuses on getting you towards ‘black-belt’ mastery with his deep-dive intro Full-Stack web development tutorials, featuring JavaScript (ES6, React & Redux, Vue, Angular, Node), Python (Django), GraphQL, MongoDB, Git & GitHub, HTML5, CSS3, and more."
             },
             {
                 'id': 'UCWv7vMbMWH4-V0ZXdmDpPBA',
                 "url": "https://www.youtube.com/user/programmingwithmosh",
-                "name": "Programming with Mosh",
+                'type':'Youtube videos',"name": "Programming with Mosh",
                 "intro": " Code along with Mosh Hamedani – a software engineer with 18 years of experience – in his fun, upbeat, no-fluff video tutorials (free on YouTube, paid on his website codewithmosh) where he explores the fundamental tools needed to become a Full-Stack developer (JavaScript, Node, Angular, React, Redux, Python, C#, ASP.NET, Object-Oriented programming)"
             },
             {
                 'id': 'UCs6nmQViDpUw0nuIx9c_WvA',
                 "url": "https://www.youtube.com/user/ProgrammingKnowledge",
-                "name": "ProgrammingKnowledge",
+                'type':'Youtube videos',"name": "ProgrammingKnowledge",
                 "intro": "This channel covers a huge breadth of languages and frameworks in the context of Full-Stack development, like Git and Github, Bootstrap, Python, JavaScript, Node, Redis, Java, C#, MongoDB, MySQL, Android, ASP.NET, and many more!"
             },
             {
                 'id': 'UCFbNIlppjAuEX4znoulh0Cw',
                 "url": "https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw/",
-                "name": "Web Dev Simplified",
+                'type':'Youtube videos',"name": "Web Dev Simplified",
                 "intro": "Kyle Cook’s channel is full of videos about the most useful tools in modern web development, from HTML and CSS to database structure and even AI development for web pages; but it focuses heavily on Javascript and all the tools related with it: NodeJS, React, Express, MongoDB, the recent Deno and many more."
             },
             {
                 'id': 'UClb90NQQcskPUGDIXsQEz5Q',
                 "url": "https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q",
-                "name": "Dev Ed",
+                'type':'Youtube videos',"name": "Dev Ed",
                 "intro": "Learn web development, web design, 3d modelling, tools like figma and more without getting bored! The goes of this channel is to get you to become as creative you can be! So if you like to create video games in Unity or develop an application in node.js, stick around and have fun!"
 
             },
             {
                 'id': 'UCqrILQNl5Ed9Dz6CGMyvMTQ',
                 "url": "https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ",
-                "name": "Clever Programmer",
+                'type':'Youtube videos',"name": "Clever Programmer",
                 "intro": "These guys teach Full-Stack Web Development through a Project based approach."
             },
            
@@ -2982,54 +3069,54 @@ youTube_channnels = [
     {
         "id": "2",
         'image': 'https://i.ytimg.com/vi/f6FJTWZgoQ0/hqdefault.jpg',
-        "name": "Front-End/Design",
+        'type':'Youtube videos',"name": "Front-End/Design",
         "start": [
             {
                 'id': 'UCVyRiMvfUNMA1UPlDPzG5Ow',
                 "url": "https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow",
-                "name": "DesignCourse",
+                'type':'Youtube videos',"name": "DesignCourse",
                 "intro": "Here you can learn more about making good looking websites via Graphic Design and Front-End Development. This channel also features Full-Stack Development tutorials."
             },
             {
             'id': 'UCyIe-61Y8C4_o-zZCtO4ETQ',
                 "url": "https://www.youtube.com/user/DevTipsForDesigners",
-                "name": "DevTips",
+                'type':'Youtube videos',"name": "DevTips",
                 "intro": "The sister-channel of Fun Fun Function, this fun (and funny) design-oriented channel features tutorials and tips/opinions on all things design/front-end related like CSS, JavaScript, React, Adobe XD, and container platforms (think Docker and Kubernetes)."
             },
             {
                 'id': ' UCoebwHSTvwalADTJhps0emA',
                 "url": "https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog",
-                "name": "Online Tutorials",
+                'type':'Youtube videos',"name": "Online Tutorials",
                 "intro": "Online Tutorials and its sister channel, Creative Creations, is rich with beautiful, modular snippets of HTML5 and CSS3 design tutorials."
             },
             {
                 'id': '',
                 "url": "https://www.youtube.com/user/wesbos",
-                "name": "Wes Bos",
+                'type':'Youtube videos',"name": "Wes Bos",
                 "intro": "Follow Wes Bos as he teaches you all about Wordpress, JavaScript, CSS3, and HTML5 in his web development tutorials, his javascript30 course in which he builds 30 different projects everyday, is very popular and is recommended by many famous developers on twitter."
             },
             {
                 'id': 'UCJZv4d5rbIKd4QHMPkcABCw',
                 "url": "https://www.youtube.com/user/KepowOb/featured",
-                "name": "Kevin Powell",
+                'type':'Youtube videos',"name": "Kevin Powell",
                 "intro": "With a new video every Wednesday, I’ll be bringing you How Tos and Tutorials, and well as simple tips and tricks. I’m mostly looking to help people who are new to the world of web development."
             },
             {
                 'id': 'UC7TizprGknbDalbHplROtag',
                 "url": "https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag/featured",
-                "name": "Layout Land",
+                'type':'Youtube videos',"name": "Layout Land",
                 "intro": "Hosted by Jen Simmons. Learn what’s now possible in graphic design on the web — layout, CSS Grid, and more. A series for designers and web developers."
             },
             {
                 'id': 'UCD3KVjbb7aq2OiOffuungzw',
                 "url": "https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw",
-                "name": "DarkCode",
+                'type':'Youtube videos',"name": "DarkCode",
                 "intro": "DarkCode is a channel for Learning Web Designs, Websites Building, Ui Designs Using Only HTML5 And CSS3 and some Javascript. If you love creative designs and amazing animations, please do follow him."
             },
             {
                 'id': 'UC80PWRj_ZU8Zu0HSMNVwKWw',
                 "url": "https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw",
-                "name": "Codevolution",
+                'type':'Youtube videos',"name": "Codevolution",
                 "intro": "Codevolution is a channel for learning front end web development.The React series on this channel is one of the best react tutorials out there.It also has tutorials on Angular, ES6 and basic HTML & CSS please do follow him."
 
         
@@ -3039,37 +3126,37 @@ youTube_channnels = [
     {
         "id": "2",
     'image': 'https://images.idgesg.net/images/article/2020/03/jw_pt4_data_structure_algorithms_java_coding_programmer_2400x1600_pmdumuid_cc0_davidgoh_akindo_gettyimages_531237630_473456596-100834803-large.jpg',
-        "name": "Data Structures and Algorithms",
+        'type':'Youtube videos',"name": "Data Structures and Algorithms",
         "start": [
             {
                 'id': 'UClEEsT7DkdVO_fkrBw0OTrA',
                 "url": "https://www.youtube.com/user/mycodeschool",
-                "name": "mycodeschool",
+                'type':'Youtube videos',"name": "mycodeschool",
                 "intro": "MyCodeSchool is a channel for Learning Data structures, Programming Interview Questions, Algorithms, Recursion, Time Complexity Analysis, Mathematics for Programmers and pointers in c/c++."
             },
             {
                 'id': 'UCF7BExjT2zH_mmyqOB139Dg',
                 "url": "https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s",
-                "name": "Apni Kaksha",
+                'type':'Youtube videos',"name": "Apni Kaksha",
                 "intro": "Apni kaksha is a channel for Learning Data structures, Programming Interview Questions, Algorithms, Recursion, Time Complexity Analysis, Mathematics for Programmers and pointers in c/c++ and all interview related stuffs"
             },
           
             {
                 'id': 'UC-yuWVUplUJZvieEligKBkA',
                 "url": "https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j",
-                "name": "Naresh i Technologies",
+                'type':'Youtube videos',"name": "Naresh i Technologies",
                 "intro": "Naresh i Technologies is a channel to learn various programming languages and these video tutorials are used to learn and to be good at all the Data Structure Algorithms with their implementations in C programming language in a very clear manner."
             },
             {
                 'id': 'UCM-yUTYGmrNvKOCcAl21g3w',
                 "url": "https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w",
-                "name": "Jenny’s lectures CS/IT NET&JRF",
+                'type':'Youtube videos',"name": "Jenny’s lectures CS/IT NET&JRF",
                 "intro": "Jenny’s Lectures CS/IT NET&JRF is a Free YouTube Channel providing Computer Science / Information Technology / Computer-related tutorials including Important Computer Science Tutorials and much more. Their Data Structure and Algorithms playlist is outstanding. It is covered using C Language. The explanation is in such a manner that any newbie can easily grasp the concepts"
             },
             {
                 'id': 'UCvLEP7Hu6SHd5a2CWeQXalg',
                 "url": "https://www.youtube.com/channel/UCvLEP7Hu6SHd5a2CWeQXalg/videos",
-                "name": "Inside Code",
+                'type':'Youtube videos',"name": "Inside Code",
                 "intro": "Inside Code creates content about Data Structures and Algorithms in Python programming language."
 
         
@@ -3079,18 +3166,18 @@ youTube_channnels = [
     {
         "id": "2",
         'image': 'https://cdn.datafloq.com/cache/blog_images/1200x630/best-gitter-channels-data-science-machine-learning.jpg',
-        "name": "Machine Learning and Data Science",
+        'type':'Youtube videos',"name": "Machine Learning and Data Science",
         "start": [
             {
                 'id': 'UCYO_jab_esuFRV4b17AJtAw"',
                 "url": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
-                "name": "3Blue1Brown",
+                'type':'Youtube videos',"name": "3Blue1Brown",
                 "intro": "3blue1brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective(this channel has very good explaination about deep nural Network and CNN)"
             },
             {
                 'id': 'UCV8e2g4IWQqK71bbzGDEI4Q',
                 "url": "https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q",
-                "name": "Data Professor",
+                'type':'Youtube videos',"name": "Data Professor",
                 "intro": "This channel provides Data Science contents consisting of explainer videos and practical tutorials by Chanin Nantasenamat, Ph.D"
             },
         ]
@@ -3098,18 +3185,18 @@ youTube_channnels = [
     {
         "id": "2",
         'image': 'https://i.ytimg.com/vi/pQtdCAeHUgA/maxresdefault.jpg',
-        "name": "Game Development",
+        'type':'Youtube videos',"name": "Game Development",
         "start": [
             {
                 'id': 'UC-yuWVUplUJZvieEligKBkA',
                 "url": "https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw",
-                "name": "The Cherno",
+                'type':'Youtube videos',"name": "The Cherno",
                 "intro": "Focuses mainly on Game Development and related topics like C++ and Git."
             },
             {
                 'id': 'UC-yuWVUplUJZvieEligKBkA',
                 "url": "https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA",
-                "name": "javidx9",
+                'type':'Youtube videos',"name": "javidx9",
                 "intro": "Talks about implementations of C++ in Game Development, Networking and many more."
             },
         ]
@@ -3117,18 +3204,18 @@ youTube_channnels = [
     {
         "id": "2",
         'image':'https://www.visualcapitalist.com/wp-content/uploads/2019/10/shareable-2-1000x600.jpg',
-        "name": "Blockchain and Blockchain development",
+        'type':'Youtube videos',"name": "Blockchain and Blockchain development",
         "start": [
             {
             'id': 'UC59K-uG2A5ogwIrHw4bmlEg',
                 "url": "https://www.youtube.com/watch?v=UqQMSVfugFA&list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-",
-                "name": "Telusko",
+                'type':'Youtube videos',"name": "Telusko",
                 "intro": " Telusko is a channel where the speaker, Naveen Reddy, speaks about, and teaches various technologies. In the link to the playlist provided above, one can start learning the basics of Blockchain."
             },
             {
                 'id': 'UCY0xL8V6NzzFcwzHCgB8orQ',
                 "url": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
-                "name": "DappUniversity ",
+                'type':'Youtube videos',"name": "DappUniversity ",
                 "intro": "Dapp university is for those who are heading towards Blockchain development, that is, the development of Decentralized Applications(Dapps).These are basically websites built over blockchain."
             },
         ]
@@ -3136,12 +3223,12 @@ youTube_channnels = [
     {
         "id": "2",
         'image': 'https://cdn.ttgtmedia.com/visuals/searchMidmarketSecurity/threat_management/midmarketsecurity_article_008.jpg',
-        "name": "Bug Bounties",
+        'type':'Youtube videos',"name": "Bug Bounties",
         "start": [
             {
                 'id': 'UCQN2DsjnYH60SFBIA6IkNwg',
                 "url": "https://www.youtube.com/c/STOKfredrik/",
-                "name": "STÖK",
+                'type':'Youtube videos',"name": "STÖK",
                 "intro": " STÖK is a beginner-friendly channel for those who are looking to get started in bug bounty hunting."
             }
         ]
@@ -3165,18 +3252,14 @@ def api_pod():
 @app.route('/freecourses')
 def api_Freecourses():
     return jsonify(freecourses)
-@app.route('/mustprogrammer')
-def api_Mprogram():
-    return jsonify(Must_programmer)
+
 @app.route('/everyydaytools')
 def api_ETools():
     return jsonify(everyydaytools)
 @app.route('/gamedevelopment')
 def api_gameDev():
     return jsonify(game_development)
-@app.route('/programming')
-def api_programming():
-    return jsonify(programming)
+
 
 
 
@@ -3207,35 +3290,20 @@ def api_android_coursess():
 @app.route('/androiddevelopment/tools')
 def api_android_resourses():
     return jsonify(android_resources)
-@app.route('/machinelearning')
-def api_ML():
-    return jsonify(Machine_learning)
+
 @app.route('/Ui_Ux')
 def api_UI():
     return jsonify(user_interface)
-@app.route('/animationimage')
-def api_AnimImage():
-    return jsonify(animation_images)
-@app.route('/freedeveloperasstes')
-def api_FDA():
-    return jsonify(free_developer_assets)
-@app.route('/logo')
-def api_logo():
-    return jsonify(logo)
 
-@app.route('/font')
-def api_font():
-    return jsonify(font)
-@app.route('/color')
-def api_color():
-    return jsonify(colors)
-@app.route('/musicassets')
-def api_MusicAssets():
-    return jsonify(music_asset)
 
-@app.route('/graphicdesigner')
-def api_GraphicDesigner():
-    return jsonify(Graphic_deginer)
+
+
+@app.route('/freesoftware')
+def api_freesoftware():
+    return jsonify(freesoftware)
+
+
+
 
 @app.route('/youtubechannel')
 def api_YT():
@@ -3246,9 +3314,10 @@ def api_motivation():
 @app.route('/awesome_websites')
 def api_awesome_websites():
     return jsonify(awesome_websites)
-@app.route('/articles')
-def api_articles():
-    return jsonify(Artices)
+
+@app.route('/Stock')
+def api_Stock():
+    return jsonify(Stock)
 
 
 '''
@@ -3258,10 +3327,10 @@ def api_articles():
 
 
 
-programming = [
+programming_tools = [
             
     {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://images.ctfassets.net/aq13lwl6616q/4tfKlG1Ylr94FeVUQH5Oic/2bfef3e8d5536a47e52e6e5f50c258c8/og-square.png?w=640&h=640&q=50&fm=webp',
         'intro': "An interactive map of popular screen sizes showing the responsive and adaptive device landscape",
         'name': 'Screen Size Map',
@@ -3269,70 +3338,70 @@ programming = [
     }
     ,
     {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://images.ctfassets.net/aq13lwl6616q/5FX7FgtToDupaRBZuRFW3m/3e822bfe48221fe462ba9205ead4be9b/image.png?w=636&h=300&q=50&fm=webp',
         'intro': "Automatically remove an image background with no clicks and for free in 5 seconds.",
         'name': 'Image Background Remover',
         'url': 'https://www.remove.bg/',
     },
     {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://images.ctfassets.net/aq13lwl6616q/3D1UOB3RrnRLcTtMytmyJa/284a58d52a99d52ded174c17790daeb8/image.png?w=800&h=421&q=50&fm=webp',
         'intro': "Create and share beautiful images of your source code.",
         'name': 'Codeimg.io',
         'url': 'https://codeimg.io/',
     },
     {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://images.ctfassets.net/aq13lwl6616q/2SSyh2voG8mIcUlkpNDDbp/850fa97bd0d109fb16e318edbbfaa7db/image.png?w=636&h=300&q=50&fm=webp',
         'intro': "Free online tools for bulk image processing (resize, crop, compress and more).",
         'name': 'Bulk Image Processing',
         'url': 'https://www.imgbot.ai/',
     },
     {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://images.ctfassets.net/aq13lwl6616q/71B5MfU2Oe5l9BNITmQYYi/ca1fd6bf70dbbf19879648232f4f2497/screenshot.png?w=800&h=450&q=50&fm=webp',
         'intro': "Develop responsive web apps 5x faster. A must-have DevTool for all Front-End developers that will ma",
         'name': 'Responsively',
         'url': 'https://responsively.app/',
     },
     {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://images.ctfassets.net/aq13lwl6616q/5UJgTMBsuDqpV1JVgOryvn/59e8e7289d63ba2cd2c6eb884f18014b/image.png?w=304&h=166&q=50&fm=webp',
         'intro': "The most complete resource for the best monospace coding fonts.",
         'name': 'Programming Fonts',
         'url': 'https://app.programmingfonts.org/',
     },
     {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://images.ctfassets.net/aq13lwl6616q/11n7eqjDE3UFlt5v6OkRBT/dd0beaf8e09dc2a61c651833f3ed553f/image.png?w=800&h=416&q=50&fm=webp',
         'intro': "A tool to debug and generate meta tag code for any website.",
         'name': 'Meta Tags',
         'url': 'https://metatags.io/',
     },
     {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://images.ctfassets.net/aq13lwl6616q/4kVxycBS3keteNdBmEDsC8/abbd160757896407cd696c964719dfda/image.png?w=175&h=175&q=50&fm=webp',
         'intro': "Lorem Ipsum... but for photos.",
         'name': 'Lorem Picsum',
         'url': 'https://picsum.photos/',
     },
      {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://images.ctfassets.net/aq13lwl6616q/5iPXVJ2jpDKGyPyfcHhMJ9/36b7d3f8af92ab6703f94b6152e5c547/image.png?w=676&h=676&q=50&fm=webp',
         'intro': "Collection of open APIs (movies, weather, food, news, and more) for development",
         'name': 'Public APIs',
         'url': 'https://public-apis.xyz/',
     },
     {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://images.ctfassets.net/aq13lwl6616q/5b7A0ciaL5LU4wmb2ZYG0v/bb681d4a2c55c2b3c5aedb3479dda7e7/5aecb012-4bda-467c-9782-1ef157aec0d2?w=800&h=450&q=50&fm=webp',
         'intro': "Instantly resize and crop your photos & images for all web and social media formats with one click",
         'name': 'Free Image and Photo Resizer',
         'url': 'https://promo.com/tools/image-resizer/',
     },
     {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://images.ctfassets.net/aq13lwl6616q/1YefYhckdPwmjhjvfUhsI7/c3371fb888864ad70bb0af1b40bf54de/image.png?w=636&h=300&q=50&fm=webp',
         'intro': "Use generative art for your image placeholders.",
         'name': 'Generative Placeholders',
@@ -3344,7 +3413,7 @@ programming = [
 
 
 
-webDevelopment = [
+webDevelopment_tools = [
     {
                         'name': "http://anicollection.github.io/#/",
                         'url': "collection of copy-paste animations"
@@ -3436,9 +3505,9 @@ webDevelopment = [
 
 
 
-Graphic_deginer = [
+Graphic_deginer_tools = [
         {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://speckyboy.com/wp-content/uploads/2019/02/free-adobe-premier-pro-video-templates-01.jpg',
         'intro': "Video is a great way to build trust with potential clients, showcase your products in use, and add a touch of personality to your brand. But if you want to achieve results with video marketing, you need to make sure your videos stand out from the competition.",
         'sum+up': "Free motion graphic templates",
@@ -3446,7 +3515,7 @@ Graphic_deginer = [
         'url': 'https://speckyboy.com/free-templates-adobe-premier-pro/',
     },
     {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://creativetimblog.com/blog/wp-content/uploads/2020/02/ira-design.jpg',
         'intro': "Ira Design is a free and open-source illustration tool developed by Creative Tim that help designers to build their own amazing illustrations using awesome gradients and hand-drawn sketch components.",
         'sum+up': "Free motion graphic templates",
@@ -3454,7 +3523,7 @@ Graphic_deginer = [
         'url': 'https://iradesign.io/?ref=creativetim',
     },
     {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://creativetimblog.com/blog/wp-content/uploads/2020/02/stubborn-generator-768x576.png',
         'intro': "Stubborn is a generator for customizable illustrations that can help you:",
         'sum+up': "illustration creator",
@@ -3462,7 +3531,7 @@ Graphic_deginer = [
         'url': 'https://stubborn.fun/',
     },
     {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://creativetimblog.com/blog/wp-content/uploads/2020/02/vector-creator-768x480.jpeg',
         'intro': "Vector Illustration Creator is a free tool for creating illustrations with no need for design teamwork.",
         'sum+up': "Illustartion creator",
@@ -3470,7 +3539,7 @@ Graphic_deginer = [
         'url': 'https://icons8.com/vector-creator',
     },
     {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://creativetimblog.com/blog/wp-content/uploads/2020/02/unnamed-file-768x363.jpg',
         'intro': "Gravit Designer is a full-featured, vector graphic design solution for designers. The program provides a set of powerful tools that help the user to unleash true creativity in designing beautiful and detailed vector imagery. It is suitable for:",
         'sum+up': "Free motion graphic templates",
@@ -3478,7 +3547,7 @@ Graphic_deginer = [
         'url': 'https://www.designer.io/en/',
     },
     {
-        'id': 0,
+        'id': 0,'type':'website',
         'image': 'https://creativetimblog.com/blog/wp-content/uploads/2020/02/smash-768x403.png',
         'intro': "Smash Illustration Is a very nice free illustration constructor that offers more than 250 illustrations ready to help you create unique scenes.",
         'sum+up': "Free motion graphic templates",
@@ -3488,20 +3557,144 @@ Graphic_deginer = [
 ]
 
 
-Machine_learning = [
+Machine_learning_tools = [
+    {
+'id': 1,'type':'website',
+'image':'https://content.altexsoft.com/media/2018/05/matplotlib_interface.png',
+'intro': 'matplotlib is a Python 2D plotting library. Plotting is a visualization of machine learning data. matplotlib originates from MATLAB: Its developer John D. Hunter emulated plotting commands from Mathworks’ MATLAB software.',
+'name': 'matplotli',
+'url':'https://matplotlib.org/',
+    },
+    {
+'id': 1,'type':'website',
+'image':'https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2018/10/scikit-learn.png',
+'intro': 'Scikit-learn is for machine learning development in python. It provides a library for the Python programming language.',
+'name': 'Scikit-learn',
+'url':'http://scikit-learn.org/stable/',
+    },
+    {
+'id': 1,'type':'website',
+'image':'https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2018/10/pytorch.png',
+'intro': 'PyTorch is a Torch based, Python machine learning library. The torch is a Lua based computing framework, scripting language, and machine learning library. it helps in building neural networks through Autograd Module. It provides a variety of optimization algorithms for building neural networks. PyTorch can be used on cloud platforms. It provides distributed training, various tools, and libraries.',
+'name': 'PyTorch',
+'url':'https://pytorch.org/',
+    },
+    {
+'id': 1,'type':'website',
+'image':'https://i.ytimg.com/vi/yjprpOoH5c8/maxresdefault.jpg',
+'intro': 'TensorFlow provides a JavaScript library which helps in machine learning. APIs will help you to build and train the models.',
+'name': 'TensorFlow',
+'url':'https://www.tensorflow.org/',
+    },
+    {
+'id': 1,'type':'website',
+'image':'https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2018/10/weka.png',
+'intro': """These machine learning algorithms help in data mining.
+
+Features:
+
+Data preparation
+Classification
+Regression
+Clustering
+Visualization and
+Association rules mining.
+Pros:
+
+Provides online courses for training.
+Easy to understand algorithms.
+It is good for students as well.
+Cons:
+
+Not much documentation and online support are available""",
+'name': 'Weka',
+'url':'https://www.cs.waikato.ac.nz/ml/weka/',
+
+    },
+    {
+'id': 1,'type':'website',
+'image':'https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2018/10/keras.png',
+'intro': '''Keras is an API for neural networks. It helps in doing quick research and is written in Python.
+
+Features:
+
+It can be used for easy and fast prototyping.
+It supports convolution networks.
+It assists recurrent networks.
+It supports a combination of two networks.
+It can be run on the CPU and GPU.
+Pros:
+
+User-friendly
+Modular
+Extensible
+Cons:
+
+In order to use Keras, you must need TensorFlow, Theano, or CNTK.''',
+'name': 'Keras.io'  ,
+'url':'https://keras.io/',
+    },
+    {
+'id': 1,'type':'website',
+'image':'https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2018/10/shogun.png',
+'intro': '''Shogun provides various algorithms and data structures for machine learning. These machine learning libraries are used for research and education.
+
+Features:
+
+It provides support vector machines for regression and classification.
+It helps in implementing Hidden Markov models.
+It offers support for many languages like – Python, Octave, R, Ruby, Java, Scala, and Lua.
+Pros:
+
+It can process large data-sets.
+Easy to use.
+Provides good customer support.
+Offers good features and functionalities.''',
+'name': 'Shogun',
+'url':'https://www.rotato.xyz/',
+    },
+    {
+'id': 1,'type':'website',
+'image':'https://openai.com/content/images/2019/05/openai-cover.png',
+'intro': 'A single, unified platform, executing a broad range of use cases & methodologies. Create, test & deploy AI models on your own. Usable & Affordable AI. User-friendly & Intuitive.',
+'name': 'openai',
+'url':'https://openai.com/',
+    },
+    {
+'id': 1,'type':'website',
+'image':'https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg',
+'intro': "Artificial intelligence could be one of humanity's most useful inventions. We research and build safe AI systems that learn how to solve problems and advance",
+'name': 'deepmind',
+'url':'https://deepmind.com/',
+    },
+    {
+'id': 1,'type':'website',
+'image':'https://9to5google.com/wp-content/uploads/sites/4/2018/05/google-ai-logo.jpg',
+'intro': 'Researchers across Google are innovating across many domains. We challenge conventions and reimagine technology so that everyone can benefit.',
+'name': 'research.google',
+'url':'https://research.googleblog.com/',
+    },
     
+
 ]
-gameDevelopment = [
-    
+gameDevelopment_tools = [
+    {
+        'id': 1,
+'image':'https://digitalphotovideonews.files.wordpress.com/2014/03/28b68-3dvalley.jpg',
+'type':'Stock website',
+'intro': 'Welcome to 3Dvalley.com, a place for free 3D models, textures, tutorials and other resources for the CGI artist, since 2003.',
+'name': '3dvalley',
+'url':'http://www.3dvalley.com/',
+    }
 ]
-Ui_Ux = [
+Ui_Ux_tools = [
     {
 'id': 1,
 'image':'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5c5957de3e262c46a81b4611_Artboard%2BCopy-p-1600.png',
 'intro': 'Slick mockup movies and images for promo videos, presentations, portfolios, app store images.Showcasing like the big boys is no longer just for the big boys.',
 'name': 'Rotato',
 'url':'https://www.rotato.xyz/',
-'extra': 'mockups',
+'type': 'mockups',
 'price': 'half free'
     },
     {
@@ -3510,7 +3703,7 @@ Ui_Ux = [
 'intro': 'Bring your apps and games to life with real-time animation. Rive is a powerful design and animation tool, which allows designers and developers to easily',
 'name': 'rive 2',
 'url':'https://www.2dimensions.com/',
-'extra': 'animation',
+'type': 'animation',
 'price': 'free'
     },
     {
@@ -3519,7 +3712,7 @@ Ui_Ux = [
 'intro': 'Understand how users are really experiencing your site without drowning in numbers Traditional web analytics tools help you analyze traffic data. But numbers alone can’t tell you what users really do on your site — Hotjar will.',
 'name': 'hotjar',
 'url':'https://www.hotjar.com/?utm_expid=.EinRyQaiRjGYjFEJFTUl4Q.0&utm_referrer=',
-'extra': 'analytics',
+'type': 'analytics',
 'price': 'paid'
     },
     {
@@ -3528,7 +3721,7 @@ Ui_Ux = [
 'intro': 'Are you working with design files? Start saving time today.In all plans you can present, comment, create screen flows, and inspect Sketch, Adobe XD, Photoshop, Illustrator, & Figma files - using our web, macOS, Windows, & Linux app',
 'name': 'Avocode',
 'url':'https://avocode.com/hand-off-and-inspect',
-'extra': 'UI/UX designing',
+'type': 'UI/UX designing',
 'price': 'paid'
     },
     {
@@ -3537,7 +3730,7 @@ Ui_Ux = [
 'intro': 'Are you working with design files? Start saving time today.In all plans you can present, comment, create screen flows, and inspect Sketch, Adobe XD, Photoshop, Illustrator, & Figma files - using our web, macOS, Windows, & Linux app',
 'name': 'micro',
 'url':'https://realtimeboard.com/',
-'extra': 'team collaboration for brainstroming + video call',
+'type': 'team collaboration for brainstroming + video call',
 'price': 'free'
     },
     {
@@ -3546,7 +3739,7 @@ Ui_Ux = [
 'intro': 'To empower the work of design teams by facilitating a creative synergy through effortless collaboration.',
 'name': 'plant',
 'url':'https://plantapp.io/#about',
-'extra': 'team collaboration for brainstroming + video call',
+'type': 'team collaboration for brainstroming + video call',
 'price': 'free'
     },
     {
@@ -3555,7 +3748,7 @@ Ui_Ux = [
 'intro': 'Generate professional, customizable buyer persona documents with the help of this quick and intuitive generator.',
 'name': 'Make my persona',
 'url': 'https://www.hubspot.com/make-my-persona',
-'extra': 'personal portfolio',
+'type': 'personal portfolio',
 'price': 'free'
     },
     {
@@ -3564,7 +3757,7 @@ Ui_Ux = [
 'intro': 'Vaadin comes with a big set of web components that are fine-tuned for UX, performance, and accessibility.',
 'name': 'vaadin',
 'url':'https://vaadin.com/',
-'extra': 'web apps => java',
+'type': 'web apps => java',
 'price': 'free'
     },
     {
@@ -3573,7 +3766,7 @@ Ui_Ux = [
 'intro': 'Discover how real users interact with your prototype: define missions, collect actionable insights and analyze how your design performed, with 0 lines of code.',
 'name': 'maze',
 'url':'https://maze.design/',
-'extra': 'ui/ux testing + analytics for prototypes',
+'type': 'ui/ux testing + analytics for prototypes',
 'price': 'free 1 month trial'
     },
     {
@@ -3582,7 +3775,7 @@ Ui_Ux = [
 'intro': 'The Material Theme Editor helps you make your own branded symbol library and apply global style changes to color, shape, and typography.',
 'name': 'gallery',
 'url':'https://gallery.io/apps',
-'extra': 'matrial theme editor',
+'type': 'matrial theme editor',
 'price': 'free'
     },
     {
@@ -3591,7 +3784,7 @@ Ui_Ux = [
 'intro': "By choosing a set of 50 colors, you'll train a neural network powered algorithm to generate colors you like and block ones you don’t, right in your browser.",
 'name': 'khroma',
 'url':'http://khroma.co/',
-'extra': 'Design with colors you love. Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save.',
+'type': 'Design with colors you love. Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save.',
 'price': 'free'
     },
     {
@@ -3600,7 +3793,7 @@ Ui_Ux = [
 'intro': 'Share your ideas visually. Lightning fast.',
 'name': 'gallery',
 'url':'https://whimsical.co/',
-'extra': 'brainstrming workspace',
+'type': 'brainstrming workspace',
 'price': 'create 4 free boards '
     },
     {
@@ -3609,7 +3802,7 @@ Ui_Ux = [
 'intro': 'Piece hi-fi interactions together, build sensor-aided prototypes and share your amazing creations in a matter of minutes.',
 'name': 'protopie',
 'url':'https://www.protopie.io/',
-'extra': 'prototyping tool',
+'type': 'prototyping tool',
 'price': 'free for students'
     },
     {
@@ -3618,7 +3811,7 @@ Ui_Ux = [
 'intro': 'Blocs Website Builder Fast, easy to use and powerful visual web design software, that lets you create responsive websites without writing code.',
 'name': 'blocs',
 'url':'https://blocsapp.com/',
-'extra': 'websitebuilder',
+'type': 'websitebuilder',
 'price': 'free'
     },
     {
@@ -3627,7 +3820,7 @@ Ui_Ux = [
 'intro': 'Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time, allowing apps to use animations as easily as they use static images.',
 'name': 'lottie',
 'url':'https://lottiefiles.com/getting-started#',
-'extra': 'animation maker',
+'type': 'animation maker',
 'price': 'free'
     },
     {
@@ -3636,7 +3829,7 @@ Ui_Ux = [
 'intro': 'With more than 2,200 font families all in one location, you can easily find the perfect typeface for your project. Whether it’s for your own, a client’s or your company’s design, having complete access to a broad selection of high-quality, premium type is a must.',
 'name': 'monotype library',
 'url':'https://blocsapp.com/',
-'extra': 'fonts',
+'type': 'fonts',
 'price': 'free'
     },
     {
@@ -3646,7 +3839,7 @@ Ui_Ux = [
 
 'name': 'webflows',
 'url':'https://webflow.com/',
-'extra': 'websitebuilder',
+'type': 'websitebuilder',
 'price': 'free'
     },
     {
@@ -3655,7 +3848,7 @@ Ui_Ux = [
 'intro': "Online app that enables designers to customize their own typeface in a few clicks.",
 'name': 'prototypo',
 'url':'https://www.prototypo.io/',
-'extra': 'fonts',
+'type': 'fonts',
 'price': 'free'
     },
     {
@@ -3664,7 +3857,7 @@ Ui_Ux = [
 'intro': "The world's leading prototyping, collaboration & workflow platform",
 'name': 'invision',
 'url':'https://www.invisionapp.com/',
-'extra': 'prototyping + devlopment fro m design',
+'type': 'prototyping + devlopment fro m design',
 'price': 'free'
     },
     {
@@ -3673,7 +3866,7 @@ Ui_Ux = [
 'intro': "Share your story with designs that look and feel like the real thing. Wireframe, animate, prototype, collaborate and more — it’s all right here, all in one place.",
 'name': 'Adobe xd',
 'url':'https://www.adobe.com/in/products/xd.html',
-'extra': 'ui/ux designing',
+'type': 'ui/ux designing',
 'price': 'free'
     },
     {
@@ -3749,7 +3942,7 @@ Ui_Ux = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5c05205a90375ebb9d52fad7_Image-p-1600.jpeg',
-        'into': 'Mix-&-match illustrations of people with a design library',
+        'intro': 'Mix-&-match illustrations of people with a design library',
         'name': 'Hummans',
         'url': 'https://www.humaaans.com/?ref=producthunt',
         'extra': 'Human illustrations',
@@ -3759,7 +3952,7 @@ Ui_Ux = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5bf6e3d14ae3421f52814444_download.jpg',
-        'into': 'Mobbin is a hand-picked collection of the latest mobile design patterns from apps that reflect the best in design. Get inspiration from over 150 iOS apps and 8,000 patterns (screenshots from iPhone X) available on the platform. Sign up to save your favorite patterns.',
+        'intro': 'Mobbin is a hand-picked collection of the latest mobile design patterns from apps that reflect the best in design. Get inspiration from over 150 iOS apps and 8,000 patterns (screenshots from iPhone X) available on the platform. Sign up to save your favorite patterns.',
         'name': 'mobbin',
         'url': 'https://mobbin.design/',
         'extra': 'ios design pattrens',
@@ -3769,7 +3962,7 @@ Ui_Ux = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59fc7d4b605d4b0001f003e9_marriot_copy.jpg',
-        'into': 'Take responsive screenshots with the click of button',
+        'intro': 'Take responsive screenshots with the click of button',
         'name': 'Responsive screenshorts',
         'url': 'https://responsive-screenshots.com/',
         'extra': 'Human illustrations',
@@ -3780,7 +3973,7 @@ Ui_Ux = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5c05205a90375ebb9d52fad7_Image-p-1600.jpeg',
-        'into': 'Mix-&-match illustrations of people with a design library',
+        'intro': 'Mix-&-match illustrations of people with a design library',
         'name': 'Hummans',
         'url': 'https://www.humaaans.com/?ref=producthunt',
         'extra': 'Human illustrations',
@@ -3790,7 +3983,7 @@ Ui_Ux = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e9bea6e87a4d000109dbd1_jakub-dziubak-394720-(1).jpg',
-        'into': 'Beautiful high quality free images and photos you can download and use for any project. No attribution required.',
+        'intro': 'Beautiful high quality free images and photos you can download and use for any project. No attribution required.',
         'name': 'unsplash',
         'url': 'https://unsplash.com/',
         'extra': 'Photos',
@@ -3801,7 +3994,7 @@ Ui_Ux = [
     {
         'id': 0,
         'image': 'https://www.logo-designer.co/wp-content/uploads/2013/09/iStock-logo-design-identity-getty-images-Build.jpg',
-        'into': 'free photos',
+        'intro': 'free photos',
         'name': 'istock',
         'url': 'https://www.istockphoto.com/collaboration/boards/L9m43WDlbUO8O94wqUFIIA',
         'extra': 'Human illustrations',
@@ -3811,7 +4004,7 @@ Ui_Ux = [
     {
         'id': 0,
         'image': 'https://cdn.joypixels.com/sections/coverphotos/6.0%20Release%20FINAL%20FINAL-02-min.png',
-        'into': 'New for 2020! JoyPixels 6.0 includes 3,342 originally crafted icon designs and is 100% Unicode 13 compatible. We offer the largest selection of files ranging from png, svg, iconjar, sprites, and fonts.',
+        'intro': 'New for 2020! JoyPixels 6.0 includes 3,342 originally crafted icon designs and is 100% Unicode 13 compatible. We offer the largest selection of files ranging from png, svg, iconjar, sprites, and fonts.',
         'name': 'PIXELS',
         'url': 'https://www.joypixels.com/',
         'extra': 'Emoji',
@@ -3821,7 +4014,7 @@ Ui_Ux = [
     {
         'id': 0,
         'image': 'https://static-cdn.pixlr.com/images/pixlr-header-logo.png',
-        'into': 'Pixlr, the World’s Favorite #1 Online Photo Editor lets you edit photos right in your browser for Free. Experience next level, intuitive photo editing with AI-powered tools for quick yet professional edits',
+        'intro': 'Pixlr, the World’s Favorite #1 Online Photo Editor lets you edit photos right in your browser for Free. Experience next level, intuitive photo editing with AI-powered tools for quick yet professional edits',
         'name': 'PIXLR',
         'url': 'https://www.joypixels.com/',
         'extra': 'Emoji',
@@ -3830,7 +4023,7 @@ Ui_Ux = [
     },
 ]
 
-android = [
+android_tools = [
             {
                 'id': 6,
 'image': 'https://blog.stylingandroid.com/wp-content/uploads/2016/10/banner-Oct-2016.png',
@@ -3868,26 +4061,26 @@ android = [
 
 @app.route('/programming/tools')
 def api_programming_tools():
-    return jsonify(programming)
+    return jsonify(programming_tools)
 
 @app.route('/Ui_Ux/tools')
 def api_Ui_Ux_tools():
-    return jsonify(Ui_Ux)
+    return jsonify(Ui_Ux_tools)
 @app.route('/gameDevelopment/tools')
 def api_gameDevelopment_tools():
-    return jsonify(gameDevelopment)
+    return jsonify(gameDevelopment_tools)
 @app.route('/Graphic_deginer/tools')
 def api_Graphic_deginer_tools():
-    return jsonify(Graphic_deginer)
+    return jsonify(Graphic_deginer_tools)
 @app.route('/webDevelopment/tools')
 def api_webDevelopment_tools():
-    return jsonify(webDevelopment)
+    return jsonify(webDevelopment_tools)
 @app.route('/android/tools')
 def api_android_tools():
-    return jsonify(android)
+    return jsonify(android_tools)
 @app.route('/machine_learning/tools')
 def api_Machine_learning_tools():
-    return jsonify(Machine_learning)
+    return jsonify(Machine_learning_tools)
 
 
 
@@ -3898,7 +4091,7 @@ def api_Machine_learning_tools():
 
 
 
-Machine_learning = [
+Machine_learning_learning = [
     {
                 'id':0,
                 'image': 'https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/18-06s10.jpg',
@@ -3972,29 +4165,30 @@ Machine_learning = [
                 'url':  'https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab'
             },
 ]
-gameDevelopment= [
+gameDevelopment_learning= [
         {
-        'id': 0,
+        'id': 0,'type': 'website',
         'image': 'https://hackernoon.com/drafts/1k3j3zqp.png',
         'intro': '10 Reasons Why You Should Learn How To Develop Video Games',
+        'name': '10-reasons-why-you-should-keep-learning-game-development',
         'url': 'https://hackernoon.com/10-reasons-why-you-should-keep-learning-game-development-hf3l3zmn'
     },
     {
-        'id': 1,
+        'id': 1,'type': 'website',
         'image': 'https://blogs.unity3d.com/wp-content/uploads/2019/04/Unity-Learn-blog-header_1280x720.jpg',
         'intro': 'Unity Learn provides award-winning free tutorials, sample projects, and full courses for mastering real-time 3D development skills with Unity Learn',
         'name': 'Unity learn',
         'url':  'https://learn.unity.com/'
     },
     {
-        'id':2,
+        'id':2,'type': 'website',
         'image': 'https://cdn2.unrealengine.com/Unreal+Engine%2Fonlinelearning-courses%2FNews_UOLDec_fb_image-1200x630-520419d3e9c82ff29459b6844fb50ed0262e715c.jpg',
         'intro': 'Unreal Online Learning is a free learning platform that offers hands-on video courses and guided learning paths.',
         'name': 'unreal engine',
         'url':  'https://www.unrealengine.com/en-US/onlinelearning-courses'
     },
 ]
-webDevelopment = [
+webDevelopment_learning = [
      {
                 'id':0,
                 'image': 'https://images.ctfassets.net/aq13lwl6616q/30kC4o240eHFh0fE6n1PYH/09dbf4e8ca8e19f761a9d754ba4fa50f/image.png?w=800&h=486&q=50&fm=webp',
@@ -4036,7 +4230,7 @@ webDevelopment = [
                 'url':  'https://cssbattle.dev/'
             },
 ]
-Ui_Ux = [
+Ui_Ux_learning = [
     {
         'id': 6,
 'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5be9af00cbd406ee1caaff15_expert-advice-unfurl.png',
@@ -4093,7 +4287,7 @@ Ui_Ux = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e9c297e87a4d000109e13d_1-t2L7WZC7hpZFexm47qzQSA-p-1600.jpeg',
-        'into': 'Collection of articles, videos, and resources made by designers at Facebook.',
+        'intro': 'Collection of articles, videos, and resources made by designers at Facebook.',
         'name': 'facebook design',
         'url': 'http://facebook.design/',
         'extra': 'Human illustrations',
@@ -4102,16 +4296,24 @@ Ui_Ux = [
     },
     
 ]
-programming =[
+programming_learning =[
     {
-        'id': 0,
+        'id': 0,'type': 'website',
         'image': 'https://miro.medium.com/max/1909/1*ywYwvB-aydv0Ovx7K-5P3g.jpeg',
         'intro': "A new take on the age-old question: Should you rewrite your application from scratch, or is that “the single worst strategic mistake that any software company can make”? ",
         'name': 'Lessons from 6 software rewrite stories',
         'url': 'https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22',
         },
     {
+        'id': 0,'type': 'website',
+        'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
+        'intro': "How to escape tutorial purgatory as a new developer — or at any time in your career.",
+        'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
+        'url': 'https://www.freecodecamp.org/news/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40/',
+    },
+    {
         'id': 0,
+        'type': 'website',
         'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
         'intro': "How to escape tutorial purgatory as a new developer — or at any time in your career.",
         'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
@@ -4120,23 +4322,17 @@ programming =[
     {
         'id': 0,
         'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
-        'intro': "How to escape tutorial purgatory as a new developer — or at any time in your career.",
-        'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
-        'url': 'https://www.freecodecamp.org/news/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40/',
-    },
-    {
-        'id': 0,
-        'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
+        'type': 'website',
         'intro': "How to escape tutorial purgatory as a new developer — or at any time in your career.",
         'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
         'url': 'https://www.freecodecamp.org/news/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40/',
     },
 ]
-android = [
+android_learning = [
             {
                 'id':0,
                 'image': 'https://prod-discovery.edx-cdn.org/media/course/image/8f8e5124-1dab-47e6-8fa6-3fbdc0738f0a-762af069070e.small.jpg',
-                'intro': "This course picks up where CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
+                'intro': "This course picks up where CS50 leaves off, diving more deeply intro the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
                 'name': "CS50's Web Programming with Python and JavaScript",
                 'Return': 'free certificate',
                 'type': 'video + assigment',
@@ -4175,25 +4371,25 @@ android = [
 
 @app.route('/programming/learning')
 def api_programming_learning():
-    return jsonify(programming)
+    return jsonify(programming_learning)
 @app.route('/Ui_Ux/learning')
 def api_Ui_Ux_learning():
-    return jsonify(Ui_Ux)
+    return jsonify(Ui_Ux_learning)
 @app.route('/gameDevelopment/learning')
 def api_gameDevelopment_learning():
-    return jsonify(gameDevelopment)
+    return jsonify(gameDevelopment_learning)
 # @learning.route('/Graphic_deginer/learning')
 # def api_programming_learning():
 #     return jsonify(Graphic_deginer)
 @app.route('/webDevelopment/learning')
 def api_webDevelopment_learning():
-    return jsonify(webDevelopment)
+    return jsonify(webDevelopment_learning)
 @app.route('/android/learning')
 def api_android_learning():
-    return jsonify(android)
+    return jsonify(android_learning)
 @app.route('/machine_learning/learning')
 def api_machine_learning_learning():
-    return jsonify(Machine_learning)
+    return jsonify(Machine_learning_learning)
 
 
 
@@ -4205,11 +4401,11 @@ def api_machine_learning_learning():
 '''
      
 
-android = [
+android_courses = [
             {
                 'id':0,
                 'image': 'https://prod-discovery.edx-cdn.org/media/course/image/8f8e5124-1dab-47e6-8fa6-3fbdc0738f0a-762af069070e.small.jpg',
-                'intro': "This course picks up where CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
+                'intro': "This course picks up where CS50 leaves off, diving more deeply intro the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
                 'name': "CS50's Web Programming with Python and JavaScript",
                 'Return': 'free certificate',
                 'type': 'video + assigment',
@@ -4266,11 +4462,11 @@ android = [
             }
             
         ]
-webDevelopment = [
+webDevelopment_courses = [
     {
                 'id':0,
                 'image': 'https://prod-discovery.edx-cdn.org/media/course/image/8f8e5124-1dab-47e6-8fa6-3fbdc0738f0a-762af069070e.small.jpg',
-                'intro': "This course picks up where CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
+                'intro': "This course picks up where CS50 leaves off, diving more deeply intro the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
                 'name': "CS50's Web Programming with Python and JavaScript",
                 'Return': 'free certificate',
                 'type': 'video + assigment',
@@ -4311,11 +4507,12 @@ webDevelopment = [
             
 
 ]
-Must_programmer = [
+Must_programmer_courses = [
     {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/33tbBpGanLQYMSxpnkL7nC/02bc0ffd5053dd8b0b146faa145f37f2/Git_Branching.PNG?w=800&h=387&q=50&fm=webp',
         'intro':'Coursera Course (Not CS Specific) teach you how the mind grasp thing and how to train it to learn things as convinient and fast as possible',
+        'type': 'website',
         'name': 'Learn Git Branching Interactively',
         'url': 'https://www.coursera.org/learn/learning-how-to-learn'
     },
@@ -4323,6 +4520,7 @@ Must_programmer = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/33tbBpGanLQYMSxpnkL7nC/02bc0ffd5053dd8b0b146faa145f37f2/Git_Branching.PNG?w=800&h=387&q=50&fm=webp',
         'intro':'The most visual, interactive and fun way to learn Git on the web.',
+        'type': 'website + game',
         'name': 'Learn Git Branching Interactively',
         'url': 'https://learngitbranching.js.org/'
     },
@@ -4330,6 +4528,7 @@ Must_programmer = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/5qFgoOTACYlbYpc2pPlqjM/a0f2662b4e2a3bfc2fc30c84b7f6e963/1500x500?w=800&h=267&q=50&fm=webp',
         'intro':'Find the right git commands you need without digging through the web.',
+        'type': 'website',
         'name': 'Git Command Explorer',
         'url': 'https://gitexplorer.com/'
     },
@@ -4338,6 +4537,7 @@ Must_programmer = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/5qFgoOTACYlbYpc2pPlqjM/a0f2662b4e2a3bfc2fc30c84b7f6e963/1500x500?w=800&h=267&q=50&fm=webp',
         'intro':'Free individual licenses of the award-winning professional developer tools from JetBrains for students and faculty members.',
+        'type': 'website',
         'name': 'JetBrains Student License',
         'url': 'https://www.jetbrains.com/student/'
     },
@@ -4349,6 +4549,7 @@ Must_programmer = [
         'id': 0,
         'image': 'https://github.blog/wp-content/uploads/2014/10/4b0317bc-4599-11e4-8bc3-0ca4dd5223e8.png?resize=2284%2C889',
         'intro':'There’s no substitute for hands-on experience, but for most students, real world tools can be cost prohibitive. That’s why github created the GitHub Student Developer Pack with some of there partners and friends: to give students free access to the best developer tools in one place so they can learn by doing',
+        'type': 'website',
         'name': 'GitHub Student Developer Pack',
         'url': 'https://education.github.com/'
     },
@@ -4356,6 +4557,7 @@ Must_programmer = [
         'id': 0,
         'image': 'https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/02/college-degrees-1024x395.jpg',
         'intro':'Do developers need college degrees? Just a generation ago, it was a given that a college degree was the best way to maximize the likelihood of securing a high-paying job in the field of your choice. But the world has changed, and more and more you hear of successful developers who never earned a degree,',
+        'type': 'website',
         'name': 'Do Developers Need College Degrees?',
         'url': 'https://stackoverflow.blog/2016/10/07/do-developers-need-college-degrees/?fbclid=IwAR1H9tBaYd1zGUIam6nVQovHcJETHwoo11VHBlV8peR0JO8PJNgAHMsQqvw'
     },
@@ -4363,6 +4565,7 @@ Must_programmer = [
                 'id':0,
         'image': 'https://online-learning.harvard.edu/sites/default/files/styles/social_share/public/course/cs50x-original.jpg?itok=kR_JV8DW',
         'intro': 'An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently.',
+        'type': 'website',
         'name': 'cs50',
         'Return': 'free certificate',
         'url':  'https://www.edx.org/course/cs50s-introduction-to-computer-science'
@@ -4371,6 +4574,7 @@ Must_programmer = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/6YUQllDI9KrCgiZy8GsMnZ/c38322baa2bfc2d8af1f6ca19ae6e564/maxresdefault.jpg?w=800&h=450&q=50&fm=webp',
         'intro':'This tutorial will teach you modern git and Github',
+        'type': 'website',
         'name': 'In Depth Tutorial on Git & Github (DevOps Tools)',
         'url': 'https://www.youtube.com/watch?v=6bjCvZEX52w'
     },
@@ -4378,6 +4582,7 @@ Must_programmer = [
         'id': 0,
         'image': 'https://pr.azureedge.net/img/picresize_logo_registered.png',
         'intro': "visual representaiton of Diffrent Algorithms",
+        'type': 'website entrintment',
         'name': 'Visual Algo',
         'url': 'https://visualgo.net/en',
     }
@@ -4386,6 +4591,8 @@ Must_programmer = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/6lslLWTrtJOvT9uKL76BdA/c68fa37469f4052acc66944843ba310a/image.png?w=300&h=168&q=50&fm=webp',
         'intro': "Better understand how far computers have taken us and how far they may carry us.",
+        'type': 'free',
+        'type': 'playlist',
         'name': 'Crash Course Computer Science',
         'url': 'https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo',
     }
@@ -4394,16 +4601,17 @@ Must_programmer = [
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/2MdYGTNWLQ4qpBn9lv6Npy/700fed96c05f8149567c70aa871f9bd7/maxresdefault.jpg?w=800&h=450&q=50&fm=webp',
         'intro': "The latest edition of the fantastic, free computer science lectures from Harvard.",
+        'type': 'Youtube playlist',
         'name': 'Cs50 2020',
         'url': 'https://youtu.be/Tpl7k8IOT6E',
     }
 ]
-gameDevelopment = [
+gameDevelopment_courses = [
     {
         'id': 0,
         'image': 'https://www.telcoma.in/en/wp-content/uploads/2019/09/Mastering-Data-Structures-Algorithms-using-C-and-C0-.jpg',
         'intro': "Download Free Your Desired AppIntroduction to Algorithms Introduction to course. Why we write Algorithm? Who writes Algorithm? When Algorithms are written? Differences between Algorithms and Programs",
-        'sum+up': "Youtube videos",
+        'type': "Youtube videos",
         'name': 'Abdul Bari: YouTubeChannel for Algorithms',
         'url': 'https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=2&t=0s',
     },
@@ -4411,7 +4619,7 @@ gameDevelopment = [
         'id': 0,
         'image': 'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190529171221/Learning-Data-Structures-and-Algorithms-is-Important1-1024x424.png',
         'intro': "Hey guys, we have created this channel to provide quality education to students who want to learn, grow and do something beautiful with their life",
-        'sum+up': "Youtube videos",
+        'type': "Youtube videos",
         'name': 'Data Structures and algorithms',
         'url': 'https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s',
     },
@@ -4419,7 +4627,7 @@ gameDevelopment = [
         'id': 0,
         'image': 'https://miro.medium.com/max/1024/1*9QRFQdpO2f59GsN2KsE9XA.png',
         'intro': "Data Structure & Algorithms course is the most easiest way, that also at free of cost. This playlist has been created by WsCube Tech to help you learn and understand the concepts of Data Structure Algorithm(DSA). All videos cover a wide range of topics and explain each topic with practical examples. You can easily learn about Data Structure Algorithm(DSA), Subscribe the channel to get the latest videos. ",
-        'sum+up': "Youtube videos(Hindi)",
+        'type': "Youtube videos(Hindi)",
         'name': 'Data Structures and algorithms Course',
         'url': 'https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9',
     },
@@ -4427,7 +4635,7 @@ gameDevelopment = [
         'id': 0,
         'image': 'https://miro.medium.com/max/1024/1*9QRFQdpO2f59GsN2KsE9XA.pnghttps://i.ytimg.com/vi/CvSOaYi89B4/maxresdefault.jpg',
         'intro': "What are algorithms and why should you care? We'll start with an overview of algorithms and then discuss two games that you could use an algorithm to solve more efficiently - the number guessing game and a route-finding game.",
-        'sum+up': "videos + exersise",
+        'type': "videos + exersise",
         'name': 'Khan Academy',
         'url': 'https://www.khanacademy.org/computing/computer-science/algorithms',
     },
@@ -4435,16 +4643,16 @@ gameDevelopment = [
         'id': 0,
         'image': 'https://miro.medium.com/max/1000/0*ZzOeJHpQQk4RhhWW.png',
         'intro': " Pre-requisite for this lesson is good understanding of pointers in C. In this series of lessons, we will study and implement data structures. We will be implementing these data structures in c or c++.  Pre-requisite for this lesson is good understanding of pointers in C. Watch this series on pointers before starting on this series: ",
-        'sum+up': "Youtube videos",
+        'type': "Youtube videos",
         'name': 'Data structures by mycodeschool',
         'url': 'https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P',
     },
 ]
-Ui_Ux =[
+Ui_Ux_courses =[
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5bf6e3d14ae3421f52814444_download.jpg',
-        'into': 'Mobbin is a hand-picked collection of the latest mobile design patterns from apps that reflect the best in design. Get inspiration from over 150 iOS apps and 8,000 patterns (screenshots from iPhone X) available on the platform. Sign up to save your favorite patterns.',
+        'intro': 'Mobbin is a hand-picked collection of the latest mobile design patterns from apps that reflect the best in design. Get inspiration from over 150 iOS apps and 8,000 patterns (screenshots from iPhone X) available on the platform. Sign up to save your favorite patterns.',
         'name': 'mobbin',
         'url': 'https://mobbin.design/',
         'extra': 'ios design pattrens',
@@ -4454,7 +4662,7 @@ Ui_Ux =[
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e9c90cc3e5160001ed80f0_fb.png',
-        'into': 'The best design inspiration - expertly curated for you. Muzli is a new-tab Chrome extension that instantly delivers relevant design stories and inspiration. Learn more',
+        'intro': 'The best design inspiration - expertly curated for you. Muzli is a new-tab Chrome extension that instantly delivers relevant design stories and inspiration. Learn more',
         'name': 'Muzil',
         'url': 'https://muz.li/',
         'extra': 'inspiration',
@@ -4464,7 +4672,7 @@ Ui_Ux =[
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e9c297e87a4d000109e13d_1-t2L7WZC7hpZFexm47qzQSA-p-1600.jpeg',
-        'into': 'Collection of articles, videos, and resources made by designers at Facebook.',
+        'intro': 'Collection of articles, videos, and resources made by designers at Facebook.',
         'name': 'facebook design',
         'url': 'http://facebook.design/',
         'extra': 'Human illustrations',
@@ -4474,7 +4682,7 @@ Ui_Ux =[
     {
         'id': 0,
         'image': 'https://s3.amazonaws.com/www-inside-design/uploads/2015/06/Dribbble-InVision-feature.jpg',
-        'into': 'Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.',
+        'intro': 'Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.',
         'name': 'Dribble',
         'url': 'https://dribbble.com/',
         'extra': 'Ui/Ux',
@@ -4484,7 +4692,7 @@ Ui_Ux =[
     {
         'id': 0,
         'image': 'https://i.pinimg.com/280x280_RS/e9/f7/e1/e9f7e101e3b7484d53b2b4d5a6004740.jpg',
-        'into': 'Behance is a social media platform owned by Adobe which claims "to showcase and discover creative work"',
+        'intro': 'Behance is a social media platform owned by Adobe which claims "to showcase and discover creative work"',
         'name': 'Behance',
         'url': 'https://www.behance.net/',
         'extra': 'Ui / ux / animation / design 2d / 3d',
@@ -4494,7 +4702,7 @@ Ui_Ux =[
     {
         'id': 0,
         'image': 'https://cdn-images-1.medium.com/max/1200/1*A0FnBy5FBoVQC02SZXLXPg.png',
-        'into': 'One-stop resource for everything related to user experience"',
+        'intro': 'One-stop resource for everything related to user experience"',
         'name': 'uxplanet',
         'url': 'https://uxplanet.org/',
         'extra': 'ux / animation / design 2d / 3d',
@@ -4502,7 +4710,7 @@ Ui_Ux =[
         'type': "inspiration",
     }
 ]
-Machine_learning = [
+Machine_learning_courses = [
     {
                 'id':0,
                 'image': 'https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/18-06s10.jpg',
@@ -4583,25 +4791,25 @@ Machine_learning = [
 
 @app.route('/programming/courses')
 def api_programming_courses():
-    return jsonify(Must_programmer)
+    return jsonify(Must_programmer_courses)
 @app.route('/Ui_Ux/courses')
 def api_Ui_Ux_courses():
-    return jsonify(Ui_Ux)
+    return jsonify(Ui_Ux_courses)
 @app.route('/gameDevelopment/courses')
 def api_gameDevelopment_courses():
-    return jsonify(gameDevelopment)
+    return jsonify(gameDevelopment_courses)
 # @courses.route('/Graphic_deginer/courses')
 # def api_programming_courses():
 #     return jsonify(Graphic_deginer)
 @app.route('/webDevelopment/courses')
 def api_webDevelopment_courses():
-    return jsonify(webDevelopment)
+    return jsonify(webDevelopment_courses)
 @app.route('/android/courses')
 def api_android_courses():
-    return jsonify(android)
+    return jsonify(android_courses)
 @app.route('/machine_learning/courses')
 def api_Machine_learning_courses():
-    return jsonify(Machine_learning)
+    return jsonify(Machine_learning_courses)
 
 
 
