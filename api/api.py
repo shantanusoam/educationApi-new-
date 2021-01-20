@@ -2085,8 +2085,9 @@ user_interface = [
 Stock = [
     {
     'image': 'https://i.pinimg.com/originals/41/a3/c5/41a3c51c1a7a7a973da81a119e2db6d3.jpg',
-    'type':'websites','name': 'music_asset',
-'start' : [
+    'type':'websites',
+    'name': 'music_asset',
+    'start' : [
     {
         'id': 0,
         'image': 'https://ichef.bbci.co.uk/news/800/cpsprodpb/2E61/production/_110537811_ec96af27-c995-4ed0-b977-9fb4f1d05d3f.jpg',
@@ -2141,9 +2142,21 @@ Stock = [
 
     {
         'image':'https://cdn.logo.com/hotlink-ok/logo-social.png',
-        'type':'websites','name': 'Logo',
+        'type':'websites',
+        'name': 'Logo',
         'start': [
              {
+                 
+'id': 0,
+'image':'https://d16kg6xo62zbe.cloudfront.net/site-picture/463x256/i/instantlogosearch.com.png',
+'intro': 'thousands of free brands logos ( SVG - PNG )',
+'type':'websites',
+'name': 'Instant Logo Search',
+'url':'http://instantlogosearch.com/',
+
+    },
+             {
+
 'id': 0,
 'image':'https://images.ctfassets.net/aq13lwl6616q/7pXZyzPorK4xsex7ezbkmL/467b15c94755a21c67ad623aec9fd232/maxresdefault.jpg',
 'intro': 'Squarespaces free logo maker. Choose from thousands of design options.',
@@ -2713,7 +2726,7 @@ Stock = [
 
 freesoftware = [
  {
-     'name':'free_courses_illegal',
+     'name':'free_courses',
      'image': 'https://www.learningcrux.com/logo-dark.png',
     'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
      'start':[
@@ -4399,6 +4412,7 @@ def api_machine_learning_learning():
 '''
 \*//////////////////////////////////////////////////////---------- courses ----------////////////////////////////////*/
 '''
+ 
      
 
 android_courses = [
