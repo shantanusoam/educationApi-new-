@@ -206,10 +206,90 @@ api_ = [
 Podcasts = [
     {
         
-     'image': 'https://i.ytimg.com/vi/V2P7pC3e-_M/maxresdefault.jpg',
-     'intro': 'Julia Ferraioli says if you’re already dealing with blurry vision, making something blurry bigger, isn’t necessarily going to help that much.',
-     'type':'websites','name': 'EBU Access Cast',
+     'image': 'https://pbs.twimg.com/profile_images/1143571889681588224/zGPH4uEj.png',
+     'intro': 'General career advice for beginner to intermediate-level coders.',
+     'type':'website ComputerScience',
+     'name': 'No BS Engineering',
+     'url': 'https://nobsengineering.com/'
+    },
+    {
+        
+     'image': 'https://s3.amazonaws.com/heroku-www-files/podcasts/uploads/software_engineering_daily.png',
+     'intro': 'Software development topics including technical interviews.',
+     'type':'website ComputerScience',
+     'name': 'Software Engineering daily',
+     'url': 'https://softwareengineeringdaily.com/'
+    },
+    {
+        
+     'image': 'https://s3.amazonaws.com/codenewbie-assets/basecs+podcast+cover+7+small.png',
+     'intro': 'Beginner-friendly computer science lessons based on Vaidehi Joshi’s base.cs blog series, produced by CodeNewbie.',
+     'type':'website ComputerScience',
+     'name': 'Base.cs Podcast',
+     'url': 'https://www.codenewbie.org/basecs'
+    },
+    {
+        
+     'image': 'https://files.realpython.com/media/Real-Python-Podcast_BLUE_Waterkmarked.b5ff55c349bd.jpg',
+     'intro': 'A weekly Python podcast hosted by Christopher Bailey with interviews, coding tips, and conversation with guests from the Python community. The show covers a wide range of topics including Python programming best practices, career tips, and related software development topics',
+     'type':'websites Python',
+     'name': 'Real Python Talk',
      'url': 'http://ebuaccesscast.libsyn.com/'
+    },
+    {
+        
+     'image': 'https://i.ytimg.com/vi/Tlf4JWiZVFA/maxresdefault.jpg',
+     'intro': 'Every week a new episode provides useful and informative insights into the projects, platforms, and practices that engineers, business leaders, and data scientists need to know about to learn and grow in their career.',
+     'type':'websites Python',
+     'name': 'pythonpodcast',
+     'url': 'https://www.pythonpodcast.com/'
+    },
+    {
+        
+     'image': 'https://pbcdn1.podbean.com/imglogo/dir-logo/327316/327316_300x300.png',
+     'intro': 'If you are looking for a 15 minute conversation on the topical items of the week in the Python ecosystem, be sure to jump over to Python Bytes.',
+     'type':'websites',
+     'name': 'Python Bytes',
+     'url': 'https://pythonbytes.fm/'
+    },
+    {
+        
+     'image': 'https://talkpython.fm/static/img/talk_python_logo_mic.png',
+     'intro': 'The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps). The format is a casual 45 minute conversation with industry experts.',
+     'type':'websites',
+     'name': 'Talk Python To Me',
+     'url': 'https://talkpython.fm/'
+    },
+    {
+        
+     'image': 'https://darknetdiaries.com/imgs/darknet-diaries-sm.jpg',
+     'intro': 'InfoSec / CyberSecurity Darknet Diaries is a podcast covering true stories from the dark side of the Internet. Stories about hackers, defenders, threats, malware, botnets, breaches, and privacy',
+     'type':'websites InfoSec / CyberSecurity',
+     'name': 'Darknet Diaries',
+     'url': 'https://darknetdiaries.com/'
+    },
+    {
+        
+     'image': 'https://s3.amazonaws.com/devchat.tv/viewsonvue.jpg',
+     'intro': 'A weekly discussion among Vue developers about Vue and it’s ecosyste',
+     'type':'websites Vue (JavaScript framework)',
+     'name': 'Views on Vue',
+     'url': 'https://devchat.tv/views-on-vue/'
+    },
+    {
+        
+     'image': 'https://designm.ag/wp-content/uploads/2015/10/developer-tea.jpg',
+     'intro': 'Provides advice and tips on becoming a better developer.',
+     'type':'websites Mindset/Self-Development',
+     'name': 'Developer Tea',
+     'url': 'https://spec.fm/podcasts/developer-tea'
+    },
+    {
+        
+     'image': 'https://www.devshows.dev/static/d376585cbfb41ab6eb4ef65daaa17e2b/c972b/js-party.png',
+     'intro': 'A community celebration of JavaScript and the web. Created by the Changelog Developer Community. It records live every Thursday at 1 pm Eastern / 10 am Pacific U.S. time.',
+     'type':'websites','name': 'JS Party',
+     'url': 'https://changelog.com/jsparty'
     },
     {
         
@@ -245,9 +325,65 @@ Podcasts = [
     },
     {
         'id': 5,
+        'image':    'https://miro.medium.com/max/3200/1*op8UQr4cvuoQEdPSiyO8zQ.jpeg',
+        'intro':    'React Native Radio. Exploring React Native Together. Listen & Subscribe. Recent Episodes. RNR 185 - Navigation with Graham Mendick. In this episode, the',
+        'type':'websites','name': 'reactnativeradio',
+        'url': 'https://reactnativeradio.com/',
+    },
+    {
+        'id': 5,
+        'image':    'https://syntax.fm/static/syntax-banner.png',
+        'intro':    'The amazing Wes Bos & Scott Tolinksi hosts a podcast covering web development, front-end, the process of learning, and business. You can also find their episodes on various apps like Spotify etc.',
+        'type':'websites',
+        'name': 'Syntax.fm',
+        'url': 'https://syntax.fm/',
+    },
+     {
+        'id': 5,
+        'image':    'https://s3.amazonaws.com/devchat.tv/reactroundup.jpg',
+        'intro':    'On this episode of React Round Up we talked to Dragos Bulugean about starting your own business, and managing really big apps.',
+        'type':'websites',
+        'name': 'reactroundup',
+        'url': 'https://devchat.tv/podcasts/react-round-up/',
+    },
+     {
+        'id': 5,
         'image':    'https://media.simplecast.com/episode/image/324092/thumb_1602263739-artwork.jpg',
         'intro':    'The Laracasts Snippet, each episode, offers a single thought on some aspect of web development. Nothing more, nothing less. Hosted by Jeffrey Way.',
-        'type':'websites','name': 'the laracasts snippet',
+        'type':'websites',
+        'name': 'Real Talk JavaScript',
+        'url': 'https://webrush.simplecast.com/',
+    },
+     {
+        'id': 5,
+        'image':    'https://media.simplecast.com/episode/image/324092/thumb_1602263739-artwork.jpg',
+        'intro':    'The Laracasts Snippet, each episode, offers a single thought on some aspect of web development. Nothing more, nothing less. Hosted by Jeffrey Way.',
+        'type':'websites',
+        'name': 'the laracasts snippet',
+        'url': 'https://laracasts.simplecast.fm/',
+    },
+     {
+        'id': 5,
+        'image':    'https://media.simplecast.com/episode/image/324092/thumb_1602263739-artwork.jpg',
+        'intro':    'The Laracasts Snippet, each episode, offers a single thought on some aspect of web development. Nothing more, nothing less. Hosted by Jeffrey Way.',
+        'type':'websites',
+        'name': 'the laracasts snippet',
+        'url': 'https://laracasts.simplecast.fm/',
+    },
+     {
+        'id': 5,
+        'image':    'https://media.simplecast.com/episode/image/324092/thumb_1602263739-artwork.jpg',
+        'intro':    'The Laracasts Snippet, each episode, offers a single thought on some aspect of web development. Nothing more, nothing less. Hosted by Jeffrey Way.',
+        'type':'websites',
+        'name': 'the laracasts snippet',
+        'url': 'https://laracasts.simplecast.fm/',
+    },
+     {
+        'id': 5,
+        'image':    'https://media.simplecast.com/episode/image/324092/thumb_1602263739-artwork.jpg',
+        'intro':    'The Laracasts Snippet, each episode, offers a single thought on some aspect of web development. Nothing more, nothing less. Hosted by Jeffrey Way.',
+        'type':'websites',
+        'name': 'the laracasts snippet',
         'url': 'https://laracasts.simplecast.fm/',
     },
 ]
