@@ -1809,240 +1809,213 @@ Machine_learning_main = [
 
 user_interface = [
     {
-'id': 1,
-'image':'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5c5957de3e262c46a81b4611_Artboard%2BCopy-p-1600.png',
-'intro': 'Slick mockup movies and images for promo videos, presentations, portfolios, app store images.Showcasing like the big boys is no longer just for the big boys.',
-'name': 'Rotato',
-'url':'https://www.rotato.xyz/',
-'type': 'mockups',
-'price': 'half free'
-    },
-    {
-'id': 2,
-'image': 'https://miro.medium.com/max/1600/1*oxxU6j6GXYODNT2is-KU6Q.gif',
-'intro': 'Bring your apps and games to life with real-time animation. Rive is a powerful design and animation tool, which allows designers and developers to easily',
-'name': 'rive 2',
-'url':'https://www.2dimensions.com/',
-'type': 'animation',
-'price': 'free'
-    },
-    {
-        'id': 3,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5bf6e0c690b6c76a53804bdc_answers_calculator.png',
-'intro': 'Understand how users are really experiencing your site without drowning in numbers Traditional web analytics tools help you analyze traffic data. But numbers alone can’t tell you what users really do on your site — Hotjar will.',
-'name': 'hotjar',
-'url':'https://www.hotjar.com/?utm_expid=.EinRyQaiRjGYjFEJFTUl4Q.0&utm_referrer=',
-'type': 'analytics',
-'price': 'paid'
-    },
-    {
-        'id': 4,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5be9b020d015a1f9ec9a5442_banner-2.png',
-'intro': 'Are you working with design files? Start saving time today.In all plans you can present, comment, create screen flows, and inspect Sketch, Adobe XD, Photoshop, Illustrator, & Figma files - using our web, macOS, Windows, & Linux app',
-'name': 'Avocode',
-'url':'https://avocode.com/hand-off-and-inspect',
-'type': 'UI/UX designing',
-'price': 'paid'
+        'id': 2,
+        'image': 'https://miro.medium.com/max/1600/1*oxxU6j6GXYODNT2is-KU6Q.gif',
+        'intro': 'Bring your apps and games to life with real-time animation. Rive is a powerful design and animation tool, which allows designers and developers to easily',
+        'name': 'rive 2',
+        'url':'https://www.2dimensions.com/',
+        'type': 'animation',
+        'price': 'free'
     },
     {
         'id': 5,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5bc453b95a68ee5fe21bc6b4_Screen%20Shot%202018-10-15%20at%2010.45.18%20AM.png',
-'intro': 'Are you working with design files? Start saving time today.In all plans you can present, comment, create screen flows, and inspect Sketch, Adobe XD, Photoshop, Illustrator, & Figma files - using our web, macOS, Windows, & Linux app',
-'name': 'micro',
-'url':'https://realtimeboard.com/',
-'type': 'team collaboration for brainstroming + video call',
-'price': 'free'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5bc453b95a68ee5fe21bc6b4_Screen%20Shot%202018-10-15%20at%2010.45.18%20AM.png',
+        'intro': 'Are you working with design files? Start saving time today.In all plans you can present, comment, create screen flows, and inspect Sketch, Adobe XD, Photoshop, Illustrator, & Figma files - using our web, macOS, Windows, & Linux app',
+        'name': 'micro',
+        'url':'https://realtimeboard.com/',
+        'type': 'team collaboration for brainstroming + video call',
+        'price': 'free'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5ba39a9e805bfa74a4b08ddf_1_F19-hrmAQppP33zh1G2jgQ-p-1600.png',
-'intro': 'To empower the work of design teams by facilitating a creative synergy through effortless collaboration.',
-'name': 'plant',
-'url':'https://plantapp.io/#about',
-'type': 'team collaboration for brainstroming + video call',
-'price': 'free'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5ba39a9e805bfa74a4b08ddf_1_F19-hrmAQppP33zh1G2jgQ-p-1600.png',
+        'intro': 'To empower the work of design teams by facilitating a creative synergy through effortless collaboration.',
+        'name': 'plant',
+        'url':'https://plantapp.io/#about',
+        'type': 'team collaboration for brainstroming + video call',
+        'price': 'free'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5b866b1515ad26e6cea79353_2017-character_personas.jpg',
-'intro': 'Generate professional, customizable buyer persona documents with the help of this quick and intuitive generator.',
-'name': 'Make my persona',
-'url': 'https://www.hubspot.com/make-my-persona',
-'type': 'personal portfolio',
-'price': 'free'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5b866b1515ad26e6cea79353_2017-character_personas.jpg',
+        'intro': 'Generate professional, customizable buyer persona documents with the help of this quick and intuitive generator.',
+        'name': 'Make my persona',
+        'url': 'https://www.hubspot.com/make-my-persona',
+        'type': 'personal portfolio',
+        'price': 'free'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5b769ac79183f17ee9fe0942_by%20Norde.png',
-'intro': 'Vaadin comes with a big set of web components that are fine-tuned for UX, performance, and accessibility.',
-'name': 'vaadin',
-'url':'https://vaadin.com/',
-'type': 'web apps => java',
-'price': 'free'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5b769ac79183f17ee9fe0942_by%20Norde.png',
+        'intro': 'Vaadin comes with a big set of web components that are fine-tuned for UX, performance, and accessibility.',
+        'name': 'vaadin',
+        'url':'https://vaadin.com/',
+        'type': 'web apps => java',
+        'price': 'free'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5b583ac6fc79dd91ac4f68af_30134265966479.5b075bbf1b0a7.jpg',
-'intro': 'Discover how real users interact with your prototype: define missions, collect actionable insights and analyze how your design performed, with 0 lines of code.',
-'name': 'maze',
-'url':'https://maze.design/',
-'type': 'ui/ux testing + analytics for prototypes',
-'price': 'free 1 month trial'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5b583ac6fc79dd91ac4f68af_30134265966479.5b075bbf1b0a7.jpg',
+        'intro': 'Discover how real users interact with your prototype: define missions, collect actionable insights and analyze how your design performed, with 0 lines of code.',
+        'name': 'maze',
+        'url':'https://maze.design/',
+        'type': 'ui/ux testing + analytics for prototypes',
+        'price': 'free 1 month trial'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5b3c86048d4e3381013434c0_color-tool-v2-4x3.gif',
-'intro': 'The Material Theme Editor helps you make your own branded symbol library and apply global style changes to color, shape, and typography.',
-'name': 'gallery',
-'url':'https://gallery.io/apps',
-'type': 'matrial theme editor',
-'price': 'free'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5b3c86048d4e3381013434c0_color-tool-v2-4x3.gif',
+        'intro': 'The Material Theme Editor helps you make your own branded symbol library and apply global style changes to color, shape, and typography.',
+        'name': 'gallery',
+        'url':'https://gallery.io/apps',
+        'type': 'matrial theme editor',
+        'price': 'free'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5afb0c4a5d83d9375a8d19d0_social_tout.png',
-'intro': "By choosing a set of 50 colors, you'll train a neural network powered algorithm to generate colors you like and block ones you don’t, right in your browser.",
-'name': 'khroma',
-'url':'http://khroma.co/',
-'type': 'Design with colors you love. Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save.',
-'price': 'free'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5afb0c4a5d83d9375a8d19d0_social_tout.png',
+        'intro': "By choosing a set of 50 colors, you'll train a neural network powered algorithm to generate colors you like and block ones you don’t, right in your browser.",
+        'name': 'khroma',
+        'url':'http://khroma.co/',
+        'type': 'Design with colors you love. Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save.',
+        'price': 'free'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5ac3825ee45951aaec5936b0_homepage-bg-669c8ea95a9ede671933dffb254f493a23de2d7a039f90bfbbac9ecd09f78225.svg',
-'intro': 'Share your ideas visually. Lightning fast.',
-'name': 'gallery',
-'url':'https://whimsical.co/',
-'type': 'brainstrming workspace',
-'price': 'create 4 free boards '
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5ac3825ee45951aaec5936b0_homepage-bg-669c8ea95a9ede671933dffb254f493a23de2d7a039f90bfbbac9ecd09f78225.svg',
+        'intro': 'Share your ideas visually. Lightning fast.',
+        'name': 'gallery',
+        'url':'https://whimsical.co/',
+        'type': 'brainstrming workspace',
+        'price': 'create 4 free boards '
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5a5dc7eb3e2b760001e215f4_Illustration%20by%20Iza%20Dudzik.jpg',
-'intro': 'Piece hi-fi interactions together, build sensor-aided prototypes and share your amazing creations in a matter of minutes.',
-'name': 'protopie',
-'url':'https://www.protopie.io/',
-'type': 'prototyping tool',
-'price': 'free for students'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5a5dc7eb3e2b760001e215f4_Illustration%20by%20Iza%20Dudzik.jpg',
+        'intro': 'Piece hi-fi interactions together, build sensor-aided prototypes and share your amazing creations in a matter of minutes.',
+        'name': 'protopie',
+        'url':'https://www.protopie.io/',
+        'type': 'prototyping tool',
+        'price': 'free for students'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5a312b470672a700015a499c_brics.gif',
-'intro': 'Blocs Website Builder Fast, easy to use and powerful visual web design software, that lets you create responsive websites without writing code.',
-'name': 'blocs',
-'url':'https://blocsapp.com/',
-'type': 'websitebuilder',
-'price': 'free'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5a312b470672a700015a499c_brics.gif',
+        'intro': 'Blocs Website Builder Fast, easy to use and powerful visual web design software, that lets you create responsive websites without writing code.',
+        'name': 'blocs',
+        'url':'https://blocsapp.com/',
+        'type': 'websitebuilder',
+        'price': 'free'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e9cb80a71c7d00019122e2_lottie.png',
-'intro': 'Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time, allowing apps to use animations as easily as they use static images.',
-'name': 'lottie',
-'url':'https://lottiefiles.com/getting-started#',
-'type': 'animation maker',
-'price': 'free'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e9cb80a71c7d00019122e2_lottie.png',
+        'intro': 'Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time, allowing apps to use animations as easily as they use static images.',
+        'name': 'lottie',
+        'url':'https://lottiefiles.com/getting-started#',
+        'type': 'animation maker',
+        'price': 'free'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e9c715775aae00019a177c_monotype-library-subscription_lead-image-p-1600.jpeg',
-'intro': 'With more than 2,200 font families all in one location, you can easily find the perfect typeface for your project. Whether it’s for your own, a client’s or your company’s design, having complete access to a broad selection of high-quality, premium type is a must.',
-'name': 'monotype library',
-'url':'https://blocsapp.com/',
-'type': 'fonts',
-'price': 'free'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e9c715775aae00019a177c_monotype-library-subscription_lead-image-p-1600.jpeg',
+        'intro': 'With more than 2,200 font families all in one location, you can easily find the perfect typeface for your project. Whether it’s for your own, a client’s or your company’s design, having complete access to a broad selection of high-quality, premium type is a must.',
+        'name': 'monotype library',
+        'url':'https://blocsapp.com/',
+        'type': 'fonts',
+        'price': 'free'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e8a73a90983b000144f01e_webflow.png',
-'intro': 'The modern way to build for the web Webflow empowers designers to build professional, custom websites in a completely visual canvas. View dashboard',
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e8a73a90983b000144f01e_webflow.png',
+        'intro': 'The modern way to build for the web Webflow empowers designers to build professional, custom websites in a completely visual canvas. View dashboard',
 
-'name': 'webflows',
-'url':'https://webflow.com/',
-'type': 'websitebuilder',
-'price': 'free'
+        'name': 'webflows',
+        'url':'https://webflow.com/',
+        'type': 'websitebuilder',
+        'price': 'free'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e215007032510001bb636f_home-screenshot.png',
-'intro': "Online app that enables designers to customize their own typeface in a few clicks.",
-'name': 'prototypo',
-'url':'https://www.prototypo.io/',
-'type': 'fonts',
-'price': 'free'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e215007032510001bb636f_home-screenshot.png',
+        'intro': "Online app that enables designers to customize their own typeface in a few clicks.",
+        'name': 'prototypo',
+        'url':'https://www.prototypo.io/',
+        'type': 'fonts',
+        'price': 'free'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e218ae3f6bfa0001113de7_invision-logo.jpg',
-'intro': "The world's leading prototyping, collaboration & workflow platform",
-'name': 'invision',
-'url':'https://www.invisionapp.com/',
-'type': 'prototyping + devlopment fro m design',
-'price': 'free'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/59e218ae3f6bfa0001113de7_invision-logo.jpg',
+        'intro': "The world's leading prototyping, collaboration & workflow platform",
+        'name': 'invision',
+        'url':'https://www.invisionapp.com/',
+        'type': 'prototyping + devlopment fro m design',
+        'price': 'free'
     },
     {
         'id': 6,
-'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png',
-'intro': "Share your story with designs that look and feel like the real thing. Wireframe, animate, prototype, collaborate and more — it’s all right here, all in one place.",
-'name': 'Adobe xd',
-'url':'https://www.adobe.com/in/products/xd.html',
-'type': 'ui/ux designing',
-'price': 'free'
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png',
+        'intro': "Share your story with designs that look and feel like the real thing. Wireframe, animate, prototype, collaborate and more — it’s all right here, all in one place.",
+        'name': 'Adobe xd',
+        'url':'https://www.adobe.com/in/products/xd.html',
+        'type': 'ui/ux designing',
+        'price': 'free'
     },
     {
         "learning": [
             {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5be9af00cbd406ee1caaff15_expert-advice-unfurl.png',
-'intro': "Build your design system like the pros",
-'name': 'ui/ux',
-'url':'https://www.invisionapp.com/design-system-manager/expert-advice',
-'extra': 'ui/ux designing',
-'price': 'free',
-'type': 'learning+video'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5be9af00cbd406ee1caaff15_expert-advice-unfurl.png',
+        'intro': "Build your design system like the pros",
+        'name': 'ui/ux',
+        'url':'https://www.invisionapp.com/design-system-manager/expert-advice',
+        'extra': 'ui/ux designing',
+        'price': 'free',
+        'type': 'learning+video'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5b311fa7cbd2eb17d660c209_ui-guide-Designing-search-for%20mobile-apps-p-1600.jpeg',
-'intro': "Explore the various ways to implement search and the purpose behind each",
-'name': 'ui/ux',
-'url':'https://medium.muz.li/designing-search-for-mobile-apps-ab2593e9e413',
-'extra': 'ui/ux designing',
-'price': 'free',
-'type': 'learning+text'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5b311fa7cbd2eb17d660c209_ui-guide-Designing-search-for%20mobile-apps-p-1600.jpeg',
+        'intro': "Explore the various ways to implement search and the purpose behind each",
+        'name': 'ui/ux',
+        'url':'https://medium.muz.li/designing-search-for-mobile-apps-ab2593e9e413',
+        'extra': 'ui/ux designing',
+        'price': 'free',
+        'type': 'learning+text'
     }
     ,
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5ac380fbf1502e199b611d42_squarepegroundhole_final4.png',
-'intro': "I have always believed that Psychology and Design comprise User Experience.",
-'name': 'ui/ux',
-'url':'https://uxdesign.cc/psychology-design-4-gestalt-principles-to-use-as-your-next-design-solution-fcdec423a6bf',
-'extra': 'ui/ux designing',
-'price': 'free',
-'type': 'learning+text'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5ac380fbf1502e199b611d42_squarepegroundhole_final4.png',
+        'intro': "I have always believed that Psychology and Design comprise User Experience.",
+        'name': 'ui/ux',
+        'url':'https://uxdesign.cc/psychology-design-4-gestalt-principles-to-use-as-your-next-design-solution-fcdec423a6bf',
+        'extra': 'ui/ux designing',
+        'price': 'free',
+        'type': 'learning+text'
     }
     ,
     {
         'id': 6,
-'image': 'https://miro.medium.com/max/700/1*3M9hkYLvrJ5xTR2_ZM0FAg.gif',
-'intro': "7 Basic Rules for Button Design",
-'name': 'ui',
-'url':'https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4',
-'extra': 'ui/ux designing',
-'price': 'free',
-'type': 'learning+text'
+        'image': 'https://miro.medium.com/max/700/1*3M9hkYLvrJ5xTR2_ZM0FAg.gif',
+        'intro': "7 Basic Rules for Button Design",
+        'name': 'ui',
+        'url':'https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4',
+        'extra': 'ui/ux designing',
+        'price': 'free',
+        'type': 'learning+text'
     }
     ,
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5a68617439ab7c00014d1d3a_170623_dropbox-ecosystem_v01.jpg',
-'intro': "Laws of UX is a collection of the maxims and princples that designers can consider when building user interfaces.",
-'name': 'ui',
-'url':'https://lawsofux.com/',
-'extra': 'ui/ux designing',
-'price': 'free',
-'type': 'learning+text'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5a68617439ab7c00014d1d3a_170623_dropbox-ecosystem_v01.jpg',
+        'intro': "Laws of UX is a collection of the maxims and princples that designers can consider when building user interfaces.",
+        'name': 'ui',
+        'url':'https://lawsofux.com/',
+        'extra': 'ui/ux designing',
+        'price': 'free',
+        'type': 'learning+text'
     },
     {
         'id': 0,
@@ -2059,73 +2032,73 @@ user_interface = [
             
               {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5c59570b4abddd53b41de8a2_marginalia-productive-work.png',
-'intro': "1000+ Pixel-perfect vector icons and Iconfont for your next project.",
-'name': 'icons',
-'url':'http://s.muz.li/ZTg1MWRhOTJk',
-'extra': 'ui/ux designing',
-'price': 'free',
-'type': 'Resources'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5c59570b4abddd53b41de8a2_marginalia-productive-work.png',
+        'intro': "1000+ Pixel-perfect vector icons and Iconfont for your next project.",
+        'name': 'icons',
+        'url':'http://s.muz.li/ZTg1MWRhOTJk',
+        'extra': 'ui/ux designing',
+        'price': 'free',
+        'type': 'Resources'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5c33558eedb5fd1b94b42c45_pablo-delete-confirmation.png',
-'intro': "Email copy from great companies. Brought to you by Front.",
-'name': 'email copy',
-'url':'https://www.goodemailcopy.com/',
-'extra': 'all mail in one place',
-'price': 'free',
-'type': 'Resources'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5c33558eedb5fd1b94b42c45_pablo-delete-confirmation.png',
+        'intro': "Email copy from great companies. Brought to you by Front.",
+        'name': 'email copy',
+        'url':'https://www.goodemailcopy.com/',
+        'extra': 'all mail in one place',
+        'price': 'free',
+        'type': 'Resources'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5be9af7bd91668e74ade48ab_form-feature-copy-min-810x810.jpg',
-'intro': "Meet Form, an intuitive wireframe kit that will help you hit the ground running with your next design project.",
-'name': 'form',
-'url':'https://www.invisionapp.com/inside-design/design-resources/free-wireframe-kit-form/',
-'extra': 'form',
-'price': 'free',
-'type': 'Resources'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5be9af7bd91668e74ade48ab_form-feature-copy-min-810x810.jpg',
+        'intro': "Meet Form, an intuitive wireframe kit that will help you hit the ground running with your next design project.",
+        'name': 'form',
+        'url':'https://www.invisionapp.com/inside-design/design-resources/free-wireframe-kit-form/',
+        'extra': 'form',
+        'price': 'free',
+        'type': 'Resources'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5b9f720f08470e3f35fac2cd_undraw_upload_87y9%20(1).svg',
-'intro': "Browse to find the images that fit your needs and click to download. Take advantage of the on-the-fly color image generation to match your brand identity.",
-'name': 'UnDraw',
-'url':'https://undraw.co/illustrations',
-'extra': 'Illustartions',
-'price': 'free',
-'type': 'Resources'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5b9f720f08470e3f35fac2cd_undraw_upload_87y9%20(1).svg',
+        'intro': "Browse to find the images that fit your needs and click to download. Take advantage of the on-the-fly color image generation to match your brand identity.",
+        'name': 'UnDraw',
+        'url':'https://undraw.co/illustrations',
+        'extra': 'Illustartions',
+        'price': 'free',
+        'type': 'Resources'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5ba399a0d65e6ec06564fe74_undraw_High_five_u364.svg',
-'intro': "Are you looking for blend mode background images & beautiful background gradients for your User Interface?",
-'name': 'Gradient guru',
-'url':'http://gradientsguru.com/',
-'extra': 'Gradients',
-'price': 'free',
-'type': 'Resources'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5ba399a0d65e6ec06564fe74_undraw_High_five_u364.svg',
+        'intro': "Are you looking for blend mode background images & beautiful background gradients for your User Interface?",
+        'name': 'Gradient guru',
+        'url':'http://gradientsguru.com/',
+        'extra': 'Gradients',
+        'price': 'free',
+        'type': 'Resources'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5ace6ff8507eccc0c1b1d2d6_solareclipse.gif',
-'intro': "A total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs.",
-'name': 'flat ui color',
-'url':'https://flatuicolors.com/',
-'extra': 'colors pallets',
-'price': 'free',
-'type': 'Resources'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5ace6ff8507eccc0c1b1d2d6_solareclipse.gif',
+        'intro': "A total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs.",
+        'name': 'flat ui color',
+        'url':'https://flatuicolors.com/',
+        'extra': 'colors pallets',
+        'price': 'free',
+        'type': 'Resources'
     },
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5a13ef322d9bd30001824403_wallpaper_concert-2.png',
-'intro': "Upload your design, adjust settings and download your individual mockup. Threed is for free and needs no extra Software",
-'name': 'Threed',
-'url':'http://threed.io/',
-'extra': 'Generate 3d mockups in browser',
-'price': 'free',
-'type': 'Resources'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5a13ef322d9bd30001824403_wallpaper_concert-2.png',
+        'intro': "Upload your design, adjust settings and download your individual mockup. Threed is for free and needs no extra Software",
+        'name': 'Threed',
+        'url':'http://threed.io/',
+        'extra': 'Generate 3d mockups in browser',
+        'price': 'free',
+        'type': 'Resources'
     },
     {
         'id': 0,
