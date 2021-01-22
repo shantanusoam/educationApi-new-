@@ -2532,7 +2532,152 @@ Stock = [
             
         ]
     },
-    
+    {
+    'image': 'https://superdevresources.com/wp-content/uploads/2015/05/free-stock-videos-e1524206162551-1280x720.jpg',
+    'type':'websites',
+    'name': 'Stock Videos',
+    'start' :
+        [
+            {
+                'id': 0,
+                'image': 'https://trickeza.com/wp-content/uploads/2020/06/Annotation-2020-06-04-013052-1024x485.jpg',
+                'intro': "Largest library of free to use videos, donated by the community",
+                'type':'website',
+                'name': 'Pexels',
+                'url': 'https://www.pexels.com/videos',
+            },
+            {
+                'id': 0,
+                'image': 'https://i2.wp.com/digonair.com/wp-content/uploads/2018/02/pixabay-1.jpg',
+                'intro': "Large library of free to use videos, donated by the community similar to Pexels",
+                'type':'website',
+                'name': 'Pixabay',
+                'url': 'https://pixabay.com/videos/',
+            },
+            {
+                'id': 0,
+                'image': 'https://www.noupe.com/wp-content/uploads/2016/09/coverr-landing.jpg',
+                'intro': "Beautiful free stock video footage",
+                'type':'website',
+                'name': 'Coverr.co',
+                'url': 'https://coverr.co/',
+            },
+            {
+                'id': 0,
+                'image': 'https://i.ytimg.com/vi/-2cMtE0FOnM/hqdefault.jpg',
+                'intro': "Free HD stock footage & 4K videos",
+                'type':'website',
+                'name': 'Videezy',
+                'url': 'https://www.videezy.com/',
+            },
+            {
+                'id': 0,
+                'image': 'https://assets.mixkit.co/static/OG-meta/video.jpg',
+                'intro': "Stock video clips & music",
+                'type':'website',
+                'name': 'Mix Kit',
+                'url': 'https://mixkit.co/',
+            },
+            {
+                'id': 0,
+                'image': 'https://techwiser.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-26-at-4.45.10-PM.jpg',
+                'intro': "Free video clips and loops",
+                'type':'website',
+                'name': 'Life of Vids',
+                'url': 'https://www.lifeofvids.com/',
+            },
+            {
+                'id': 0,
+                'image': 'https://www.videvo.net/wp-content/uploads/2012/05/Videvo-Banner-1.jpg',
+                'intro': "Free and premium stock videos",
+                'type':'website',
+                'name': 'Videvo',
+                'url': 'https://www.videvo.net/stock-video-footage/',
+            },
+            {
+                'id': 0,
+                'image': 'https://s3-us-west-2.amazonaws.com/steemhunt/production/steemhunt/2020-07-26/bd61d56f-Screenshot%20(779).png',
+                'intro': "Free To Use Cinema graphs Created With VIMAGE App",
+                'type':'website',
+                'name': 'Loopvidz',
+                'url': 'http://stock.loopvidz.com/',
+            },
+            {
+                'id': 0,
+                'image': 'https://img.dropmark.com/N-tmM3a02xTpQ97J0W7ds1nFb3k=/fit-in/600x600/top/filters:dpr(2):quality(30):frames(0):square()/web/aHR0cHM6Ly93d3cuc3BsaXRzaGlyZS5jb20v.jpg',
+                'intro': "Beautiful & exclusive free stock videos & photos",
+                'type':'website',
+                'name': 'Splitshire',
+                'url': 'https://www.splitshire.com/',
+            },
+        ]
+    },
+
+    {
+    'image': 'https://www.m2social.ph/wp-content/uploads/2019/07/6-free-stock-music.jpg',
+    'type':'websites',
+    'name': 'Stock Music and Sound Effects',
+    'start' :
+        [
+            {
+                'id': 0,
+                'image': 'https://i.pinimg.com/564x/21/71/07/21710785c8dec8923c61205648cc1384.jpg',
+                'intro': "Royalty free stock music for YouTube videos, podcasts, etc",
+                'type':'website',
+                'name': 'Free Stock Music',
+                'url': 'https://www.free-stock-music.com/',
+            },
+            {
+                'id': 0,
+                'image': 'https://www.videvo.net/wp-content/uploads/2016/09/Screen-Shot-2016-09-25-at-22.25.48.png',
+                'intro': "Download Royalty Free Music for free and use it in your project",
+                'type':'website',
+                'name': 'Bensound',
+                'url': 'https://www.bensound.com/',
+            },
+            {
+                'id': 0,
+                'image': 'https://assets.mixkit.co/static/OG-meta/music.jpg',
+                'intro': "Free music for your projects",
+                'type':'website',
+                'name': 'Mixkit',
+                'url': 'https://mixkit.co/free-stock-music/',
+            },
+            {
+                'id': 0,
+                'image': 'https://cdn.shopify.com/s/files/1/0993/3800/files/freesound_grande.jpg',
+                'intro': "Free stock music and sounds",
+                'type':'website',
+                'name': 'Freesound',
+                'url': 'https://freesound.org/',
+            },
+            {
+                'id': 0,
+                'image': 'https://i.ytimg.com/vi/6CgRJ1Q1BrA/maxresdefault.jpg',
+                'intro': "Collaborative database of creative-commons licensed sound for musicians and sound lovers",
+                'type':'website',
+                'name': 'Free Music Archive',
+                'url': 'https://freemusicarchive.org/',
+            },
+            {
+                'id': 0,
+                'image': 'https://upload.wikimedia.org/wikipedia/commons/f/fe/Home_page_screen_capture_of_Musopen.org.png',
+                'intro': "An online copyright free classical music library",
+                'type':'website',
+                'name': 'Musopen',
+                'url': 'https://musopen.org/music/',
+            },
+            {
+                'id': 0,
+                'image': 'https://cdn.webrazzi.com/uploads/2020/03/unminus-802_hd.png',
+                'intro': "Free Premium Music for Your Projects 🎁 Royalty Free. Cleared for YouTube",
+                'type':'website',
+                'name': 'Unminus',
+                'url': 'https://www.unminus.com/',
+            },
+            
+        ]
+    },
     
     {
     'image': 'https://i.pinimg.com/originals/41/a3/c5/41a3c51c1a7a7a973da81a119e2db6d3.jpg',
