@@ -1175,33 +1175,266 @@ web_Development = [
             {
                 'id':0,
                 'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
-                'intro': "From the basics to advanced topics with simple, but detailed explanations.",
-                'name': "The Modern JavaScript Tutorial",
+                'intro': "A great curriculum for learning JavaScript from newbie to You Don’t Know JS.",
+                'name': "A JavaScript Curriculum",
+                'type': 'text',
+                'url':  'https://medium.freecodecamp.org/a-beginners-javascript-study-plan-27f1d698ea5e'
+            },{
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "Short introduction to Node that has some great information.",
+                'name': "The Art of Node",
+                'type': 'text',
+                'url':  'https://github.com/maxogden/art-of-node#the-art-of-node'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "Eloquent JavaScript goes beyond the cut-and-paste scripts of the recipe books and teaches you to write code that’s elegant and effective. You’ll start with the basics of programming, and learn to use variables, control structures, functions, and data structures. Then you’ll dive into the real JavaScript artistry: higher-order functions, closures, and object-oriented programming. Highly recommended.",
+                'name': "Eloquent JavaScript",
+                'type': 'text',
+                'url':  'https://eloquentjavascript.net/'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "by Dr. Axel Rauschmeyer: free online books that delve deep into the Javascript language - always up-to-date with new books on the latest Ecmascript features",
+                'name': "Exploring JS: JavaScript books for programmers",
+                'type': 'text',
+                'url':  'http://exploringjs.com/'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "by Ben Aston: It is a medium article describing and throwing light upon the History of JavaScript.",
+                'name': "A brief history of JavaScript by Ben Aston",
+                'type': 'text',
+                'url':  'https://medium.com/@benastontweet/lesson-1a-the-history-of-javascript-8c1ce3bffb17'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "Learn JavaScript with an online community, examples, and tons of more advanced JavaScript topics when you are done. Certificate available too. All free.",
+                'name': "FreeCodeCamp Beginning JavaScript: ",
+                'type': 'text',
+                'url':  'https://www.freecodecamp.org/'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "Pragmatic, balanced Functional Programming in JavaScript.",
+                'name': "Functional Light JS: ",
+                'type': 'text',
+                'url':  'https://github.com/getify/Functional-Light-JS'
+            },  
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "Why reinvent the wheel every time you run into a problem with JavaScript? This cookbook is chock-full of code recipes that address common programming tasks, as well as techniques for building web apps that work in any browser. Just copy and paste the code samples into your project—you’ll get the job done faster and learn more about JavaScript in the process.",
+                'name': "JavaScript Cookbook:",
+                'type': 'text',
+                'url':  'https://www.safaribooksonline.com/library/view/javascript-cookbook/9781449390211/'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "An introduction for new programmers.",
+                'name': "JavaScript For Cats",
+                'type': 'text',
+                'url':  'http://jsforcats.com/'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax. The concepts covered in these lessons lay the foundation for using JavaScript in any environment.",
+                'name': "JavaScript Fundamentals on Codecademy",
+                'type': 'text',
+                'url':  'https://www.codecademy.com/learn/introduction-to-javascript'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "A 7 hour long video with detailed explanations to give a strong foundation in JavaScript fundamentals. Taught by Bob Tabor, one of the most effective web development teachers.",
+                'name': "JavaScript Fundamentals for Absolute Beginners:",
+                'type': 'Youtube playlist',
+                'url':  'https://www.youtube.com/watch?v=ei2HLyHwt-k'
+            },
+        {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "A weekly podcast discussing the superb language JavaScript.",
+                'name': "JavaScript Jabber",
+                'type': 'text',
+                'url':  "https://devchat.tv/js-jabber/"
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "How it’s done now. From the basics to advanced topics with simple with JavaScript, but detailed explanations.",
+                'name': "JavaScript.Info",
                 'type': 'text',
                 'url':  'http://javascript.info/'
             },
             {
                 'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "This is a very solid foundation to work with, for anyone who might have struggled with the contexts and how arrow functions, local variables, and prototypes fit into the bigger picture. A quick introduction into the deeper ideas in JavaScript.",
+                'name': "JavaScript: The Core",
+                'type': 'text',
+                'url':  "http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition"
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': " An online tutorial that received much praise for explaining Node.js in a well-structured way. It is a book that teaches you to write the code for Node.js and not only rely on third-party libraries. Anyone that wants to have a deep grasp of the Node.js framework will benefit from Mixu’s book.",
+                'name': "Mixu’s Node Book",
+                'type': 'text',
+                'url':  'http://book.mixu.net/node/'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "The excellent teachers at Watch and Code have released their beginning JavaScript course for free. If you haven’t been able to learn elsewhere, try this tutorial.",
+                'name': "Practical JavaScript",
+                'type': 'text',
+                'url':  'https://watchandcode.com/p/practical-javascript'
+            },
+            
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "An annual survey of over 20,000 JavaScript developers regarding the major JavaScript libraries, frameworks, languages, and other tools. A useful resource for understanding where the industry is headed and deciding what to learn next.",
+                'name': "State of JavaScript",
+                'type': 'text',
+                'url':  'https://stateofjs.com/'
+            },
+            {
+                'id':0,
                 'image': 'https://images.ctfassets.net/aq13lwl6616q/4RGBWl2tZ0bYIt0GX7XVw1/25f59ffd9052d12bba2a4f562c2ff25f/image.png',
-                'intro': "Guide for JavaScript & Node.js reliability from A-Z.",
-                'name': "Testing JavaScript: Best Practices",
+                'intro': "A great site helps you know the event key of the keyboard.",
+                'name': "JavaScript Event Keycodes",
                 'type': 'free templates',
-                'url':  'https://github.com/goldbergyoni/javascript-testing-best-practices'
+                'url':  'http://keycode.info/'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "A great tool helps you know the specific browsers with “browserslist search query”. You can see the usage in here.",
+                'name': "BrowserList ",
+                'type': 'free templates',
+                'url':  'https://browserl.ist/'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "A helpful tool that breaks down your JavaScript code step-by-step. Helpful for identifying errors and solving errors in your code. Run your code in “Live Programming Mode” to visualize all the steps!",
+                'name': "Visualize JavaScript",
+                'type': 'Tool',
+                'url':  'http://www.pythontutor.com/visualize.html#mode=edit'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': " p5.js a JS client-side library for creating graphics and interactive experiences, based on the core principles of Processing. It has add-on libraries that make it easy to interact with other HTML5 objects, including text, input, video, webcam and sound.",
+                'name': "p5.js",
+                'type': 'Tool',
+                'url':  'https://p5js.org/'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "An excellent breakdown of linting’s purpose and history while also giving a thorough analysis of some of the most common linting style-guides (Google, AirBnb, Common) as to what they do differently, what is similar and some of their best use-cases according to the project one is undertaking. A fantastic guide for those who are stuck choosing between which linting style-guide they should use.",
+                'name': "Linting ES2015+ — ESLint with StyleGuides: Google, AirBnB, Common",
+                'type': 'Tool',
+                'url':  'https://medium.com/@uistephen/style-guides-for-linting-ecmascript-2015-eslint-common-google-airbnb-6c25fd3dff0'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "The same tool for objects.",
+                'name': "Javascript Object Explorer",
+                'type': 'Tool',
+                'url':  'https://sdras.github.io/object-explorer/'
+            },
+            
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "Find the array method you need for your JavaScript array without digging through the docs. A useful resource that can make using arrays easier.",
+                'name': "JavaScript Array Explorer",
+                'type': 'Tool',
+                'url':  'https://sdras.github.io/array-explorer/'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "A closure is a function that has access to its outer function scope even after the return of the outer function (For better understanding head inside the blog).",
+                'name': "A simple guide to help you understand closures in JavaScript: ",
+                'type': 'Advanced Javascript Articles',
+                'url':  'https://medium.com/@prashantramnyc/javascript-closures-simplified-d0d23fa06ba4'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "Async/await functions, a new addition with ES2017 (ES8), help us even more in allowing us to write completely synchronous-looking code while performing asynchronous tasks behind the scenes",
+                'name': "Exploring Async/Await Functions in JavaScript",
+                'type': 'Advanced Javascript Articles',
+                'url':  'https://alligator.io/js/async-functions'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "Learn JavaScript ES6 concepts with this short, interactive course at Scrimba. This includes interactive screencasts so you can learn along with the teacher. This is a pretty unique way of instruction",
+                'name': "JavaScript ES6: Scrimba:",
+                'type': 'Websites',
+                'url':  'https://scrimba.com/learn/introtoes6'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "A short interactive website which has exercises for introducing new programmers to the primary concepts in JavaScript.",
+                'name': "JavaScript for Complete Beginners - Interactive Tutorial",
+                'type': 'Websites',
+                'url':  'https://www.learn-js.org/'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "javascript exercises for beginners",
+                'name': "a smarter way to learn",
+                'type': 'Websites',
+                'url':  'http://www.asmarterwaytolearn.com/js/index-of-exercises.html'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "This page is a collection of the best articles, videos and presentations related to JavaScript.",
+                'name': "Superhero.js",
+                'type': 'Websites',
+                'url':  'http://superherojs.com/'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "A comprehensive video course from beginner to mastery with real world projects.",
+                'name': "The Complete JavaScript Course 2020: Build Real Projects!",
+                'type': 'Websites',
+                'url':  'https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/10788532?start=0#overview'
+            },
+            {
+                'id':0,
+                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
+                'intro': "JS Tips is a collection of useful daily JavaScript tips that will allow you to improve your code writing.",
+                'name': "JS Tips - A JavaScript tip per day!",
+                'type': 'Websites',
+                'url':  'https://www.jstips.co/'
             },
             {
                 'id':0,
                 'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
                 'intro': "From the basics to advanced topics with simple, but detailed explanations.",
                 'name': "The Modern JavaScript Tutorial",
-                'type': 'free templates',
-                'url':  'http://javascript.info/'
-            },
-            {
-                'id':0,
-                'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
-                'intro': "From the basics to advanced topics with simple, but detailed explanations.",
-                'name': "The Modern JavaScript Tutorial",
-                'type': 'free templates',
+                'type': 'Websites',
                 'url':  'http://javascript.info/'
             },
         ]
