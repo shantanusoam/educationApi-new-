@@ -206,10 +206,90 @@ api_ = [
 Podcasts = [
     {
         
-     'image': 'https://i.ytimg.com/vi/V2P7pC3e-_M/maxresdefault.jpg',
-     'intro': 'Julia Ferraioli says if you’re already dealing with blurry vision, making something blurry bigger, isn’t necessarily going to help that much.',
-     'type':'websites','name': 'EBU Access Cast',
+     'image': 'https://pbs.twimg.com/profile_images/1143571889681588224/zGPH4uEj.png',
+     'intro': 'General career advice for beginner to intermediate-level coders.',
+     'type':'website ComputerScience',
+     'name': 'No BS Engineering',
+     'url': 'https://nobsengineering.com/'
+    },
+    {
+        
+     'image': 'https://s3.amazonaws.com/heroku-www-files/podcasts/uploads/software_engineering_daily.png',
+     'intro': 'Software development topics including technical interviews.',
+     'type':'website ComputerScience',
+     'name': 'Software Engineering daily',
+     'url': 'https://softwareengineeringdaily.com/'
+    },
+    {
+        
+     'image': 'https://s3.amazonaws.com/codenewbie-assets/basecs+podcast+cover+7+small.png',
+     'intro': 'Beginner-friendly computer science lessons based on Vaidehi Joshi’s base.cs blog series, produced by CodeNewbie.',
+     'type':'website ComputerScience',
+     'name': 'Base.cs Podcast',
+     'url': 'https://www.codenewbie.org/basecs'
+    },
+    {
+        
+     'image': 'https://files.realpython.com/media/Real-Python-Podcast_BLUE_Waterkmarked.b5ff55c349bd.jpg',
+     'intro': 'A weekly Python podcast hosted by Christopher Bailey with interviews, coding tips, and conversation with guests from the Python community. The show covers a wide range of topics including Python programming best practices, career tips, and related software development topics',
+     'type':'websites Python',
+     'name': 'Real Python Talk',
      'url': 'http://ebuaccesscast.libsyn.com/'
+    },
+    {
+        
+     'image': 'https://i.ytimg.com/vi/Tlf4JWiZVFA/maxresdefault.jpg',
+     'intro': 'Every week a new episode provides useful and informative insights into the projects, platforms, and practices that engineers, business leaders, and data scientists need to know about to learn and grow in their career.',
+     'type':'websites Python',
+     'name': 'pythonpodcast',
+     'url': 'https://www.pythonpodcast.com/'
+    },
+    {
+        
+     'image': 'https://pbcdn1.podbean.com/imglogo/dir-logo/327316/327316_300x300.png',
+     'intro': 'If you are looking for a 15 minute conversation on the topical items of the week in the Python ecosystem, be sure to jump over to Python Bytes.',
+     'type':'websites',
+     'name': 'Python Bytes',
+     'url': 'https://pythonbytes.fm/'
+    },
+    {
+        
+     'image': 'https://talkpython.fm/static/img/talk_python_logo_mic.png',
+     'intro': 'The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps). The format is a casual 45 minute conversation with industry experts.',
+     'type':'websites',
+     'name': 'Talk Python To Me',
+     'url': 'https://talkpython.fm/'
+    },
+    {
+        
+     'image': 'https://darknetdiaries.com/imgs/darknet-diaries-sm.jpg',
+     'intro': 'InfoSec / CyberSecurity Darknet Diaries is a podcast covering true stories from the dark side of the Internet. Stories about hackers, defenders, threats, malware, botnets, breaches, and privacy',
+     'type':'websites InfoSec / CyberSecurity',
+     'name': 'Darknet Diaries',
+     'url': 'https://darknetdiaries.com/'
+    },
+    {
+        
+     'image': 'https://s3.amazonaws.com/devchat.tv/viewsonvue.jpg',
+     'intro': 'A weekly discussion among Vue developers about Vue and it’s ecosyste',
+     'type':'websites Vue (JavaScript framework)',
+     'name': 'Views on Vue',
+     'url': 'https://devchat.tv/views-on-vue/'
+    },
+    {
+        
+     'image': 'https://designm.ag/wp-content/uploads/2015/10/developer-tea.jpg',
+     'intro': 'Provides advice and tips on becoming a better developer.',
+     'type':'websites Mindset/Self-Development',
+     'name': 'Developer Tea',
+     'url': 'https://spec.fm/podcasts/developer-tea'
+    },
+    {
+        
+     'image': 'https://www.devshows.dev/static/d376585cbfb41ab6eb4ef65daaa17e2b/c972b/js-party.png',
+     'intro': 'A community celebration of JavaScript and the web. Created by the Changelog Developer Community. It records live every Thursday at 1 pm Eastern / 10 am Pacific U.S. time.',
+     'type':'websites','name': 'JS Party',
+     'url': 'https://changelog.com/jsparty'
     },
     {
         
@@ -245,9 +325,65 @@ Podcasts = [
     },
     {
         'id': 5,
+        'image':    'https://miro.medium.com/max/3200/1*op8UQr4cvuoQEdPSiyO8zQ.jpeg',
+        'intro':    'React Native Radio. Exploring React Native Together. Listen & Subscribe. Recent Episodes. RNR 185 - Navigation with Graham Mendick. In this episode, the',
+        'type':'websites','name': 'reactnativeradio',
+        'url': 'https://reactnativeradio.com/',
+    },
+    {
+        'id': 5,
+        'image':    'https://syntax.fm/static/syntax-banner.png',
+        'intro':    'The amazing Wes Bos & Scott Tolinksi hosts a podcast covering web development, front-end, the process of learning, and business. You can also find their episodes on various apps like Spotify etc.',
+        'type':'websites',
+        'name': 'Syntax.fm',
+        'url': 'https://syntax.fm/',
+    },
+     {
+        'id': 5,
+        'image':    'https://s3.amazonaws.com/devchat.tv/reactroundup.jpg',
+        'intro':    'On this episode of React Round Up we talked to Dragos Bulugean about starting your own business, and managing really big apps.',
+        'type':'websites',
+        'name': 'reactroundup',
+        'url': 'https://devchat.tv/podcasts/react-round-up/',
+    },
+     {
+        'id': 5,
         'image':    'https://media.simplecast.com/episode/image/324092/thumb_1602263739-artwork.jpg',
         'intro':    'The Laracasts Snippet, each episode, offers a single thought on some aspect of web development. Nothing more, nothing less. Hosted by Jeffrey Way.',
-        'type':'websites','name': 'the laracasts snippet',
+        'type':'websites',
+        'name': 'Real Talk JavaScript',
+        'url': 'https://webrush.simplecast.com/',
+    },
+     {
+        'id': 5,
+        'image':    'https://media.simplecast.com/episode/image/324092/thumb_1602263739-artwork.jpg',
+        'intro':    'The Laracasts Snippet, each episode, offers a single thought on some aspect of web development. Nothing more, nothing less. Hosted by Jeffrey Way.',
+        'type':'websites',
+        'name': 'the laracasts snippet',
+        'url': 'https://laracasts.simplecast.fm/',
+    },
+     {
+        'id': 5,
+        'image':    'https://media.simplecast.com/episode/image/324092/thumb_1602263739-artwork.jpg',
+        'intro':    'The Laracasts Snippet, each episode, offers a single thought on some aspect of web development. Nothing more, nothing less. Hosted by Jeffrey Way.',
+        'type':'websites',
+        'name': 'the laracasts snippet',
+        'url': 'https://laracasts.simplecast.fm/',
+    },
+     {
+        'id': 5,
+        'image':    'https://media.simplecast.com/episode/image/324092/thumb_1602263739-artwork.jpg',
+        'intro':    'The Laracasts Snippet, each episode, offers a single thought on some aspect of web development. Nothing more, nothing less. Hosted by Jeffrey Way.',
+        'type':'websites',
+        'name': 'the laracasts snippet',
+        'url': 'https://laracasts.simplecast.fm/',
+    },
+     {
+        'id': 5,
+        'image':    'https://media.simplecast.com/episode/image/324092/thumb_1602263739-artwork.jpg',
+        'intro':    'The Laracasts Snippet, each episode, offers a single thought on some aspect of web development. Nothing more, nothing less. Hosted by Jeffrey Way.',
+        'type':'websites',
+        'name': 'the laracasts snippet',
         'url': 'https://laracasts.simplecast.fm/',
     },
 ]
@@ -613,11 +749,53 @@ awesome_websites = [
     
 ]
 game_development = [
-  
+    {
+        'id': 0,
+        'image': 'https://files.hubhopper.com/podcast/12514/real-talk-javascript.jpg',
+        'intro': 'A sub-reddit for begginers/intermediate game developers where you can ask by sharing videos/links of specific game events, it will really help you in learning game development.',
+        'name': 'How Did They Code It',
+        'url': 'https://www.reddit.com/r/howdidtheycodeit/'
+    },
+    {
+        'id': 0,
+        'image': 'https://d1p8pldpmo4u0v.cloudfront.net/wp-content/uploads/2016/08/Indie_Game_The_Movie_Artwork_1.jpg',
+        'intro': ' A facebook group with 120k+ members who help you if your stuck in your project or for networking and get to know about their stories.',
+        'name': 'Indie Game Developers',
+        'url': 'https://www.facebook.com/groups/IndieGameDevs/about/'
+    },
+    {
+        'id': 0,
+        'image': 'https://www.badykov.com/images/2019-04-06-gamedev.jpg',
+        'intro': 'A subreddit with 490k+ members ,where you get to know about game development, programming, design, writing, math, art, jams, postmortems and marketing.',
+        'name': 'gamedev:',
+        'url': 'https://www.reddit.com/r/gamedev/'
+    },
+  {
+        'id': 0,
+        'image': 'https://i.ytimg.com/vi/5LhA4Tk_uvI/maxresdefault.jpg',
+        'intro': 'Netwokring documentations which are best to learn how to implement multiplayer game features in your project.',
+        'name': 'Mirror Networking',
+        'url': 'https://mirror-networking.com/docs/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cdn.arstechnica.net/wp-content/uploads/2018/02/ARCore-logo.jpg',
+        'intro': 'Documentation to implement AR using Unity.',
+        'name': 'ARCore',
+        'url': 'https://developers.google.com/ar/develop/unity'
+    },
+     {
+        'id': 0,
+        'image': 'https://blogs.unity3d.com/wp-content/uploads/2017/09/ML-blog-header-v6.jpg',
+        'intro': 'Tutorials on ML agents.',
+        'name': 'ML Agents',
+        'url': 'https://www.immersivelimit.com/tutorials/unity-ml-agents-tutorial-list'
+    },
     {
         'id': 0,
         'image': 'https://hackernoon.com/drafts/1k3j3zqp.png',
         'intro': '10 Reasons Why You Should Learn How To Develop Video Games',
+        'name': 'hackernoon article',
         'url': 'https://hackernoon.com/10-reasons-why-you-should-keep-learning-game-development-hf3l3zmn'
     },
     {
@@ -3851,6 +4029,171 @@ youTube_channnels = [
                 'type':'Youtube videos',"name": "javidx9",
                 "intro": "Talks about implementations of C++ in Game Development, Networking and many more."
             },
+                {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://i.redd.it/3481o2vr12851.jpg',
+        'intro': 'The man behind the loading screen of the latest blender(2.9), he is popular for his one minute tutorials which are for intermediate to advanced blender users',
+        'name': 'Ian Hubert',
+        'url': 'https://www.youtube.com/user/mrdodobird'
+    },
+    {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://www.blendernation.com/wp-content/uploads/2019/11/image4-1.jpg',
+        'intro': 'Tutorials on animations,visual effects and Blender.',
+        'name': 'CG Geek',
+        'url': 'https://www.youtube.com/user/Blenderfan93'
+    },
+     {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://cdnb.artstation.com/p/assets/images/images/014/366/439/large/nicholas-zaris-blenderft.jpg',
+        'intro': 'Best for learning Blender which is used for making 3D models.',
+        'name': 'Blender Guru',
+        'url': 'https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U'
+    },
+     {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/9/90/Tim_Schafer_and_2PP_at_PAX_Prime_2012.jpg',
+        'intro': 'Documentaries of the game industry, get inspired.',
+        'name': '2PlayerProductions',
+        'url': 'https://www.youtube.com/user/2PlayerProductions'
+    },
+     {
+        'id': 'UCd_lJ4zSp9wZDNyeKCWUstg',
+        'type': 'Youtube',
+        'image': 'https://www.askgamedev.com/wp-content/uploads/2021/01/EP101-small.png',
+        'intro': 'All about Game industry,facts and tips to get into it.',
+        'name': 'Ask Gamedev',
+        'url': 'https://www.youtube.com/channel/UCd_lJ4zSp9wZDNyeKCWUstg'
+    },
+     {
+        'id': 'UCJklo0Zl5tLV9kkk_Jd81EA',
+        'type': 'Youtube',
+        'image': 'https://mir-s3-cdn-cf.behance.net/projects/404/3cf83946741035.Y3JvcCwxMjAyLDk0MSwwLDEzMA.jpg',
+        'intro': 'All about the design,dedicated especilly to the character design',
+        'name': 'Brookes Eggleston',
+        'url': 'https://www.youtube.com/channel/UCJklo0Zl5tLV9kkk_Jd81EA'
+    },
+    {
+        'id': 'UCKCTmact-90hXpV2ns8GSsA',
+        'type': 'Youtube',
+        'image': 'https://devducks.com/static/devducks/imgs/devducks-by-devrant2.jpg',
+        'intro': 'A channel for organizing your projects and planning it.',
+        'name': 'Dev Duck',
+        'url': 'https://www.youtube.com/channel/UCKCTmact-90hXpV2ns8GSsA'
+    },
+    {
+        'id': 'UCH1svLGqmyVuCnHCHDr0EXw',
+        'type': 'Youtube',
+        'image': 'https://filmstorm.net/content/images/2020/08/smallLogoDark-1-1.png',
+        'intro': 'Intermediate to Advanced tutorials.',
+        'name': 'Filmstorm',
+        'url': 'https://www.youtube.com/channel/UCH1svLGqmyVuCnHCHDr0EXw'
+    },
+    {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://m.media-amazon.com/images/I/51GqvROndpL.jpg',
+        'intro': 'Get to know how to plan your big projects,more about system design of games.',
+        'name': 'Adam Millard',
+        'url': 'https://www.youtube.com/user/Thefearalcarrot'
+    },
+    {
+        'id': 'UCLyVUwlB_Hahir_VsKkGPIA',
+        'type': 'Youtube',
+        'image': 'https://i.ytimg.com/vi/h0LJg1cfGhQ/maxresdefault.jpg',
+        'intro': 'A channel which recreates popular scenes and mechanics in games.',
+        'name': 'Mix and Jam',
+        'url': 'https://www.youtube.com/channel/UCLyVUwlB_Hahir_VsKkGPIA'
+    },
+    {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://i.ytimg.com/vi/9bbhJi0NBkk/maxresdefault.jpg',
+        'intro': 'Game Breakdown and behind the scenes of popular games.',
+        'name': 'Game Maker’s Toolkit',
+        'url': 'https://www.youtube.com/user/McBacon1337'
+    },
+    {
+        'id': 'UCEklP9iLcpExB8vp_fWQseg',
+        'type': 'Youtube',
+        'image': 'https://miro.medium.com/max/1127/1*i0stRmT9caODvjotCm1lvg.png',
+        'intro': 'Dedicated more towards the design and graphics side.',
+        'name': 'Makin’ Stuff Look Good',
+        'url': 'https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg'
+    },
+    {
+        'id': 'UCFK6NCbuCIVzA6Yj1G_ZqCg',
+        'type': 'Youtube',
+        'image': 'https://www.the74million.org/wp-content/uploads/2019/10/codemonkey-lead.jpg',
+        'intro': 'This channel has more of intermediate and advanced tutorials and also good beginner tutorials.',
+        'name': 'Code Monkey',
+        'url': 'https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg'
+    },
+    {
+        'id': 'UC9Z1XWw1kmnvOOFsj6Bzy2g',
+        'type': 'Youtube',
+        'image': 'https://i.ytimg.com/vi/F--LFn7ZIKw/maxresdefault.jpg',
+        'intro': 'This channel teaches you more of the design part than the coding though it has good coding tutorials',
+        'name': 'Blackthornprod:',
+        'url': 'https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g'
+    },
+    {
+        'id': 'UCX_b3NNQN5bzExm-22-NVVg',
+        'type': 'Youtube',
+        'image': 'https://6figuredev.com/wp-content/uploads/2019/02/JasonWeimann.png',
+        'intro': 'Learn from the veteran from the gaming industry, recommended for intermediate game developers but he also has beginner friendly tutorials.',
+        'name': 'Jason Weimann',
+        'url': 'https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg'
+    },
+    {
+        'id': 'UCIabPXjvT5BVTxRDPCBBOOQ',
+        'type': 'Youtube',
+        'image': 'https://danisthings.com/assets/ddcoffee.png',
+        'intro': 'This channel teaches you more about project management than tutorials,you keep your projects more organized after watching his videos',
+        'name': 'Dani',
+        'url': 'https://www.youtube.com/channel/UCIabPXjvT5BVTxRDPCBBOOQ'
+    },
+     {
+        'id': 'UC5c-DuzPdH9iaWYdI0v0uzw',
+        'type': 'Youtube',
+        'image': 'https://www.awesometuts.com/hosted/images/c2/093920145911e99a0a29c21247f076/1_qKcHOdj97r4LBbqLP-7-kA-_1_.png',
+        'intro': 'This channel has more projects from scratch to finish ,if you are stuck in any part of your project you can refer to any part of the videos.',
+        'name': 'Awesome Tuts',
+        'url': 'https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw'
+    },
+    {
+        'id': 'UC5c-DuzPdH9iaWYdI0v0uzw',
+        'type': 'Youtube',
+        'image': 'https://www.awesometuts.com/hosted/images/c2/093920145911e99a0a29c21247f076/1_qKcHOdj97r4LBbqLP-7-kA-_1_.png',
+        'intro': 'This channel has more projects from scratch to finish ,if you are stuck in any part of your project you can refer to any part of the videos.',
+        'name': 'Awesome Tuts',
+        'url': 'https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw'
+    },
+        {
+        'id': 0,'type': 'Youtube',
+        'image': 'http://ksr-ugc.imgix.net/assets/018/258/330/203e0e65214f740f7e8ba8ec15720c02_original.jpg',
+        'intro': 'Other than teaching game development, he also tells about the game industry.',
+        'name': 'Thomas Brush',
+        'url': 'https://www.youtube.com/user/thomasmbrush'
+    },
+      {
+        'id': 0,'type': 'Youtube',
+        'image': 'http://ksr-ugc.imgix.net/assets/018/258/330/203e0e65214f740f7e8ba8ec15720c02_original.jpg',
+        'intro': 'Other than teaching game development, he also tells about the game industry.',
+        'name': 'Thomas Brush',
+        'url': 'https://www.youtube.com/user/thomasmbrush'
+    },
+    {
+        'id': 1,'type': 'website',
+        'image': 'https://blogs.unity3d.com/wp-content/uploads/2020/09/Goodbye-Brackeys_Blog-header_V1_1280x720.png',
+        'intro': ' Best for beginners, where one can learn basic stuff and also this channel as projects which can be the base for many projects.',
+        'name': 'Brackeys',
+        'url':  'https://www.youtube.com/user/Brackeys'
+    },
         ]
     },
     {
@@ -4330,6 +4673,47 @@ Offers good features and functionalities.''',
 
 ]
 gameDevelopment_tools = [
+     {
+        'id': 1,
+'image':'https://www.edureka.co/blog/wp-content/uploads/2019/10/snake-game-in-python.png',
+'type':'website',
+'intro': 'Beginner friendly tutorials',
+'name': 'Snake game for beginners',
+'url': 'https://codewithharry.com/videos/python-game-development-1',
+    },
+     {
+        'id': 1,
+'image':'https://i.ytimg.com/vi/2MIFlGg5jJ0/maxresdefault.jpg',
+'type':'website',
+'intro': ' A huge library with ready-made 3D models - a lot are free, usefull not only for blender or in gaming',
+'name': 'Free3D',
+'url': 'https://free3d.com/',
+    },
+     {
+        'id': 1,
+'image':'https://www.blender.org/wp-content/uploads/2019/07/blender_render-1280x720.jpg',
+'type':'website',
+'intro': ' For 3D art, this is not only used by beginners but also for the AAA level games in the industry.',
+'name': 'Blender',
+'url': 'https://www.blender.org/',
+    },
+    {
+        'id': 1,
+'image':'https://cloud.addictivetips.com/wp-content/uploads/2020/03/single-window-mode-e1585553498794.png',
+'type':'website',
+'intro': ' For making 2D art.',
+'name': 'GIMP',
+'url': 'https://gimp.org/',
+    },
+    {
+        'id': 1,
+'image':'https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/1017248-mixamo-fuse-adds-support-kinect-windows-v2.png',
+'type':'website',
+'intro': ' For Rigging your 3D models and animating them by selecting the templates in it.',
+'name': 'Mixamo',
+'url': 'https://www.mixamo.com/#/',
+    },
+    
     {
         'id': 1,
 'image':'https://digitalphotovideonews.files.wordpress.com/2014/03/28b68-3dvalley.jpg',
@@ -4818,19 +5202,170 @@ Machine_learning_learning = [
             },
 ]
 gameDevelopment_learning= [
+    {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://i.redd.it/3481o2vr12851.jpg',
+        'intro': 'The man behind the loading screen of the latest blender(2.9), he is popular for his one minute tutorials which are for intermediate to advanced blender users',
+        'name': 'Ian Hubert',
+        'url': 'https://www.youtube.com/user/mrdodobird'
+    },
+    {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://www.blendernation.com/wp-content/uploads/2019/11/image4-1.jpg',
+        'intro': 'Tutorials on animations,visual effects and Blender.',
+        'name': 'CG Geek',
+        'url': 'https://www.youtube.com/user/Blenderfan93'
+    },
+     {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://cdnb.artstation.com/p/assets/images/images/014/366/439/large/nicholas-zaris-blenderft.jpg',
+        'intro': 'Best for learning Blender which is used for making 3D models.',
+        'name': 'Blender Guru',
+        'url': 'https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U'
+    },
+     {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/9/90/Tim_Schafer_and_2PP_at_PAX_Prime_2012.jpg',
+        'intro': 'Documentaries of the game industry, get inspired.',
+        'name': '2PlayerProductions',
+        'url': 'https://www.youtube.com/user/2PlayerProductions'
+    },
+     {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://www.askgamedev.com/wp-content/uploads/2021/01/EP101-small.png',
+        'intro': 'All about Game industry,facts and tips to get into it.',
+        'name': 'Ask Gamedev',
+        'url': 'https://www.youtube.com/channel/UCd_lJ4zSp9wZDNyeKCWUstg'
+    },
+     {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://mir-s3-cdn-cf.behance.net/projects/404/3cf83946741035.Y3JvcCwxMjAyLDk0MSwwLDEzMA.jpg',
+        'intro': 'All about the design,dedicated especilly to the character design',
+        'name': 'Brookes Eggleston',
+        'url': 'https://www.youtube.com/channel/UCJklo0Zl5tLV9kkk_Jd81EA'
+    },
+    {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://devducks.com/static/devducks/imgs/devducks-by-devrant2.jpg',
+        'intro': 'A channel for organizing your projects and planning it.',
+        'name': 'Dev Duck',
+        'url': 'https://www.youtube.com/channel/UCKCTmact-90hXpV2ns8GSsA'
+    },
+    {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://filmstorm.net/content/images/2020/08/smallLogoDark-1-1.png',
+        'intro': 'Intermediate to Advanced tutorials.',
+        'name': 'Filmstorm',
+        'url': 'https://www.youtube.com/channel/UCH1svLGqmyVuCnHCHDr0EXw'
+    },
+    {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://m.media-amazon.com/images/I/51GqvROndpL.jpg',
+        'intro': 'Get to know how to plan your big projects,more about system design of games.',
+        'name': 'Adam Millard',
+        'url': 'https://www.youtube.com/user/Thefearalcarrot'
+    },
+    {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://i.ytimg.com/vi/h0LJg1cfGhQ/maxresdefault.jpg',
+        'intro': 'A channel which recreates popular scenes and mechanics in games.',
+        'name': 'Mix and Jam',
+        'url': 'https://www.youtube.com/channel/UCLyVUwlB_Hahir_VsKkGPIA'
+    },
+    {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://i.ytimg.com/vi/9bbhJi0NBkk/maxresdefault.jpg',
+        'intro': 'Game Breakdown and behind the scenes of popular games.',
+        'name': 'Game Maker’s Toolkit',
+        'url': 'https://www.youtube.com/user/McBacon1337'
+    },
+    {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://miro.medium.com/max/1127/1*i0stRmT9caODvjotCm1lvg.png',
+        'intro': 'Dedicated more towards the design and graphics side.',
+        'name': 'Makin’ Stuff Look Good',
+        'url': 'https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg'
+    },
+    {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://www.the74million.org/wp-content/uploads/2019/10/codemonkey-lead.jpg',
+        'intro': 'This channel has more of intermediate and advanced tutorials and also good beginner tutorials.',
+        'name': 'Code Monkey',
+        'url': 'https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg'
+    },
+    {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://i.ytimg.com/vi/F--LFn7ZIKw/maxresdefault.jpg',
+        'intro': 'This channel teaches you more of the design part than the coding though it has good coding tutorials',
+        'name': 'Blackthornprod:',
+        'url': 'https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g'
+    },
+    {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://6figuredev.com/wp-content/uploads/2019/02/JasonWeimann.png',
+        'intro': 'Learn from the veteran from the gaming industry, recommended for intermediate game developers but he also has beginner friendly tutorials.',
+        'name': 'Jason Weimann',
+        'url': 'https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg'
+    },
+    {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://danisthings.com/assets/ddcoffee.png',
+        'intro': 'This channel teaches you more about project management than tutorials,you keep your projects more organized after watching his videos',
+        'name': 'Dani',
+        'url': 'https://www.youtube.com/channel/UCIabPXjvT5BVTxRDPCBBOOQ'
+    },
+     {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://www.awesometuts.com/hosted/images/c2/093920145911e99a0a29c21247f076/1_qKcHOdj97r4LBbqLP-7-kA-_1_.png',
+        'intro': 'This channel has more projects from scratch to finish ,if you are stuck in any part of your project you can refer to any part of the videos.',
+        'name': 'Awesome Tuts',
+        'url': 'https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw'
+    },
+    {
+        'id': 0,
+        'type': 'Youtube',
+        'image': 'https://www.awesometuts.com/hosted/images/c2/093920145911e99a0a29c21247f076/1_qKcHOdj97r4LBbqLP-7-kA-_1_.png',
+        'intro': 'This channel has more projects from scratch to finish ,if you are stuck in any part of your project you can refer to any part of the videos.',
+        'name': 'Awesome Tuts',
+        'url': 'https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw'
+    },
         {
-        'id': 0,'type': 'website',
-        'image': 'https://hackernoon.com/drafts/1k3j3zqp.png',
-        'intro': '10 Reasons Why You Should Learn How To Develop Video Games',
-        'name': '10-reasons-why-you-should-keep-learning-game-development',
-        'url': 'https://hackernoon.com/10-reasons-why-you-should-keep-learning-game-development-hf3l3zmn'
+        'id': 0,'type': 'Youtube',
+        'image': 'http://ksr-ugc.imgix.net/assets/018/258/330/203e0e65214f740f7e8ba8ec15720c02_original.jpg',
+        'intro': 'Other than teaching game development, he also tells about the game industry.',
+        'name': 'Thomas Brush',
+        'url': 'https://www.youtube.com/user/thomasmbrush'
+    },
+      {
+        'id': 0,'type': 'Youtube',
+        'image': 'http://ksr-ugc.imgix.net/assets/018/258/330/203e0e65214f740f7e8ba8ec15720c02_original.jpg',
+        'intro': 'Other than teaching game development, he also tells about the game industry.',
+        'name': 'Thomas Brush',
+        'url': 'https://www.youtube.com/user/thomasmbrush'
     },
     {
         'id': 1,'type': 'website',
-        'image': 'https://blogs.unity3d.com/wp-content/uploads/2019/04/Unity-Learn-blog-header_1280x720.jpg',
-        'intro': 'Unity Learn provides award-winning free tutorials, sample projects, and full courses for mastering real-time 3D development skills with Unity Learn',
-        'name': 'Unity learn',
-        'url':  'https://learn.unity.com/'
+        'image': 'https://blogs.unity3d.com/wp-content/uploads/2020/09/Goodbye-Brackeys_Blog-header_V1_1280x720.png',
+        'intro': ' Best for beginners, where one can learn basic stuff and also this channel as projects which can be the base for many projects.',
+        'name': 'Brackeys',
+        'url':  'https://www.youtube.com/user/Brackeys'
     },
     {
         'id':2,'type': 'website',
@@ -5262,43 +5797,66 @@ Must_programmer_courses = [
 gameDevelopment_courses = [
     {
         'id': 0,
-        'image': 'https://www.telcoma.in/en/wp-content/uploads/2019/09/Mastering-Data-Structures-Algorithms-using-C-and-C0-.jpg',
-        'intro': "Download Free Your Desired AppIntroduction to Algorithms Introduction to course. Why we write Algorithm? Who writes Algorithm? When Algorithms are written? Differences between Algorithms and Programs",
-        'type': "Youtube videos",
-        'name': 'Abdul Bari: YouTubeChannel for Algorithms',
-        'url': 'https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=2&t=0s',
+        'image': 'https://files.hubhopper.com/podcast/12514/real-talk-javascript.jpg',
+        'intro': 'A sub-reddit for begginers/intermediate game developers where you can ask by sharing videos/links of specific game events, it will really help you in learning game development.',
+        'name': 'How Did They Code It',
+        'url': 'https://www.reddit.com/r/howdidtheycodeit/'
     },
     {
         'id': 0,
-        'image': 'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190529171221/Learning-Data-Structures-and-Algorithms-is-Important1-1024x424.png',
-        'intro': "Hey guys, we have created this channel to provide quality education to students who want to learn, grow and do something beautiful with their life",
-        'type': "Youtube videos",
-        'name': 'Data Structures and algorithms',
-        'url': 'https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s',
+        'image': 'https://d1p8pldpmo4u0v.cloudfront.net/wp-content/uploads/2016/08/Indie_Game_The_Movie_Artwork_1.jpg',
+        'intro': ' A facebook group with 120k+ members who help you if your stuck in your project or for networking and get to know about their stories.',
+        'name': 'Indie Game Developers',
+        'url': 'https://www.facebook.com/groups/IndieGameDevs/about/'
     },
     {
         'id': 0,
-        'image': 'https://miro.medium.com/max/1024/1*9QRFQdpO2f59GsN2KsE9XA.png',
-        'intro': "Data Structure & Algorithms course is the most easiest way, that also at free of cost. This playlist has been created by WsCube Tech to help you learn and understand the concepts of Data Structure Algorithm(DSA). All videos cover a wide range of topics and explain each topic with practical examples. You can easily learn about Data Structure Algorithm(DSA), Subscribe the channel to get the latest videos. ",
-        'type': "Youtube videos(Hindi)",
-        'name': 'Data Structures and algorithms Course',
-        'url': 'https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9',
+        'image': 'https://www.badykov.com/images/2019-04-06-gamedev.jpg',
+        'intro': 'A subreddit with 490k+ members ,where you get to know about game development, programming, design, writing, math, art, jams, postmortems and marketing.',
+        'name': 'gamedev:',
+        'url': 'https://www.reddit.com/r/gamedev/'
+    },
+  {
+        'id': 0,
+        'image': 'https://i.ytimg.com/vi/5LhA4Tk_uvI/maxresdefault.jpg',
+        'intro': 'Netwokring documentations which are best to learn how to implement multiplayer game features in your project.',
+        'name': 'Mirror Networking',
+        'url': 'https://mirror-networking.com/docs/'
     },
     {
         'id': 0,
-        'image': 'https://miro.medium.com/max/1024/1*9QRFQdpO2f59GsN2KsE9XA.pnghttps://i.ytimg.com/vi/CvSOaYi89B4/maxresdefault.jpg',
-        'intro': "What are algorithms and why should you care? We'll start with an overview of algorithms and then discuss two games that you could use an algorithm to solve more efficiently - the number guessing game and a route-finding game.",
-        'type': "videos + exersise",
-        'name': 'Khan Academy',
-        'url': 'https://www.khanacademy.org/computing/computer-science/algorithms',
+        'image': 'https://cdn.arstechnica.net/wp-content/uploads/2018/02/ARCore-logo.jpg',
+        'intro': 'Documentation to implement AR using Unity.',
+        'name': 'ARCore',
+        'url': 'https://developers.google.com/ar/develop/unity'
+    },
+     {
+        'id': 0,
+        'image': 'https://blogs.unity3d.com/wp-content/uploads/2017/09/ML-blog-header-v6.jpg',
+        'intro': 'Tutorials on ML agents.',
+        'name': 'ML Agents',
+        'url': 'https://www.immersivelimit.com/tutorials/unity-ml-agents-tutorial-list'
     },
     {
         'id': 0,
-        'image': 'https://miro.medium.com/max/1000/0*ZzOeJHpQQk4RhhWW.png',
-        'intro': " Pre-requisite for this lesson is good understanding of pointers in C. In this series of lessons, we will study and implement data structures. We will be implementing these data structures in c or c++.  Pre-requisite for this lesson is good understanding of pointers in C. Watch this series on pointers before starting on this series: ",
-        'type': "Youtube videos",
-        'name': 'Data structures by mycodeschool',
-        'url': 'https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P',
+        'image': 'https://hackernoon.com/drafts/1k3j3zqp.png',
+        'intro': '10 Reasons Why You Should Learn How To Develop Video Games',
+        'name': 'hackernoon article',
+        'url': 'https://hackernoon.com/10-reasons-why-you-should-keep-learning-game-development-hf3l3zmn'
+    },
+    {
+        'id': 1,
+        'image': 'https://blogs.unity3d.com/wp-content/uploads/2019/04/Unity-Learn-blog-header_1280x720.jpg',
+        'intro': 'Unity Learn provides award-winning free tutorials, sample projects, and full courses for mastering real-time 3D development skills with Unity Learn',
+        'type':'websites','name': 'Unity learn',
+        'url':  'https://learn.unity.com/'
+    },
+    {
+        'id':2,
+        'image': 'https://cdn2.unrealengine.com/Unreal+Engine%2Fonlinelearning-courses%2FNews_UOLDec_fb_image-1200x630-520419d3e9c82ff29459b6844fb50ed0262e715c.jpg',
+        'intro': 'Unreal Online Learning is a free learning platform that offers hands-on video courses and guided learning paths.',
+        'type':'websites','name': 'unreal engine',
+        'url':  'https://www.unrealengine.com/en-US/onlinelearning-courses'
     },
 ]
 Ui_Ux_courses =[
