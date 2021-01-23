@@ -671,7 +671,223 @@ Must_programmer_main = [
         
     }
 ]
-}
+},
+                  {
+    'image': 'https://benjweinberg.files.wordpress.com/2017/08/what-is-an-definite-and-indefinite-articles-hd.png',
+    'name': 'Interwiew',
+    'start': [
+        {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/5760/1*T9rTWkhfFE47aiBtG5vjXA.jpeg',
+        'intro': "A free tool built to provide the complete interview practice you need from Technical to behavioral interviews.",
+        'name': 'Pramp',
+        'type': 'Website',
+        'url': 'https://www.pramp.com/',
+        },
+        {
+        'id': 0,
+        'image': 'https://raw.githubusercontent.com/30-seconds/30-seconds-of-interviews/master/promo.jpg',
+        'intro': "A collection of common interview questions that will help you prepare for your next interview!",
+        'name': '30 seconds of interviews',
+        'type': 'Website',
+        'url': 'https://30secondsofinterviews.org/',
+        },
+        {
+        'id': 0,
+        'image': 'https://beta.techcrunch.com/wp-content/uploads/2017/09/iio_screenshot.jpg',
+        'intro': " An excellent, free tool to practice your interviewing skills (technical and soft) anonymously with engineers from established tech companies like Google, AWS, AirBnB, LinkedIn, Lyft, and more!",
+        'name': 'Interviewing.io:',
+        'type': 'Websites',
+        'url': 'https://interviewing.io/',
+        },
+        {
+        'id': 0,
+        'image': 'https://img.sur.ly/thumbnails/620x343/g/gainlo.co.png',
+        'intro': "A free tool, similar to Interviewing.io, where one can hone their interviewing skills (technical and soft) through mock interviews with engineers from established tech companies - think Google, AirBnB, Amazon, Facebook, Dropbox, etc. - and receive real feedback on how one can improve. Great for those who care more about their privacy than they do their anonymity.",
+        'name': 'Gainlo',
+        'type': 'Google sheet',
+        'url': "http://www.gainlo.co/#!/",
+        },
+        {
+        'id': 0,
+        'image': 'https://yangshun.github.io/tech-interview-handbook/img/logo.svg',
+        'intro': " Remote pair programming interviewing tool with shared code editor, compiler and video conferencing.",
+        'name': 'Adaface',
+        'type': 'Google sheet',
+        'url': 'https://www/adaface.com/pair-pro',
+        },
+        {
+        'id': 0,
+        'image': 'https://yangshun.github.io/tech-interview-handbook/img/logo.svg',
+        'intro': "A site for coding challenges and interview prep (including examples of real-world coding challenges/interview questions from various tech companies, including Google, Facebook, and the like)",
+        'name': 'CoderByte',
+        'type': 'Coding Challenges',
+        'url': 'https://www.coderbyte.com/',
+        },
+        {
+        'id': 0,
+        'image': 'https://yangshun.github.io/tech-interview-handbook/img/logo.svg',
+        'intro': "A place where you can practice coding, prepare for interviews, and get hired.",
+        'name': 'HackerRank',
+        'type': 'Coding Challenges',
+        'url': 'https://www.hackerrank.com/',
+        },
+        {
+        'id': 0,
+        'image': 'https://yangshun.github.io/tech-interview-handbook/img/logo.svg',
+        'intro': ": Formerly CodeFights, this site has real-world coding questions as well as challenges to keep your skills sharp and help you prepare for interviews.",
+        'name': 'CodeSignal',
+        'type': 'Coding Challenges',
+        'url': 'https://www.codesignal.com/',
+        },
+        {
+        'id': 0,
+        'image': 'https://yangshun.github.io/tech-interview-handbook/img/logo.svg',
+        'intro': "A place to challenge yourself and hone your coding skills. See if you can find any fellow ZTM students on there and team up!",
+        'name': 'Codewars',
+        'type': 'Coding Challenges',
+        'url': 'https://www.codewars.com/',
+        },
+        {
+        'id': 0,
+        'image': 'https://yangshun.github.io/tech-interview-handbook/img/logo.svg',
+        'intro': "A complete computer science study plan to become a software engineer.",
+        'name': 'Coding Interview University',
+        'type': 'Google sheet',
+        'url': 'https://github.com/jwasham/coding-interview-university',
+        },
+    {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/1909/1*ywYwvB-aydv0Ovx7K-5P3g.jpeg',
+        'intro': """A top-notch resource to supplement alongside Andrei’s course, Master The Coding Interview: Data Structures + Algorithms. It features a Google Engineer’s deep-dive into interviewing well amongst a broad array of tech companies (both established and starting up), covering topics such as:
+
+Getting The Interview
+Building A Solid Foundation (Big-O, Algorithms, Data Structures)
+Tips and Tools to Practice Interviewing Questions
+Preparation Process as an Experienced Engineer, New Grad, or Intern
+System Design Interviews
+Phone Interviews
+On-Site Interviews
+Non-Technical Questions “Non-Google” Interviews""",
+        'name': 'Remote Dev Job Sites',
+        'type': 'Google sheet',
+        'url': 'http://bit.ly/2NSgGe1',
+        },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/1909/1*ywYwvB-aydv0Ovx7K-5P3g.jpeg',
+        'intro': "Some notes and code associated with a Udemy course titled JavaScript Interview Prep. While the notes themselves may be useful, it is really the process of writing these type of notes that fully prepares one for a technical interview.",
+        'name': 'Notes for Coding Interviews',
+        'type': 'Artices',
+        'url': 'https://pulamusic.github.io/Moon/coding-interviews/',
+        },{
+        'id': 0,
+        'image': 'https://cdn-media-1.freecodecamp.org/images/1*pU1kb1JfF45YbKgZ2zm9dg.png',
+        'intro': "Some good, fairly detailed advice on job hunting, networking, interviewing, and negotiation",
+        'name': 'How to Break Into the Tech Industry',
+        'type': 'Artices',
+        'url': 'https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/',
+        },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/1909/1*ywYwvB-aydv0Ovx7K-5P3g.jpeg',
+        'intro': "(Artices)How to negotiate a better deal for yourself in the hiring process.",
+        'name': 'How to negotiate a better deal for yourself in the hiring process.',
+        'type': 'Artices',
+        'url': 'https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea',
+        },
+            {
+        'id': 0,
+        'image': 'https://cdn-media-1.freecodecamp.org/images/1*8csA-fy8rMONaEVeOjVP4A.png',
+        'intro': "(Artices)Zhia Chong - a Twitter Software Engineer who possesses a wealth of experience as both an interviewer and interviewee - provides several tips on preparing for programming interviews as well as recommending a solid list of tools and resources (like Cracking The Coding Interview).",
+        'name': '5 Things You Need to Know in a Programming Interview',
+        'type': 'Artices',
+        'url': 'https://medium.freecodecamp.org/the-most-important-things-you-need-to-know-for-a-programming-interview-3429ac2454b',
+        },
+            
+                {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/1909/1*ywYwvB-aydv0Ovx7K-5P3g.jpeg',
+        'intro': "(Artices)A new take on the age-old question: Should you rewrite your application from scratch, or is that “the single worst strategic mistake that any software company can make”? ",
+        'name': 'Lessons from 6 software rewrite stories',
+        'type': 'Artices',
+        'url': 'https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22',
+        },
+    {
+        'id': 0,
+        'type': 'Artices',
+        'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
+        'intro': "(Artices)How to escape tutorial purgatory as a new developer — or at any time in your career.",
+        'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
+        'url': 'https://www.freecodecamp.org/news/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40/',
+    },
+    {
+        'id': 0,
+        'type': 'Artices',
+        'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
+        'intro': "(Artices)How to escape tutorial purgatory as a new developer — or at any time in your career.",
+        'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
+        'url': 'https://www.freecodecamp.org/news/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40/',
+    },
+    {
+        'id': 0,
+        'type': 'Artices',
+        'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
+        'intro': "(Artices)How to escape tutorial purgatory as a new developer — or at any time in your career.",
+        'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
+        'url': 'https://www.freecodecamp.org/news/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40/',
+    },
+            
+      
+    
+]
+},
+
+{
+    'image' : 'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191213191344/Why-Data-Structures-and-Algorithms-Are-Important-to-Learn.png',
+    'name': 'DataStructures_Algorithms',
+    'start': [
+    {
+        'id': 0,
+        'image': 'https://www.telcoma.in/en/wp-content/uploads/2019/09/Mastering-Data-Structures-Algorithms-using-C-and-C0-.jpg',
+        'intro': "Download Free Your Desired AppIntroduction to Algorithms Introduction to course. Why we write Algorithm? Who writes Algorithm? When Algorithms are written? Differences between Algorithms and Programs",
+        'type': "Youtube videos",
+        'name': 'Abdul Bari: YouTubeChannel for Algorithms',
+        'url': 'https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=2&t=0s',
+    },
+    {
+        'id': 0,
+        'image': 'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190529171221/Learning-Data-Structures-and-Algorithms-is-Important1-1024x424.png',
+        'intro': "Hey guys, we have created this channel to provide quality education to students who want to learn, grow and do something beautiful with their life",
+        'type': "Youtube videos",
+        'name': 'Data Structures and algorithms',
+        'url': 'https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s',
+    },
+    {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/1024/1*9QRFQdpO2f59GsN2KsE9XA.png',
+        'intro': "Data Structure & Algorithms course is the most easiest way, that also at free of cost. This playlist has been created by WsCube Tech to help you learn and understand the concepts of Data Structure Algorithm(DSA). All videos cover a wide range of topics and explain each topic with practical examples. You can easily learn about Data Structure Algorithm(DSA), Subscribe the channel to get the latest videos. ",
+        'type': "Youtube videos(Hindi)",
+        'name': 'Data Structures and algorithms Course',
+        'url': 'https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9',
+    },
+    {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/1024/1*9QRFQdpO2f59GsN2KsE9XA.pnghttps://i.ytimg.com/vi/CvSOaYi89B4/maxresdefault.jpg',
+        'intro': "What are algorithms and why should you care? We'll start with an overview of algorithms and then discuss two games that you could use an algorithm to solve more efficiently - the number guessing game and a route-finding game.",
+        'type': "videos + exersise",
+        'name': 'Khan Academy',
+        'url': 'https://www.khanacademy.org/computing/computer-science/algorithms',
+    },
+    {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/1000/0*ZzOeJHpQQk4RhhWW.png',
+        'intro': " Pre-requisite for this lesson is good understanding of pointers in C. In this series of lessons, we will study and implement data structures. We will be implementing these data structures in c or c++.  Pre-requisite for this lesson is good understanding of pointers in C. Watch this series on pointers before starting on this series: ",
+        'type': "Youtube videos",
+        'name': 'Data structures by mycodeschool',
+        'url': 'https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P',
+    },
+
+]
+},
 ]
 
     
@@ -1943,222 +2159,7 @@ web_Development = [
                         }
                     ]
                     },
-                    {
-    'image': 'https://benjweinberg.files.wordpress.com/2017/08/what-is-an-definite-and-indefinite-articles-hd.png',
-    'name': 'Interwiew',
-    'start': [
-        {
-        'id': 0,
-        'image': 'https://miro.medium.com/max/5760/1*T9rTWkhfFE47aiBtG5vjXA.jpeg',
-        'intro': "A free tool built to provide the complete interview practice you need from Technical to behavioral interviews.",
-        'name': 'Pramp',
-        'type': 'Website',
-        'url': 'https://www.pramp.com/',
-        },
-        {
-        'id': 0,
-        'image': 'https://raw.githubusercontent.com/30-seconds/30-seconds-of-interviews/master/promo.jpg',
-        'intro': "A collection of common interview questions that will help you prepare for your next interview!",
-        'name': '30 seconds of interviews',
-        'type': 'Website',
-        'url': 'https://30secondsofinterviews.org/',
-        },
-        {
-        'id': 0,
-        'image': 'https://beta.techcrunch.com/wp-content/uploads/2017/09/iio_screenshot.jpg',
-        'intro': " An excellent, free tool to practice your interviewing skills (technical and soft) anonymously with engineers from established tech companies like Google, AWS, AirBnB, LinkedIn, Lyft, and more!",
-        'name': 'Interviewing.io:',
-        'type': 'Websites',
-        'url': 'https://interviewing.io/',
-        },
-        {
-        'id': 0,
-        'image': 'https://img.sur.ly/thumbnails/620x343/g/gainlo.co.png',
-        'intro': "A free tool, similar to Interviewing.io, where one can hone their interviewing skills (technical and soft) through mock interviews with engineers from established tech companies - think Google, AirBnB, Amazon, Facebook, Dropbox, etc. - and receive real feedback on how one can improve. Great for those who care more about their privacy than they do their anonymity.",
-        'name': 'Gainlo',
-        'type': 'Google sheet',
-        'url': "http://www.gainlo.co/#!/",
-        },
-        {
-        'id': 0,
-        'image': 'https://yangshun.github.io/tech-interview-handbook/img/logo.svg',
-        'intro': " Remote pair programming interviewing tool with shared code editor, compiler and video conferencing.",
-        'name': 'Adaface',
-        'type': 'Google sheet',
-        'url': 'https://www/adaface.com/pair-pro',
-        },
-        {
-        'id': 0,
-        'image': 'https://yangshun.github.io/tech-interview-handbook/img/logo.svg',
-        'intro': "A site for coding challenges and interview prep (including examples of real-world coding challenges/interview questions from various tech companies, including Google, Facebook, and the like)",
-        'name': 'CoderByte',
-        'type': 'Coding Challenges',
-        'url': 'https://www.coderbyte.com/',
-        },
-        {
-        'id': 0,
-        'image': 'https://yangshun.github.io/tech-interview-handbook/img/logo.svg',
-        'intro': "A place where you can practice coding, prepare for interviews, and get hired.",
-        'name': 'HackerRank',
-        'type': 'Coding Challenges',
-        'url': 'https://www.hackerrank.com/',
-        },
-        {
-        'id': 0,
-        'image': 'https://yangshun.github.io/tech-interview-handbook/img/logo.svg',
-        'intro': ": Formerly CodeFights, this site has real-world coding questions as well as challenges to keep your skills sharp and help you prepare for interviews.",
-        'name': 'CodeSignal',
-        'type': 'Coding Challenges',
-        'url': 'https://www.codesignal.com/',
-        },
-        {
-        'id': 0,
-        'image': 'https://yangshun.github.io/tech-interview-handbook/img/logo.svg',
-        'intro': "A place to challenge yourself and hone your coding skills. See if you can find any fellow ZTM students on there and team up!",
-        'name': 'Codewars',
-        'type': 'Coding Challenges',
-        'url': 'https://www.codewars.com/',
-        },
-        {
-        'id': 0,
-        'image': 'https://yangshun.github.io/tech-interview-handbook/img/logo.svg',
-        'intro': "A complete computer science study plan to become a software engineer.",
-        'name': 'Coding Interview University',
-        'type': 'Google sheet',
-        'url': 'https://github.com/jwasham/coding-interview-university',
-        },
-    {
-        'id': 0,
-        'image': 'https://miro.medium.com/max/1909/1*ywYwvB-aydv0Ovx7K-5P3g.jpeg',
-        'intro': """A top-notch resource to supplement alongside Andrei’s course, Master The Coding Interview: Data Structures + Algorithms. It features a Google Engineer’s deep-dive into interviewing well amongst a broad array of tech companies (both established and starting up), covering topics such as:
-
-Getting The Interview
-Building A Solid Foundation (Big-O, Algorithms, Data Structures)
-Tips and Tools to Practice Interviewing Questions
-Preparation Process as an Experienced Engineer, New Grad, or Intern
-System Design Interviews
-Phone Interviews
-On-Site Interviews
-Non-Technical Questions “Non-Google” Interviews""",
-        'name': 'Remote Dev Job Sites',
-        'type': 'Google sheet',
-        'url': 'http://bit.ly/2NSgGe1',
-        },{
-        'id': 0,
-        'image': 'https://miro.medium.com/max/1909/1*ywYwvB-aydv0Ovx7K-5P3g.jpeg',
-        'intro': "Some notes and code associated with a Udemy course titled JavaScript Interview Prep. While the notes themselves may be useful, it is really the process of writing these type of notes that fully prepares one for a technical interview.",
-        'name': 'Notes for Coding Interviews',
-        'type': 'Artices',
-        'url': 'https://pulamusic.github.io/Moon/coding-interviews/',
-        },{
-        'id': 0,
-        'image': 'https://cdn-media-1.freecodecamp.org/images/1*pU1kb1JfF45YbKgZ2zm9dg.png',
-        'intro': "Some good, fairly detailed advice on job hunting, networking, interviewing, and negotiation",
-        'name': 'How to Break Into the Tech Industry',
-        'type': 'Artices',
-        'url': 'https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/',
-        },{
-        'id': 0,
-        'image': 'https://miro.medium.com/max/1909/1*ywYwvB-aydv0Ovx7K-5P3g.jpeg',
-        'intro': "(Artices)How to negotiate a better deal for yourself in the hiring process.",
-        'name': 'How to negotiate a better deal for yourself in the hiring process.',
-        'type': 'Artices',
-        'url': 'https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea',
-        },
-            {
-        'id': 0,
-        'image': 'https://cdn-media-1.freecodecamp.org/images/1*8csA-fy8rMONaEVeOjVP4A.png',
-        'intro': "(Artices)Zhia Chong - a Twitter Software Engineer who possesses a wealth of experience as both an interviewer and interviewee - provides several tips on preparing for programming interviews as well as recommending a solid list of tools and resources (like Cracking The Coding Interview).",
-        'name': '5 Things You Need to Know in a Programming Interview',
-        'type': 'Artices',
-        'url': 'https://medium.freecodecamp.org/the-most-important-things-you-need-to-know-for-a-programming-interview-3429ac2454b',
-        },
-            
-                {
-        'id': 0,
-        'image': 'https://miro.medium.com/max/1909/1*ywYwvB-aydv0Ovx7K-5P3g.jpeg',
-        'intro': "(Artices)A new take on the age-old question: Should you rewrite your application from scratch, or is that “the single worst strategic mistake that any software company can make”? ",
-        'name': 'Lessons from 6 software rewrite stories',
-        'type': 'Artices',
-        'url': 'https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22',
-        },
-    {
-        'id': 0,
-        'type': 'Artices',
-        'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
-        'intro': "(Artices)How to escape tutorial purgatory as a new developer — or at any time in your career.",
-        'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
-        'url': 'https://www.freecodecamp.org/news/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40/',
-    },
-    {
-        'id': 0,
-        'type': 'Artices',
-        'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
-        'intro': "(Artices)How to escape tutorial purgatory as a new developer — or at any time in your career.",
-        'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
-        'url': 'https://www.freecodecamp.org/news/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40/',
-    },
-    {
-        'id': 0,
-        'type': 'Artices',
-        'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
-        'intro': "(Artices)How to escape tutorial purgatory as a new developer — or at any time in your career.",
-        'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
-        'url': 'https://www.freecodecamp.org/news/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40/',
-    },
-            
-      
-    
-]
-},
-
-{
-    'image' : 'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191213191344/Why-Data-Structures-and-Algorithms-Are-Important-to-Learn.png',
-    'name': 'DataStructures_Algorithms',
-    'start': [
-    {
-        'id': 0,
-        'image': 'https://www.telcoma.in/en/wp-content/uploads/2019/09/Mastering-Data-Structures-Algorithms-using-C-and-C0-.jpg',
-        'intro': "Download Free Your Desired AppIntroduction to Algorithms Introduction to course. Why we write Algorithm? Who writes Algorithm? When Algorithms are written? Differences between Algorithms and Programs",
-        'type': "Youtube videos",
-        'name': 'Abdul Bari: YouTubeChannel for Algorithms',
-        'url': 'https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=2&t=0s',
-    },
-    {
-        'id': 0,
-        'image': 'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190529171221/Learning-Data-Structures-and-Algorithms-is-Important1-1024x424.png',
-        'intro': "Hey guys, we have created this channel to provide quality education to students who want to learn, grow and do something beautiful with their life",
-        'type': "Youtube videos",
-        'name': 'Data Structures and algorithms',
-        'url': 'https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s',
-    },
-    {
-        'id': 0,
-        'image': 'https://miro.medium.com/max/1024/1*9QRFQdpO2f59GsN2KsE9XA.png',
-        'intro': "Data Structure & Algorithms course is the most easiest way, that also at free of cost. This playlist has been created by WsCube Tech to help you learn and understand the concepts of Data Structure Algorithm(DSA). All videos cover a wide range of topics and explain each topic with practical examples. You can easily learn about Data Structure Algorithm(DSA), Subscribe the channel to get the latest videos. ",
-        'type': "Youtube videos(Hindi)",
-        'name': 'Data Structures and algorithms Course',
-        'url': 'https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9',
-    },
-    {
-        'id': 0,
-        'image': 'https://miro.medium.com/max/1024/1*9QRFQdpO2f59GsN2KsE9XA.pnghttps://i.ytimg.com/vi/CvSOaYi89B4/maxresdefault.jpg',
-        'intro': "What are algorithms and why should you care? We'll start with an overview of algorithms and then discuss two games that you could use an algorithm to solve more efficiently - the number guessing game and a route-finding game.",
-        'type': "videos + exersise",
-        'name': 'Khan Academy',
-        'url': 'https://www.khanacademy.org/computing/computer-science/algorithms',
-    },
-    {
-        'id': 0,
-        'image': 'https://miro.medium.com/max/1000/0*ZzOeJHpQQk4RhhWW.png',
-        'intro': " Pre-requisite for this lesson is good understanding of pointers in C. In this series of lessons, we will study and implement data structures. We will be implementing these data structures in c or c++.  Pre-requisite for this lesson is good understanding of pointers in C. Watch this series on pointers before starting on this series: ",
-        'type': "Youtube videos",
-        'name': 'Data structures by mycodeschool',
-        'url': 'https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P',
-    },
-
-]
-},
+  
     
                     
 ]
