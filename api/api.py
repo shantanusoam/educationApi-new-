@@ -165,43 +165,7 @@ motivation = [
 
     }
 ]
-api_ = [
-    {
-        'id': 0,
-     'image': 'https://i.ytimg.com/vi/yY0ciWj8oco/maxresdefault.jpg',
-     'intro': 'A JSON API for pulling headlines and news articles from news sources and blogs across the web',
-     'type':'websites','name': 'News API',
-     'url': 'https://newsapi.org/https://www.codingblocks.net/'
-    },
-    {
-        'id': 0,
-     'image': 'https://devlinduldulao.pro//wp-content/uploads/2017/12/jsonplaceholder-api.png',
-     'intro': 'Free to use fake Online REST API for testing and prototyping.',
-     'type':'websites','name': 'JSON Placeholder API',
-     'url': 'https://jsonplaceholder.typicode.com/'
-    },
-    {
-        'id': 0,
-     'image': 'https://cdn.slidesharecdn.com/ss_thumbnails/voicerssapipresentation-140129132037-phpapp01-thumbnail-4.jpg',
-     'intro': 'PI for converting text to speech with support for many different languages and voices.',
-     'type':'websites','name': 'News APIVoice RSS Text-to-Speech API',
-     'url': 'http://www.voicerss.org/api/'
-    },
-    {
-        'id': 0,
-     'image': 'https://miro.medium.com/max/3756/1*EEn-tB8M38krdKQuuTR-9Q.png',
-     'intro': 'pen-source API for generating random user data',
-     'type':'websites','name': 'Random User Generator API',
-     'url': 'https://randomuser.me/'
-    },
-    {
-        'id': 0,
-     'image': 'https://www.connectioncafe.com/wp-content/uploads/2018/07/API-Design-Skills.png',
-     'intro': 'Collection of APIs on a list of issues ranging from health to geocoding',
-     'type':'websites','name': 'Useful API’s',
-     'url': 'https://github.com/public-apis/public-apis'
-    },
-]
+
 
 Podcasts = [
     {
@@ -389,6 +353,9 @@ Podcasts = [
 ]
 Must_programmer_main = [
     {
+        'name':'programmingmain',
+        'start':[
+            {
         'id': 0,
         'image': 'https://images.ctfassets.net/aq13lwl6616q/33tbBpGanLQYMSxpnkL7nC/02bc0ffd5053dd8b0b146faa145f37f2/Git_Branching.PNG?w=800&h=387&q=50&fm=webp',
         'intro':'Coursera Course (Not CS Specific) teach you how the mind grasp thing and how to train it to learn things as convinient and fast as possible',
@@ -473,7 +440,238 @@ Must_programmer_main = [
         'type':'websites','name': 'Cs50 2020',
         'url': 'https://youtu.be/Tpl7k8IOT6E',
     }
+        ]
+    },
+    {'programming_tools' : [
+            
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/4tfKlG1Ylr94FeVUQH5Oic/2bfef3e8d5536a47e52e6e5f50c258c8/og-square.png?w=640&h=640&q=50&fm=webp',
+        'intro': "An interactive map of popular screen sizes showing the responsive and adaptive device landscape",
+        'name': 'Screen Size Map',
+        'url': 'https://www.screensizemap.com/',
+    }
+    ,
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/5FX7FgtToDupaRBZuRFW3m/3e822bfe48221fe462ba9205ead4be9b/image.png',
+        'intro': "Automatically remove an image background with no clicks and for free in 5 seconds.",
+        'name': 'Image Background Remover',
+        'url': 'https://www.remove.bg/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/3D1UOB3RrnRLcTtMytmyJa/284a58d52a99d52ded174c17790daeb8/image.png?w=800&h=421&q=50&fm=webp',
+        'intro': "Create and share beautiful images of your source code.",
+        'name': 'Codeimg.io',
+        'url': 'https://codeimg.io/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/2SSyh2voG8mIcUlkpNDDbp/850fa97bd0d109fb16e318edbbfaa7db/image.png',
+        'intro': "Free online tools for bulk image processing (resize, crop, compress and more).",
+        'name': 'Bulk Image Processing',
+        'url': 'https://www.imgbot.ai/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/71B5MfU2Oe5l9BNITmQYYi/ca1fd6bf70dbbf19879648232f4f2497/screenshot.png?w=800&h=450&q=50&fm=webp',
+        'intro': "Develop responsive web apps 5x faster. A must-have DevTool for all Front-End developers that will ma",
+        'name': 'Responsively',
+        'url': 'https://responsively.app/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/5UJgTMBsuDqpV1JVgOryvn/59e8e7289d63ba2cd2c6eb884f18014b/image.png?w=304&h=166&q=50&fm=webp',
+        'intro': "The most complete resource for the best monospace coding fonts.",
+        'name': 'Programming Fonts',
+        'url': 'https://app.programmingfonts.org/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/11n7eqjDE3UFlt5v6OkRBT/dd0beaf8e09dc2a61c651833f3ed553f/image.png?w=800&h=416&q=50&fm=webp',
+        'intro': "A tool to debug and generate meta tag code for any website.",
+        'name': 'Meta Tags',
+        'url': 'https://metatags.io/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/4kVxycBS3keteNdBmEDsC8/abbd160757896407cd696c964719dfda/image.png?w=175&h=175&q=50&fm=webp',
+        'intro': "Lorem Ipsum... but for photos.",
+        'name': 'Lorem Picsum',
+        'url': 'https://picsum.photos/',
+    },
+     {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/5iPXVJ2jpDKGyPyfcHhMJ9/36b7d3f8af92ab6703f94b6152e5c547/image.png?w=676&h=676&q=50&fm=webp',
+        'intro': "Collection of open APIs (movies, weather, food, news, and more) for development",
+        'name': 'Public APIs',
+        'url': 'https://public-apis.xyz/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/5b7A0ciaL5LU4wmb2ZYG0v/bb681d4a2c55c2b3c5aedb3479dda7e7/5aecb012-4bda-467c-9782-1ef157aec0d2?w=800&h=450&q=50&fm=webp',
+        'intro': "Instantly resize and crop your photos & images for all web and social media formats with one click",
+        'name': 'Free Image and Photo Resizer',
+        'url': 'https://promo.com/tools/image-resizer/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/1YefYhckdPwmjhjvfUhsI7/c3371fb888864ad70bb0af1b40bf54de/image.png',
+        'intro': "Use generative art for your image placeholders.",
+        'name': 'Generative Placeholders',
+        'url': 'https://generative-placeholders.glitch.me/',
+    },
+]
+},
+{
+    'name': 'Must_programmer_courses',
+    'start' : [
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/33tbBpGanLQYMSxpnkL7nC/02bc0ffd5053dd8b0b146faa145f37f2/Git_Branching.PNG?w=800&h=387&q=50&fm=webp',
+        'intro':'Coursera Course (Not CS Specific) teach you how the mind grasp thing and how to train it to learn things as convinient and fast as possible',
+        'type': 'website',
+        'name': 'Learn Git Branching Interactively',
+        'url': 'https://www.coursera.org/learn/learning-how-to-learn'
+    },
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/33tbBpGanLQYMSxpnkL7nC/02bc0ffd5053dd8b0b146faa145f37f2/Git_Branching.PNG?w=800&h=387&q=50&fm=webp',
+        'intro':'The most visual, interactive and fun way to learn Git on the web.',
+        'type': 'website + game',
+        'name': 'Learn Git Branching Interactively',
+        'url': 'https://learngitbranching.js.org/'
+    },
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/5qFgoOTACYlbYpc2pPlqjM/a0f2662b4e2a3bfc2fc30c84b7f6e963/1500x500?w=800&h=267&q=50&fm=webp',
+        'intro':'Find the right git commands you need without digging through the web.',
+        'type': 'website',
+        'name': 'Git Command Explorer',
+        'url': 'https://gitexplorer.com/'
+    },
 
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/5qFgoOTACYlbYpc2pPlqjM/a0f2662b4e2a3bfc2fc30c84b7f6e963/1500x500?w=800&h=267&q=50&fm=webp',
+        'intro':'Free individual licenses of the award-winning professional developer tools from JetBrains for students and faculty members.',
+        'type': 'website',
+        'name': 'JetBrains Student License',
+        'url': 'https://www.jetbrains.com/student/'
+    },
+    
+
+
+    
+    {
+        'id': 0,
+        'image': 'https://github.blog/wp-content/uploads/2014/10/4b0317bc-4599-11e4-8bc3-0ca4dd5223e8.png?resize=2284%2C889',
+        'intro':'There’s no substitute for hands-on experience, but for most students, real world tools can be cost prohibitive. That’s why github created the GitHub Student Developer Pack with some of there partners and friends: to give students free access to the best developer tools in one place so they can learn by doing',
+        'type': 'website',
+        'name': 'GitHub Student Developer Pack',
+        'url': 'https://education.github.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/02/college-degrees-1024x395.jpg',
+        'intro':'Do developers need college degrees? Just a generation ago, it was a given that a college degree was the best way to maximize the likelihood of securing a high-paying job in the field of your choice. But the world has changed, and more and more you hear of successful developers who never earned a degree,',
+        'type': 'website',
+        'name': 'Do Developers Need College Degrees?',
+        'url': 'https://stackoverflow.blog/2016/10/07/do-developers-need-college-degrees/?fbclid=IwAR1H9tBaYd1zGUIam6nVQovHcJETHwoo11VHBlV8peR0JO8PJNgAHMsQqvw'
+    },
+    {
+                'id':0,
+        'image': 'https://online-learning.harvard.edu/sites/default/files/styles/social_share/public/course/cs50x-original.jpg?itok=kR_JV8DW',
+        'intro': 'An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently.',
+        'type': 'website',
+        'name': 'cs50',
+        'Return': 'free certificate',
+        'url':  'https://www.edx.org/course/cs50s-introduction-to-computer-science'
+    },
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/6YUQllDI9KrCgiZy8GsMnZ/c38322baa2bfc2d8af1f6ca19ae6e564/maxresdefault.jpg?w=800&h=450&q=50&fm=webp',
+        'intro':'This tutorial will teach you modern git and Github',
+        'type': 'website',
+        'name': 'In Depth Tutorial on Git & Github (DevOps Tools)',
+        'url': 'https://www.youtube.com/watch?v=6bjCvZEX52w'
+    },
+    {
+        'id': 0,
+        'image': 'https://pr.azureedge.net/img/picresize_logo_registered.png',
+        'intro': "visual representaiton of Diffrent Algorithms",
+        'type': 'website entrintment',
+        'name': 'Visual Algo',
+        'url': 'https://visualgo.net/en',
+    }
+    ,
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/6lslLWTrtJOvT9uKL76BdA/c68fa37469f4052acc66944843ba310a/image.png?w=300&h=168&q=50&fm=webp',
+        'intro': "Better understand how far computers have taken us and how far they may carry us.",
+        'type': 'free',
+        'type': 'playlist',
+        'name': 'Crash Course Computer Science',
+        'url': 'https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo',
+    }
+    ,
+    {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/2MdYGTNWLQ4qpBn9lv6Npy/700fed96c05f8149567c70aa871f9bd7/maxresdefault.jpg?w=800&h=450&q=50&fm=webp',
+        'intro': "The latest edition of the fantastic, free computer science lectures from Harvard.",
+        'type': 'Youtube playlist',
+        'name': 'Cs50 2020',
+        'url': 'https://youtu.be/Tpl7k8IOT6E',
+    }
+]
+},
+    {'api' : [
+    {
+        'id': 0,
+     'image': 'https://i.ytimg.com/vi/yY0ciWj8oco/maxresdefault.jpg',
+     'intro': 'A JSON API for pulling headlines and news articles from news sources and blogs across the web',
+     'type':'websites','name': 'News API',
+     'url': 'https://newsapi.org/https://www.codingblocks.net/'
+    },
+    {
+        'id': 0,
+     'image': 'https://devlinduldulao.pro//wp-content/uploads/2017/12/jsonplaceholder-api.png',
+     'intro': 'Free to use fake Online REST API for testing and prototyping.',
+     'type':'websites','name': 'JSON Placeholder API',
+     'url': 'https://jsonplaceholder.typicode.com/'
+    },
+    {
+        'id': 0,
+     'image': 'https://cdn.slidesharecdn.com/ss_thumbnails/voicerssapipresentation-140129132037-phpapp01-thumbnail-4.jpg',
+     'intro': 'PI for converting text to speech with support for many different languages and voices.',
+     'type':'websites','name': 'News APIVoice RSS Text-to-Speech API',
+     'url': 'http://www.voicerss.org/api/'
+    },
+    {
+        'id': 0,
+     'image': 'https://miro.medium.com/max/3756/1*EEn-tB8M38krdKQuuTR-9Q.png',
+     'intro': 'pen-source API for generating random user data',
+     'type':'websites','name': 'Random User Generator API',
+     'url': 'https://randomuser.me/'
+    },
+    {
+        'id': 0,
+     'image': 'https://www.connectioncafe.com/wp-content/uploads/2018/07/API-Design-Skills.png',
+     'intro': 'Collection of APIs on a list of issues ranging from health to geocoding',
+     'type':'websites','name': 'Useful API’s',
+     'url': 'https://github.com/public-apis/public-apis'
+    },
+]
+},
+{
+    'name': 'motivation',
+'start' : [
+    {
+        
+    }
+]
+}
 ]
 
     
@@ -1675,7 +1873,78 @@ web_Development = [
             },
             
         ]
-    }
+    },
+    {'intro': "online code editors",
+        'image': 'https://pixelmechanics.com.sg/wp-content/uploads/2019/04/css.jpg',
+        "name": "online code editor",
+    'start' : [
+                        {
+                        'name': 'Codepen',
+                        'url': 'https://codepen.io/',
+                        'intro':'A development environment for front-end designers and developers, to showcase user-created HTML, CSS and JavaScript code snippets',
+                    },
+                    {
+                        'name': 'Glitch',
+                        'url': 'https://glitch.com/',
+                        'intro':'An online editor where you can mix and collaborate on code',
+                    },
+                    {
+                        'name': 'Glot.io',
+                        'url': 'https://glot.io/',
+                        'intro':'An open-source paste-bin with runnable snippets and API.',
+                    }
+                    ,
+                    {
+                        'name': 'Repl.it',
+                        'url': 'https://repl.it/',
+                        'intro':'An instant IDE to learn, build, collaborate, and host all in one place',
+                    }
+                    ]
+                    },
+                    {
+'intro': "Chrome extention for better workflow",
+        'image': 'https://pixelmechanics.com.sg/wp-content/uploads/2019/04/css.jpg',
+        "name": "Chrome extentions",
+                    'start': [
+                        {
+                            'name': 'Built With Technology Analyzer',
+                        'url': 'https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US',
+                        'intro':'Lets you see what tools and JavaScript libraries a site is using.',
+                        },
+                        {
+                            'name': 'ColorZilla',
+                        'url': 'https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp',
+                        'intro':'Find colours on your page with this eye dropper.',
+                        },
+                        {
+                            'name': 'JSON Formatter',
+                        'url': 'https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa',
+                        'intro':'Just like the name says, get help with your JSON issues.',
+                        },
+                        {
+                            'name': 'Built With Technology Analyzer',
+                        'url': 'https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US',
+                        'intro':'Lets you see what tools and JavaScript libraries a site is using.',
+                        },
+                        {
+                            'name': 'Built With Technology Analyzer',
+                        'url': 'https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US',
+                        'intro':'Lets you see what tools and JavaScript libraries a site is using.',
+                        },
+                        {
+                            'name': 'Built With Technology Analyzer',
+                        'url': 'https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US',
+                        'intro':'Lets you see what tools and JavaScript libraries a site is using.',
+                        },
+                        {
+                            'name': 'Built With Technology Analyzer',
+                        'url': 'https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US',
+                        'intro':'Lets you see what tools and JavaScript libraries a site is using.',
+                        }
+                    ]
+                    }
+    
+                    
 ]
 web_designer = [
  {
@@ -3511,6 +3780,7 @@ Non-Technical Questions “Non-Google” Interviews""",
     
 ]
 },
+
 {
     'image' : 'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191213191344/Why-Data-Structures-and-Algorithms-Are-Important-to-Learn.png',
     'name': 'DataStructures_Algorithms',
@@ -3557,8 +3827,7 @@ Non-Technical Questions “Non-Google” Interviews""",
     },
 
 ]
-}
-,
+},
 {
     'image': 'https://www.thebalancecareers.com/thmb/EzVIPY9EHd15iMMBUVwJVjIM0jI=/735x0/ScreenShot2019-08-13at12.32.30PM-a5be9aa6e07f4b1381ff525cf7a3ecad.png',
     'name':'Graphic_deginer',
@@ -3707,11 +3976,6 @@ freesoftware = [
 ]
 
 
-motivation = [
-    {
-        
-    }
-]
 
 
 youTube_channnels = [
@@ -4354,9 +4618,9 @@ def api_webDev():
 @app.route('/webdesigner')
 def api_webDesign():
     return jsonify(web_designer)
-@app.route('/androiddevelopment')
-def api_android():
-    return jsonify(android_development)
+@app.route('/mustprogrammer')
+def api_mustprogrammer():
+    return jsonify(mustprogrammer)
 @app.route('/androiddevelopment/learning')
 def api_android_learnings():
     return jsonify(android_learning)
@@ -4403,87 +4667,7 @@ def api_Stock():
 
 
 
-programming_tools = [
-            
-    {
-        'id': 0,'type':'website',
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/4tfKlG1Ylr94FeVUQH5Oic/2bfef3e8d5536a47e52e6e5f50c258c8/og-square.png?w=640&h=640&q=50&fm=webp',
-        'intro': "An interactive map of popular screen sizes showing the responsive and adaptive device landscape",
-        'name': 'Screen Size Map',
-        'url': 'https://www.screensizemap.com/',
-    }
-    ,
-    {
-        'id': 0,'type':'website',
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/5FX7FgtToDupaRBZuRFW3m/3e822bfe48221fe462ba9205ead4be9b/image.png',
-        'intro': "Automatically remove an image background with no clicks and for free in 5 seconds.",
-        'name': 'Image Background Remover',
-        'url': 'https://www.remove.bg/',
-    },
-    {
-        'id': 0,'type':'website',
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/3D1UOB3RrnRLcTtMytmyJa/284a58d52a99d52ded174c17790daeb8/image.png?w=800&h=421&q=50&fm=webp',
-        'intro': "Create and share beautiful images of your source code.",
-        'name': 'Codeimg.io',
-        'url': 'https://codeimg.io/',
-    },
-    {
-        'id': 0,'type':'website',
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/2SSyh2voG8mIcUlkpNDDbp/850fa97bd0d109fb16e318edbbfaa7db/image.png',
-        'intro': "Free online tools for bulk image processing (resize, crop, compress and more).",
-        'name': 'Bulk Image Processing',
-        'url': 'https://www.imgbot.ai/',
-    },
-    {
-        'id': 0,'type':'website',
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/71B5MfU2Oe5l9BNITmQYYi/ca1fd6bf70dbbf19879648232f4f2497/screenshot.png?w=800&h=450&q=50&fm=webp',
-        'intro': "Develop responsive web apps 5x faster. A must-have DevTool for all Front-End developers that will ma",
-        'name': 'Responsively',
-        'url': 'https://responsively.app/',
-    },
-    {
-        'id': 0,'type':'website',
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/5UJgTMBsuDqpV1JVgOryvn/59e8e7289d63ba2cd2c6eb884f18014b/image.png?w=304&h=166&q=50&fm=webp',
-        'intro': "The most complete resource for the best monospace coding fonts.",
-        'name': 'Programming Fonts',
-        'url': 'https://app.programmingfonts.org/',
-    },
-    {
-        'id': 0,'type':'website',
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/11n7eqjDE3UFlt5v6OkRBT/dd0beaf8e09dc2a61c651833f3ed553f/image.png?w=800&h=416&q=50&fm=webp',
-        'intro': "A tool to debug and generate meta tag code for any website.",
-        'name': 'Meta Tags',
-        'url': 'https://metatags.io/',
-    },
-    {
-        'id': 0,'type':'website',
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/4kVxycBS3keteNdBmEDsC8/abbd160757896407cd696c964719dfda/image.png?w=175&h=175&q=50&fm=webp',
-        'intro': "Lorem Ipsum... but for photos.",
-        'name': 'Lorem Picsum',
-        'url': 'https://picsum.photos/',
-    },
-     {
-        'id': 0,'type':'website',
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/5iPXVJ2jpDKGyPyfcHhMJ9/36b7d3f8af92ab6703f94b6152e5c547/image.png?w=676&h=676&q=50&fm=webp',
-        'intro': "Collection of open APIs (movies, weather, food, news, and more) for development",
-        'name': 'Public APIs',
-        'url': 'https://public-apis.xyz/',
-    },
-    {
-        'id': 0,'type':'website',
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/5b7A0ciaL5LU4wmb2ZYG0v/bb681d4a2c55c2b3c5aedb3479dda7e7/5aecb012-4bda-467c-9782-1ef157aec0d2?w=800&h=450&q=50&fm=webp',
-        'intro': "Instantly resize and crop your photos & images for all web and social media formats with one click",
-        'name': 'Free Image and Photo Resizer',
-        'url': 'https://promo.com/tools/image-resizer/',
-    },
-    {
-        'id': 0,'type':'website',
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/1YefYhckdPwmjhjvfUhsI7/c3371fb888864ad70bb0af1b40bf54de/image.png',
-        'intro': "Use generative art for your image placeholders.",
-        'name': 'Generative Placeholders',
-        'url': 'https://generative-placeholders.glitch.me/',
-    },
-]
+
 
 
 
@@ -4515,67 +4699,7 @@ webDevelopment_tools = [
                         'url': "loading spinners animated with CSS."
                     },
 
-                    # 'online code editor' : [
-                    #     {
-                    #     'name': 'Codepen',
-                    #     'url': 'https://codepen.io/',
-                    #     'intro':'A development environment for front-end designers and developers, to showcase user-created HTML, CSS and JavaScript code snippets',
-                    # },
-                    # {
-                    #     'name': 'Glitch',
-                    #     'url': 'https://glitch.com/',
-                    #     'intro':'An online editor where you can mix and collaborate on code',
-                    # },
-                    # {
-                    #     'name': 'Glot.io',
-                    #     'url': 'https://glot.io/',
-                    #     'intro':'An open-source paste-bin with runnable snippets and API.',
-                    # }
-                    # ,
-                    # {
-                    #     'name': 'Repl.it',
-                    #     'url': 'https://repl.it/',
-                    #     'intro':'An instant IDE to learn, build, collaborate, and host all in one place',
-                    # }
-                    # ]
-                    # ,
-                    # 'Chrome extentions' [
-                    #     {
-                    #         'name': 'Built With Technology Analyzer',
-                    #     'url': 'https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US',
-                    #     'intro':'Lets you see what tools and JavaScript libraries a site is using.',
-                    #     },
-                    #     {
-                    #         'name': 'ColorZilla',
-                    #     'url': 'https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp',
-                    #     'intro':'Find colours on your page with this eye dropper.',
-                    #     },
-                    #     {
-                    #         'name': 'JSON Formatter',
-                    #     'url': 'https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa',
-                    #     'intro':'Just like the name says, get help with your JSON issues.',
-                    #     },
-                    #     {
-                    #         'name': 'Built With Technology Analyzer',
-                    #     'url': 'https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US',
-                    #     'intro':'Lets you see what tools and JavaScript libraries a site is using.',
-                    #     },
-                    #     {
-                    #         'name': 'Built With Technology Analyzer',
-                    #     'url': 'https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US',
-                    #     'intro':'Lets you see what tools and JavaScript libraries a site is using.',
-                    #     },
-                    #     {
-                    #         'name': 'Built With Technology Analyzer',
-                    #     'url': 'https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US',
-                    #     'intro':'Lets you see what tools and JavaScript libraries a site is using.',
-                    #     },
-                    #     {
-                    #         'name': 'Built With Technology Analyzer',
-                    #     'url': 'https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US',
-                    #     'intro':'Lets you see what tools and JavaScript libraries a site is using.',
-                    #     }
-                    # ]
+                    
 ]
 
 
@@ -5776,105 +5900,7 @@ webDevelopment_courses = [
             
 
 ]
-Must_programmer_courses = [
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/33tbBpGanLQYMSxpnkL7nC/02bc0ffd5053dd8b0b146faa145f37f2/Git_Branching.PNG?w=800&h=387&q=50&fm=webp',
-        'intro':'Coursera Course (Not CS Specific) teach you how the mind grasp thing and how to train it to learn things as convinient and fast as possible',
-        'type': 'website',
-        'name': 'Learn Git Branching Interactively',
-        'url': 'https://www.coursera.org/learn/learning-how-to-learn'
-    },
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/33tbBpGanLQYMSxpnkL7nC/02bc0ffd5053dd8b0b146faa145f37f2/Git_Branching.PNG?w=800&h=387&q=50&fm=webp',
-        'intro':'The most visual, interactive and fun way to learn Git on the web.',
-        'type': 'website + game',
-        'name': 'Learn Git Branching Interactively',
-        'url': 'https://learngitbranching.js.org/'
-    },
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/5qFgoOTACYlbYpc2pPlqjM/a0f2662b4e2a3bfc2fc30c84b7f6e963/1500x500?w=800&h=267&q=50&fm=webp',
-        'intro':'Find the right git commands you need without digging through the web.',
-        'type': 'website',
-        'name': 'Git Command Explorer',
-        'url': 'https://gitexplorer.com/'
-    },
 
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/5qFgoOTACYlbYpc2pPlqjM/a0f2662b4e2a3bfc2fc30c84b7f6e963/1500x500?w=800&h=267&q=50&fm=webp',
-        'intro':'Free individual licenses of the award-winning professional developer tools from JetBrains for students and faculty members.',
-        'type': 'website',
-        'name': 'JetBrains Student License',
-        'url': 'https://www.jetbrains.com/student/'
-    },
-    
-
-
-    
-    {
-        'id': 0,
-        'image': 'https://github.blog/wp-content/uploads/2014/10/4b0317bc-4599-11e4-8bc3-0ca4dd5223e8.png?resize=2284%2C889',
-        'intro':'There’s no substitute for hands-on experience, but for most students, real world tools can be cost prohibitive. That’s why github created the GitHub Student Developer Pack with some of there partners and friends: to give students free access to the best developer tools in one place so they can learn by doing',
-        'type': 'website',
-        'name': 'GitHub Student Developer Pack',
-        'url': 'https://education.github.com/'
-    },
-    {
-        'id': 0,
-        'image': 'https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/02/college-degrees-1024x395.jpg',
-        'intro':'Do developers need college degrees? Just a generation ago, it was a given that a college degree was the best way to maximize the likelihood of securing a high-paying job in the field of your choice. But the world has changed, and more and more you hear of successful developers who never earned a degree,',
-        'type': 'website',
-        'name': 'Do Developers Need College Degrees?',
-        'url': 'https://stackoverflow.blog/2016/10/07/do-developers-need-college-degrees/?fbclid=IwAR1H9tBaYd1zGUIam6nVQovHcJETHwoo11VHBlV8peR0JO8PJNgAHMsQqvw'
-    },
-    {
-                'id':0,
-        'image': 'https://online-learning.harvard.edu/sites/default/files/styles/social_share/public/course/cs50x-original.jpg?itok=kR_JV8DW',
-        'intro': 'An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently.',
-        'type': 'website',
-        'name': 'cs50',
-        'Return': 'free certificate',
-        'url':  'https://www.edx.org/course/cs50s-introduction-to-computer-science'
-    },
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/6YUQllDI9KrCgiZy8GsMnZ/c38322baa2bfc2d8af1f6ca19ae6e564/maxresdefault.jpg?w=800&h=450&q=50&fm=webp',
-        'intro':'This tutorial will teach you modern git and Github',
-        'type': 'website',
-        'name': 'In Depth Tutorial on Git & Github (DevOps Tools)',
-        'url': 'https://www.youtube.com/watch?v=6bjCvZEX52w'
-    },
-    {
-        'id': 0,
-        'image': 'https://pr.azureedge.net/img/picresize_logo_registered.png',
-        'intro': "visual representaiton of Diffrent Algorithms",
-        'type': 'website entrintment',
-        'name': 'Visual Algo',
-        'url': 'https://visualgo.net/en',
-    }
-    ,
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/6lslLWTrtJOvT9uKL76BdA/c68fa37469f4052acc66944843ba310a/image.png?w=300&h=168&q=50&fm=webp',
-        'intro': "Better understand how far computers have taken us and how far they may carry us.",
-        'type': 'free',
-        'type': 'playlist',
-        'name': 'Crash Course Computer Science',
-        'url': 'https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo',
-    }
-    ,
-    {
-        'id': 0,
-        'image': 'https://images.ctfassets.net/aq13lwl6616q/2MdYGTNWLQ4qpBn9lv6Npy/700fed96c05f8149567c70aa871f9bd7/maxresdefault.jpg?w=800&h=450&q=50&fm=webp',
-        'intro': "The latest edition of the fantastic, free computer science lectures from Harvard.",
-        'type': 'Youtube playlist',
-        'name': 'Cs50 2020',
-        'url': 'https://youtu.be/Tpl7k8IOT6E',
-    }
-]
 gameDevelopment_courses = [
     {
         'id': 0,
