@@ -353,6 +353,8 @@ Podcasts = [
 ]
 Must_programmer_main = [
     {
+        'image': 'https://cdn-media-1.freecodecamp.org/images/0*ngXgBNNdx6iiWP8q.png',
+        'intro': 'Collection of small courses which are sort of compulsery for a prgrammer',
         'name':'programmingmain',
         'start':[
             {
@@ -442,7 +444,11 @@ Must_programmer_main = [
     }
         ]
     },
-    {'programming_tools' : [
+    {
+        'image': 'https://www.houseofbots.com/images/news/3631/cover.png',
+        'intro': 'Programming tools which you may like',
+        'name': 'programming_tools',
+        'start' : [
             
     {
         'id': 0,'type':'website',
@@ -525,6 +531,8 @@ Must_programmer_main = [
 ]
 },
 {
+    'image': 'https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg',
+    'intro': 'List of things that every programmer must do',
     'name': 'Must_programmer_courses',
     'start' : [
     {
