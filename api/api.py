@@ -634,7 +634,11 @@ Must_programmer_main = [
     }
 ]
 },
-    {'api' : [
+    {
+        'image': 'https://www.testdevlab.com/blog/wp-content/uploads/2018/06/API-platforms.png',
+        'intro': 'useful api that you must see',
+        'name': 'api',
+        'start' : [
     {
         'id': 0,
      'image': 'https://i.ytimg.com/vi/yY0ciWj8oco/maxresdefault.jpg',
@@ -673,6 +677,8 @@ Must_programmer_main = [
 ]
 },
 {
+    'image': 'https://www.invistaperforms.org/wp-content/uploads/2018/12/motivation-e1544660339828.png',
+        'intro': 'Motivational video so you didnt worn out',
     'name': 'motivation',
 'start' : [
     {
@@ -681,6 +687,7 @@ Must_programmer_main = [
 ]
 },
                   {
+               'intro': 'useful resources for interview preperations and job finding',       
     'image': 'https://benjweinberg.files.wordpress.com/2017/08/what-is-an-definite-and-indefinite-articles-hd.png',
     'name': 'Interwiew',
     'start': [
@@ -850,6 +857,7 @@ Non-Technical Questions “Non-Google” Interviews""",
 },
 
 {
+    'intro': 'List of website to developed datastructure and alsorithms',
     'image' : 'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191213191344/Why-Data-Structures-and-Algorithms-Are-Important-to-Learn.png',
     'name': 'DataStructures_Algorithms',
     'start': [
