@@ -5391,9 +5391,7 @@ def api_webDev():
 @app.route('/webdesigner')
 def api_webDesign():
     return jsonify(web_designer)
-@app.route('/mustprogrammer')
-def api_mustprogrammer():
-    return jsonify(mustprogrammer)
+
 @app.route('/androiddevelopment/learning')
 def api_android_learnings():
     return jsonify(android_learning)
@@ -6073,9 +6071,6 @@ android_tools = [
 
 
 
-@app.route('/programming/tools')
-def api_programming_tools():
-    return jsonify(programming_tools)
 
 @app.route('/Ui_Ux/tools')
 def api_Ui_Ux_tools():
@@ -6900,10 +6895,6 @@ Machine_learning_courses = [
 
 
 
-
-@app.route('/programming/courses')
-def api_programming_courses():
-    return jsonify(Must_programmer_courses)
 @app.route('/Ui_Ux/courses')
 def api_Ui_Ux_courses():
     return jsonify(Ui_Ux_courses)
