@@ -353,6 +353,8 @@ Podcasts = [
 ]
 Must_programmer_main = [
     {
+        'image': 'https://cdn-media-1.freecodecamp.org/images/0*ngXgBNNdx6iiWP8q.png',
+        'intro': 'Collection of small courses which are sort of compulsery for a prgrammer',
         'name':'programmingmain',
         'start':[
             {
@@ -442,7 +444,11 @@ Must_programmer_main = [
     }
         ]
     },
-    {'programming_tools' : [
+    {
+        'image': 'https://www.houseofbots.com/images/news/3631/cover.png',
+        'intro': 'Programming tools which you may like',
+        'name': 'programming_tools',
+        'start' : [
             
     {
         'id': 0,'type':'website',
@@ -525,6 +531,8 @@ Must_programmer_main = [
 ]
 },
 {
+    'image': 'https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg',
+    'intro': 'List of things that every programmer must do',
     'name': 'Must_programmer_courses',
     'start' : [
     {
@@ -626,7 +634,11 @@ Must_programmer_main = [
     }
 ]
 },
-    {'api' : [
+    {
+        'image': 'https://www.testdevlab.com/blog/wp-content/uploads/2018/06/API-platforms.png',
+        'intro': 'useful api that you must see',
+        'name': 'api',
+        'start' : [
     {
         'id': 0,
      'image': 'https://i.ytimg.com/vi/yY0ciWj8oco/maxresdefault.jpg',
@@ -665,6 +677,8 @@ Must_programmer_main = [
 ]
 },
 {
+    'image': 'https://www.invistaperforms.org/wp-content/uploads/2018/12/motivation-e1544660339828.png',
+        'intro': 'Motivational video so you didnt worn out',
     'name': 'motivation',
 'start' : [
     {
@@ -673,6 +687,7 @@ Must_programmer_main = [
 ]
 },
                   {
+               'intro': 'useful resources for interview preperations and job finding',       
     'image': 'https://benjweinberg.files.wordpress.com/2017/08/what-is-an-definite-and-indefinite-articles-hd.png',
     'name': 'Interwiew',
     'start': [
@@ -842,6 +857,7 @@ Non-Technical Questions “Non-Google” Interviews""",
 },
 
 {
+    'intro': 'List of website to developed datastructure and alsorithms',
     'image' : 'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191213191344/Why-Data-Structures-and-Algorithms-Are-Important-to-Learn.png',
     'name': 'DataStructures_Algorithms',
     'start': [
@@ -5817,9 +5833,7 @@ def api_webDev():
 @app.route('/webdesigner')
 def api_webDesign():
     return jsonify(web_designer)
-@app.route('/mustprogrammer')
-def api_mustprogrammer():
-    return jsonify(mustprogrammer)
+
 @app.route('/androiddevelopment/learning')
 def api_android_learnings():
     return jsonify(android_learning)
@@ -6499,9 +6513,6 @@ android_tools = [
 
 
 
-@app.route('/programming/tools')
-def api_programming_tools():
-    return jsonify(programming_tools)
 
 @app.route('/Ui_Ux/tools')
 def api_Ui_Ux_tools():
@@ -7326,10 +7337,6 @@ Machine_learning_courses = [
 
 
 
-
-@app.route('/programming/courses')
-def api_programming_courses():
-    return jsonify(Must_programmer_courses)
 @app.route('/Ui_Ux/courses')
 def api_Ui_Ux_courses():
     return jsonify(Ui_Ux_courses)
