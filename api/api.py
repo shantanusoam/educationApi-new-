@@ -3437,7 +3437,62 @@ Stock = [
                 'name': 'Unminus',
                 'url': 'https://www.unminus.com/',
             },
-            
+            {
+                'id': 0,
+                'image': 'https://ichef.bbci.co.uk/news/800/cpsprodpb/2E61/production/_110537811_ec96af27-c995-4ed0-b977-9fb4f1d05d3f.jpg',
+                'intro': "The Spinner* is a service that enables you to subconsciously influence a specific person, by controlling the content on the websites he or she usually visits. The targeted person gets repetitively exposed to hundreds of items which are placed and disguised as editorial content.",
+                'type':'websites',
+                'name': 'thespinner',
+                'url': 'https://www.thespinner.net/',
+            },
+            {
+                'id': 0,
+                'image': 'https://i1.sndcdn.com/avatars-000042402560-fxpy9a-t500x500.jpg',
+                'intro': "PaponeMusic is a music label dedicated to promoting FREE music for the sole purpose of providing creators with the best songs to enhance the creativity",
+                'type':'websites',
+                'name': 'papone music',
+                'url': 'https://www.youtube.com/user/PaponeMusic',
+            },
+            {
+                'id': 0,
+                'image': 'https://i1.sndcdn.com/artworks-000105267662-86i42r-t500x500.jpg',
+                'intro': "music producer who makes music for everyone to enjoy and use for free. No charges! Please credit me in the description of your Youtube videos! If you ",
+                'type':'websites',
+                'name': 'HolFix - Royalty Free Music',
+                'url': 'https://www.youtube.com/user/holfix',
+            },
+            {
+                'id': 0,
+                'image': '  https://i1.sndcdn.com/artworks-000102769935-nkultb-t500x500.jpg',
+                'intro': "NoCopyrightSounds is a copyright free / stream safe record label, providing free to use music to the content creator community. We work with artists from around the globe",
+                'type':'websites',
+                'name': 'NoCopyrightSounds',
+                'url': 'https://www.youtube.com/user/NoCopyrightSounds',
+            },
+            {
+                'id': 0,
+                'image': 'http://dig.ccmixter.org/images/logo.png',
+                'intro': "NoCopyrightSounds is a copyright free / stream safe record label, providing free to use music to the content creator community. We work with artists from around the globe",
+                'type':'websites',
+                'name': 'NoCopyrightSounds',
+                'url': 'http://dig.ccmixter.org/',
+            },
+            {
+                'id': 0,
+                'image': 'https://incompetech.com/wordpress/wp-content/uploads/2015/02/2013janlogo.png',
+                'intro': "royality free music",
+                'type':'websites',
+                'name': 'incompetech',
+                'url': 'hhttps://incompetech.com/',
+            },
+            {
+                'id': 0,
+                'image': 'https://offeo.com/learn/wp-content/uploads/2019/03/freeplay-music.jpg',
+                'intro': "OVER 50,000 SONGS FREE FOR youtube AND MORE",
+                'type':'websites',
+                'name': 'incompetech',
+                'url': 'https://freeplaymusic.com/#/',
+            },
         ]
     },
     
@@ -3695,6 +3750,68 @@ Stock = [
                 'name': 'Dev Fonts',
                 'url': 'https://devfonts.gafi.dev/',
             },
+            {
+                'id': 0,
+                'image':'https://images.ctfassets.net/aq13lwl6616q/4oMoXn0XeYnYcLbwzBLZeS/ad36c11f691a21c977fe8c1a1719c47b/fontpairings-social-thumb.jpg?w=800&h=420&q=50&fm=webp',
+                'intro': 'Create and test amazing font pair combinations and see how they look in your project.',
+                'name': '99 Font Pairings & Typeface Combinations',
+                'url':'https://fontpairings.bypeople.com/',
+                'type':'font website',
+
+            },
+            {
+                'id': 0,
+                'image':'https://miro.medium.com/max/3620/1*zC9oF9BOxoV6acjfho1lPg.png',
+                'intro': 'A fancy cool ✅ font generator that helps create stylish text font styles with beautiful symbols and fancy characters for social networks & any other places.',
+                'name': 'cool fancy symbol',
+                'url':'https://coolsymbol.com/cool-fancy-text-generator.html',
+                'type':'font website',
+
+            },
+            {
+                'id': 1,
+                'image': 'https://www.dafont.com/img/charmap/m/o/moonbright0.png',
+                'intro':'Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.',
+                'name': 'dafront.com',
+                'url': 'https://www.dafont.com/base-02.font',
+                'type':'font website',
+
+            },
+            {
+                'id': 2,
+                'image': 'https://www.fontmirror.com/app_public/logo/fontmirror-promotional-cover-bg.png',
+                'intro': 'Free download digital fonts. Get TTF, OTF or ZIP. Free for commercial use fonts, and more.',
+                'name': 'font mirror',
+                'url': 'https://www.fontmirror.com',
+                'type':'font website',
+
+            },
+            {
+                'id': 3,
+                'image': 'https://il.static.1001fonts.net/g/i/gisbon-demo-font-2-big.jpeg',
+                'intro': '23232 free fonts in 12468 families · Free licenses for commercial use · Direct font downloads',
+                'name': '101 fonts',
+                'url': 'https://www.1001fonts.com/signature-fonts.html',
+                'type':'font website',
+
+            },
+            {
+                'id': 4,
+                'image': "https://fontspace.imgix.net/static/fontspace-logo-white-text.svg",
+                'intro': 'Free downloads of legally licensed fonts that are perfect for your design projects. The best place in the universe to search for amazing fonts.',
+                'name': 'fontspace',
+                'url': 'https://www.fontspace.com/category/shadow',
+                'type':'font website',
+
+            },
+            {
+                'id':5 ,
+                'image':'https://asistatic.azureedge.net/images/fontflipper.com.jpeg',
+                'intro': 'https://fontflipper.com/canvas-editor',
+                'name': 'font flipper',
+                'url': 'https://fontflipper.com/canvas-editor',
+                'type':'font website',
+            }
             
         ]
     },
@@ -4121,73 +4238,27 @@ Stock = [
                 'name': 'FarbVelo',
                 'url': 'https://farbvelo.elastiq.ch/',
             },
+            {
+                'id': 6,
+                'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5ba399a0d65e6ec06564fe74_undraw_High_five_u364.svg',
+                'intro': "Are you looking for blend mode background images & beautiful background gradients for your User Interface?",
+                'name': 'Gradient guru',
+                'url':'http://gradientsguru.com/',
+                'extra': 'Gradients',
+                'price': 'free',
+                'type': 'Website'
+            },
+            {
+                'id': 6,
+                'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5ace6ff8507eccc0c1b1d2d6_solareclipse.gif',
+                'intro': "A total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs.",
+                'name': 'flat ui color',
+                'url':'https://flatuicolors.com/',
+                'extra': 'colors pallet',
+                'price': 'free',
+                'type': 'Website'
+            },
             
-        ]
-    },
-
-
-    {
-    'image': 'https://i.pinimg.com/originals/41/a3/c5/41a3c51c1a7a7a973da81a119e2db6d3.jpg',
-    'type':'websites',
-    'name': 'music_asset',
-    'start' :
-        [
-            {
-                'id': 0,
-                'image': 'https://ichef.bbci.co.uk/news/800/cpsprodpb/2E61/production/_110537811_ec96af27-c995-4ed0-b977-9fb4f1d05d3f.jpg',
-                'intro': "The Spinner* is a service that enables you to subconsciously influence a specific person, by controlling the content on the websites he or she usually visits. The targeted person gets repetitively exposed to hundreds of items which are placed and disguised as editorial content.",
-                'type':'websites',
-                'name': 'thespinner',
-                'url': 'https://www.thespinner.net/',
-            },
-            {
-                'id': 0,
-                'image': 'https://i1.sndcdn.com/avatars-000042402560-fxpy9a-t500x500.jpg',
-                'intro': "PaponeMusic is a music label dedicated to promoting FREE music for the sole purpose of providing creators with the best songs to enhance the creativity",
-                'type':'websites',
-                'name': 'papone music',
-                'url': 'https://www.youtube.com/user/PaponeMusic',
-            },
-            {
-                'id': 0,
-                'image': 'https://i1.sndcdn.com/artworks-000105267662-86i42r-t500x500.jpg',
-                'intro': "music producer who makes music for everyone to enjoy and use for free. No charges! Please credit me in the description of your Youtube videos! If you ",
-                'type':'websites',
-                'name': 'HolFix - Royalty Free Music',
-                'url': 'https://www.youtube.com/user/holfix',
-            },
-            {
-                'id': 0,
-                'image': '  https://i1.sndcdn.com/artworks-000102769935-nkultb-t500x500.jpg',
-                'intro': "NoCopyrightSounds is a copyright free / stream safe record label, providing free to use music to the content creator community. We work with artists from around the globe",
-                'type':'websites',
-                'name': 'NoCopyrightSounds',
-                'url': 'https://www.youtube.com/user/NoCopyrightSounds',
-            },
-            {
-                'id': 0,
-                'image': 'http://dig.ccmixter.org/images/logo.png',
-                'intro': "NoCopyrightSounds is a copyright free / stream safe record label, providing free to use music to the content creator community. We work with artists from around the globe",
-                'type':'websites',
-                'name': 'NoCopyrightSounds',
-                'url': 'http://dig.ccmixter.org/',
-            },
-            {
-                'id': 0,
-                'image': 'https://incompetech.com/wordpress/wp-content/uploads/2015/02/2013janlogo.png',
-                'intro': "royality free music",
-                'type':'websites',
-                'name': 'incompetech',
-                'url': 'hhttps://incompetech.com/',
-            },
-            {
-                'id': 0,
-                'image': 'https://offeo.com/learn/wp-content/uploads/2019/03/freeplay-music.jpg',
-                'intro': "OVER 50,000 SONGS FREE FOR youtube AND MORE",
-                'type':'websites',
-                'name': 'incompetech',
-                'url': 'https://freeplaymusic.com/#/',
-            },
         ]
     },
 
@@ -4564,9 +4635,195 @@ Stock = [
     },
 
     {
+        'image': 'https://image.freepik.com/free-vector/business-idea-concept-with-people_52683-28609.jpg',
+        'type':'websites',
+        'name': 'Vectors & Clip Art',
+        'start': 
+        [
+            {     
+                'id': 0,
+                'image':'https://static.vecteezy.com/system/assets/asset_files/000/000/860/original/vecteezy_editor_overview_poster.jpg',
+                'intro': 'Find and download free vector art',
+                'type':'website',
+                'name': 'VECteezy',
+                'url': 'https://www.vecteezy.com/',
+            },
+            {     
+                'id': 0,
+                'image':'https://freepik.cdnpk.net/img/logo-fb-en.png',
+                'intro': 'Free vectors, stock photos, PSD and icons',
+                'type':'website',
+                'name': 'Freepik',
+                'url': 'https://www.freepik.com/',
+            },
+            {     
+                'id': 0,
+                'image':'https://onextrapixel.com/wp-content/uploads/2017/10/free-vectors-net.png',
+                'intro': 'Community of vector lovers who share free vector graphics',
+                'type':'website',
+                'name': 'Free Vectors',
+                'url': 'https://www.freevectors.net/',
+            },
+            {     
+                'id': 0,
+                'image':'https://js.pngtree.com/web3/images/index-fb.jpg',
+                'intro': 'png, backgrounds, templates, text effects',
+                'type':'website',
+                'name': 'PNGTree',
+                'url': 'https://pngtree.com/free-vectors',
+            },
+            {     
+                'id': 0,
+                'image':'https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hc3NldHMuaG9uZ2tpYXQuY29tL3VwbG9hZHMvZnJlZS12ZWN0b3ItaW1hZ2VzLXNvdXJjZXMvMTAtdmVjdG9yLTQtZnJlZS5qcGc?x-oss-process=image/format,png',
+                'intro': 'Free vector graphics',
+                'type':'website',
+                'name': 'Vector4Free',
+                'url': 'https://www.vector4free.com/',
+            },
+            {     
+                'id': 0,
+                'image':'https://pic.accessify.com/thumbnails/777x423/r/retrovectors.com.png',
+                'intro': 'Vintage vectors and graphics',
+                'type':'website',
+                'name': 'Retro Vectors',
+                'url': 'http://retrovectors.com/',
+            },
+            {     
+                'id': 0,
+                'image':'https://www.noupe.com/wp-content/uploads/2013/06/freebbble-dribbble-w550.png',
+                'intro': 'Vectors, patterns, mockups and more',
+                'type':'website',
+                'name': 'Freeble',
+                'url': 'http://freebbble.com/',
+            },
+            {     
+                'id': 0,
+                'image':'https://www.visualprint.co.uk/resources/blog/lukasz-adam.png',
+                'intro': 'Free Vector artworks',
+                'type':'website',
+                'name': 'Lukaszadam',
+                'url': 'https://lukaszadam.com/',
+            },
+            {     
+                'id': 0,
+                'image':'https://res.cloudinary.com/practicaldev/image/fetch/s--d4zKAG1H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ddqb4jxxwmh0id4es7jd.png',
+                'intro': 'Beautiful 100 Illustrations - png, svg',
+                'type':'website',
+                'name': 'Illlustrations',
+                'url': 'https://illlustrations.co/',
+            },
+            {     
+                'id': 0,
+                'image':'https://image.shutterstock.com/z/stock-vector-vector-set-of-hand-drawn-christmas-illustrations-clipart-collection-with-santa-claus-christmas-500253610.jpg',
+                'intro': 'Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection!',
+                'type':'website',
+                'name': 'Clipart',
+                'url': 'https://www.clipart.email/',
+            },
+            {     
+                'id': 0,
+                'image':'https://i.pinimg.com/originals/c3/dd/88/c3dd88bd78bfd1da74b73662a3591fd3.png',
+                'intro': 'A set of 8 simple, black & white, stylish illustrations',
+                'type':'website',
+                'name': 'Growwwkit illustrations',
+                'url': 'https://growwwkit.com/illustrations/phonies',
+            },
+            {     
+                'id': 0,
+                'image':'https://desdev.tools/wp/wp-content/uploads/2019/09/trianglify.jpg',
+                'intro': 'Generate low-poly backgrounds, textures, and vectors',
+                'type':'website',
+                'name': 'tringlify.io',
+                'url': 'https://trianglify.io/',
+            },
+            {     
+                'id': 0,
+                'image':'https://blobs.app/posters/blobs_app_poster.png',
+                'intro': 'Generate Blob shapes for Web and Flutter apps',
+                'type':'website',
+                'name': 'Blob',
+                'url': 'https://blobs.app/',
+            },
+            {     
+                'id': 0,
+                'image':'https://www.fotor.com/blog/wp-content/uploads/2019/12/fotor-sale.png',
+                'intro': 'A community for designers to share & download transparent background PNG cliparts',
+                'type':'website',
+                'name': 'HiCLipart',
+                'url': 'https://www.hiclipart.com/',
+            },
+            {     
+                'id': 0,
+                'image':'https://figmaelements.com/wp-content/uploads/2020/12/figma-plugin-storyset-by-freepik.png',
+                'intro': 'A collection of free and customizable illustrations for projects',
+                'type':'website',
+                'name': 'Stories by Freepik',
+                'url': 'https://storyset.com/',
+            },
+            {     
+                'id': 0,
+                'image':'https://assets.website-files.com/5f0a234d1293a2f4eb599bb5/5f0b0af963d9d8914a9fbad8_Black%20Illustrations%20-%20Open%20Graph%20Image.jpg',
+                'intro': 'Beautiful illustrations of black people (free and premium)',
+                'type':'website',
+                'name': 'Black Illustrations',
+                'url': 'https://www.blackillustrations.com/',
+            },
+            {     
+                'id': 0,
+                'image':'https://s3-us-west-1.amazonaws.com/files.delesign/www/images/cTbKs8QA.jpeg',
+                'intro': 'A collection of free illustrations and more',
+                'type':'website',
+                'name': 'Dalesign',
+                'url': 'https://delesign.com/free-designs/graphics',
+            },
+            {     
+                'id': 0,
+                'image':'https://www.shapedivider.app/img/page_section_example.a3960bf3.png',
+                'intro': 'Free tool to make it easier for designers and developers to export a beautiful SVG shape divider',
+                'type':'website',
+                'name': 'Custom Shape Dividers',
+                'url': 'https://www.shapedivider.app/',
+            },
+            {     
+                'id': 0,
+                'image':'https://www.clker.com/cliparts/9/d/b/4/13500094491019176889orange%20clker%20logo-md.png',
+                'intro': 'Free clip art you can use for anything you like',
+                'type':'website',
+                'name': 'Clker',
+                'url': 'http://www.clker.com/',
+            },
+            {     
+                'id': 0,
+                'image':'https://ph-files.imgix.net/fba2041d-8a07-479e-8b5f-540702dbe90b.png',
+                'intro': 'A free, & customizable gradient 🌈 SVG wave generator for UI designs .',
+                'type':'website',
+                'name': 'SVG wave',
+                'url': 'https://svgwave.in/',
+            },
+            {     
+                'id': 0,
+                'image':'https://i.pinimg.com/originals/7b/f1/a5/7bf1a53c5a148c9b21fe2b435ccdfdea.jpg',
+                'intro': 'Vintage Illustrations (vector and png)',
+                'type':'website',
+                'name': 'Heritage Library',
+                'url': 'https://www.heritagetype.com/collections/free-vintage-illustrations',
+            },
+            {     
+                'id': 0,
+                'image':'https://www.saashub.com/images/app/screenshots/30/fd599ee6287a/landing-medium.jpg',
+                'intro': 'Generate unique images from any text',
+                'type':'website',
+                'name': 'ROBOHASH',
+                'url': 'https://robohash.org/',
+            },
+            
+        ]
+    },
+
+    {
         'image': 'https://devassets.com/img/dev-assets-promo.jpg',
-        'name': 'free_developer_assets',
-        'type':'astes',
+        'name': 'Free Developer Assets',
+        'type':'assets',
         'start' : [
             {
                 'id': 0,
@@ -4752,12 +5009,12 @@ Stock = [
     
     {
         'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5b9f720f08470e3f35fac2cd_undraw_upload_87y9%20(1).svg',
-'intro': "Browse to find the images that fit your needs and click to download. Take advantage of the on-the-fly color image generation to match your brand identity.",
-'name': 'UnDraw',
-'url':'https://undraw.co/illustrations',
-'price': 'free',
-'type': 'Illustartions'
+        'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5b9f720f08470e3f35fac2cd_undraw_upload_87y9%20(1).svg',
+        'intro': "Browse to find the images that fit your needs and click to download. Take advantage of the on-the-fly color image generation to match your brand identity.",
+        'name': 'UnDraw',
+        'url':'https://undraw.co/illustrations',
+        'price': 'free',
+        'type': 'Illustartions'
     },
     {
         'id': 0,
@@ -4850,106 +5107,9 @@ Stock = [
     },
     
 
-]
-    },
-    {
-        'image': 'https://betterthansuccess.com/wp-content/uploads/2016/06/font-example-1440x720.jpg',
-        'name': 'font',
-        'start' : [
-    {
-'id': 0,
-'image':'https://images.ctfassets.net/aq13lwl6616q/4oMoXn0XeYnYcLbwzBLZeS/ad36c11f691a21c977fe8c1a1719c47b/fontpairings-social-thumb.jpg?w=800&h=420&q=50&fm=webp',
-'intro': 'Create and test amazing font pair combinations and see how they look in your project.',
-'name': '99 Font Pairings & Typeface Combinations',
-'url':'https://fontpairings.bypeople.com/',
-'type':'font website',
-
-    },
-    {
-'id': 0,
-'image':'https://miro.medium.com/max/3620/1*zC9oF9BOxoV6acjfho1lPg.png',
-'intro': 'A fancy cool ✅ font generator that helps create stylish text font styles with beautiful symbols and fancy characters for social networks & any other places.',
-'name': 'cool fancy symbol',
-'url':'https://coolsymbol.com/cool-fancy-text-generator.html',
-'type':'font website',
-
-    },
-    {
-'id': 1,
-'image': 'https://www.dafont.com/img/charmap/m/o/moonbright0.png',
-'intro':'Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.',
-'name': 'dafront.com',
-'url': 'https://www.dafont.com/base-02.font',
-'type':'font website',
-
-    }
-    ,
-    {
-'id': 2,
-'image': 'https://www.fontmirror.com/app_public/logo/fontmirror-promotional-cover-bg.png',
-'intro': 'Free download digital fonts. Get TTF, OTF or ZIP. Free for commercial use fonts, and more.',
-'name': 'font mirror',
-'url': 'https://www.fontmirror.com',
-'type':'font website',
-
-    }
-    ,
-    {
-'id': 3,
-'image': 'https://il.static.1001fonts.net/g/i/gisbon-demo-font-2-big.jpeg',
-'intro': '23232 free fonts in 12468 families · Free licenses for commercial use · Direct font downloads',
-'name': '101 fonts',
-'url': 'https://www.1001fonts.com/signature-fonts.html',
-'type':'font website',
-
-    }
-    ,
-    {
-'id': 4,
-'image': "https://fontspace.imgix.net/static/fontspace-logo-white-text.svg",
-'intro': 'Free downloads of legally licensed fonts that are perfect for your design projects. The best place in the universe to search for amazing fonts.',
-'name': 'fontspace',
-'url': 'https://www.fontspace.com/category/shadow',
-'type':'font website',
-
-    }
-    ,
-    {
-'id':5 ,
-'image':'https://asistatic.azureedge.net/images/fontflipper.com.jpeg',
-'intro': 'https://fontflipper.com/canvas-editor',
-'name': 'font flipper',
-'url': 'https://fontflipper.com/canvas-editor',
-'type':'font website',
-    }
-]
-    },
-{
-    'image': 'https://ceblog.s3.amazonaws.com/wp-content/uploads/2018/10/25102730/best-colors-websites-3.png',
-    'name': 'colors',
-'start': [
-    {
-        'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5ba399a0d65e6ec06564fe74_undraw_High_five_u364.svg',
-'intro': "Are you looking for blend mode background images & beautiful background gradients for your User Interface?",
-'name': 'Gradient guru',
-'url':'http://gradientsguru.com/',
-'extra': 'Gradients',
-'price': 'free',
-'type': 'Resources'
-    },
-    {
-        'id': 6,
-'image': 'https://uploads-ssl.webflow.com/59e09526e2711e000116d446/5ace6ff8507eccc0c1b1d2d6_solareclipse.gif',
-'intro': "A total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs.",
-'name': 'flat ui color',
-'url':'https://flatuicolors.com/',
-'extra': 'colors pallet',
-'price': 'free',
-'type': 'Resources'
-    },
-]
+    ]
 },
+
 
 {
     'image': 'https://benjweinberg.files.wordpress.com/2017/08/what-is-an-definite-and-indefinite-articles-hd.png',
