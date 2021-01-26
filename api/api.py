@@ -1024,6 +1024,16 @@ everyydaytools = [
 awesome_websites = [
     {
         'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },
+    {
+        'id': 0,
         'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
         'intro': """Immortality & Science forum
         """,
