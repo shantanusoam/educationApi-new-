@@ -165,9 +165,23 @@ motivation = [
 
     }
 ]
+miscellaneous = [
+    {
+
+    }
+]
 
 
 Podcasts = [
+    {
+        'id': 0,
+        'image': 'https://cdn.80000hours.org/wp-content/uploads/2018/03/podcast_cover.jpg',
+        'intro': """The 80,000 Hours Podcast features unusually in-depth conversations about the world’s most pressing problems and how you can use your career to solve them. We invite guests pursuing a wide range of career paths – from academics and activists to entrepreneurs and policymakers – to analyse the case for working on different issues, and provide concrete ways to help.
+        """,
+        'name': '80000hours',
+        'type': "website",
+        'url': ' https://80000hours.org/podcast/'
+    },
     {
         
      'image': 'https://pbs.twimg.com/profile_images/1143571889681588224/zGPH4uEj.png',
@@ -691,6 +705,16 @@ Must_programmer_main = [
     'image': 'https://benjweinberg.files.wordpress.com/2017/08/what-is-an-definite-and-indefinite-articles-hd.png',
     'name': 'Interwiew',
     'start': [
+        
+        {
+        'id': 0,
+        'image': 'https://pbs.twimg.com/profile_images/452047074813419520/xZcPzubX.jpeg',
+        'intro': """You have 80000 hours in your career. How can you best use them to help solve the world's most pressing problems?
+        """,
+        'name': '80000hours',
+        'type': "website",
+        'url': ' https://80000hours.org/'
+    },
         {
         'id': 0,
         'image': 'https://miro.medium.com/max/5760/1*T9rTWkhfFE47aiBtG5vjXA.jpeg',
@@ -996,7 +1020,78 @@ everyydaytools = [
     },
 ]
    
+   ##############AWESOMEWEBSITES###############################
 awesome_websites = [
+    {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """Immortality & Science forum
+        """,
+        'name': 'bilimyurt',
+        'type': "website",
+        'url': 'https://bilimyurt.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cdn.gamer-network.net/2019/usgamer/AI-Dungeon-2-header-ipad.png/EG11/thumbnail/1920x1080/format/jpg/quality/65/ai-dungeon-2-the-text-adventure-where-you-can-do-nearly-anything-is-now-on-mobile.jpg',
+        'intro': """Play and create adventures with infinite possiblities, brought to life with one of the most advanced AIs in the world..
+        """,
+        'name': 'aidungeon',
+        'type': "website",
+        'url': 'https://play.aidungeon.io'
+    },
+    {
+        'id': 0,
+        'image': 'https://cdn-images-1.medium.com/max/1200/1*mbG2hAx42XZkwmTVwS2AXQ.png',
+        'intro': """Play and create adventures with infinite possiblities, brought to life with one of the most advanced AIs in the world..
+        """,
+        'name': 'Syncedreview',
+        'type': "website",
+        'url': 'https://syncedreview.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cdn.gamer-network.net/2019/usgamer/AI-Dungeon-2-header-ipad.png/EG11/thumbnail/1920x1080/format/jpg/quality/65/ai-dungeon-2-the-text-adventure-where-you-can-do-nearly-anything-is-now-on-mobile.jpg',
+        'intro': """This is an experiment in what one might call "prompt engineering", which is a way to utilize GPT-3, a neural network trained and hosted by OpenAI.
+
+GPT-3 is a language model. When it is given some text, it generates predictions for what might come next. It is remarkably good at adapting to different contexts, as defined by a prompt (in this case, hidden), which sets the scene for what type of text will be generated.
+
+Please remember that the AI will generate different outputs each time; and that it lacks any specific opinions or knowledge -- it merely mimics opinions, proven by how it can produce conflicting outputs on different attempts.
+        """,
+        'name': 'philosopherai',
+        'type': "website Paid",
+        'url': 'https://philosopherai.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://s3-eu-west-1.amazonaws.com/sup46/wp-content/uploads/2018/10/09105504/SHORTLYNEWLOGO2.png',
+        'intro': """We use cutting edge technology to make writing easier and faster. Stuck? Just click the button and our AI will continue your writing for you.
+        """,
+        'name': 'shortlyai',
+        'type': "website",
+        'url': 'https://www.shortlyai.com/'
+    },
+     {
+        'id': 0,
+        'image': 'https://pbs.twimg.com/profile_images/452047074813419520/xZcPzubX.jpeg',
+        'intro': """You have 80000 hours in your career. How can you best use them to help solve the world's most pressing problems?
+        """,
+        'name': '80000hours',
+        'type': "website",
+        'url': ' https://80000hours.org/'
+    },
+   
+    {
+        'id': 0,
+        'image': 'https://packt-type-cloud.s3.amazonaws.com/uploads/sites/2432/2018/09/134fa915-d093-4a8b-9be4-6f4669003e80.png',
+        'intro': """A toolkit for developing and comparing reinforcement learning algorithms.
+        pip insatll gym 
+        on your IDE
+        """,
+        'name': 'openai gum',
+        'type': "website",
+        'url': ' https://gym.openai.com/'
+    },
        {
         'id': 0,
         'image': 'https://freebiesui.com/wp-content/uploads/2020/11/Multipurpose-App-UI-KIt-263x238.jpg',
@@ -6119,6 +6214,9 @@ def api_android_coursess():
 @app.route('/androiddevelopment/tools')
 def api_android_resourses():
     return jsonify(android_resources)
+@app.route('/miscellaneous')
+def api_miscellaneous():
+    return jsonify(miscellaneous)
 
 @app.route('/Ui_Ux')
 def api_UI():
@@ -6819,6 +6917,28 @@ def api_Machine_learning_tools():
 
 
 Machine_learning_learning = [
+     {
+        'id': 0,
+        'image': 'https://cdn-images-1.medium.com/max/1200/1*mbG2hAx42XZkwmTVwS2AXQ.png',
+        'intro': """Play and create adventures with infinite possiblities, brought to life with one of the most advanced AIs in the world..
+        """,
+        'name': 'Syncedreview',
+        'type': "website",
+        'url': 'https://syncedreview.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://gpt3examples.com/assets/images/image01.jpg',
+        'intro': """GPT-3 is a language model developed by OpenAI
+
+Developers have built an impressively diverse range of applications using the GPT-3 API, including an all purpose Excel function, a recipe generator, a layout generator (translates natural language to JSX), a search engine and several others.
+
+
+        """,
+        'name': 'gpt3examples',
+        'type': "website",
+        'url': 'https://gpt3examples.com/#examples'
+    },
     {
                 'id':0,
                 'image': 'https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/18-06s10.jpg',
