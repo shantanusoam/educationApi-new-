@@ -1025,6 +1025,303 @@ awesome_websites = [
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """
+A GPT-3 × Figma plugin that takes a URL and a description to mock up a website for you.
+        """,
+        'name': 'Jordan Singer',
+        'type': "website",
+        'url': ' https://twitter.com/jsngr/status/1287026808429383680A '
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+Here are 3 podcast episodes that were collaborations with #GPT3 :
+       https://tinkeredthinking.com/index.php?id=836
+
+https://tinkeredthinking.com/index.php?id=837
+
+https://tinkeredthinking.com/index.php?id=839
+
+And an app in development:
+https://tinkeredthinking.com/index.php?id=842"
+        """,
+        'name': ' Tinkered Thinking',
+        'type': "website",
+        'url': 'http://tinkeredthinking.com?id=836'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+When GPT-3 Meets DevOps Winking face ** create,  deploy,  list,  and delete any services on AWS using conversational plain English
+       Bootstrapped with 
+@sh_reya
+'s gpt-3 sandbox  Two hearts
+Working on a end-end pipeline with 
+@snpranav
+"
+        """,
+        'name': 'Suhail CS',
+        'type': "DevOps",
+        'url': ' https://twitter.com/ChinyaSuhail/status/1287110006370836480'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """
+AI INCEPTION! I just used GPT-3 to generate code for a machine learning model,  just by describing the dataset and required output.
+
+This is the start of no-code AI."
+        """,
+        'name': 'Text -> Keras (ML code generation)',
+        'type': "website(Matt Shumer)",
+        'url': 'https://twitter.com/mattshumer_/status/1287125015528341506'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """The use-cases are endless. 
+
+I created an entity extraction demo in less than 10 minutes. Usually,  this work requires a significant engineering effort and machine learning expertise. 
+
+I can't wait to see what entrepreneurs will build in the next couple of months."
+        """,
+        'name': 'Entity Extractor (Yigit Ihlamur)',
+        'type': "website",
+        'url': 'https://twitter.com/yihlamur/status/1287211194965561344'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Text completion and the combination of style rewriting and text completion. What else should I add to round out the writing tools? GPT-3 #gpt3
+        """,
+        'name': 'Style rewriting & Text completion',
+        'type': "website (Carlos E. Perez)",
+        'url': 'https://twitter.com/IntuitMachine/status/1287050253103968257'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """
+I once had a problem and used regex. Then I had two problems
+
+Never again. With the help of our GPT-3 overlords,  I made something to turn English into regex. It's worked decently for most descriptions I've thrown at it. Sign up at http://losslesshq.com to play with a prototype
+        """,
+        'name': 'English -> Regex',
+        'type': "website Parthi Loganathan",
+        'url': 'https://twitter.com/parthi_logan/status/1286818567631982593'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """ Creative writing by OpenAI’s GPT-3 model,  demonstrating poetry,  dialogue,  puns,  literary parodies,  and storytelling. Plus advice on effective GPT-3 prompt programming & avoiding common errors.
+        """,
+        'name': 'Creative Fiction',
+        'type': "website - Gwern Branwen",
+        'url': 'https://www.gwern.net/GPT-3'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+https://twitter.com/_bhaveshbhatt/status/1286294242579513351, "Do you want to learn how to convert Natural Language to SQL using GPT-3?
+
+This walk-through video should help!
+
+Thanks @sh_reya for the gpt3-sandbox :)
+
+Video Link : https://youtu.be/9g66yO0Jues"
+        """,
+        'name': 'Natural Language -> SQL',
+        'type': "website Bhavesh Bhatt",
+        'url': 'https://twitter.com/_bhaveshbhatt/status/1286294242579513351'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },{
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        """,
+        'name': 'othersideai',
+        'type': "website",
+        'url': 'https://www.othersideai.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
         'intro': """Productivity magic in your inbox.
 OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
         """,
@@ -6502,9 +6799,9 @@ def api_gameDev():
 #     return jsonify(programmingtools)
 
 
-# @app.route('/programming/tools')
-# def api_programming_tools():
-#     return jsonify(programmingtools)
+@app.route('/mustprogrammer')
+def api_mustprogrammer():
+    return jsonify(Must_programmer_main)
 
 @app.route('/webdevelopment')
 def api_webDev():
