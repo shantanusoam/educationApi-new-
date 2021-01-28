@@ -279,7 +279,7 @@ In this video, I'm using Semantic Search in the @OpenAI API to have GPT tell me 
         'url': 'https://twitter.com/_bramses/status/1319867941115092993?s=20'
     },{
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """This is a pretty cool tool — an OpenAI-powered Jupyter notebook replacement which uses natural language rather than Python to specify queries: 
         """,
         'name': 'bilimyurt',
@@ -305,68 +305,155 @@ GPT-f is a Transformer-based automated theorem prover. We show that Transformer 
         'url': 'https://bilimyurt.com/'
     },{
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
-        'intro': """Immortality & Science forum
+        'image': 'https://pbs.twimg.com/card_img/1353774957067550728/2rvreKyu?format=jpg',
+        'intro': """Fully interactive synthetic personas with GPT-3 and http://Generated.Photos 🎇
+
+They know who they are, where they worked, who their boss is, and so much more.  This is not your father's bot...
         """,
-        'name': 'bilimyurt',
+        'name': 'honest-ai',
         'type': "website",
-        'url': 'https://bilimyurt.com/'
+        'url': 'https://honest-ai.com/'
     },{
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
-        'intro': """Immortality & Science forum
+        'image': 'https://pbs.twimg.com/media/EgQ-RxkWoAERoCP?format=jpg',
+        'intro': """Generate Detailed Emails from One Line Descriptions (on your mobile)
+
+I used GPT-3 to build a mobile and web Gmail add-on that expands given brief descriptions into formatted and grammatically-correct professional emails.
+
+Thanks to @OpenAI @gdb for providing me access.
         """,
-        'name': 'bilimyurt',
-        'type': "website",
-        'url': 'https://bilimyurt.com/'
+        'name': 'One Line Descriptions',
+        'type': "twitter",
+        'url': 'https://pbs.twimg.com/ext_tw_video_thumb/1297957206797688832/pu/img/51lL_6TcVr7gVegn?format=jpg'
     },{
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
-        'intro': """Immortality & Science forum
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Writing a job description and need creative ideas? You can now use this OpenAI-powered tool, which suggests rewrites and additions: https://www.dover.io/tools/job-desc
+        Paste in a short job description and we'll generate a longer variant to help you get your creative juices flowing. If you don't like the output, hit Generate again to get a different idea! Experiment, take notes, and have fun!
         """,
-        'name': 'bilimyurt',
+        'name': 'Job Description Rewriter',
         'type': "website",
-        'url': 'https://bilimyurt.com/'
+        'url': 'https://www.dover.io/tools/job-description-rewriter'
     },{
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
-        'intro': """Immortality & Science forum
+        'image': 'https://pbs.twimg.com/media/Ef6ivkJUcAA0fy3?format=jpg',
+        'intro': """Creating a GPT-3 texting companion (using http://sendblue.co ) has been one of the most interesting experiences I’ve ever had. In the past week of using this thing I’ve had more ideas and conversations with this thing than I’ve had with real people. Truly incredible.
         """,
         'name': 'bilimyurt',
         'type': "website",
-        'url': 'https://bilimyurt.com/'
+        'url': 'https://sendblue.co/'
     },{
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
-        'intro': """Immortality & Science forum
+        'image': 'https://images.squarespace-cdn.com/content/v1/5e0997640f68875f9a06868a/1582595797392-ROX2Y3M8J1IIE9Z1AZIQ/ke17ZwdGBToddI8pDm48kNfMjBCwXSKF-vpuLJPYbFl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ql6vXyf1c5GMI2V4OEE0xph2rkY4ocV95D9qTgQoy1Dc2a4nkFIzM16w_OiPuarQw/Screen+Shot+2020-02-24+at+5.52.39+PM.png',
+        'intro': """Create meaningful dialogue flows using @Storymapr with @OpenAI #GPT3 API integration; In limited beta, sign up with @Storymapr at https://bit.ly/30OSKO9  or shoot us DM if you want access. #storymapr #ai #openai #gamedesign #NLP
         """,
-        'name': 'bilimyurt',
+        'name': 'storymapr',
         'type': "website",
-        'url': 'https://bilimyurt.com/'
+        'url': 'https://www.storymapr.com/'
     },{
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
-        'intro': """Immortality & Science forum
+        'image': 'https://pbs.twimg.com/media/EfyjQBUVAAMnIy_?format=jpg',
+        'intro': """Team just told me that GPT-3 wrote the product copy for our two down-alternative products 👾
+
+I only found out when the person who manages our site returned from vacation today and casually mentioned during evening standup. Wow. H/t @chris__lu. https://twitter.com/jjeremycai/status/1296098155994349568
         """,
-        'name': 'bilimyurt',
+        'name': 'slumber-down-alternative-comforter',
         'type': "website",
-        'url': 'https://bilimyurt.com/'
+        'url': 'https://italic.com/products/slumber-down-alternative-comforter'
     },{
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
-        'intro': """Immortality & Science forum
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Introducing Magnum- AI Driven Math Animations without coding!
+
+Magnum is an Open Source toolkit to generate Step-by-step animated solutions (with graphs) to ANY Math Query.
+
+You can also animate custom content for your classroom.
+
+Check out http://magnum.shreenabh.com  to get started!
         """,
-        'name': 'bilimyurt',
+        'name': 'magnum.shreenabh',
         'type': "website",
-        'url': 'https://bilimyurt.com/'
+        'url': 'https://magnum.shreenabh.com/'
     },{
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
-        'intro': """Immortality & Science forum
+        'image': 'https://pbs.twimg.com/ext_tw_video_thumb/1294631794579398656/pu/img/J_aPiihzrVpVQlD2?format=jpg',
+        'intro': """Introducing Revtheo Browser Extension! Check it out in comparison with Apple's "word lookup feature".
+
+Revtheo, a context based dictionary, wouldn't have been possible without #GPT3 @gdb 
+
+For early access drop me a message with your email id.
         """,
         'name': 'bilimyurt',
-        'type': "website",
-        'url': 'https://bilimyurt.com/'
+        'type': "twitter",
+        'url': 'https://twitter.com/tusharkhattar_/status/1294631853224206339?s=20'
+    },
+    {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/618/1*drev2yd3c7gR4GVZFWiC8A.png',
+        'intro': """New: My adventures using GPT-3 to make Copycat analogies.   I did some systematic experiments with no cherry picking.  I hope you enjoy this!
+
+"Can GPT-3 Make Analogies?" 
+        """,
+        'name': 'bilimyurt',
+        'type': "twitter",
+        'url': 'https://twitter.com/jsngr/status/1294635175222157313?s=20'
+    },
+
+    {
+        'id': 0,
+        'image': 'https://pbs.twimg.com/ext_tw_video_thumb/1284799918364749824/pu/img/GLdWG3ZeclzRAO7C?format=jpg',
+        'intro': """I made a fully functioning search engine on top of GPT3. 
+
+For any arbitrary query, it returns the exact answer AND the corresponding URL.
+
+Look at the entire video. It's MIND BLOWINGLY good. 
+
+cc: @gdb @npew @gwern
+        """,
+        'name': 'ask me anything',
+        'type': "twitter",
+        'url': 'https://twitter.com/paraschopra/status/1284801028676653060?s=20'
+    },
+    {
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """This is mind blowing.
+
+With GPT-3, I built a layout generator where you just describe any layout you want, and it generates the JSX code for you.
+
+W H A T
+        """,
+        'name': 'bilimyurt',
+        'type': "twitter",
+        'url': 'https://twitter.com/sharifshameem/status/1282676454690451457'
+    },
+    {
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """This changes everything. 🤯
+
+With GPT-3, I built a Figma plugin to design for you.
+
+I call it "Designer"
+        """,
+        'name': 'figma pluginn',
+        'type': "twitter",
+        'url': 'https://twitter.com/jsngr/status/1284511080715362304?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Ecollection%3A1286781399081639942%7Ctwcon%5Etimelinechrome&ref_url=https%3A%2F%2Fgpt3examples.com%2F%23examples'
+    },
+    {
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Reading code is hard! Don't you wish you could just ask the code what it does? To describe its functions, its types.
+
+And maybe... how can it be improved?
+
+Introducing: @Replit code oracle 🧙‍♀️
+
+It's crazy, just got access to @OpenAI API and I already have a working product!
+        """,
+        'name': 'bilimyurt',
+        'type': "twitter",
+        'url': 'https://twitter.com/amasad/status/1285789362647478272?s=20'
     },
             
     
@@ -1562,7 +1649,7 @@ Amazed to see how much of cultural subtext and nuance language models can pick u
     },
     {
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """I managed to develop a GPT-3 demo that produces generative code snippets of the #threejs JavaScript API by textually descr -> IVR (Interactive voice response), @nutanc, 7/27/2020, https://twitter.com/nutanc/status/1287801677542612992, One of the first innovation we are doing is to rethink the age old process of IVR design. Make the boring IVR development exciting.ibing the elements and their parameters needed to create a #webgl 3D scene.
         """,
         'name': 'Text -> JavaScript (threejs)',
@@ -1571,7 +1658,7 @@ Amazed to see how much of cultural subtext and nuance language models can pick u
     },
     {
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """Product Managers,  Business Analysts...
         @ixigo are now writing complex SQL queries which work against our actual databases in plain English thanks to GPT-3 !! "
         """,
@@ -1580,7 +1667,7 @@ Amazed to see how much of cultural subtext and nuance language models can pick u
         'url': 'https://twitter.com/rajnishkumar/status/1288502875455475712'
     },{
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """Letting GPT-3 do my presentations from now on. Just copy a bunch of text and let GPT-3 generate the presentation. Using Google slides scripting. I am not good at presentation skills. This is for proof of concept. So be gentle :).
         """,
         'name': 'Text -> PowerPoint Presentations,',
@@ -1588,7 +1675,7 @@ Amazed to see how much of cultural subtext and nuance language models can pick u
         'url': 'https://twitter.com/nutanc/status/1288517555754110977'
     },{
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """Of everything I’ve gotten GPT-3 to do comedy has been the easiest and the most fun. It has a superhuman capacity for generating absurdity,  and often carries a joke to the upteenth degree,  as it did in my Jerry Seinfeld and Eddie Murphy Talk Shit About San Francisco skit where Jerry compares SF to shit sixty eight times. Exaggeration and repetition are well known comedic devices,  and The Rule of Funny says “Any violation of continuity,  logic,  physics,  or common sense is permissible if the result gets enough of a laugh” which turns out to be perfect for AI generated humor.
         """,
         'name': 'Comedy',
@@ -1596,7 +1683,7 @@ Amazed to see how much of cultural subtext and nuance language models can pick u
         'url': 'https://arr.am/2020/07/22/why-gpt-3-is-good-for-comedy-or-reddit-eats-larry-page-alive/'
     },{
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """Experimenting with 
 @OpenAI #GPT3 and got it to extract financial metrics by simply copying and pasting the Income Statement from quarterly press release,  and requesting a metric which doesn't even need to be an exact match "
         """,
@@ -1605,7 +1692,7 @@ Amazed to see how much of cultural subtext and nuance language models can pick u
         'url': 'https://twitter.com/moesalih_/status/1288554452488790019'
     },{
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """How do you make writing ad copy fun? 
         """,
         'name': 'Google Ads',
@@ -1613,7 +1700,7 @@ Amazed to see how much of cultural subtext and nuance language models can pick u
         'url': 'https://twitter.com/frantzfries/status/1288589540865843200'
     },{
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """A few months ago I jokingly said to a friend “we should create an AI that can write fiction for 
 @ShortlyRead”
 
@@ -1628,7 +1715,7 @@ I knew the tech was coming but I didn’t expect it to be this good.
         'url': 'https://twitter.com/QasimMunye/status/1288912561178640385'
     },{
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """I asked GPT-3 to write a response to the philosophical essays written  about it by 
 @DrZimmermann,  @rinireg,  @ShannonVallor,  @add_hawk, @AmandaAskell,  @dioscuri,  David Chalmers,  Carlos Montemayor,  and Justin Khoo published yesterday by @DailyNousEditor. It's quite remarkable!"
         """,
@@ -1639,7 +1726,7 @@ I knew the tech was coming but I didn’t expect it to be this good.
     ,
     {
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """Immortality & Science forum
         """,
         'name': 'bilimyurt',
