@@ -251,6 +251,126 @@ miscellaneous = [
         'url': 'https://generative-placeholders.glitch.me/',
     },
 ]
+    },
+    {
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """GPT-3 is a language model developed by OpenAI
+
+Developers have built an impressively diverse range of applications using the GPT-3 API, including an all purpose Excel function, a recipe generator, a layout generator (translates natural language to JSX), a search engine and several others.""",
+        'name': 'open ai',
+        'start' : [
+            {
+        'id': 0,
+        'image': 'https://pbs.twimg.com/card_img/1351393010085347328/WUrRVxYW?format=jpg',
+        'intro': """.@OpenAI’s GPT-3 is a bit like autocomplete—a shockingly good autocomplete. Here’s what happened when this tool joined a brainstorm alongside (human) designer 
+        """,
+        'name': 'IDEO',
+        'type': "website",
+        'url': 'https://t.co/QnRpznKHdk'
+    },{
+        'id': 0,
+        'image': 'https://twitter.com/_bramses/status/1319867941115092993',
+        'intro': """IOne of the most annoying parts about setting up a todo list is not being able to estimate how long or how hard a task may be. Will it take up an hour? Or the whole day?
+
+In this video, I'm using Semantic Search in the @OpenAI API to have GPT tell me how hard a task is!
+        """,
+        'name': 'todo',
+        'type': "twitter",
+        'url': 'https://twitter.com/_bramses/status/1319867941115092993?s=20'
+    },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """This is a pretty cool tool — an OpenAI-powered Jupyter notebook replacement which uses natural language rather than Python to specify queries: 
+        """,
+        'name': 'bilimyurt',
+        'type': "website",
+        'url': 'https://bilimyurt.com/'
+    },{
+        'id': 0,
+        'image': 'https://pbs.twimg.com/card_img/1353639823332970497/hMucgNj5?format=jpg',
+        'intro': """ just launched "Most Recommended Books 2.0" on @ProductHunt ! Discover the books recommended by @elonmusk , @naval , @tferriss , and 400+ others 🙂📚 just launched "Most Recommended Books 2.0" on @ProductHunt ! Discover the books recommended by @elonmusk , @naval , @tferriss , and 400+ others 🙂📚
+        """,
+        'name': 'MRB',
+        'type': "website",
+        'url': 'https://mostrecommendedbooks.com/?ref=producthunt'
+    },{
+        'id': 0,
+        'image': 'https://pbs.twimg.com/media/Ehc-LRsXYAEObi-?format=jpg ',
+        'intro': """Posted my first paper on arXiv💥🙌
+
+GPT-f is a Transformer-based automated theorem prover. We show that Transformer + Search is suitable to formal reasoning and continuous self-improvement 🦾
+        """,
+        'name': 'bilimyurt',
+        'type': "website",
+        'url': 'https://bilimyurt.com/'
+    },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """Immortality & Science forum
+        """,
+        'name': 'bilimyurt',
+        'type': "website",
+        'url': 'https://bilimyurt.com/'
+    },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """Immortality & Science forum
+        """,
+        'name': 'bilimyurt',
+        'type': "website",
+        'url': 'https://bilimyurt.com/'
+    },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """Immortality & Science forum
+        """,
+        'name': 'bilimyurt',
+        'type': "website",
+        'url': 'https://bilimyurt.com/'
+    },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """Immortality & Science forum
+        """,
+        'name': 'bilimyurt',
+        'type': "website",
+        'url': 'https://bilimyurt.com/'
+    },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """Immortality & Science forum
+        """,
+        'name': 'bilimyurt',
+        'type': "website",
+        'url': 'https://bilimyurt.com/'
+    },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """Immortality & Science forum
+        """,
+        'name': 'bilimyurt',
+        'type': "website",
+        'url': 'https://bilimyurt.com/'
+    },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """Immortality & Science forum
+        """,
+        'name': 'bilimyurt',
+        'type': "website",
+        'url': 'https://bilimyurt.com/'
+    },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """Immortality & Science forum
+        """,
+        'name': 'bilimyurt',
+        'type': "website",
+        'url': 'https://bilimyurt.com/'
+    },
+            
+    
+]
     }
 ]
 
@@ -1107,12 +1227,21 @@ everyydaytools = [
 awesome_websites = [
     {
         'id': 0,
+        'image': 'https://pbs.twimg.com/card_img/1353639823332970497/hMucgNj5?format=jpg',
+        'intro': """ just launched "Most Recommended Books 2.0" on @ProductHunt ! Discover the books recommended by @elonmusk , @naval , @tferriss , and 400+ others 🙂📚 just launched "Most Recommended Books 2.0" on @ProductHunt ! Discover the books recommended by @elonmusk , @naval , @tferriss , and 400+ others 🙂📚
+        """,
+        'name': 'MRB',
+        'type': "website",
+        'url': 'https://mostrecommendedbooks.com/?ref=producthunt'
+    },
+    {
+        'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
         'intro': """
-A GPT-3 × Figma plugin that takes a URL and a description to mock up a website for you.
+A GPT-3 × Figma plugin that takes a URL and a description to mock up a twitter for you.
         """,
         'name': 'Jordan Singer',
-        'type': "website",
+        'type': "twitter",
         'url': ' https://twitter.com/jsngr/status/1287026808429383680A '
     },{
         'id': 0,
@@ -1129,7 +1258,7 @@ And an app in development:
 https://tinkeredthinking.com/index.php?id=842"
         """,
         'name': ' Tinkered Thinking',
-        'type': "website",
+        'type': "twitter",
         'url': 'http://tinkeredthinking.com?id=836'
     },{
         'id': 0,
@@ -1155,7 +1284,7 @@ AI INCEPTION! I just used GPT-3 to generate code for a machine learning model,  
 This is the start of no-code AI."
         """,
         'name': 'Text -> Keras (ML code generation)',
-        'type': "website(Matt Shumer)",
+        'type': "twitter(Matt Shumer)",
         'url': 'https://twitter.com/mattshumer_/status/1287125015528341506'
     },{
         'id': 0,
@@ -1167,7 +1296,7 @@ I created an entity extraction demo in less than 10 minutes. Usually,  this work
 I can't wait to see what entrepreneurs will build in the next couple of months."
         """,
         'name': 'Entity Extractor (Yigit Ihlamur)',
-        'type': "website",
+        'type': "twitter",
         'url': 'https://twitter.com/yihlamur/status/1287211194965561344'
     },{
         'id': 0,
@@ -1175,7 +1304,7 @@ I can't wait to see what entrepreneurs will build in the next couple of months."
         'intro': """Text completion and the combination of style rewriting and text completion. What else should I add to round out the writing tools? GPT-3 #gpt3
         """,
         'name': 'Style rewriting & Text completion',
-        'type': "website (Carlos E. Perez)",
+        'type': "twitter (Carlos E. Perez)",
         'url': 'https://twitter.com/IntuitMachine/status/1287050253103968257'
     },{
         'id': 0,
@@ -1186,7 +1315,7 @@ I once had a problem and used regex. Then I had two problems
 Never again. With the help of our GPT-3 overlords,  I made something to turn English into regex. It's worked decently for most descriptions I've thrown at it. Sign up at http://losslesshq.com to play with a prototype
         """,
         'name': 'English -> Regex',
-        'type': "website Parthi Loganathan",
+        'type': "twitter Parthi Loganathan",
         'url': 'https://twitter.com/parthi_logan/status/1286818567631982593'
     },{
         'id': 0,
@@ -1194,7 +1323,7 @@ Never again. With the help of our GPT-3 overlords,  I made something to turn Eng
         'intro': """ Creative writing by OpenAI’s GPT-3 model,  demonstrating poetry,  dialogue,  puns,  literary parodies,  and storytelling. Plus advice on effective GPT-3 prompt programming & avoiding common errors.
         """,
         'name': 'Creative Fiction',
-        'type': "website - Gwern Branwen",
+        'type': "twitter - Gwern Branwen",
         'url': 'https://www.gwern.net/GPT-3'
     },{
         'id': 0,
@@ -1210,208 +1339,304 @@ Thanks @sh_reya for the gpt3-sandbox :)
 Video Link : https://youtu.be/9g66yO0Jues"
         """,
         'name': 'Natural Language -> SQL',
-        'type': "website Bhavesh Bhatt",
+        'type': "twitter Bhavesh Bhatt",
         'url': 'https://twitter.com/_bhaveshbhatt/status/1286294242579513351'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """I’ve been thinking about GPT-3’s applications to grounded language understanding — e.g. for robotics and other embodied agents.
+
+In doing so,  I came up with a new demo: 
+
+Objects to Affordances: “what can I do with an object?"
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Objects -> Affordances',
+        'type': "twitter Siddharth Karamcheti",
+        'url': 'https://twitter.com/siddkaramcheti/status/1286168606896603136'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """Thanks to @gdbI had the occasion to play around with @OpenAI's GPT-3 and I'm amazed! I built a @tailwindcss code generator and the results are quite spectacular.
+
+There's still much work to do,  but it looks promising! You can sign up at http://gpt-tailwind.com for early access."
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Tailwind CSS Code Generator',
+        'type': "twitter Zoli Szőgyényi",
+        'url': 'https://twitter.com/zolidev/status/1286349416530620416'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """Reading code is hard! Don't you wish you could just ask the code what it does? To describe its functions,  its types.
+
+And maybe... how can it be improved?"
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Code Oracle',
+        'type': "twitter Amjad Masad",
+        'url': 'https://twitter.com/amasad/status/1285789362647478272'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """After struggling to prime GPT-3 and spending hours coding a basic demo,  @sh_reya and I wrote https://github.com/shreyashankar/gpt3-sandbox,  a tool that takes care of all the web dev details and provides a convenient priming interface. Here I create a recipe generator with just ~30 lines of python.
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Recipe Generator',
+        'type': "Shreya Shankar & Bora Uyumazturk",
+        'url': 'https://twitter.com/notsleepingturk/status/1286112191083696128'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """Built a GPT-3 bot that lets people with no accounting knowledge generate financial statements
+
+Here it is creating balance sheets by turning everyday language into Python code:"
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Financial Statement Generator',
+        'type': "twitter George Saad & Yash Dani",
+        'url': 'https://twitter.com/itsyashdani/status/1285695850300219392'
+    },{
+        'id': 0,
+        'image': 'https://twitter.com/itsyashdani/status/1285695850300219392',
+        'intro': """Built a GPT-3 bot that lets people with no accounting knowledge generate financial statements
+
+Here it is creating balance sheets by turning everyday language into Python code:"
+        """,
+        'name': 'Financial Statement Generator',
+        'type': "twitter Melanie Mitchell George Saad & Yash Dani",
+        'url': 'https://twitter.com/MelMitchell1/status/1291170016130412544'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """The spreadsheet function to rule them all.
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'GPT3()',
+        'type': "twitter Paul Katsen",
+        'url': 'https://twitter.com/pavtalk/status/1285410751092416513'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """GPT-3 Does The WorkTrade mark sign on generating SVG charts,  with a quick web app I built with @billyjeanbillyj. With a short sentence describing what you want to plot,  its able to generate charts with titles,  labels and legends from about a dozen primed examples.
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'SVG Chart Generator',
+        'type': " Ken Acquah & Kenneth Li",
+        'url': 'https://twitter.com/aquariusacquah/status/1285415144017797126'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """I made a fully functioning search engine on top of GPT3. 
+
+For any arbitrary query,  it returns the exact answer AND the corresponding URL.
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Search Engine',
+        'type': "twitter Paras Chopra",
+        'url': 'https://twitter.com/paraschopra/status/1284801028676653060'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """Turns out #GPT3 can do vision too Winking face
+
+Built an ingredient parser: take a pic of any nutrition label (google to extract text),  and GPT-3 will identify ingredients,  find an emoji,  determine if it's unhealthy,  and give a definition Exploding head
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Ingredient Parser',
+        'type': "twitter Lawder Paul",
+        'url': 'https://twitter.com/lawderpaul/status/1284972517749338112'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """Using GPT-3,  I built a resume generator. 
+
+Give it a sentence about where you worked,  what you worked with - and you'll have a resume.
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Resume Generator',
+        'type': "twitter Don (@DonCubed)",
+        'url': 'https://twitter.com/DonCubed/status/1284908940149395456'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """After many hours of retraining my brain to operate in this ""priming"" approach,  I also now have a sick GPT-3 demo: English to LaTeX equations! I'm simultaneously impressed by its coherence and amused by its brittleness -- watch me test the fundamental theorem of calculus.
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Text -> Latex',
+        'type': "twitter Shreya Shankar",
+        'url': 'https://twitter.com/sh_reya/status/1284746918959239168'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """With GPT-3,  I built a Figma plugin to design for you.
+
+I call it ""Designer
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Figma Designer',
+        'type': "twitter Jordan Singer",
+        'url': 'https://twitter.com/jsngr/status/1284511080715362304'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """With @OpenAI's GPT-3 model (thanks to @gdb),  I built an app that generates its own tweet given any word.
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Tweet Generator',
+        'type': "twitter Sushant Kumar",
+        'url': 'https://twitter.com/sushant_kumar/status/1283314235842297856'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """I built a layout generator where you just describe any layout you want,  and it generates the JSX code for you.
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Layout Generator',
+        'type': "twitter Shareef Shamim",
+        'url': 'https://twitter.com/sharifshameem/status/1282676454690451457'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """I got GPT-3 to start writing my SQL queries for me
+        p.s. these work against my *actual* database!"
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Text -> SQL',
+        'type': "twitter Faraaz Nishtar",
+        'url': 'https://twitter.com/FaraazNishtar/status/1285934622891667457'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """I love short,  analytical essays.
+        So I asked GPT-3 to write some. 
+
+Trained on recent short form content from 
+@nbashaw
+ and 
+@ericstromberg
+ 
+
+Not as good as Nathan and Eric,  but I’m still impressed. "
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Short Analytical Essays',
+        'type': "twitter Anthony Emberley",
+        'url': 'https://twitter.com/Anthonyemberley/status/1287560874249474048'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """Just taught GPT-3 how to turn legalese into simple plain English. All I gave it were 2 examples. Might build a term sheet and investment document interpreter out of this 
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Legal documents -> Simple English',
+        'type': "twitter Michael Tefula",
+        'url': 'https://twitter.com/michaeltefula/status/1285505897108832257'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """I built a UI creator in Figma using @OpenAI's GPT3.
+       Define your UI component in simple English,  and GPT3 + @figmadesign will create full blown mockup for you. With accurate text,  images and logos."
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'UI Creator in Figma',
+        'type': "twitter Dhvanil Patel",
+        'url': 'https://twitter.com/dhvanilp/status/1286452207513038848'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """We’ve explored @OpenAI’s new #GPT3 API,  and we are super impressed with its capabilities!
+        For example,  you can write a simple description,  and GPT-3 can automatically generate a bar chartBar chart for you!"
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Plotly Charts',
+        'type': "Plotly",
+        'url': 'https://twitter.com/plotlygraphs/status/1286079929982095360'
     },{
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """This is mind blowing Exploding head
+
+With @OpenAI #GPT3 I updated my 
+@figmadesign
+ plugin https://figma.com/community/plugin/823077195186711433/Flipbook
+  I call it ""Flipbook Animator"",  it can convert english text to frame by frame animation and you can export to gif. cc " 
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
-    },{
-        'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
-        """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Figma Plugin',
+        'type': "twitter Sonny Lazuardi",
+        'url': 'https://twitter.com/sonnylazuardi/status/1287563878545514496'
     },
     {
         'id': 0,
         'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
-        'intro': """Productivity magic in your inbox.
-OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+        'intro': """ired: Making your own memes
+Wired: Asking @OpenAI's #gpt3 to make memes.
+
+Amazed to see how much of cultural subtext and nuance language models can pick up on."
+ Text Just tell the flow of your IVR in natural language and get a phone number with the IVR flow designed. Prepare to have your MIND BLOWN :)       
         """,
-        'name': 'othersideai',
-        'type': "website",
-        'url': 'https://www.othersideai.com/'
+        'name': 'Meme Generator',
+        'type': "twitter Mrinal Mohit",
+        'url': 'https://twitter.com/wowitsmrinal/status/1287175391040290816'
     },
+    {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """I managed to develop a GPT-3 demo that produces generative code snippets of the #threejs JavaScript API by textually descr -> IVR (Interactive voice response), @nutanc, 7/27/2020, https://twitter.com/nutanc/status/1287801677542612992, One of the first innovation we are doing is to rethink the age old process of IVR design. Make the boring IVR development exciting.ibing the elements and their parameters needed to create a #webgl 3D scene.
+        """,
+        'name': 'Text -> JavaScript (threejs)',
+        'type': "twitter Antonio Gomez",
+        'url': 'https://twitter.com/Antonio_GomezM/status/1287969287110443008'
+    },
+    {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """Product Managers,  Business Analysts...
+        @ixigo are now writing complex SQL queries which work against our actual databases in plain English thanks to GPT-3 !! "
+        """,
+        'name': 'Text -> SQL',
+        'type': "twitter Rajnish Kumar",
+        'url': 'https://twitter.com/rajnishkumar/status/1288502875455475712'
+    },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """Letting GPT-3 do my presentations from now on. Just copy a bunch of text and let GPT-3 generate the presentation. Using Google slides scripting. I am not good at presentation skills. This is for proof of concept. So be gentle :).
+        """,
+        'name': 'Text -> PowerPoint Presentations,',
+        'type': "twitter @nutanc",
+        'url': 'https://twitter.com/nutanc/status/1288517555754110977'
+    },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """Of everything I’ve gotten GPT-3 to do comedy has been the easiest and the most fun. It has a superhuman capacity for generating absurdity,  and often carries a joke to the upteenth degree,  as it did in my Jerry Seinfeld and Eddie Murphy Talk Shit About San Francisco skit where Jerry compares SF to shit sixty eight times. Exaggeration and repetition are well known comedic devices,  and The Rule of Funny says “Any violation of continuity,  logic,  physics,  or common sense is permissible if the result gets enough of a laugh” which turns out to be perfect for AI generated humor.
+        """,
+        'name': 'Comedy',
+        'type': "twitter Arram Sabeti",
+        'url': 'https://arr.am/2020/07/22/why-gpt-3-is-good-for-comedy-or-reddit-eats-larry-page-alive/'
+    },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """Experimenting with 
+@OpenAI #GPT3 and got it to extract financial metrics by simply copying and pasting the Income Statement from quarterly press release,  and requesting a metric which doesn't even need to be an exact match "
+        """,
+        'name': 'Financial Metric Extraction',
+        'type': "twitter Moe Salih",
+        'url': 'https://twitter.com/moesalih_/status/1288554452488790019'
+    },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """How do you make writing ad copy fun? 
+        """,
+        'name': 'Google Ads',
+        'type': "twitter Chris Frantz",
+        'url': 'https://twitter.com/frantzfries/status/1288589540865843200'
+    },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """A few months ago I jokingly said to a friend “we should create an AI that can write fiction for 
+@ShortlyRead”
+
+I knew the tech was coming but I didn’t expect it to be this good. 
+@OpenAI
+ 
+@gdb
+"
+        """,
+        'name': 'Creative Writing Assistant',
+        'type': "twitter Qasim Munye",
+        'url': 'https://twitter.com/QasimMunye/status/1288912561178640385'
+    },{
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'intro': """I asked GPT-3 to write a response to the philosophical essays written  about it by 
+@DrZimmermann,  @rinireg,  @ShannonVallor,  @add_hawk, @AmandaAskell,  @dioscuri,  David Chalmers,  Carlos Montemayor,  and Justin Khoo published yesterday by @DailyNousEditor. It's quite remarkable!"
+        """,
+        'name': 'Philosophy',
+        'type': "twitter aphaël Millière",
+        'url': 'https://bilimyurt.com/'
+    }
+    ,
     {
         'id': 0,
         'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
