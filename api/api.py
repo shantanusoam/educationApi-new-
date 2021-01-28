@@ -167,7 +167,90 @@ motivation = [
 ]
 miscellaneous = [
     {
-
+        'image': 'https://www.houseofbots.com/images/news/3631/cover.png',
+        'intro': 'Programming tools which you may like',
+        'name': 'programming_tools',
+        'start' : [
+            
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/4tfKlG1Ylr94FeVUQH5Oic/2bfef3e8d5536a47e52e6e5f50c258c8/og-square.png?w=640&h=640&q=50&fm=webp',
+        'intro': "An interactive map of popular screen sizes showing the responsive and adaptive device landscape",
+        'name': 'Screen Size Map',
+        'url': 'https://www.screensizemap.com/',
+    }
+    ,
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/5FX7FgtToDupaRBZuRFW3m/3e822bfe48221fe462ba9205ead4be9b/image.png',
+        'intro': "Automatically remove an image background with no clicks and for free in 5 seconds.",
+        'name': 'Image Background Remover',
+        'url': 'https://www.remove.bg/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/3D1UOB3RrnRLcTtMytmyJa/284a58d52a99d52ded174c17790daeb8/image.png?w=800&h=421&q=50&fm=webp',
+        'intro': "Create and share beautiful images of your source code.",
+        'name': 'Codeimg.io',
+        'url': 'https://codeimg.io/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/2SSyh2voG8mIcUlkpNDDbp/850fa97bd0d109fb16e318edbbfaa7db/image.png',
+        'intro': "Free online tools for bulk image processing (resize, crop, compress and more).",
+        'name': 'Bulk Image Processing',
+        'url': 'https://www.imgbot.ai/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/71B5MfU2Oe5l9BNITmQYYi/ca1fd6bf70dbbf19879648232f4f2497/screenshot.png?w=800&h=450&q=50&fm=webp',
+        'intro': "Develop responsive web apps 5x faster. A must-have DevTool for all Front-End developers that will ma",
+        'name': 'Responsively',
+        'url': 'https://responsively.app/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/5UJgTMBsuDqpV1JVgOryvn/59e8e7289d63ba2cd2c6eb884f18014b/image.png?w=304&h=166&q=50&fm=webp',
+        'intro': "The most complete resource for the best monospace coding fonts.",
+        'name': 'Programming Fonts',
+        'url': 'https://app.programmingfonts.org/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/11n7eqjDE3UFlt5v6OkRBT/dd0beaf8e09dc2a61c651833f3ed553f/image.png?w=800&h=416&q=50&fm=webp',
+        'intro': "A tool to debug and generate meta tag code for any website.",
+        'name': 'Meta Tags',
+        'url': 'https://metatags.io/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/4kVxycBS3keteNdBmEDsC8/abbd160757896407cd696c964719dfda/image.png?w=175&h=175&q=50&fm=webp',
+        'intro': "Lorem Ipsum... but for photos.",
+        'name': 'Lorem Picsum',
+        'url': 'https://picsum.photos/',
+    },
+     {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/5iPXVJ2jpDKGyPyfcHhMJ9/36b7d3f8af92ab6703f94b6152e5c547/image.png?w=676&h=676&q=50&fm=webp',
+        'intro': "Collection of open APIs (movies, weather, food, news, and more) for development",
+        'name': 'Public APIs',
+        'url': 'https://public-apis.xyz/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/5b7A0ciaL5LU4wmb2ZYG0v/bb681d4a2c55c2b3c5aedb3479dda7e7/5aecb012-4bda-467c-9782-1ef157aec0d2?w=800&h=450&q=50&fm=webp',
+        'intro': "Instantly resize and crop your photos & images for all web and social media formats with one click",
+        'name': 'Free Image and Photo Resizer',
+        'url': 'https://promo.com/tools/image-resizer/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/1YefYhckdPwmjhjvfUhsI7/c3371fb888864ad70bb0af1b40bf54de/image.png',
+        'intro': "Use generative art for your image placeholders.",
+        'name': 'Generative Placeholders',
+        'url': 'https://generative-placeholders.glitch.me/',
+    },
+]
     }
 ]
 
