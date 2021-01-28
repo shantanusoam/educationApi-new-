@@ -1323,7 +1323,7 @@ awesome_websites = [
     },
     {
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """
 A GPT-3 × Figma plugin that takes a URL and a description to mock up a twitter for you.
         """,
@@ -1332,7 +1332,7 @@ A GPT-3 × Figma plugin that takes a URL and a description to mock up a twitter 
         'url': ' https://twitter.com/jsngr/status/1287026808429383680A '
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """Productivity magic in your inbox.
 Here are 3 podcast episodes that were collaborations with #GPT3 :
        https://tinkeredthinking.com/index.php?id=836
@@ -1349,7 +1349,7 @@ https://tinkeredthinking.com/index.php?id=842"
         'url': 'http://tinkeredthinking.com?id=836'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """Productivity magic in your inbox.
 When GPT-3 Meets DevOps Winking face ** create,  deploy,  list,  and delete any services on AWS using conversational plain English
        Bootstrapped with 
@@ -1364,7 +1364,7 @@ Working on a end-end pipeline with
         'url': ' https://twitter.com/ChinyaSuhail/status/1287110006370836480'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """
 AI INCEPTION! I just used GPT-3 to generate code for a machine learning model,  just by describing the dataset and required output.
 
@@ -1375,7 +1375,7 @@ This is the start of no-code AI."
         'url': 'https://twitter.com/mattshumer_/status/1287125015528341506'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """The use-cases are endless. 
 
 I created an entity extraction demo in less than 10 minutes. Usually,  this work requires a significant engineering effort and machine learning expertise. 
@@ -1387,7 +1387,7 @@ I can't wait to see what entrepreneurs will build in the next couple of months."
         'url': 'https://twitter.com/yihlamur/status/1287211194965561344'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """Text completion and the combination of style rewriting and text completion. What else should I add to round out the writing tools? GPT-3 #gpt3
         """,
         'name': 'Style rewriting & Text completion',
@@ -1395,7 +1395,7 @@ I can't wait to see what entrepreneurs will build in the next couple of months."
         'url': 'https://twitter.com/IntuitMachine/status/1287050253103968257'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """
 I once had a problem and used regex. Then I had two problems
 
@@ -1406,7 +1406,7 @@ Never again. With the help of our GPT-3 overlords,  I made something to turn Eng
         'url': 'https://twitter.com/parthi_logan/status/1286818567631982593'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """ Creative writing by OpenAI’s GPT-3 model,  demonstrating poetry,  dialogue,  puns,  literary parodies,  and storytelling. Plus advice on effective GPT-3 prompt programming & avoiding common errors.
         """,
         'name': 'Creative Fiction',
@@ -1414,7 +1414,7 @@ Never again. With the help of our GPT-3 overlords,  I made something to turn Eng
         'url': 'https://www.gwern.net/GPT-3'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """Productivity magic in your inbox.
 OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
 https://twitter.com/_bhaveshbhatt/status/1286294242579513351, "Do you want to learn how to convert Natural Language to SQL using GPT-3?
@@ -1430,7 +1430,7 @@ Video Link : https://youtu.be/9g66yO0Jues"
         'url': 'https://twitter.com/_bhaveshbhatt/status/1286294242579513351'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """I’ve been thinking about GPT-3’s applications to grounded language understanding — e.g. for robotics and other embodied agents.
 
 In doing so,  I came up with a new demo: 
@@ -1442,7 +1442,7 @@ Objects to Affordances: “what can I do with an object?"
         'url': 'https://twitter.com/siddkaramcheti/status/1286168606896603136'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """Thanks to @gdbI had the occasion to play around with @OpenAI's GPT-3 and I'm amazed! I built a @tailwindcss code generator and the results are quite spectacular.
 
 There's still much work to do,  but it looks promising! You can sign up at http://gpt-tailwind.com for early access."
@@ -1452,7 +1452,7 @@ There's still much work to do,  but it looks promising! You can sign up at http:
         'url': 'https://twitter.com/zolidev/status/1286349416530620416'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """Reading code is hard! Don't you wish you could just ask the code what it does? To describe its functions,  its types.
 
 And maybe... how can it be improved?"
@@ -1462,7 +1462,7 @@ And maybe... how can it be improved?"
         'url': 'https://twitter.com/amasad/status/1285789362647478272'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """After struggling to prime GPT-3 and spending hours coding a basic demo,  @sh_reya and I wrote https://github.com/shreyashankar/gpt3-sandbox,  a tool that takes care of all the web dev details and provides a convenient priming interface. Here I create a recipe generator with just ~30 lines of python.
         """,
         'name': 'Recipe Generator',
@@ -1470,7 +1470,7 @@ And maybe... how can it be improved?"
         'url': 'https://twitter.com/notsleepingturk/status/1286112191083696128'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """Built a GPT-3 bot that lets people with no accounting knowledge generate financial statements
 
 Here it is creating balance sheets by turning everyday language into Python code:"
@@ -1490,7 +1490,7 @@ Here it is creating balance sheets by turning everyday language into Python code
         'url': 'https://twitter.com/MelMitchell1/status/1291170016130412544'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """The spreadsheet function to rule them all.
         """,
         'name': 'GPT3()',
@@ -1498,7 +1498,7 @@ Here it is creating balance sheets by turning everyday language into Python code
         'url': 'https://twitter.com/pavtalk/status/1285410751092416513'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """GPT-3 Does The WorkTrade mark sign on generating SVG charts,  with a quick web app I built with @billyjeanbillyj. With a short sentence describing what you want to plot,  its able to generate charts with titles,  labels and legends from about a dozen primed examples.
         """,
         'name': 'SVG Chart Generator',
@@ -1506,7 +1506,7 @@ Here it is creating balance sheets by turning everyday language into Python code
         'url': 'https://twitter.com/aquariusacquah/status/1285415144017797126'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """I made a fully functioning search engine on top of GPT3. 
 
 For any arbitrary query,  it returns the exact answer AND the corresponding URL.
@@ -1516,7 +1516,7 @@ For any arbitrary query,  it returns the exact answer AND the corresponding URL.
         'url': 'https://twitter.com/paraschopra/status/1284801028676653060'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """Turns out #GPT3 can do vision too Winking face
 
 Built an ingredient parser: take a pic of any nutrition label (google to extract text),  and GPT-3 will identify ingredients,  find an emoji,  determine if it's unhealthy,  and give a definition Exploding head
@@ -1526,7 +1526,7 @@ Built an ingredient parser: take a pic of any nutrition label (google to extract
         'url': 'https://twitter.com/lawderpaul/status/1284972517749338112'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """Using GPT-3,  I built a resume generator. 
 
 Give it a sentence about where you worked,  what you worked with - and you'll have a resume.
@@ -1536,7 +1536,7 @@ Give it a sentence about where you worked,  what you worked with - and you'll ha
         'url': 'https://twitter.com/DonCubed/status/1284908940149395456'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """After many hours of retraining my brain to operate in this ""priming"" approach,  I also now have a sick GPT-3 demo: English to LaTeX equations! I'm simultaneously impressed by its coherence and amused by its brittleness -- watch me test the fundamental theorem of calculus.
         """,
         'name': 'Text -> Latex',
@@ -1544,7 +1544,7 @@ Give it a sentence about where you worked,  what you worked with - and you'll ha
         'url': 'https://twitter.com/sh_reya/status/1284746918959239168'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """With GPT-3,  I built a Figma plugin to design for you.
 
 I call it ""Designer
@@ -1554,7 +1554,7 @@ I call it ""Designer
         'url': 'https://twitter.com/jsngr/status/1284511080715362304'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """With @OpenAI's GPT-3 model (thanks to @gdb),  I built an app that generates its own tweet given any word.
         """,
         'name': 'Tweet Generator',
@@ -1562,7 +1562,7 @@ I call it ""Designer
         'url': 'https://twitter.com/sushant_kumar/status/1283314235842297856'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """I built a layout generator where you just describe any layout you want,  and it generates the JSX code for you.
         """,
         'name': 'Layout Generator',
@@ -1570,7 +1570,7 @@ I call it ""Designer
         'url': 'https://twitter.com/sharifshameem/status/1282676454690451457'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """I got GPT-3 to start writing my SQL queries for me
         p.s. these work against my *actual* database!"
         """,
@@ -1579,7 +1579,7 @@ I call it ""Designer
         'url': 'https://twitter.com/FaraazNishtar/status/1285934622891667457'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """I love short,  analytical essays.
         So I asked GPT-3 to write some. 
 
@@ -1596,7 +1596,7 @@ Not as good as Nathan and Eric,  but I’m still impressed. "
         'url': 'https://twitter.com/Anthonyemberley/status/1287560874249474048'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """Just taught GPT-3 how to turn legalese into simple plain English. All I gave it were 2 examples. Might build a term sheet and investment document interpreter out of this 
         """,
         'name': 'Legal documents -> Simple English',
@@ -1604,7 +1604,7 @@ Not as good as Nathan and Eric,  but I’m still impressed. "
         'url': 'https://twitter.com/michaeltefula/status/1285505897108832257'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """I built a UI creator in Figma using @OpenAI's GPT3.
        Define your UI component in simple English,  and GPT3 + @figmadesign will create full blown mockup for you. With accurate text,  images and logos."
         """,
@@ -1613,7 +1613,7 @@ Not as good as Nathan and Eric,  but I’m still impressed. "
         'url': 'https://twitter.com/dhvanilp/status/1286452207513038848'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """We’ve explored @OpenAI’s new #GPT3 API,  and we are super impressed with its capabilities!
         For example,  you can write a simple description,  and GPT-3 can automatically generate a bar chartBar chart for you!"
         """,
@@ -1622,7 +1622,7 @@ Not as good as Nathan and Eric,  but I’m still impressed. "
         'url': 'https://twitter.com/plotlygraphs/status/1286079929982095360'
     },{
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """This is mind blowing Exploding head
 
 With @OpenAI #GPT3 I updated my 
@@ -1636,7 +1636,7 @@ With @OpenAI #GPT3 I updated my
     },
     {
         'id': 0,
-        'image': 'https://uploads-ssl.webflow.com/5f8f97d64710736c5807d50f/5f966215ca45528b76d7010b_Comp%201_6.gif',
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """ired: Making your own memes
 Wired: Asking @OpenAI's #gpt3 to make memes.
 
