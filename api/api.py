@@ -1416,6 +1416,24 @@ Must_programmer_main = [
     'image': 'https://benjweinberg.files.wordpress.com/2017/08/what-is-an-definite-and-indefinite-articles-hd.png',
     'name': 'Interwiew',
     'start': [
+             {
+        'id': 0,
+        'image': 'https://static.hasjob.co/static/img/hasjob-logo-200x200.png',
+        'intro': """ Hasjob is India's premier job board for tech startups. Find the job that's best suited for you and apply directly. Hasjob is free for employers because we are a
+        """,
+        'name': 'hasjob',
+        'type': "website",
+        'url': 'https://hasjob.co/'
+    },
+    {
+        'id': 0,
+        'image': 'https://techcrunch.com/wp-content/uploads/2014/03/angellist.png',
+        'intro': """ Apply privately to 130000+ remote jobs and startup jobs near you with one application. See salary and equity upfront.
+        """,
+        'name': 'angel.co',
+        'type': "website",
+        'url': 'https://www.gwern.net/GPT-3'
+    },
         
         {
         'id': 0,
@@ -1733,6 +1751,97 @@ everyydaytools = [
    
    ##############AWESOMEWEBSITES###############################
 awesome_websites = [
+     {
+        'id': 0,
+        'image': 'https://static.hasjob.co/static/img/hasjob-logo-200x200.png',
+        'intro': """ Hasjob is India's premier job board for tech startups. Find the job that's best suited for you and apply directly. Hasjob is free for employers because we are a
+        """,
+        'name': 'hasjob',
+        'type': "website",
+        'url': 'https://hasjob.co/'
+    },
+    {
+        'id': 0,
+        'image': 'https://techcrunch.com/wp-content/uploads/2014/03/angellist.png',
+        'intro': """ Apply privately to 130000+ remote jobs and startup jobs near you with one application. See salary and equity upfront.
+        """,
+        'name': 'angel.co',
+        'type': "website",
+        'url': 'https://www.gwern.net/GPT-3'
+    },
+     {
+        'id': 0,
+        'image': 'https://pic.accessify.com/thumbnails/777x423/w/whenwasiconceived.com.png',
+        'intro': """ When was I conceived? A simple and instant way to find out when you were conceived. conceived around 6 May, 2020. When did I conceive? If you're a parent
+        """,
+        'name': 'whenwasiconceived',
+        'type': "website",
+        'url': 'https://www.whenwasiconceived.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/image-1-6-796x417.png',
+        'intro': """ Developing ultra high bandwidth brain-machine interfaces to connect humans and computers.
+        """,
+        'name': 'neuralink',
+        'type': "website",
+        'url': 'https://neuralink.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://hipertextual.com/files/2021/01/5G-3-740x416.png',
+        'intro': """ Play through all the major events of 2020: the Australia wildfires, COVID-19, quarantine, the rise of TikTok, the USA elections, etc.
+        """,
+        'name': '2020game',
+        'type': "website",
+        'url': 'https://2020game.io/'
+    },
+    {
+        'id': 0,
+        'image': 'https://jalammar.github.io/images/gpt3/gpt3-parameters-weights.png',
+        'intro': """ The tech world is abuzz with GPT3 hype. Massive language models (like GPT3) are starting to surprise us with their abilities. While not yet completely reliable for most businesses to put in front of their customers, these models are showing sparks of cleverness that are sure to accelerate the march of automation and the possibilities of intelligent computer systems. Let’s remove the aura of mystery around GPT3 and learn how it’s trained and how it works
+        """,
+        'name': 'jalammar',
+        'type': "website",
+        'url': 'https://jalammar.github.io/how-gpt3-works-visualizations-animations/'
+    },
+    {
+        'id': 0,
+        'image': 'https://www.dpreview.com/files/p/articles/9173310557/openai-dall-e-avocado-chair-screenshot.jpeg',
+        'intro': """ We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language.
+        """,
+        'name': 'openai',
+        'type': "website",
+        'url': 'https://openai.com/blog/dall-e/'
+    },
+    {
+        'id': 0,
+        'image': 'https://liveinnovation.org/wp-content/uploads/2017/10/1_DAIiB63JaI1br9XYPAQ-rA.png',
+        'intro': """AIVA, the Artificial Intelligence music composer that creates original & personalized music for your projects.
+        """,
+        'name': 'creators aiva',
+        'type': "website",
+        'url': 'https://creators.aiva.ai/'
+    },
+     {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/dv1vylzohjd7/28GGzo1ybZigjRt1c3QHd7/a8e2287a5d6488c94f04053839b6ac6e/hud.png',
+        'intro': """AIVA, the Artificial Intelligence music composer that creates original & personalized music for your projects.
+        """,
+        'name': 'cinekidplay',
+        'type': "website",
+        'url': 'https://cinekidplay.nl/ontdekken'
+    },
+    {
+        'id': 0,
+        'image': 'https://umamiland.withgoogle.com/version/1608117349803/static/giftshop/wallpaper/main-rice-street.jpg',
+        'intro': """Enjoy your virtual food trip and go out only once it's safe! Privacy Policy. Overview. Gift shop. 0. Language. English. 한국어. 中文. Privacy Terms & Conditions 
+        """,
+        'name': 'cinekidplay',
+        'type': "website",
+        'url': 'https://umamiland.withgoogle.com/en'
+    },
+
     {
         'id': 0,
         'image': 'https://pbs.twimg.com/card_img/1353639823332970497/hMucgNj5?format=jpg',
