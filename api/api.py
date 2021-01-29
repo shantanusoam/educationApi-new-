@@ -167,7 +167,736 @@ motivation = [
 ]
 miscellaneous = [
     {
+        'image': 'https://www.houseofbots.com/images/news/3631/cover.png',
+        'intro': 'Programming tools which you may like',
+        'name': 'programming_tools',
+        'start' : [
+            
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/4tfKlG1Ylr94FeVUQH5Oic/2bfef3e8d5536a47e52e6e5f50c258c8/og-square.png?w=640&h=640&q=50&fm=webp',
+        'intro': "An interactive map of popular screen sizes showing the responsive and adaptive device landscape",
+        'name': 'Screen Size Map',
+        'url': 'https://www.screensizemap.com/',
+    }
+    ,
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/5FX7FgtToDupaRBZuRFW3m/3e822bfe48221fe462ba9205ead4be9b/image.png',
+        'intro': "Automatically remove an image background with no clicks and for free in 5 seconds.",
+        'name': 'Image Background Remover',
+        'url': 'https://www.remove.bg/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/3D1UOB3RrnRLcTtMytmyJa/284a58d52a99d52ded174c17790daeb8/image.png?w=800&h=421&q=50&fm=webp',
+        'intro': "Create and share beautiful images of your source code.",
+        'name': 'Codeimg.io',
+        'url': 'https://codeimg.io/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/2SSyh2voG8mIcUlkpNDDbp/850fa97bd0d109fb16e318edbbfaa7db/image.png',
+        'intro': "Free online tools for bulk image processing (resize, crop, compress and more).",
+        'name': 'Bulk Image Processing',
+        'url': 'https://www.imgbot.ai/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/71B5MfU2Oe5l9BNITmQYYi/ca1fd6bf70dbbf19879648232f4f2497/screenshot.png?w=800&h=450&q=50&fm=webp',
+        'intro': "Develop responsive web apps 5x faster. A must-have DevTool for all Front-End developers that will ma",
+        'name': 'Responsively',
+        'url': 'https://responsively.app/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/5UJgTMBsuDqpV1JVgOryvn/59e8e7289d63ba2cd2c6eb884f18014b/image.png?w=304&h=166&q=50&fm=webp',
+        'intro': "The most complete resource for the best monospace coding fonts.",
+        'name': 'Programming Fonts',
+        'url': 'https://app.programmingfonts.org/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/11n7eqjDE3UFlt5v6OkRBT/dd0beaf8e09dc2a61c651833f3ed553f/image.png?w=800&h=416&q=50&fm=webp',
+        'intro': "A tool to debug and generate meta tag code for any website.",
+        'name': 'Meta Tags',
+        'url': 'https://metatags.io/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/4kVxycBS3keteNdBmEDsC8/abbd160757896407cd696c964719dfda/image.png?w=175&h=175&q=50&fm=webp',
+        'intro': "Lorem Ipsum... but for photos.",
+        'name': 'Lorem Picsum',
+        'url': 'https://picsum.photos/',
+    },
+     {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/5iPXVJ2jpDKGyPyfcHhMJ9/36b7d3f8af92ab6703f94b6152e5c547/image.png?w=676&h=676&q=50&fm=webp',
+        'intro': "Collection of open APIs (movies, weather, food, news, and more) for development",
+        'name': 'Public APIs',
+        'url': 'https://public-apis.xyz/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/5b7A0ciaL5LU4wmb2ZYG0v/bb681d4a2c55c2b3c5aedb3479dda7e7/5aecb012-4bda-467c-9782-1ef157aec0d2?w=800&h=450&q=50&fm=webp',
+        'intro': "Instantly resize and crop your photos & images for all web and social media formats with one click",
+        'name': 'Free Image and Photo Resizer',
+        'url': 'https://promo.com/tools/image-resizer/',
+    },
+    {
+        'id': 0,'type':'website',
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/1YefYhckdPwmjhjvfUhsI7/c3371fb888864ad70bb0af1b40bf54de/image.png',
+        'intro': "Use generative art for your image placeholders.",
+        'name': 'Generative Placeholders',
+        'url': 'https://generative-placeholders.glitch.me/',
+    },
+]
+    },
+    {
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """GPT-3 is a language model developed by OpenAI
 
+Developers have built an impressively diverse range of applications using the GPT-3 API, including an all purpose Excel function, a recipe generator, a layout generator (translates natural language to JSX), a search engine and several others.""",
+        'name': 'open ai',
+        'start' : [
+            {
+        'id': 0,
+        'image': 'https://pbs.twimg.com/card_img/1353639823332970497/hMucgNj5?format=jpg',
+        'intro': """ just launched "Most Recommended Books 2.0" on @ProductHunt ! Discover the books recommended by @elonmusk , @naval , @tferriss , and 400+ others 🙂📚 just launched "Most Recommended Books 2.0" on @ProductHunt ! Discover the books recommended by @elonmusk , @naval , @tferriss , and 400+ others 🙂📚
+        """,
+        'name': 'MRB',
+        'type': "website",
+        'url': 'https://mostrecommendedbooks.com/?ref=producthunt'
+    },
+    {
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """
+A GPT-3 × Figma plugin that takes a URL and a description to mock up a twitter for you.
+        """,
+        'name': 'Jordan Singer',
+        'type': "twitter",
+        'url': ' https://twitter.com/jsngr/status/1287026808429383680A '
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Productivity magic in your inbox.
+Here are 3 podcast episodes that were collaborations with #GPT3 :
+       https://tinkeredthinking.com/index.php?id=836
+
+https://tinkeredthinking.com/index.php?id=837
+
+https://tinkeredthinking.com/index.php?id=839
+
+And an app in development:
+https://tinkeredthinking.com/index.php?id=842"
+        """,
+        'name': ' Tinkered Thinking',
+        'type': "twitter",
+        'url': 'http://tinkeredthinking.com?id=836'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Productivity magic in your inbox.
+When GPT-3 Meets DevOps Winking face ** create,  deploy,  list,  and delete any services on AWS using conversational plain English
+       Bootstrapped with 
+@sh_reya
+'s gpt-3 sandbox  Two hearts
+Working on a end-end pipeline with 
+@snpranav
+"
+        """,
+        'name': 'Suhail CS',
+        'type': "DevOps",
+        'url': ' https://twitter.com/ChinyaSuhail/status/1287110006370836480'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """
+AI INCEPTION! I just used GPT-3 to generate code for a machine learning model,  just by describing the dataset and required output.
+
+This is the start of no-code AI."
+        """,
+        'name': 'Text -> Keras (ML code generation)',
+        'type': "twitter(Matt Shumer)",
+        'url': 'https://twitter.com/mattshumer_/status/1287125015528341506'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """The use-cases are endless. 
+
+I created an entity extraction demo in less than 10 minutes. Usually,  this work requires a significant engineering effort and machine learning expertise. 
+
+I can't wait to see what entrepreneurs will build in the next couple of months."
+        """,
+        'name': 'Entity Extractor (Yigit Ihlamur)',
+        'type': "twitter",
+        'url': 'https://twitter.com/yihlamur/status/1287211194965561344'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Text completion and the combination of style rewriting and text completion. What else should I add to round out the writing tools? GPT-3 #gpt3
+        """,
+        'name': 'Style rewriting & Text completion',
+        'type': "twitter (Carlos E. Perez)",
+        'url': 'https://twitter.com/IntuitMachine/status/1287050253103968257'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """
+I once had a problem and used regex. Then I had two problems
+
+Never again. With the help of our GPT-3 overlords,  I made something to turn English into regex. It's worked decently for most descriptions I've thrown at it. Sign up at http://losslesshq.com to play with a prototype
+        """,
+        'name': 'English -> Regex',
+        'type': "twitter Parthi Loganathan",
+        'url': 'https://twitter.com/parthi_logan/status/1286818567631982593'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """ Creative writing by OpenAI’s GPT-3 model,  demonstrating poetry,  dialogue,  puns,  literary parodies,  and storytelling. Plus advice on effective GPT-3 prompt programming & avoiding common errors.
+        """,
+        'name': 'Creative Fiction',
+        'type': "twitter - Gwern Branwen",
+        'url': 'https://www.gwern.net/GPT-3'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+https://twitter.com/_bhaveshbhatt/status/1286294242579513351, "Do you want to learn how to convert Natural Language to SQL using GPT-3?
+
+This walk-through video should help!
+
+Thanks @sh_reya for the gpt3-sandbox :)
+
+Video Link : https://youtu.be/9g66yO0Jues"
+        """,
+        'name': 'Natural Language -> SQL',
+        'type': "twitter Bhavesh Bhatt",
+        'url': 'https://twitter.com/_bhaveshbhatt/status/1286294242579513351'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """I’ve been thinking about GPT-3’s applications to grounded language understanding — e.g. for robotics and other embodied agents.
+
+In doing so,  I came up with a new demo: 
+
+Objects to Affordances: “what can I do with an object?"
+        """,
+        'name': 'Objects -> Affordances',
+        'type': "twitter Siddharth Karamcheti",
+        'url': 'https://twitter.com/siddkaramcheti/status/1286168606896603136'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Thanks to @gdbI had the occasion to play around with @OpenAI's GPT-3 and I'm amazed! I built a @tailwindcss code generator and the results are quite spectacular.
+
+There's still much work to do,  but it looks promising! You can sign up at http://gpt-tailwind.com for early access."
+        """,
+        'name': 'Tailwind CSS Code Generator',
+        'type': "twitter Zoli Szőgyényi",
+        'url': 'https://twitter.com/zolidev/status/1286349416530620416'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Reading code is hard! Don't you wish you could just ask the code what it does? To describe its functions,  its types.
+
+And maybe... how can it be improved?"
+        """,
+        'name': 'Code Oracle',
+        'type': "twitter Amjad Masad",
+        'url': 'https://twitter.com/amasad/status/1285789362647478272'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """After struggling to prime GPT-3 and spending hours coding a basic demo,  @sh_reya and I wrote https://github.com/shreyashankar/gpt3-sandbox,  a tool that takes care of all the web dev details and provides a convenient priming interface. Here I create a recipe generator with just ~30 lines of python.
+        """,
+        'name': 'Recipe Generator',
+        'type': "Shreya Shankar & Bora Uyumazturk",
+        'url': 'https://twitter.com/notsleepingturk/status/1286112191083696128'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Built a GPT-3 bot that lets people with no accounting knowledge generate financial statements
+
+Here it is creating balance sheets by turning everyday language into Python code:"
+        """,
+        'name': 'Financial Statement Generator',
+        'type': "twitter George Saad & Yash Dani",
+        'url': 'https://twitter.com/itsyashdani/status/1285695850300219392'
+    },{
+        'id': 0,
+        'image': 'https://twitter.com/itsyashdani/status/1285695850300219392',
+        'intro': """Built a GPT-3 bot that lets people with no accounting knowledge generate financial statements
+
+Here it is creating balance sheets by turning everyday language into Python code:"
+        """,
+        'name': 'Financial Statement Generator',
+        'type': "twitter Melanie Mitchell George Saad & Yash Dani",
+        'url': 'https://twitter.com/MelMitchell1/status/1291170016130412544'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """The spreadsheet function to rule them all.
+        """,
+        'name': 'GPT3()',
+        'type': "twitter Paul Katsen",
+        'url': 'https://twitter.com/pavtalk/status/1285410751092416513'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """GPT-3 Does The WorkTrade mark sign on generating SVG charts,  with a quick web app I built with @billyjeanbillyj. With a short sentence describing what you want to plot,  its able to generate charts with titles,  labels and legends from about a dozen primed examples.
+        """,
+        'name': 'SVG Chart Generator',
+        'type': " Ken Acquah & Kenneth Li",
+        'url': 'https://twitter.com/aquariusacquah/status/1285415144017797126'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """I made a fully functioning search engine on top of GPT3. 
+
+For any arbitrary query,  it returns the exact answer AND the corresponding URL.
+        """,
+        'name': 'Search Engine',
+        'type': "twitter Paras Chopra",
+        'url': 'https://twitter.com/paraschopra/status/1284801028676653060'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Turns out #GPT3 can do vision too Winking face
+
+Built an ingredient parser: take a pic of any nutrition label (google to extract text),  and GPT-3 will identify ingredients,  find an emoji,  determine if it's unhealthy,  and give a definition Exploding head
+        """,
+        'name': 'Ingredient Parser',
+        'type': "twitter Lawder Paul",
+        'url': 'https://twitter.com/lawderpaul/status/1284972517749338112'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Using GPT-3,  I built a resume generator. 
+
+Give it a sentence about where you worked,  what you worked with - and you'll have a resume.
+        """,
+        'name': 'Resume Generator',
+        'type': "twitter Don (@DonCubed)",
+        'url': 'https://twitter.com/DonCubed/status/1284908940149395456'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """After many hours of retraining my brain to operate in this ""priming"" approach,  I also now have a sick GPT-3 demo: English to LaTeX equations! I'm simultaneously impressed by its coherence and amused by its brittleness -- watch me test the fundamental theorem of calculus.
+        """,
+        'name': 'Text -> Latex',
+        'type': "twitter Shreya Shankar",
+        'url': 'https://twitter.com/sh_reya/status/1284746918959239168'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """With GPT-3,  I built a Figma plugin to design for you.
+
+I call it ""Designer
+        """,
+        'name': 'Figma Designer',
+        'type': "twitter Jordan Singer",
+        'url': 'https://twitter.com/jsngr/status/1284511080715362304'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """With @OpenAI's GPT-3 model (thanks to @gdb),  I built an app that generates its own tweet given any word.
+        """,
+        'name': 'Tweet Generator',
+        'type': "twitter Sushant Kumar",
+        'url': 'https://twitter.com/sushant_kumar/status/1283314235842297856'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """I built a layout generator where you just describe any layout you want,  and it generates the JSX code for you.
+        """,
+        'name': 'Layout Generator',
+        'type': "twitter Shareef Shamim",
+        'url': 'https://twitter.com/sharifshameem/status/1282676454690451457'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """I got GPT-3 to start writing my SQL queries for me
+        p.s. these work against my *actual* database!"
+        """,
+        'name': 'Text -> SQL',
+        'type': "twitter Faraaz Nishtar",
+        'url': 'https://twitter.com/FaraazNishtar/status/1285934622891667457'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """I love short,  analytical essays.
+        So I asked GPT-3 to write some. 
+
+Trained on recent short form content from 
+@nbashaw
+ and 
+@ericstromberg
+ 
+
+Not as good as Nathan and Eric,  but I’m still impressed. "
+        """,
+        'name': 'Short Analytical Essays',
+        'type': "twitter Anthony Emberley",
+        'url': 'https://twitter.com/Anthonyemberley/status/1287560874249474048'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Just taught GPT-3 how to turn legalese into simple plain English. All I gave it were 2 examples. Might build a term sheet and investment document interpreter out of this 
+        """,
+        'name': 'Legal documents -> Simple English',
+        'type': "twitter Michael Tefula",
+        'url': 'https://twitter.com/michaeltefula/status/1285505897108832257'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """I built a UI creator in Figma using @OpenAI's GPT3.
+       Define your UI component in simple English,  and GPT3 + @figmadesign will create full blown mockup for you. With accurate text,  images and logos."
+        """,
+        'name': 'UI Creator in Figma',
+        'type': "twitter Dhvanil Patel",
+        'url': 'https://twitter.com/dhvanilp/status/1286452207513038848'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """We’ve explored @OpenAI’s new #GPT3 API,  and we are super impressed with its capabilities!
+        For example,  you can write a simple description,  and GPT-3 can automatically generate a bar chartBar chart for you!"
+        """,
+        'name': 'Plotly Charts',
+        'type': "Plotly",
+        'url': 'https://twitter.com/plotlygraphs/status/1286079929982095360'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """This is mind blowing Exploding head
+
+With @OpenAI #GPT3 I updated my 
+@figmadesign
+ plugin https://figma.com/community/plugin/823077195186711433/Flipbook
+  I call it ""Flipbook Animator"",  it can convert english text to frame by frame animation and you can export to gif. cc " 
+        """,
+        'name': 'Figma Plugin',
+        'type': "twitter Sonny Lazuardi",
+        'url': 'https://twitter.com/sonnylazuardi/status/1287563878545514496'
+    },
+    {
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """ired: Making your own memes
+Wired: Asking @OpenAI's #gpt3 to make memes.
+
+Amazed to see how much of cultural subtext and nuance language models can pick up on."
+ Text Just tell the flow of your IVR in natural language and get a phone number with the IVR flow designed. Prepare to have your MIND BLOWN :)       
+        """,
+        'name': 'Meme Generator',
+        'type': "twitter Mrinal Mohit",
+        'url': 'https://twitter.com/wowitsmrinal/status/1287175391040290816'
+    },
+    {
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """I managed to develop a GPT-3 demo that produces generative code snippets of the #threejs JavaScript API by textually descr -> IVR (Interactive voice response), @nutanc, 7/27/2020, https://twitter.com/nutanc/status/1287801677542612992, One of the first innovation we are doing is to rethink the age old process of IVR design. Make the boring IVR development exciting.ibing the elements and their parameters needed to create a #webgl 3D scene.
+        """,
+        'name': 'Text -> JavaScript (threejs)',
+        'type': "twitter Antonio Gomez",
+        'url': 'https://twitter.com/Antonio_GomezM/status/1287969287110443008'
+    },
+    {
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Product Managers,  Business Analysts...
+        @ixigo are now writing complex SQL queries which work against our actual databases in plain English thanks to GPT-3 !! "
+        """,
+        'name': 'Text -> SQL',
+        'type': "twitter Rajnish Kumar",
+        'url': 'https://twitter.com/rajnishkumar/status/1288502875455475712'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Letting GPT-3 do my presentations from now on. Just copy a bunch of text and let GPT-3 generate the presentation. Using Google slides scripting. I am not good at presentation skills. This is for proof of concept. So be gentle :).
+        """,
+        'name': 'Text -> PowerPoint Presentations,',
+        'type': "twitter @nutanc",
+        'url': 'https://twitter.com/nutanc/status/1288517555754110977'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Of everything I’ve gotten GPT-3 to do comedy has been the easiest and the most fun. It has a superhuman capacity for generating absurdity,  and often carries a joke to the upteenth degree,  as it did in my Jerry Seinfeld and Eddie Murphy Talk Shit About San Francisco skit where Jerry compares SF to shit sixty eight times. Exaggeration and repetition are well known comedic devices,  and The Rule of Funny says “Any violation of continuity,  logic,  physics,  or common sense is permissible if the result gets enough of a laugh” which turns out to be perfect for AI generated humor.
+        """,
+        'name': 'Comedy',
+        'type': "twitter Arram Sabeti",
+        'url': 'https://arr.am/2020/07/22/why-gpt-3-is-good-for-comedy-or-reddit-eats-larry-page-alive/'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Experimenting with 
+@OpenAI #GPT3 and got it to extract financial metrics by simply copying and pasting the Income Statement from quarterly press release,  and requesting a metric which doesn't even need to be an exact match "
+        """,
+        'name': 'Financial Metric Extraction',
+        'type': "twitter Moe Salih",
+        'url': 'https://twitter.com/moesalih_/status/1288554452488790019'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """How do you make writing ad copy fun? 
+        """,
+        'name': 'Google Ads',
+        'type': "twitter Chris Frantz",
+        'url': 'https://twitter.com/frantzfries/status/1288589540865843200'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """A few months ago I jokingly said to a friend “we should create an AI that can write fiction for 
+@ShortlyRead”
+
+I knew the tech was coming but I didn’t expect it to be this good. 
+@OpenAI
+ 
+@gdb
+"
+        """,
+        'name': 'Creative Writing Assistant',
+        'type': "twitter Qasim Munye",
+        'url': 'https://twitter.com/QasimMunye/status/1288912561178640385'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """I asked GPT-3 to write a response to the philosophical essays written  about it by 
+@DrZimmermann,  @rinireg,  @ShannonVallor,  @add_hawk, @AmandaAskell,  @dioscuri,  David Chalmers,  Carlos Montemayor,  and Justin Khoo published yesterday by @DailyNousEditor. It's quite remarkable!"
+        """,
+        'name': 'Philosophy',
+        'type': "twitter aphaël Millière",
+        'url': 'https://bilimyurt.com/'
+    }
+    ,
+    {
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Immortality & Science forum
+        """,
+        'name': 'bilimyurt',
+        'type': "website",
+        'url': 'https://bilimyurt.com/'
+    },
+            {
+        'id': 0,
+        'image': 'https://pbs.twimg.com/card_img/1351393010085347328/WUrRVxYW?format=jpg',
+        'intro': """.@OpenAI’s GPT-3 is a bit like autocomplete—a shockingly good autocomplete. Here’s what happened when this tool joined a brainstorm alongside (human) designer 
+        """,
+        'name': 'IDEO',
+        'type': "website",
+        'url': 'https://t.co/QnRpznKHdk'
+    },{
+        'id': 0,
+        'image': 'https://twitter.com/_bramses/status/1319867941115092993',
+        'intro': """IOne of the most annoying parts about setting up a todo list is not being able to estimate how long or how hard a task may be. Will it take up an hour? Or the whole day?
+
+In this video, I'm using Semantic Search in the @OpenAI API to have GPT tell me how hard a task is!
+        """,
+        'name': 'todo',
+        'type': "twitter",
+        'url': 'https://twitter.com/_bramses/status/1319867941115092993?s=20'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """This is a pretty cool tool — an OpenAI-powered Jupyter notebook replacement which uses natural language rather than Python to specify queries: 
+        """,
+        'name': 'bilimyurt',
+        'type': "website",
+        'url': 'https://bilimyurt.com/'
+    },{
+        'id': 0,
+        'image': 'https://pbs.twimg.com/card_img/1353639823332970497/hMucgNj5?format=jpg',
+        'intro': """ just launched "Most Recommended Books 2.0" on @ProductHunt ! Discover the books recommended by @elonmusk , @naval , @tferriss , and 400+ others 🙂📚 just launched "Most Recommended Books 2.0" on @ProductHunt ! Discover the books recommended by @elonmusk , @naval , @tferriss , and 400+ others 🙂📚
+        """,
+        'name': 'MRB',
+        'type': "website",
+        'url': 'https://mostrecommendedbooks.com/?ref=producthunt'
+    },{
+        'id': 0,
+        'image': 'https://pbs.twimg.com/media/Ehc-LRsXYAEObi-?format=jpg ',
+        'intro': """Posted my first paper on arXiv💥🙌
+
+GPT-f is a Transformer-based automated theorem prover. We show that Transformer + Search is suitable to formal reasoning and continuous self-improvement 🦾
+        """,
+        'name': 'bilimyurt',
+        'type': "website",
+        'url': 'https://bilimyurt.com/'
+    },{
+        'id': 0,
+        'image': 'https://pbs.twimg.com/card_img/1353774957067550728/2rvreKyu?format=jpg',
+        'intro': """Fully interactive synthetic personas with GPT-3 and http://Generated.Photos 🎇
+
+They know who they are, where they worked, who their boss is, and so much more.  This is not your father's bot...
+        """,
+        'name': 'honest-ai',
+        'type': "website",
+        'url': 'https://honest-ai.com/'
+    },{
+        'id': 0,
+        'image': 'https://pbs.twimg.com/media/EgQ-RxkWoAERoCP?format=jpg',
+        'intro': """Generate Detailed Emails from One Line Descriptions (on your mobile)
+
+I used GPT-3 to build a mobile and web Gmail add-on that expands given brief descriptions into formatted and grammatically-correct professional emails.
+
+Thanks to @OpenAI @gdb for providing me access.
+        """,
+        'name': 'One Line Descriptions',
+        'type': "twitter",
+        'url': 'https://pbs.twimg.com/ext_tw_video_thumb/1297957206797688832/pu/img/51lL_6TcVr7gVegn?format=jpg'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Writing a job description and need creative ideas? You can now use this OpenAI-powered tool, which suggests rewrites and additions: https://www.dover.io/tools/job-desc
+        Paste in a short job description and we'll generate a longer variant to help you get your creative juices flowing. If you don't like the output, hit Generate again to get a different idea! Experiment, take notes, and have fun!
+        """,
+        'name': 'Job Description Rewriter',
+        'type': "website",
+        'url': 'https://www.dover.io/tools/job-description-rewriter'
+    },{
+        'id': 0,
+        'image': 'https://pbs.twimg.com/media/Ef6ivkJUcAA0fy3?format=jpg',
+        'intro': """Creating a GPT-3 texting companion (using http://sendblue.co ) has been one of the most interesting experiences I’ve ever had. In the past week of using this thing I’ve had more ideas and conversations with this thing than I’ve had with real people. Truly incredible.
+        """,
+        'name': 'bilimyurt',
+        'type': "website",
+        'url': 'https://sendblue.co/'
+    },{
+        'id': 0,
+        'image': 'https://images.squarespace-cdn.com/content/v1/5e0997640f68875f9a06868a/1582595797392-ROX2Y3M8J1IIE9Z1AZIQ/ke17ZwdGBToddI8pDm48kNfMjBCwXSKF-vpuLJPYbFl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ql6vXyf1c5GMI2V4OEE0xph2rkY4ocV95D9qTgQoy1Dc2a4nkFIzM16w_OiPuarQw/Screen+Shot+2020-02-24+at+5.52.39+PM.png',
+        'intro': """Create meaningful dialogue flows using @Storymapr with @OpenAI #GPT3 API integration; In limited beta, sign up with @Storymapr at https://bit.ly/30OSKO9  or shoot us DM if you want access. #storymapr #ai #openai #gamedesign #NLP
+        """,
+        'name': 'storymapr',
+        'type': "website",
+        'url': 'https://www.storymapr.com/'
+    },{
+        'id': 0,
+        'image': 'https://pbs.twimg.com/media/EfyjQBUVAAMnIy_?format=jpg',
+        'intro': """Team just told me that GPT-3 wrote the product copy for our two down-alternative products 👾
+
+I only found out when the person who manages our site returned from vacation today and casually mentioned during evening standup. Wow. H/t @chris__lu. https://twitter.com/jjeremycai/status/1296098155994349568
+        """,
+        'name': 'slumber-down-alternative-comforter',
+        'type': "website",
+        'url': 'https://italic.com/products/slumber-down-alternative-comforter'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Introducing Magnum- AI Driven Math Animations without coding!
+
+Magnum is an Open Source toolkit to generate Step-by-step animated solutions (with graphs) to ANY Math Query.
+
+You can also animate custom content for your classroom.
+
+Check out http://magnum.shreenabh.com  to get started!
+        """,
+        'name': 'magnum.shreenabh',
+        'type': "website",
+        'url': 'https://magnum.shreenabh.com/'
+    },{
+        'id': 0,
+        'image': 'https://pbs.twimg.com/ext_tw_video_thumb/1294631794579398656/pu/img/J_aPiihzrVpVQlD2?format=jpg',
+        'intro': """Introducing Revtheo Browser Extension! Check it out in comparison with Apple's "word lookup feature".
+
+Revtheo, a context based dictionary, wouldn't have been possible without #GPT3 @gdb 
+
+For early access drop me a message with your email id.
+        """,
+        'name': 'bilimyurt',
+        'type': "twitter",
+        'url': 'https://twitter.com/tusharkhattar_/status/1294631853224206339?s=20'
+    },
+    {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/618/1*drev2yd3c7gR4GVZFWiC8A.png',
+        'intro': """New: My adventures using GPT-3 to make Copycat analogies.   I did some systematic experiments with no cherry picking.  I hope you enjoy this!
+
+"Can GPT-3 Make Analogies?" 
+        """,
+        'name': 'bilimyurt',
+        'type': "twitter",
+        'url': 'https://twitter.com/jsngr/status/1294635175222157313?s=20'
+    },
+
+    {
+        'id': 0,
+        'image': 'https://pbs.twimg.com/ext_tw_video_thumb/1284799918364749824/pu/img/GLdWG3ZeclzRAO7C?format=jpg',
+        'intro': """I made a fully functioning search engine on top of GPT3. 
+
+For any arbitrary query, it returns the exact answer AND the corresponding URL.
+
+Look at the entire video. It's MIND BLOWINGLY good. 
+
+cc: @gdb @npew @gwern
+        """,
+        'name': 'ask me anything',
+        'type': "twitter",
+        'url': 'https://twitter.com/paraschopra/status/1284801028676653060?s=20'
+    },
+    {
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """This is mind blowing.
+
+With GPT-3, I built a layout generator where you just describe any layout you want, and it generates the JSX code for you.
+
+W H A T
+        """,
+        'name': 'bilimyurt',
+        'type': "twitter",
+        'url': 'https://twitter.com/sharifshameem/status/1282676454690451457'
+    },
+    {
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """This changes everything. 🤯
+
+With GPT-3, I built a Figma plugin to design for you.
+
+I call it "Designer"
+        """,
+        'name': 'figma pluginn',
+        'type': "twitter",
+        'url': 'https://twitter.com/jsngr/status/1284511080715362304?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Ecollection%3A1286781399081639942%7Ctwcon%5Etimelinechrome&ref_url=https%3A%2F%2Fgpt3examples.com%2F%23examples'
+    },
+    {
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Reading code is hard! Don't you wish you could just ask the code what it does? To describe its functions, its types.
+
+And maybe... how can it be improved?
+
+Introducing: @Replit code oracle 🧙‍♀️
+
+It's crazy, just got access to @OpenAI API and I already have a working product!
+        """,
+        'name': 'bilimyurt',
+        'type': "twitter",
+        'url': 'https://twitter.com/amasad/status/1285789362647478272?s=20'
+    },
+            
+    
+]
+    },
+    {
+        
+            'image': 'https://www.houseofbots.com/images/news/3631/cover.png',
+        'intro': 'Programming tools which you may like',
+        'name': 'programming_tools',
+        'start' : [
+            {
+        'id': 0,
+        'image': 'https://images-na.ssl-images-amazon.com/images/I/81XSN3hA5gL.jpg',
+        'intro': """The Hitchhiker's Guide to the Galaxy is a comedy science fiction series created by Douglas Adams. Originally a 1978 radio comedy broadcast on BBC Radio 4, it was later adapted to other formats, including stage shows, novels, comic books, a 1981 TV series, a 1984 video game, and 2005 feature filmr"
+        """,
+        'name': "Hitchhiker's Guide to the Galaxy",
+        'type': "amazon",
+        'url': 'https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0345391802'
+            },  
+            ]
+        
     }
 ]
 
@@ -705,6 +1434,24 @@ Must_programmer_main = [
     'image': 'https://benjweinberg.files.wordpress.com/2017/08/what-is-an-definite-and-indefinite-articles-hd.png',
     'name': 'Interwiew',
     'start': [
+             {
+        'id': 0,
+        'image': 'https://static.hasjob.co/static/img/hasjob-logo-200x200.png',
+        'intro': """ Hasjob is India's premier job board for tech startups. Find the job that's best suited for you and apply directly. Hasjob is free for employers because we are a
+        """,
+        'name': 'hasjob',
+        'type': "website",
+        'url': 'https://hasjob.co/'
+    },
+    {
+        'id': 0,
+        'image': 'https://techcrunch.com/wp-content/uploads/2014/03/angellist.png',
+        'intro': """ Apply privately to 130000+ remote jobs and startup jobs near you with one application. See salary and equity upfront.
+        """,
+        'name': 'angel.co',
+        'type': "website",
+        'url': 'https://www.gwern.net/GPT-3'
+    },
         
         {
         'id': 0,
@@ -1024,7 +1771,685 @@ everyydaytools = [
 awesome_websites = [
     {
         'id': 0,
-        'image': 'https://miro.medium.com/max/3360/1*b2JyKvpc8ybY2zFhsLzRdw.jpeg',
+        'image': 'https://i.insider.com/5e0f8579855cc20c9d24d0f8?width=750&format=jpeg',
+        'intro': """MSCHF Box is a mystery box you can open (or not). There are two possible paths to reaping its value.
+        """,
+        'name': 'MSCHF',
+        'type': "online",
+        'url': 'https://mschf.xyz/'
+    },
+    {
+        'id': 0,
+        'image': 'https://raw.githubusercontent.com/saurabhdaware/text-to-handwriting/master/sample.jpeg',
+        'intro': """change your comuter text into hand writing
+        """,
+        'name': 'copypasta',
+        'type': "online",
+        'url': 'https://imlolman.github.io/Copy-Pasta/?fbclid=IwAR072cvRKgSLXESWXBNEoVGJU3jWfM668b1DeX-HpS8ISSPvUqv0BafRqTk'
+    },
+    {
+        'id': 0,
+        'image': 'https://mir-s3-cdn-cf.behance.net/user/276/176118123513.5bb4760a2e540.jpg',
+        'intro': """I'm a designer and illustrator from Madrid. Agencies: Saatchi& Saatchi Berlin ,Young & Rubicam, TBWA, BBDO, El laboratorio, Leo Burnet, Sra.
+        """,
+        'name': 'oscarllorens',
+        'type': "online",
+        'url': 'https://oscarllorens.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5e36e86f7aa7cf2aeda7bed4/5e397536245b9265907459c6_20.jpghttps://static.independent.co.uk/s3fs-public/thumbnails/image/2020/04/02/14/homeschooling-books-indybest.jpg',
+        'intro': """Best Homeschool Resources. 70 likes. Helping homeschooling families find great educational books, videos, curricula, projects, and more.
+        """,
+        'name': 'besthomeschoolresources',
+        'type': "online",
+        'url': 'https://www.besthomeschoolresources.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5e36e86f7aa7cf2aeda7bed4/5e397536245b9265907459c6_20.jpg',
+        'intro': """TestMyBrain aims to engage and collaborate with citizen scientists like you, by providing tools to help you learn about yourself. When you test yourself, you contribute to brain research.
+
+Click Go! next to any of the studies below to get started.
+        """,
+        'name': 'sketchfab',
+        'type': "online",
+        'url': 'https://sketchfab.com/3d-models'
+    },
+    {
+        'id': 0,
+        'image': 'https://developer.chrome.com/devsummit/adventure/assets/share/share-img.png',
+        'intro': """TestMyBrain aims to engage and collaborate with citizen scientists like you, by providing tools to help you learn about yourself. When you test yourself, you contribute to brain research.
+
+Click Go! next to any of the studies below to get started.
+        """,
+        'name': 'devsummit',
+        'type': "online",
+        'url': 'https://developer.chrome.com/devsummit/adventure/#cG9zaXRpb24veC8yMDkveS82MA=='
+    },
+    {
+        'id': 0,
+        'image': 'https://www.testmybrain.org/images/site_screenshot.png',
+        'intro': """TestMyBrain aims to engage and collaborate with citizen scientists like you, by providing tools to help you learn about yourself. When you test yourself, you contribute to brain research.
+
+Click Go! next to any of the studies below to get started.
+        """,
+        'name': 'testmybrain',
+        'type': "online",
+        'url': 'https://www.testmybrain.org/'
+    },
+    {
+        'id': 0,
+        'image': 'https://dnp-website-images.s3-us-west-2.amazonaws.com/dnp_social.png',
+        'intro': """The DoNotPay app is the home of the world's first robot lawyer. Fight corporations, beat bureaucracy and sue anyone at the press of a button.
+        """,
+        'name': 'donotpay',
+        'type': "online",
+        'url': 'https://donotpay.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cdn.mos.cms.futurecdn.net/RJXgoQuvfqiPEnEDEGAjYF.jpg',
+        'intro': """Welcome to Pixlr the Online Photo Editor that lets you edit photos and create great designs right in your browser for Free. Experience next level, intuitive photo editing and graphical design with AI-powered tools for quick yet professional edits. Our editor opens almost any image format such as PSD (Photoshop), PXD, JPEG, PNG (transparent), WebP, SVG and more. Start from an empty canvas or select one of our professionally crafted templates.
+        """,
+        'name': 'pixlr',
+        'type': "online",
+        'url': 'https://pixlr.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cruip.com/wp-content/uploads/2019/06/splash.png',
+        'intro': """Beautifully designed HTML, React, Vue.js, and Tailwind templates! Save weeks of time and build your startup landing page in minutes.
+        """,
+        'name': 'cruip',
+        'type': "online",
+        'url': 'https://cruip.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://ipiccy.com/res/template/img/hp_v2/pics/ba-01s5.jpg',
+        'intro': """Everything you need to make your photo awesome online
+        """,
+        'name': 'ipiccy',
+        'type': "software online",
+        'url': 'https://ipiccy.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/8096/1*od-00NAlpkiNUI5YICHUYA.jpeg',
+        'intro': """openpilot is an open source driver assistance system. Currently, openpilot performs the functions of Adaptive Cruise Control (ACC), Automated Lane Centering (ALC), Forward Collision Warning (FCW) and Lane Departure Warning (LDW) for a growing variety of supported car makes, models and model years. In addition, while openpilot is engaged, a camera based Driver Monitoring (DM) feature alerts distracted and asleep drivers.
+        """,
+        'name': 'openpilot',
+        'type': "github repo",
+        'url': 'https://github.com/commaai/openpilot'
+    },
+    {
+        'id': 0,
+        'image': 'https://electrek.co/wp-content/uploads/sites/3/2015/12/geohot-driverless-car-e1450278538151.png',
+        'intro': """ Works with the push of a button.
+openpilot is simple to use. It enables your car to steer, accelerate, and brake automatically within its lane. Drive to a highway, press the cruise control SET button, and openpilot will engage. To disengage, use either pedal.
+        """,
+        'name': 'comma.ai   ',
+        'type': "website",
+        'url': 'https://comma.ai/'
+    },
+    {
+        'id': 0,
+        'image': 'https://businessnamegenerator.com/wp-content/uploads/2018/06/Brand-Name-Generator.png',
+        'intro': """ Generate Thousands of Name Ideas For Your Business or Company. Instantly Check Domain Availability with our Business Name Generator.
+        """,
+        'name': 'businessnamegenerator',
+        'type': "website",
+        'url': 'https://businessnamegenerator.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cdn.vox-cdn.com/thumbor/14thO4Zp4oeFRxOGntbvvV5f7lY=/0x94:1905x1047/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21806823/Dinoswords_ProductHunt_GalleryImage1_v2.png',
+        'intro': """100 Thieves x MSCHF presents:
+        """,
+        'name': 'MSCHF',
+        'type': "online",
+        'url': 'https://dinoswords.gg/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cas-img.sgp1.digitaloceanspaces.com/wp-content/uploads/2020/11/19062105/ppc-ad-copy-ai.jpg',
+        'intro': """ Copywriting
+simplified.
+Introducing the end of writer’s block.
+With CopyAI’s automated creativity tools,
+you can generate marketing copy in seconds.
+        """,
+        'name': 'copy.ai',
+        'type': "website",
+        'url': 'https://www.copy.ai/'
+    },
+    {
+        'id': 0,
+        'image': 'https://i.ytimg.com/vi/588eqmSS9Ps/maxresdefault.jpg',
+        'intro': """ The AI companion who cares
+Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!
+        """,
+        'name': 'replika.ai',
+        'type': "website",
+        'url': 'https://replika.ai/'
+    },
+    
+     {
+        'id': 0,
+        'image': 'https://static.hasjob.co/static/img/hasjob-logo-200x200.png',
+        'intro': """ Hasjob is India's premier job board for tech startups. Find the job that's best suited for you and apply directly. Hasjob is free for employers because we are a
+        """,
+        'name': 'hasjob',
+        'type': "website",
+        'url': 'https://hasjob.co/'
+    },
+     {
+        'id': 0,
+        'image': 'https://netflixhangouts.com/assets/img/laptop-scratched.pnghttps://netflixhangouts.com/assets/img/laptop-scratched.png',
+        'intro': """ Watch Netflix at work by making it look like you’re on a conference call
+        """,
+        'name': 'hasjob',
+        'type': "googelextention",
+        'url': 'https://netflixhangouts.com/?_ga=2.6032116.616577050.1611916042-1182789525.1611916042'
+    },
+    {
+        'id': 0,
+        'image': 'https://techcrunch.com/wp-content/uploads/2014/03/angellist.png',
+        'intro': """ Apply privately to 130000+ remote jobs and startup jobs near you with one application. See salary and equity upfront.
+        """,
+        'name': 'angel.co',
+        'type': "website",
+        'url': 'https://www.gwern.net/GPT-3'
+    },
+     {
+        'id': 0,
+        'image': 'https://pic.accessify.com/thumbnails/777x423/w/whenwasiconceived.com.png',
+        'intro': """ When was I conceived? A simple and instant way to find out when you were conceived. conceived around 6 May, 2020. When did I conceive? If you're a parent
+        """,
+        'name': 'whenwasiconceived',
+        'type': "website",
+        'url': 'https://www.whenwasiconceived.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/image-1-6-796x417.png',
+        'intro': """ Developing ultra high bandwidth brain-machine interfaces to connect humans and computers.
+        """,
+        'name': 'neuralink',
+        'type': "website",
+        'url': 'https://neuralink.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://hipertextual.com/files/2021/01/5G-3-740x416.png',
+        'intro': """ Play through all the major events of 2020: the Australia wildfires, COVID-19, quarantine, the rise of TikTok, the USA elections, etc.
+        """,
+        'name': '2020game',
+        'type': "website",
+        'url': 'https://2020game.io/'
+    },
+    {
+        'id': 0,
+        'image': 'https://jalammar.github.io/images/gpt3/gpt3-parameters-weights.png',
+        'intro': """ The tech world is abuzz with GPT3 hype. Massive language models (like GPT3) are starting to surprise us with their abilities. While not yet completely reliable for most businesses to put in front of their customers, these models are showing sparks of cleverness that are sure to accelerate the march of automation and the possibilities of intelligent computer systems. Let’s remove the aura of mystery around GPT3 and learn how it’s trained and how it works
+        """,
+        'name': 'jalammar',
+        'type': "website",
+        'url': 'https://jalammar.github.io/how-gpt3-works-visualizations-animations/'
+    },
+    {
+        'id': 0,
+        'image': 'https://www.dpreview.com/files/p/articles/9173310557/openai-dall-e-avocado-chair-screenshot.jpeg',
+        'intro': """ We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language.
+        """,
+        'name': 'openai',
+        'type': "website",
+        'url': 'https://openai.com/blog/dall-e/'
+    },
+    {
+        'id': 0,
+        'image': 'https://liveinnovation.org/wp-content/uploads/2017/10/1_DAIiB63JaI1br9XYPAQ-rA.png',
+        'intro': """AIVA, the Artificial Intelligence music composer that creates original & personalized music for your projects.
+        """,
+        'name': 'creators aiva',
+        'type': "website",
+        'url': 'https://creators.aiva.ai/'
+    },
+     {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/dv1vylzohjd7/28GGzo1ybZigjRt1c3QHd7/a8e2287a5d6488c94f04053839b6ac6e/hud.png',
+        'intro': """AIVA, the Artificial Intelligence music composer that creates original & personalized music for your projects.
+        """,
+        'name': 'cinekidplay',
+        'type': "website",
+        'url': 'https://cinekidplay.nl/ontdekken'
+    },
+    {
+        'id': 0,
+        'image': 'https://umamiland.withgoogle.com/version/1608117349803/static/giftshop/wallpaper/main-rice-street.jpg',
+        'intro': """Enjoy your virtual food trip and go out only once it's safe! Privacy Policy. Overview. Gift shop. 0. Language. English. 한국어. 中文. Privacy Terms & Conditions 
+        """,
+        'name': 'cinekidplay',
+        'type': "website",
+        'url': 'https://umamiland.withgoogle.com/en'
+    },
+
+    {
+        'id': 0,
+        'image': 'https://pbs.twimg.com/card_img/1353639823332970497/hMucgNj5?format=jpg',
+        'intro': """ just launched "Most Recommended Books 2.0" on @ProductHunt ! Discover the books recommended by @elonmusk , @naval , @tferriss , and 400+ others 🙂📚 just launched "Most Recommended Books 2.0" on @ProductHunt ! Discover the books recommended by @elonmusk , @naval , @tferriss , and 400+ others 🙂📚
+        """,
+        'name': 'MRB',
+        'type': "website",
+        'url': 'https://mostrecommendedbooks.com/?ref=producthunt'
+    },
+    {
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """
+A GPT-3 × Figma plugin that takes a URL and a description to mock up a twitter for you.
+        """,
+        'name': 'Jordan Singer',
+        'type': "twitter",
+        'url': ' https://twitter.com/jsngr/status/1287026808429383680A '
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Productivity magic in your inbox.
+Here are 3 podcast episodes that were collaborations with #GPT3 :
+       https://tinkeredthinking.com/index.php?id=836
+
+https://tinkeredthinking.com/index.php?id=837
+
+https://tinkeredthinking.com/index.php?id=839
+
+And an app in development:
+https://tinkeredthinking.com/index.php?id=842"
+        """,
+        'name': ' Tinkered Thinking',
+        'type': "twitter",
+        'url': 'http://tinkeredthinking.com?id=836'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Productivity magic in your inbox.
+When GPT-3 Meets DevOps Winking face ** create,  deploy,  list,  and delete any services on AWS using conversational plain English
+       Bootstrapped with 
+@sh_reya
+'s gpt-3 sandbox  Two hearts
+Working on a end-end pipeline with 
+@snpranav
+"
+        """,
+        'name': 'Suhail CS',
+        'type': "DevOps",
+        'url': ' https://twitter.com/ChinyaSuhail/status/1287110006370836480'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """
+AI INCEPTION! I just used GPT-3 to generate code for a machine learning model,  just by describing the dataset and required output.
+
+This is the start of no-code AI."
+        """,
+        'name': 'Text -> Keras (ML code generation)',
+        'type': "twitter(Matt Shumer)",
+        'url': 'https://twitter.com/mattshumer_/status/1287125015528341506'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """The use-cases are endless. 
+
+I created an entity extraction demo in less than 10 minutes. Usually,  this work requires a significant engineering effort and machine learning expertise. 
+
+I can't wait to see what entrepreneurs will build in the next couple of months."
+        """,
+        'name': 'Entity Extractor (Yigit Ihlamur)',
+        'type': "twitter",
+        'url': 'https://twitter.com/yihlamur/status/1287211194965561344'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Text completion and the combination of style rewriting and text completion. What else should I add to round out the writing tools? GPT-3 #gpt3
+        """,
+        'name': 'Style rewriting & Text completion',
+        'type': "twitter (Carlos E. Perez)",
+        'url': 'https://twitter.com/IntuitMachine/status/1287050253103968257'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """
+I once had a problem and used regex. Then I had two problems
+
+Never again. With the help of our GPT-3 overlords,  I made something to turn English into regex. It's worked decently for most descriptions I've thrown at it. Sign up at http://losslesshq.com to play with a prototype
+        """,
+        'name': 'English -> Regex',
+        'type': "twitter Parthi Loganathan",
+        'url': 'https://twitter.com/parthi_logan/status/1286818567631982593'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """ Creative writing by OpenAI’s GPT-3 model,  demonstrating poetry,  dialogue,  puns,  literary parodies,  and storytelling. Plus advice on effective GPT-3 prompt programming & avoiding common errors.
+        """,
+        'name': 'Creative Fiction',
+        'type': "twitter - Gwern Branwen",
+        'url': 'https://www.gwern.net/GPT-3'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Productivity magic in your inbox.
+OthersideAI takes in a simple summary of what you want to say and generates a perfect email in your unique style.
+https://twitter.com/_bhaveshbhatt/status/1286294242579513351, "Do you want to learn how to convert Natural Language to SQL using GPT-3?
+
+This walk-through video should help!
+
+Thanks @sh_reya for the gpt3-sandbox :)
+
+Video Link : https://youtu.be/9g66yO0Jues"
+        """,
+        'name': 'Natural Language -> SQL',
+        'type': "twitter Bhavesh Bhatt",
+        'url': 'https://twitter.com/_bhaveshbhatt/status/1286294242579513351'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """I’ve been thinking about GPT-3’s applications to grounded language understanding — e.g. for robotics and other embodied agents.
+
+In doing so,  I came up with a new demo: 
+
+Objects to Affordances: “what can I do with an object?"
+        """,
+        'name': 'Objects -> Affordances',
+        'type': "twitter Siddharth Karamcheti",
+        'url': 'https://twitter.com/siddkaramcheti/status/1286168606896603136'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Thanks to @gdbI had the occasion to play around with @OpenAI's GPT-3 and I'm amazed! I built a @tailwindcss code generator and the results are quite spectacular.
+
+There's still much work to do,  but it looks promising! You can sign up at http://gpt-tailwind.com for early access."
+        """,
+        'name': 'Tailwind CSS Code Generator',
+        'type': "twitter Zoli Szőgyényi",
+        'url': 'https://twitter.com/zolidev/status/1286349416530620416'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Reading code is hard! Don't you wish you could just ask the code what it does? To describe its functions,  its types.
+
+And maybe... how can it be improved?"
+        """,
+        'name': 'Code Oracle',
+        'type': "twitter Amjad Masad",
+        'url': 'https://twitter.com/amasad/status/1285789362647478272'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """After struggling to prime GPT-3 and spending hours coding a basic demo,  @sh_reya and I wrote https://github.com/shreyashankar/gpt3-sandbox,  a tool that takes care of all the web dev details and provides a convenient priming interface. Here I create a recipe generator with just ~30 lines of python.
+        """,
+        'name': 'Recipe Generator',
+        'type': "Shreya Shankar & Bora Uyumazturk",
+        'url': 'https://twitter.com/notsleepingturk/status/1286112191083696128'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Built a GPT-3 bot that lets people with no accounting knowledge generate financial statements
+
+Here it is creating balance sheets by turning everyday language into Python code:"
+        """,
+        'name': 'Financial Statement Generator',
+        'type': "twitter George Saad & Yash Dani",
+        'url': 'https://twitter.com/itsyashdani/status/1285695850300219392'
+    },{
+        'id': 0,
+        'image': 'https://twitter.com/itsyashdani/status/1285695850300219392',
+        'intro': """Built a GPT-3 bot that lets people with no accounting knowledge generate financial statements
+
+Here it is creating balance sheets by turning everyday language into Python code:"
+        """,
+        'name': 'Financial Statement Generator',
+        'type': "twitter Melanie Mitchell George Saad & Yash Dani",
+        'url': 'https://twitter.com/MelMitchell1/status/1291170016130412544'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """The spreadsheet function to rule them all.
+        """,
+        'name': 'GPT3()',
+        'type': "twitter Paul Katsen",
+        'url': 'https://twitter.com/pavtalk/status/1285410751092416513'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """GPT-3 Does The WorkTrade mark sign on generating SVG charts,  with a quick web app I built with @billyjeanbillyj. With a short sentence describing what you want to plot,  its able to generate charts with titles,  labels and legends from about a dozen primed examples.
+        """,
+        'name': 'SVG Chart Generator',
+        'type': " Ken Acquah & Kenneth Li",
+        'url': 'https://twitter.com/aquariusacquah/status/1285415144017797126'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """I made a fully functioning search engine on top of GPT3. 
+
+For any arbitrary query,  it returns the exact answer AND the corresponding URL.
+        """,
+        'name': 'Search Engine',
+        'type': "twitter Paras Chopra",
+        'url': 'https://twitter.com/paraschopra/status/1284801028676653060'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Turns out #GPT3 can do vision too Winking face
+
+Built an ingredient parser: take a pic of any nutrition label (google to extract text),  and GPT-3 will identify ingredients,  find an emoji,  determine if it's unhealthy,  and give a definition Exploding head
+        """,
+        'name': 'Ingredient Parser',
+        'type': "twitter Lawder Paul",
+        'url': 'https://twitter.com/lawderpaul/status/1284972517749338112'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Using GPT-3,  I built a resume generator. 
+
+Give it a sentence about where you worked,  what you worked with - and you'll have a resume.
+        """,
+        'name': 'Resume Generator',
+        'type': "twitter Don (@DonCubed)",
+        'url': 'https://twitter.com/DonCubed/status/1284908940149395456'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """After many hours of retraining my brain to operate in this ""priming"" approach,  I also now have a sick GPT-3 demo: English to LaTeX equations! I'm simultaneously impressed by its coherence and amused by its brittleness -- watch me test the fundamental theorem of calculus.
+        """,
+        'name': 'Text -> Latex',
+        'type': "twitter Shreya Shankar",
+        'url': 'https://twitter.com/sh_reya/status/1284746918959239168'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """With GPT-3,  I built a Figma plugin to design for you.
+
+I call it ""Designer
+        """,
+        'name': 'Figma Designer',
+        'type': "twitter Jordan Singer",
+        'url': 'https://twitter.com/jsngr/status/1284511080715362304'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """With @OpenAI's GPT-3 model (thanks to @gdb),  I built an app that generates its own tweet given any word.
+        """,
+        'name': 'Tweet Generator',
+        'type': "twitter Sushant Kumar",
+        'url': 'https://twitter.com/sushant_kumar/status/1283314235842297856'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """I built a layout generator where you just describe any layout you want,  and it generates the JSX code for you.
+        """,
+        'name': 'Layout Generator',
+        'type': "twitter Shareef Shamim",
+        'url': 'https://twitter.com/sharifshameem/status/1282676454690451457'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """I got GPT-3 to start writing my SQL queries for me
+        p.s. these work against my *actual* database!"
+        """,
+        'name': 'Text -> SQL',
+        'type': "twitter Faraaz Nishtar",
+        'url': 'https://twitter.com/FaraazNishtar/status/1285934622891667457'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """I love short,  analytical essays.
+        So I asked GPT-3 to write some. 
+
+Trained on recent short form content from 
+@nbashaw
+ and 
+@ericstromberg
+ 
+
+Not as good as Nathan and Eric,  but I’m still impressed. "
+        """,
+        'name': 'Short Analytical Essays',
+        'type': "twitter Anthony Emberley",
+        'url': 'https://twitter.com/Anthonyemberley/status/1287560874249474048'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Just taught GPT-3 how to turn legalese into simple plain English. All I gave it were 2 examples. Might build a term sheet and investment document interpreter out of this 
+        """,
+        'name': 'Legal documents -> Simple English',
+        'type': "twitter Michael Tefula",
+        'url': 'https://twitter.com/michaeltefula/status/1285505897108832257'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """I built a UI creator in Figma using @OpenAI's GPT3.
+       Define your UI component in simple English,  and GPT3 + @figmadesign will create full blown mockup for you. With accurate text,  images and logos."
+        """,
+        'name': 'UI Creator in Figma',
+        'type': "twitter Dhvanil Patel",
+        'url': 'https://twitter.com/dhvanilp/status/1286452207513038848'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """We’ve explored @OpenAI’s new #GPT3 API,  and we are super impressed with its capabilities!
+        For example,  you can write a simple description,  and GPT-3 can automatically generate a bar chartBar chart for you!"
+        """,
+        'name': 'Plotly Charts',
+        'type': "Plotly",
+        'url': 'https://twitter.com/plotlygraphs/status/1286079929982095360'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """This is mind blowing Exploding head
+
+With @OpenAI #GPT3 I updated my 
+@figmadesign
+ plugin https://figma.com/community/plugin/823077195186711433/Flipbook
+  I call it ""Flipbook Animator"",  it can convert english text to frame by frame animation and you can export to gif. cc " 
+        """,
+        'name': 'Figma Plugin',
+        'type': "twitter Sonny Lazuardi",
+        'url': 'https://twitter.com/sonnylazuardi/status/1287563878545514496'
+    },
+    {
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """ired: Making your own memes
+Wired: Asking @OpenAI's #gpt3 to make memes.
+
+Amazed to see how much of cultural subtext and nuance language models can pick up on."
+ Text Just tell the flow of your IVR in natural language and get a phone number with the IVR flow designed. Prepare to have your MIND BLOWN :)       
+        """,
+        'name': 'Meme Generator',
+        'type': "twitter Mrinal Mohit",
+        'url': 'https://twitter.com/wowitsmrinal/status/1287175391040290816'
+    },
+    {
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """I managed to develop a GPT-3 demo that produces generative code snippets of the #threejs JavaScript API by textually descr -> IVR (Interactive voice response), @nutanc, 7/27/2020, https://twitter.com/nutanc/status/1287801677542612992, One of the first innovation we are doing is to rethink the age old process of IVR design. Make the boring IVR development exciting.ibing the elements and their parameters needed to create a #webgl 3D scene.
+        """,
+        'name': 'Text -> JavaScript (threejs)',
+        'type': "twitter Antonio Gomez",
+        'url': 'https://twitter.com/Antonio_GomezM/status/1287969287110443008'
+    },
+    {
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Product Managers,  Business Analysts...
+        @ixigo are now writing complex SQL queries which work against our actual databases in plain English thanks to GPT-3 !! "
+        """,
+        'name': 'Text -> SQL',
+        'type': "twitter Rajnish Kumar",
+        'url': 'https://twitter.com/rajnishkumar/status/1288502875455475712'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Letting GPT-3 do my presentations from now on. Just copy a bunch of text and let GPT-3 generate the presentation. Using Google slides scripting. I am not good at presentation skills. This is for proof of concept. So be gentle :).
+        """,
+        'name': 'Text -> PowerPoint Presentations,',
+        'type': "twitter @nutanc",
+        'url': 'https://twitter.com/nutanc/status/1288517555754110977'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Of everything I’ve gotten GPT-3 to do comedy has been the easiest and the most fun. It has a superhuman capacity for generating absurdity,  and often carries a joke to the upteenth degree,  as it did in my Jerry Seinfeld and Eddie Murphy Talk Shit About San Francisco skit where Jerry compares SF to shit sixty eight times. Exaggeration and repetition are well known comedic devices,  and The Rule of Funny says “Any violation of continuity,  logic,  physics,  or common sense is permissible if the result gets enough of a laugh” which turns out to be perfect for AI generated humor.
+        """,
+        'name': 'Comedy',
+        'type': "twitter Arram Sabeti",
+        'url': 'https://arr.am/2020/07/22/why-gpt-3-is-good-for-comedy-or-reddit-eats-larry-page-alive/'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """Experimenting with 
+@OpenAI #GPT3 and got it to extract financial metrics by simply copying and pasting the Income Statement from quarterly press release,  and requesting a metric which doesn't even need to be an exact match "
+        """,
+        'name': 'Financial Metric Extraction',
+        'type': "twitter Moe Salih",
+        'url': 'https://twitter.com/moesalih_/status/1288554452488790019'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """How do you make writing ad copy fun? 
+        """,
+        'name': 'Google Ads',
+        'type': "twitter Chris Frantz",
+        'url': 'https://twitter.com/frantzfries/status/1288589540865843200'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """A few months ago I jokingly said to a friend “we should create an AI that can write fiction for 
+@ShortlyRead”
+
+I knew the tech was coming but I didn’t expect it to be this good. 
+@OpenAI
+ 
+@gdb
+"
+        """,
+        'name': 'Creative Writing Assistant',
+        'type': "twitter Qasim Munye",
+        'url': 'https://twitter.com/QasimMunye/status/1288912561178640385'
+    },{
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
+        'intro': """I asked GPT-3 to write a response to the philosophical essays written  about it by 
+@DrZimmermann,  @rinireg,  @ShannonVallor,  @add_hawk, @AmandaAskell,  @dioscuri,  David Chalmers,  Carlos Montemayor,  and Justin Khoo published yesterday by @DailyNousEditor. It's quite remarkable!"
+        """,
+        'name': 'Philosophy',
+        'type': "twitter aphaël Millière",
+        'url': 'https://bilimyurt.com/'
+    }
+    ,
+    {
+        'id': 0,
+        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
         'intro': """Immortality & Science forum
         """,
         'name': 'bilimyurt',
@@ -1669,10 +3094,20 @@ web_Development = [
     #             'url':  'https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript'
     # },
     {
-        'intro': "Download the best Free Themes & Templates developed by Creative Tim.",
+        'intro': "Download the best Free Themes & Templates developed ",
         'image': 'https://s.tmimgcdn.com/scr/1204x1146/52500/free-responsive-corporate-template-website-template_52524-0-original.jpg',
         "name": "free templates",
         "start": [
+            {
+        'id': 0,
+        'image': 'https://cruip.com/wp-content/uploads/2019/06/splash.png',
+        'intro': """Beautifully designed HTML, React, Vue.js, and Tailwind templates! Save weeks of time and build your startup landing page in minutes.
+        """,
+        'name': 'pixlr',
+        'type': "online",
+        'url': 'https://cruip.com/'
+    },
+    
             {
                 'id':0,
                 'image': 'https://images.ctfassets.net/aq13lwl6616q/3omokxCIh3RiqdeL9EBVjb/9cb68edffc9099dcd1f108ab7f6fd18f/image.png',
@@ -1816,6 +3251,15 @@ web_Development = [
                 'type': 'text',
                 'url':  'http://book.mixu.net/node/'
             },
+            {
+        'id': 0,
+        'image': 'https://cruip.com/wp-content/uploads/2019/06/splash.png',
+        'intro': """Beautifully designed HTML, React, Vue.js, and Tailwind templates! Save weeks of time and build your startup landing page in minutes.
+        """,
+        'name': 'pixlr',
+        'type': "online",
+        'url': 'https://mdbootstrap.com/snippets/jquery/mdbootstrap/49562?view=side#css-tab-view'
+    },
             {
                 'id':0,
                 'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
@@ -5897,6 +7341,133 @@ Stock = [
                 'type': 'illustrations',
                 'price': 'free',
             },
+            {
+                'id': 0,
+                'image': 'https://desdev.tools/wp/wp-content/uploads/2019/09/manypixels.jpg',
+                'intro': 'Each week, discover royalty-free illustrations to power up your projects. Use them in a commercial or non-commercial way for your landing pages, blog posts, email newsletters, social media graphics and more!. You can change the color of this illustrations on the site itself according to your needs.',
+                'name': 'ManyPixels',
+                'url': 'https://www.manypixels.co/',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+             {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Paper-Illustrations-Free-illustrations-library-1024x504.png',
+                'intro': 'The unique feature of this site is that you get free illustrations with look like real paper cut outs. This is must use because it looks stunning and unique.',
+                'name': 'Paper Illustrations',
+                'url': 'https://iconscout.com/paper-illustrations',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+             {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Free-vector-illustrations-%E2%80%93-Ouch-pics-1024x741.png',
+                'intro': 'Free illustration collection to use in your project. This site illustration are unique and creative. This Free Illustration can class up your web design.',
+                'name': 'Ouch',
+                'url': 'https://icons8.com/ouch',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+            {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Free-vector-illustrations-%E2%80%93-Ouch-pics-1024x741.png',
+                'intro': 'Free illustration collection to use in your project. This site illustration are unique and creative. This Free Illustration can class up your web design.',
+                'name': 'Ouch',
+                'url': 'https://icons8.com/ouch',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+            {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Free-vector-illustrations-%E2%80%93-Ouch-pics-1024x741.png',
+                'intro': 'Free illustration collection to use in your project. This site illustration are unique and creative. This Free Illustration can class up your web design.',
+                'name': 'Ouch',
+                'url': 'https://icons8.com/ouch',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+            {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Free-vector-illustrations-%E2%80%93-Ouch-pics-1024x741.png',
+                'intro': 'Free illustration collection to use in your project. This site illustration are unique and creative. This Free Illustration can class up your web design.',
+                'name': 'Ouch',
+                'url': 'https://icons8.com/ouch',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+            {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Free-vector-illustrations-%E2%80%93-Ouch-pics-1024x741.png',
+                'intro': 'Free illustration collection to use in your project. This site illustration are unique and creative. This Free Illustration can class up your web design.',
+                'name': 'Ouch',
+                'url': 'https://icons8.com/ouch',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+            {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Free-vector-illustrations-%E2%80%93-Ouch-pics-1024x741.png',
+                'intro': 'Free illustration collection to use in your project. This site illustration are unique and creative. This Free Illustration can class up your web design.',
+                'name': 'Ouch',
+                'url': 'https://icons8.com/ouch',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+            {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Free-vector-illustrations-%E2%80%93-Ouch-pics-1024x741.png',
+                'intro': 'Free illustration collection to use in your project. This site illustration are unique and creative. This Free Illustration can class up your web design.',
+                'name': 'Ouch',
+                'url': 'https://icons8.com/ouch',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+            {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Free-Illustrations-Free-SVG-Images-MIT-licensed-Vectors-1-1024x475.png',
+                'intro': 'These free Illustration are available for free for personal and commercial use (MIT License). In other words: you can do whatever you want with them.',
+                'name': 'Free illustrations',
+                'url': 'https://lukaszadam.com/illustrations',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+             {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-DrawKit-Beautiful-free-illustrations-1024x460.png',
+                'intro': 'DrawKit is a collection of free, beautiful, customizable MIT licensed SVG illustrations in two styles, to use on your next website, app, or project. You can search for free illustration category wise according to your need in this site.',
+                'name': ' DrawKit',
+                'url': 'https://www.drawkit.io/',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+            
+             {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Absurd-Design-Free-Surrealist-Illustrations-and-Vector-Art-1024x525.png',
+                'intro': 'This site provides raw free illustration for your projects. This series of illustrations paradoxically combines absurdity and a deep sense of childishness and naivety.',
+                'name': 'Absurd Design',
+                'url': 'https://absurd.design/',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+             {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Create-awesome-design-with-Smash-illustrations-1024x780.png',
+                'intro': 'the best part this website is that you can create your own illustration scene . Awesome illustration constructor with colorful and trendy characters.',
+                'name': 'Smash',
+                'url': 'https://usesmash.com/',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+             {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Fresh-Folk-1024x658.png',
+                'intro': 'It is free illustration library of people and objects mainly. Mix and Match each character comes with a range of poses, outfits and skin tones.Create a wide range of scenes with 43 Objects to choose from.',
+                'name': ' Fresh Folk',
+                'url': 'https://fresh-folk.com/',
+                'type': 'illustrations',
+                'price': 'free',
+            },
         ]
     },
 
@@ -6203,7 +7774,7 @@ freesoftware = [
         'image': 'https://freecoursesite.com/wp-content/uploads/2018/03/hjhjh.png',
         'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
         'type': "Downoload free ",
-        'name': 'freecoursesites (illegal)',
+        'name': 'freecoursesites',
         'url': 'https://freecoursesite.com/',
     }
     ,
@@ -6212,7 +7783,7 @@ freesoftware = [
         'image': 'https://www.learningcrux.com/logo-dark.png',
         'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
         'type': "Downoload + watch online ",
-        'name': 'Learning crux (illegal)',
+        'name': 'Learning crux',
         'url': 'https://www.learningcrux.com/',
     }
     ,
@@ -6221,13 +7792,13 @@ freesoftware = [
         'image': 'https://tutflix.com/wp-content/uploads/2020/06/Copy-of-Tutorials-Netflix-4.png',
         'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
         'type': "Downoload + watch online ",
-        'name': 'Learning crux (illegal)',
+        'name': 'tutflix',
         'url': 'https://tutflix.com/',
     }
      ]
 },
 {
-    'name':'free_softwares_illegal',
+    'name':'free_softwares',
      'image': 'https://brutalbusiness.com/wp-content/uploads/2015/12/07/GetintroPC.png',
     'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
 'start' : [
@@ -6237,13 +7808,21 @@ freesoftware = [
             'image': 'https://brutalbusiness.com/wp-content/uploads/2015/12/07/GetintroPC.png',
             'intro': "Download Free Your Desired App",
             'type': "download softwares desired for your niche",
-            'name': 'get intro pc (illegal)',
+            'name': 'get intro pc ',
             'url': 'https://tutflix.com/',
+        },
+          {
+            'id': 0,
+            'image': 'https://brutalbusiness.com/wp-content/uploads/2015/12/07/GetintroPC.png',
+            'intro': "Download Free Your Desired App",
+            'type': "download template efeects plugin softwares desired for your aftereffect , photoshop andd premium pro",
+            'name': 'shareae',
+            'url': 'https://shareae.com/',
         },
     ]
 },
 {
-    'name':'free_books_illegal',
+    'name':'free_books',
      'image': 'https://www.pdfdrive.com/assets/img/logo-1.png.pagespeed.ce.vTZcG00TGG.png',
     'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
     'start' :[
@@ -6252,7 +7831,7 @@ freesoftware = [
         'image': 'https://librarygenesis.pro/wp-content/uploads/2020/07/library_genesis-1200x675.png',
         'intro': "Download free books",
         'type': "download any book",
-        'name': 'library genisis (illegal)',
+        'name': 'library genisis ',
         'url': 'http://libgen.li/',
     },
     {
@@ -6260,7 +7839,7 @@ freesoftware = [
         'image': 'https://www.pdfdrive.com/assets/img/logo-1.png.pagespeed.ce.vTZcG00TGG.png',
         'intro': "Download free books",
         'type': "Downlad any book",
-        'name': 'pdf drive (illegal)',
+        'name': 'pdf drive ',
         'url': 'https://www.pdfdrive.com/',
     }
     ,
@@ -6269,7 +7848,7 @@ freesoftware = [
         'image': 'https://miro.medium.com/max/1200/1*UbVgZ1J254k2E7NSsEAL9g.jpeg',
         'intro': "Download free books",
         'type': "free books and science papers",
-        'name': 'sci hub (illegal)',
+        'name': 'sci hub',
         'url': 'https://scihub.wikicn.top/',
     }
   ]
@@ -6909,9 +8488,9 @@ def api_gameDev():
 #     return jsonify(programmingtools)
 
 
-# @app.route('/programming/tools')
-# def api_programming_tools():
-#     return jsonify(programmingtools)
+@app.route('/mustprogrammer')
+def api_mustprogrammer():
+    return jsonify(Must_programmer_main)
 
 @app.route('/webdevelopment')
 def api_webDev():
@@ -7632,7 +9211,19 @@ def api_Machine_learning_tools():
 
 
 Machine_learning_learning = [
+    
      {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3150/0*QmJqoIVAFPgwO50X.jpg',
+        'intro': """Chatbot Conference Online
+Chatbot Conference Online
+If you could ask Google, Salesforce, GoDaddy, T-Mobile, IBM Watson, Rasa, Twilio, anything about AI, Bots & Voice what would you ask?
+        """,
+        'name': 'chatbotslife',
+        'type': "website",
+        'url': 'https://chatbotslife.com/'
+    },
+    {
         'id': 0,
         'image': 'https://cdn-images-1.medium.com/max/1200/1*mbG2hAx42XZkwmTVwS2AXQ.png',
         'intro': """Play and create adventures with infinite possiblities, brought to life with one of the most advanced AIs in the world..
@@ -7726,6 +9317,15 @@ Developers have built an impressively diverse range of applications using the GP
                 'type': 'video + youtube',
                 'url':  'https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab'
             },
+            {
+        'id': 0,
+        'image': 'https://cdn.vox-cdn.com/thumbor/eH0lJDgbIhWqV_zE2rjnVTkaoQE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10646761/acastro_180413_1777_reddit_0001.jpg',
+        'intro': """ This reddit shares artificial intelligence news, research and generally interesting links.
+        """,
+        'name': 'reddit AI',
+        'type': "website",
+        'url': 'https://www.reddit.com/r/artificial/'
+    },
 ]
 gameDevelopment_learning= [
     {
