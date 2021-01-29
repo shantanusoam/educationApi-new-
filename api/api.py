@@ -1904,6 +1904,15 @@ openpilot is simple to use. It enables your car to steer, accelerate, and brake 
     },
     {
         'id': 0,
+        'image': 'https://cdn.vox-cdn.com/thumbor/14thO4Zp4oeFRxOGntbvvV5f7lY=/0x94:1905x1047/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21806823/Dinoswords_ProductHunt_GalleryImage1_v2.png',
+        'intro': """100 Thieves x MSCHF presents:
+        """,
+        'name': 'MSCHF',
+        'type': "online",
+        'url': 'https://dinoswords.gg/'
+    },
+    {
+        'id': 0,
         'image': 'https://cas-img.sgp1.digitaloceanspaces.com/wp-content/uploads/2020/11/19062105/ppc-ad-copy-ai.jpg',
         'intro': """ Copywriting
 simplified.
