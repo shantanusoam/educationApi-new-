@@ -879,6 +879,24 @@ It's crazy, just got access to @OpenAI API and I already have a working product!
             
     
 ]
+    },
+    {
+        
+            'image': 'https://www.houseofbots.com/images/news/3631/cover.png',
+        'intro': 'Programming tools which you may like',
+        'name': 'programming_tools',
+        'start' : [
+            {
+        'id': 0,
+        'image': 'https://images-na.ssl-images-amazon.com/images/I/81XSN3hA5gL.jpg',
+        'intro': """The Hitchhiker's Guide to the Galaxy is a comedy science fiction series created by Douglas Adams. Originally a 1978 radio comedy broadcast on BBC Radio 4, it was later adapted to other formats, including stage shows, novels, comic books, a 1981 TV series, a 1984 video game, and 2005 feature filmr"
+        """,
+        'name': "Hitchhiker's Guide to the Galaxy",
+        'type': "amazon",
+        'url': 'https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0345391802'
+            },  
+            ]
+        
     }
 ]
 
@@ -1751,6 +1769,111 @@ everyydaytools = [
    
    ##############AWESOMEWEBSITES###############################
 awesome_websites = [
+    {
+        'id': 0,
+        'image': 'https://i.insider.com/5e0f8579855cc20c9d24d0f8?width=750&format=jpeg',
+        'intro': """MSCHF Box is a mystery box you can open (or not). There are two possible paths to reaping its value.
+        """,
+        'name': 'MSCHF',
+        'type': "online",
+        'url': 'https://mschf.xyz/'
+    },
+    {
+        'id': 0,
+        'image': 'https://raw.githubusercontent.com/saurabhdaware/text-to-handwriting/master/sample.jpeg',
+        'intro': """change your comuter text into hand writing
+        """,
+        'name': 'copypasta',
+        'type': "online",
+        'url': 'https://imlolman.github.io/Copy-Pasta/?fbclid=IwAR072cvRKgSLXESWXBNEoVGJU3jWfM668b1DeX-HpS8ISSPvUqv0BafRqTk'
+    },
+    {
+        'id': 0,
+        'image': 'https://mir-s3-cdn-cf.behance.net/user/276/176118123513.5bb4760a2e540.jpg',
+        'intro': """I'm a designer and illustrator from Madrid. Agencies: Saatchi& Saatchi Berlin ,Young & Rubicam, TBWA, BBDO, El laboratorio, Leo Burnet, Sra.
+        """,
+        'name': 'oscarllorens',
+        'type': "online",
+        'url': 'https://oscarllorens.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5e36e86f7aa7cf2aeda7bed4/5e397536245b9265907459c6_20.jpghttps://static.independent.co.uk/s3fs-public/thumbnails/image/2020/04/02/14/homeschooling-books-indybest.jpg',
+        'intro': """Best Homeschool Resources. 70 likes. Helping homeschooling families find great educational books, videos, curricula, projects, and more.
+        """,
+        'name': 'besthomeschoolresources',
+        'type': "online",
+        'url': 'https://www.besthomeschoolresources.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5e36e86f7aa7cf2aeda7bed4/5e397536245b9265907459c6_20.jpg',
+        'intro': """TestMyBrain aims to engage and collaborate with citizen scientists like you, by providing tools to help you learn about yourself. When you test yourself, you contribute to brain research.
+
+Click Go! next to any of the studies below to get started.
+        """,
+        'name': 'sketchfab',
+        'type': "online",
+        'url': 'https://sketchfab.com/3d-models'
+    },
+    {
+        'id': 0,
+        'image': 'https://developer.chrome.com/devsummit/adventure/assets/share/share-img.png',
+        'intro': """TestMyBrain aims to engage and collaborate with citizen scientists like you, by providing tools to help you learn about yourself. When you test yourself, you contribute to brain research.
+
+Click Go! next to any of the studies below to get started.
+        """,
+        'name': 'pixlr',
+        'type': "online",
+        'url': 'https://developer.chrome.com/devsummit/adventure/#cG9zaXRpb24veC8yMDkveS82MA=='
+    },
+    {
+        'id': 0,
+        'image': 'https://www.testmybrain.org/images/site_screenshot.png',
+        'intro': """TestMyBrain aims to engage and collaborate with citizen scientists like you, by providing tools to help you learn about yourself. When you test yourself, you contribute to brain research.
+
+Click Go! next to any of the studies below to get started.
+        """,
+        'name': 'pixlr',
+        'type': "online",
+        'url': 'https://www.testmybrain.org/'
+    },
+    {
+        'id': 0,
+        'image': 'https://dnp-website-images.s3-us-west-2.amazonaws.com/dnp_social.png',
+        'intro': """The DoNotPay app is the home of the world's first robot lawyer. Fight corporations, beat bureaucracy and sue anyone at the press of a button.
+        """,
+        'name': 'pixlr',
+        'type': "online",
+        'url': 'https://donotpay.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cdn.mos.cms.futurecdn.net/RJXgoQuvfqiPEnEDEGAjYF.jpg',
+        'intro': """Welcome to Pixlr the Online Photo Editor that lets you edit photos and create great designs right in your browser for Free. Experience next level, intuitive photo editing and graphical design with AI-powered tools for quick yet professional edits. Our editor opens almost any image format such as PSD (Photoshop), PXD, JPEG, PNG (transparent), WebP, SVG and more. Start from an empty canvas or select one of our professionally crafted templates.
+        """,
+        'name': 'pixlr',
+        'type': "online",
+        'url': 'https://pixlr.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cruip.com/wp-content/uploads/2019/06/splash.png',
+        'intro': """Beautifully designed HTML, React, Vue.js, and Tailwind templates! Save weeks of time and build your startup landing page in minutes.
+        """,
+        'name': 'pixlr',
+        'type': "online",
+        'url': 'https://cruip.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://ipiccy.com/res/template/img/hp_v2/pics/ba-01s5.jpg',
+        'intro': """Everything you need to make your photo awesome online
+        """,
+        'name': 'ipiccy',
+        'type': "software online",
+        'url': 'https://ipiccy.com/'
+    },
     {
         'id': 0,
         'image': 'https://miro.medium.com/max/8096/1*od-00NAlpkiNUI5YICHUYA.jpeg',
@@ -2953,10 +3076,20 @@ web_Development = [
     #             'url':  'https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript'
     # },
     {
-        'intro': "Download the best Free Themes & Templates developed by Creative Tim.",
+        'intro': "Download the best Free Themes & Templates developed ",
         'image': 'https://s.tmimgcdn.com/scr/1204x1146/52500/free-responsive-corporate-template-website-template_52524-0-original.jpg',
         "name": "free templates",
         "start": [
+            {
+        'id': 0,
+        'image': 'https://cruip.com/wp-content/uploads/2019/06/splash.png',
+        'intro': """Beautifully designed HTML, React, Vue.js, and Tailwind templates! Save weeks of time and build your startup landing page in minutes.
+        """,
+        'name': 'pixlr',
+        'type': "online",
+        'url': 'https://cruip.com/'
+    },
+    
             {
                 'id':0,
                 'image': 'https://images.ctfassets.net/aq13lwl6616q/3omokxCIh3RiqdeL9EBVjb/9cb68edffc9099dcd1f108ab7f6fd18f/image.png',
@@ -3100,6 +3233,15 @@ web_Development = [
                 'type': 'text',
                 'url':  'http://book.mixu.net/node/'
             },
+            {
+        'id': 0,
+        'image': 'https://cruip.com/wp-content/uploads/2019/06/splash.png',
+        'intro': """Beautifully designed HTML, React, Vue.js, and Tailwind templates! Save weeks of time and build your startup landing page in minutes.
+        """,
+        'name': 'pixlr',
+        'type': "online",
+        'url': 'https://mdbootstrap.com/snippets/jquery/mdbootstrap/49562?view=side#css-tab-view'
+    },
             {
                 'id':0,
                 'image': 'https://images.ctfassets.net/aq13lwl6616q/3SsqQsiuKq2G0RQwHxCIFS/8b75c7ae088313fe7b7a13760dd24378/image.png',
