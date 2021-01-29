@@ -1823,7 +1823,7 @@ Click Go! next to any of the studies below to get started.
 
 Click Go! next to any of the studies below to get started.
         """,
-        'name': 'pixlr',
+        'name': 'devsummit',
         'type': "online",
         'url': 'https://developer.chrome.com/devsummit/adventure/#cG9zaXRpb24veC8yMDkveS82MA=='
     },
@@ -1834,7 +1834,7 @@ Click Go! next to any of the studies below to get started.
 
 Click Go! next to any of the studies below to get started.
         """,
-        'name': 'pixlr',
+        'name': 'testmybrain',
         'type': "online",
         'url': 'https://www.testmybrain.org/'
     },
@@ -1843,7 +1843,7 @@ Click Go! next to any of the studies below to get started.
         'image': 'https://dnp-website-images.s3-us-west-2.amazonaws.com/dnp_social.png',
         'intro': """The DoNotPay app is the home of the world's first robot lawyer. Fight corporations, beat bureaucracy and sue anyone at the press of a button.
         """,
-        'name': 'pixlr',
+        'name': 'donotpay',
         'type': "online",
         'url': 'https://donotpay.com/'
     },
@@ -1861,7 +1861,7 @@ Click Go! next to any of the studies below to get started.
         'image': 'https://cruip.com/wp-content/uploads/2019/06/splash.png',
         'intro': """Beautifully designed HTML, React, Vue.js, and Tailwind templates! Save weeks of time and build your startup landing page in minutes.
         """,
-        'name': 'pixlr',
+        'name': 'cruip',
         'type': "online",
         'url': 'https://cruip.com/'
     },
@@ -1943,6 +1943,15 @@ Always here to listen and talk. Always on your side. Join the millions growing w
         'name': 'hasjob',
         'type': "website",
         'url': 'https://hasjob.co/'
+    },
+     {
+        'id': 0,
+        'image': 'https://netflixhangouts.com/assets/img/laptop-scratched.pnghttps://netflixhangouts.com/assets/img/laptop-scratched.png',
+        'intro': """ Watch Netflix at work by making it look like you’re on a conference call
+        """,
+        'name': 'hasjob',
+        'type': "googelextention",
+        'url': 'https://netflixhangouts.com/?_ga=2.6032116.616577050.1611916042-1182789525.1611916042'
     },
     {
         'id': 0,
