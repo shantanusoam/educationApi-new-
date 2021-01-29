@@ -1751,6 +1751,58 @@ everyydaytools = [
    
    ##############AWESOMEWEBSITES###############################
 awesome_websites = [
+    {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/8096/1*od-00NAlpkiNUI5YICHUYA.jpeg',
+        'intro': """openpilot is an open source driver assistance system. Currently, openpilot performs the functions of Adaptive Cruise Control (ACC), Automated Lane Centering (ALC), Forward Collision Warning (FCW) and Lane Departure Warning (LDW) for a growing variety of supported car makes, models and model years. In addition, while openpilot is engaged, a camera based Driver Monitoring (DM) feature alerts distracted and asleep drivers.
+        """,
+        'name': 'openpilot',
+        'type': "github repo",
+        'url': 'https://github.com/commaai/openpilot'
+    },
+    {
+        'id': 0,
+        'image': 'https://electrek.co/wp-content/uploads/sites/3/2015/12/geohot-driverless-car-e1450278538151.png',
+        'intro': """ Works with the push of a button.
+openpilot is simple to use. It enables your car to steer, accelerate, and brake automatically within its lane. Drive to a highway, press the cruise control SET button, and openpilot will engage. To disengage, use either pedal.
+        """,
+        'name': 'comma.ai   ',
+        'type': "website",
+        'url': 'https://comma.ai/'
+    },
+    {
+        'id': 0,
+        'image': 'https://businessnamegenerator.com/wp-content/uploads/2018/06/Brand-Name-Generator.png',
+        'intro': """ Generate Thousands of Name Ideas For Your Business or Company. Instantly Check Domain Availability with our Business Name Generator.
+        """,
+        'name': 'businessnamegenerator',
+        'type': "website",
+        'url': 'https://businessnamegenerator.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cas-img.sgp1.digitaloceanspaces.com/wp-content/uploads/2020/11/19062105/ppc-ad-copy-ai.jpg',
+        'intro': """ Copywriting
+simplified.
+Introducing the end of writer’s block.
+With CopyAI’s automated creativity tools,
+you can generate marketing copy in seconds.
+        """,
+        'name': 'copy.ai',
+        'type': "website",
+        'url': 'https://www.copy.ai/'
+    },
+    {
+        'id': 0,
+        'image': 'https://i.ytimg.com/vi/588eqmSS9Ps/maxresdefault.jpg',
+        'intro': """ The AI companion who cares
+Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!
+        """,
+        'name': 'replika.ai',
+        'type': "website",
+        'url': 'https://replika.ai/'
+    },
+    
      {
         'id': 0,
         'image': 'https://static.hasjob.co/static/img/hasjob-logo-200x200.png',
@@ -6712,6 +6764,133 @@ Stock = [
                 'type': 'illustrations',
                 'price': 'free',
             },
+            {
+                'id': 0,
+                'image': 'https://desdev.tools/wp/wp-content/uploads/2019/09/manypixels.jpg',
+                'intro': 'Each week, discover royalty-free illustrations to power up your projects. Use them in a commercial or non-commercial way for your landing pages, blog posts, email newsletters, social media graphics and more!. You can change the color of this illustrations on the site itself according to your needs.',
+                'name': 'ManyPixels',
+                'url': 'https://www.manypixels.co/',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+             {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Paper-Illustrations-Free-illustrations-library-1024x504.png',
+                'intro': 'The unique feature of this site is that you get free illustrations with look like real paper cut outs. This is must use because it looks stunning and unique.',
+                'name': 'Paper Illustrations',
+                'url': 'https://iconscout.com/paper-illustrations',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+             {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Free-vector-illustrations-%E2%80%93-Ouch-pics-1024x741.png',
+                'intro': 'Free illustration collection to use in your project. This site illustration are unique and creative. This Free Illustration can class up your web design.',
+                'name': 'Ouch',
+                'url': 'https://icons8.com/ouch',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+            {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Free-vector-illustrations-%E2%80%93-Ouch-pics-1024x741.png',
+                'intro': 'Free illustration collection to use in your project. This site illustration are unique and creative. This Free Illustration can class up your web design.',
+                'name': 'Ouch',
+                'url': 'https://icons8.com/ouch',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+            {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Free-vector-illustrations-%E2%80%93-Ouch-pics-1024x741.png',
+                'intro': 'Free illustration collection to use in your project. This site illustration are unique and creative. This Free Illustration can class up your web design.',
+                'name': 'Ouch',
+                'url': 'https://icons8.com/ouch',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+            {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Free-vector-illustrations-%E2%80%93-Ouch-pics-1024x741.png',
+                'intro': 'Free illustration collection to use in your project. This site illustration are unique and creative. This Free Illustration can class up your web design.',
+                'name': 'Ouch',
+                'url': 'https://icons8.com/ouch',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+            {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Free-vector-illustrations-%E2%80%93-Ouch-pics-1024x741.png',
+                'intro': 'Free illustration collection to use in your project. This site illustration are unique and creative. This Free Illustration can class up your web design.',
+                'name': 'Ouch',
+                'url': 'https://icons8.com/ouch',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+            {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Free-vector-illustrations-%E2%80%93-Ouch-pics-1024x741.png',
+                'intro': 'Free illustration collection to use in your project. This site illustration are unique and creative. This Free Illustration can class up your web design.',
+                'name': 'Ouch',
+                'url': 'https://icons8.com/ouch',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+            {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Free-vector-illustrations-%E2%80%93-Ouch-pics-1024x741.png',
+                'intro': 'Free illustration collection to use in your project. This site illustration are unique and creative. This Free Illustration can class up your web design.',
+                'name': 'Ouch',
+                'url': 'https://icons8.com/ouch',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+            {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Free-Illustrations-Free-SVG-Images-MIT-licensed-Vectors-1-1024x475.png',
+                'intro': 'These free Illustration are available for free for personal and commercial use (MIT License). In other words: you can do whatever you want with them.',
+                'name': 'Free illustrations',
+                'url': 'https://lukaszadam.com/illustrations',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+             {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-DrawKit-Beautiful-free-illustrations-1024x460.png',
+                'intro': 'DrawKit is a collection of free, beautiful, customizable MIT licensed SVG illustrations in two styles, to use on your next website, app, or project. You can search for free illustration category wise according to your need in this site.',
+                'name': ' DrawKit',
+                'url': 'https://www.drawkit.io/',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+            
+             {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Absurd-Design-Free-Surrealist-Illustrations-and-Vector-Art-1024x525.png',
+                'intro': 'This site provides raw free illustration for your projects. This series of illustrations paradoxically combines absurdity and a deep sense of childishness and naivety.',
+                'name': 'Absurd Design',
+                'url': 'https://absurd.design/',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+             {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Create-awesome-design-with-Smash-illustrations-1024x780.png',
+                'intro': 'the best part this website is that you can create your own illustration scene . Awesome illustration constructor with colorful and trendy characters.',
+                'name': 'Smash',
+                'url': 'https://usesmash.com/',
+                'type': 'illustrations',
+                'price': 'free',
+            },
+             {
+                'id': 0,
+                'image': 'https://csspoint101.com/wp-content/uploads/2020/01/Screenshot_2019-12-09-Fresh-Folk-1024x658.png',
+                'intro': 'It is free illustration library of people and objects mainly. Mix and Match each character comes with a range of poses, outfits and skin tones.Create a wide range of scenes with 43 Objects to choose from.',
+                'name': ' Fresh Folk',
+                'url': 'https://fresh-folk.com/',
+                'type': 'illustrations',
+                'price': 'free',
+            },
         ]
     },
 
@@ -7018,7 +7197,7 @@ freesoftware = [
         'image': 'https://freecoursesite.com/wp-content/uploads/2018/03/hjhjh.png',
         'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
         'type': "Downoload free ",
-        'name': 'freecoursesites (illegal)',
+        'name': 'freecoursesites',
         'url': 'https://freecoursesite.com/',
     }
     ,
@@ -7027,7 +7206,7 @@ freesoftware = [
         'image': 'https://www.learningcrux.com/logo-dark.png',
         'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
         'type': "Downoload + watch online ",
-        'name': 'Learning crux (illegal)',
+        'name': 'Learning crux',
         'url': 'https://www.learningcrux.com/',
     }
     ,
@@ -7036,13 +7215,13 @@ freesoftware = [
         'image': 'https://tutflix.com/wp-content/uploads/2020/06/Copy-of-Tutorials-Netflix-4.png',
         'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
         'type': "Downoload + watch online ",
-        'name': 'Learning crux (illegal)',
+        'name': 'tutflix',
         'url': 'https://tutflix.com/',
     }
      ]
 },
 {
-    'name':'free_softwares_illegal',
+    'name':'free_softwares',
      'image': 'https://brutalbusiness.com/wp-content/uploads/2015/12/07/GetintroPC.png',
     'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
 'start' : [
@@ -7052,13 +7231,21 @@ freesoftware = [
             'image': 'https://brutalbusiness.com/wp-content/uploads/2015/12/07/GetintroPC.png',
             'intro': "Download Free Your Desired App",
             'type': "download softwares desired for your niche",
-            'name': 'get intro pc (illegal)',
+            'name': 'get intro pc ',
             'url': 'https://tutflix.com/',
+        },
+          {
+            'id': 0,
+            'image': 'https://brutalbusiness.com/wp-content/uploads/2015/12/07/GetintroPC.png',
+            'intro': "Download Free Your Desired App",
+            'type': "download template efeects plugin softwares desired for your aftereffect , photoshop andd premium pro",
+            'name': 'shareae',
+            'url': 'https://shareae.com/',
         },
     ]
 },
 {
-    'name':'free_books_illegal',
+    'name':'free_books',
      'image': 'https://www.pdfdrive.com/assets/img/logo-1.png.pagespeed.ce.vTZcG00TGG.png',
     'intro': "Download free udemy+skillshare+individual+and more courses free of costs",
     'start' :[
@@ -7067,7 +7254,7 @@ freesoftware = [
         'image': 'https://librarygenesis.pro/wp-content/uploads/2020/07/library_genesis-1200x675.png',
         'intro': "Download free books",
         'type': "download any book",
-        'name': 'library genisis (illegal)',
+        'name': 'library genisis ',
         'url': 'http://libgen.li/',
     },
     {
@@ -7075,7 +7262,7 @@ freesoftware = [
         'image': 'https://www.pdfdrive.com/assets/img/logo-1.png.pagespeed.ce.vTZcG00TGG.png',
         'intro': "Download free books",
         'type': "Downlad any book",
-        'name': 'pdf drive (illegal)',
+        'name': 'pdf drive ',
         'url': 'https://www.pdfdrive.com/',
     }
     ,
@@ -7084,7 +7271,7 @@ freesoftware = [
         'image': 'https://miro.medium.com/max/1200/1*UbVgZ1J254k2E7NSsEAL9g.jpeg',
         'intro': "Download free books",
         'type': "free books and science papers",
-        'name': 'sci hub (illegal)',
+        'name': 'sci hub',
         'url': 'https://scihub.wikicn.top/',
     }
   ]
@@ -8447,7 +8634,19 @@ def api_Machine_learning_tools():
 
 
 Machine_learning_learning = [
+    
      {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/3150/0*QmJqoIVAFPgwO50X.jpg',
+        'intro': """Chatbot Conference Online
+Chatbot Conference Online
+If you could ask Google, Salesforce, GoDaddy, T-Mobile, IBM Watson, Rasa, Twilio, anything about AI, Bots & Voice what would you ask?
+        """,
+        'name': 'chatbotslife',
+        'type': "website",
+        'url': 'https://chatbotslife.com/'
+    },
+    {
         'id': 0,
         'image': 'https://cdn-images-1.medium.com/max/1200/1*mbG2hAx42XZkwmTVwS2AXQ.png',
         'intro': """Play and create adventures with infinite possiblities, brought to life with one of the most advanced AIs in the world..
@@ -8541,6 +8740,15 @@ Developers have built an impressively diverse range of applications using the GP
                 'type': 'video + youtube',
                 'url':  'https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab'
             },
+            {
+        'id': 0,
+        'image': 'https://cdn.vox-cdn.com/thumbor/eH0lJDgbIhWqV_zE2rjnVTkaoQE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10646761/acastro_180413_1777_reddit_0001.jpg',
+        'intro': """ This reddit shares artificial intelligence news, research and generally interesting links.
+        """,
+        'name': 'reddit AI',
+        'type': "website",
+        'url': 'https://www.reddit.com/r/artificial/'
+    },
 ]
 gameDevelopment_learning= [
     {
