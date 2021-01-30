@@ -259,7 +259,319 @@ miscellaneous = [
 Developers have built an impressively diverse range of applications using the GPT-3 API, including an all purpose Excel function, a recipe generator, a layout generator (translates natural language to JSX), a search engine and several others.""",
         'name': 'open ai',
         'start' : [
-            {
+           {
+        'id': 0,
+        'image': 'https://removebgblog.files.wordpress.com/2020/03/unscreen.gif',
+        'intro': """Goodbye Greenscreen: Producing background-free video used to require fiddly techniques like chroma keying and greenscreens. With Unscreen you can record your footage anywhere, then simply get rid of the background.
+Create amazing GIFs: Pick, edit & share.
+        """,
+        'name': 'unscreen',
+        'type': "online",
+        'url': 'https://www.unscreen.com/'
+    },{
+        'id': 0,
+        'image': 'https://numbr.dev/numbr-logo.png',
+        'intro': """Numbr is a currency calculator, a notepad that understands your calculation. You can use notes with numbers alongside each other. And all your numbers are instantly calculated as you type.
+        """,
+        'name': 'xkcd',
+        'type': "online",
+        'url': 'https://numbr.dev/'
+    },{
+        'id': 0,
+        'image': 'https://production-wordpress-assets.s3.amazonaws.com/wp-content/uploads/2013/03/16225811/tech_support-1.png',
+        'intro': """A webcomic of romance,
+sarcasm, math, and language.
+        """,
+        'name': 'xkcd',
+        'type': "online",
+        'url': 'https://xkcd.com/'
+    },{
+        'id': 0,
+        'image': 'https://production-wordpress-assets.s3.amazonaws.com/wp-content/uploads/2013/03/16225811/tech_support-1.png',
+        'intro': """A webcomic of romance,
+sarcasm, math, and language.
+        """,
+        'name': 'xkcd',
+        'type': "online",
+        'url': 'https://xkcd.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://production-wordpress-assets.s3.amazonaws.com/wp-content/uploads/2013/03/16225811/tech_support-1.png',
+        'intro': """A webcomic of romance,
+sarcasm, math, and language.
+        """,
+        'name': 'xkcd',
+        'type': "online",
+        'url': 'https://xkcd.com/'
+    },
+     {
+        'id': 0,
+        'image': 'https://i.insider.com/5e0f8579855cc20c9d24d0f8?width=750&format=jpeg',
+        'intro': """MSCHF Box is a mystery box you can open (or not). There are two possible paths to reaping its value.
+        """,
+        'name': 'MSCHF',
+        'type': "online",
+        'url': 'https://mschf.xyz/'
+    },
+    {
+        'id': 0,
+        'image': 'https://raw.githubusercontent.com/saurabhdaware/text-to-handwriting/master/sample.jpeg',
+        'intro': """change your comuter text into hand writing
+        """,
+        'name': 'copypasta',
+        'type': "online",
+        'url': 'https://imlolman.github.io/Copy-Pasta/?fbclid=IwAR072cvRKgSLXESWXBNEoVGJU3jWfM668b1DeX-HpS8ISSPvUqv0BafRqTk'
+    },
+    {
+        'id': 0,
+        'image': 'https://mir-s3-cdn-cf.behance.net/user/276/176118123513.5bb4760a2e540.jpg',
+        'intro': """I'm a designer and illustrator from Madrid. Agencies: Saatchi& Saatchi Berlin ,Young & Rubicam, TBWA, BBDO, El laboratorio, Leo Burnet, Sra.
+        """,
+        'name': 'oscarllorens',
+        'type': "online",
+        'url': 'https://oscarllorens.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5e36e86f7aa7cf2aeda7bed4/5e397536245b9265907459c6_20.jpghttps://static.independent.co.uk/s3fs-public/thumbnails/image/2020/04/02/14/homeschooling-books-indybest.jpg',
+        'intro': """Best Homeschool Resources. 70 likes. Helping homeschooling families find great educational books, videos, curricula, projects, and more.
+        """,
+        'name': 'besthomeschoolresources',
+        'type': "online",
+        'url': 'https://www.besthomeschoolresources.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5e36e86f7aa7cf2aeda7bed4/5e397536245b9265907459c6_20.jpg',
+        'intro': """TestMyBrain aims to engage and collaborate with citizen scientists like you, by providing tools to help you learn about yourself. When you test yourself, you contribute to brain research.
+
+Click Go! next to any of the studies below to get started.
+        """,
+        'name': 'sketchfab',
+        'type': "online",
+        'url': 'https://sketchfab.com/3d-models'
+    },
+    {
+        'id': 0,
+        'image': 'https://developer.chrome.com/devsummit/adventure/assets/share/share-img.png',
+        'intro': """TestMyBrain aims to engage and collaborate with citizen scientists like you, by providing tools to help you learn about yourself. When you test yourself, you contribute to brain research.
+
+Click Go! next to any of the studies below to get started.
+        """,
+        'name': 'devsummit',
+        'type': "online",
+        'url': 'https://developer.chrome.com/devsummit/adventure/#cG9zaXRpb24veC8yMDkveS82MA=='
+    },
+    {
+        'id': 0,
+        'image': 'https://www.testmybrain.org/images/site_screenshot.png',
+        'intro': """TestMyBrain aims to engage and collaborate with citizen scientists like you, by providing tools to help you learn about yourself. When you test yourself, you contribute to brain research.
+
+Click Go! next to any of the studies below to get started.
+        """,
+        'name': 'testmybrain',
+        'type': "online",
+        'url': 'https://www.testmybrain.org/'
+    },
+    {
+        'id': 0,
+        'image': 'https://dnp-website-images.s3-us-west-2.amazonaws.com/dnp_social.png',
+        'intro': """The DoNotPay app is the home of the world's first robot lawyer. Fight corporations, beat bureaucracy and sue anyone at the press of a button.
+        """,
+        'name': 'donotpay',
+        'type': "online",
+        'url': 'https://donotpay.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cdn.mos.cms.futurecdn.net/RJXgoQuvfqiPEnEDEGAjYF.jpg',
+        'intro': """Welcome to Pixlr the Online Photo Editor that lets you edit photos and create great designs right in your browser for Free. Experience next level, intuitive photo editing and graphical design with AI-powered tools for quick yet professional edits. Our editor opens almost any image format such as PSD (Photoshop), PXD, JPEG, PNG (transparent), WebP, SVG and more. Start from an empty canvas or select one of our professionally crafted templates.
+        """,
+        'name': 'pixlr',
+        'type': "online",
+        'url': 'https://pixlr.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cruip.com/wp-content/uploads/2019/06/splash.png',
+        'intro': """Beautifully designed HTML, React, Vue.js, and Tailwind templates! Save weeks of time and build your startup landing page in minutes.
+        """,
+        'name': 'cruip',
+        'type': "online",
+        'url': 'https://cruip.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://ipiccy.com/res/template/img/hp_v2/pics/ba-01s5.jpg',
+        'intro': """Everything you need to make your photo awesome online
+        """,
+        'name': 'ipiccy',
+        'type': "software online",
+        'url': 'https://ipiccy.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/8096/1*od-00NAlpkiNUI5YICHUYA.jpeg',
+        'intro': """openpilot is an open source driver assistance system. Currently, openpilot performs the functions of Adaptive Cruise Control (ACC), Automated Lane Centering (ALC), Forward Collision Warning (FCW) and Lane Departure Warning (LDW) for a growing variety of supported car makes, models and model years. In addition, while openpilot is engaged, a camera based Driver Monitoring (DM) feature alerts distracted and asleep drivers.
+        """,
+        'name': 'openpilot',
+        'type': "github repo",
+        'url': 'https://github.com/commaai/openpilot'
+    },
+    {
+        'id': 0,
+        'image': 'https://electrek.co/wp-content/uploads/sites/3/2015/12/geohot-driverless-car-e1450278538151.png',
+        'intro': """ Works with the push of a button.
+openpilot is simple to use. It enables your car to steer, accelerate, and brake automatically within its lane. Drive to a highway, press the cruise control SET button, and openpilot will engage. To disengage, use either pedal.
+        """,
+        'name': 'comma.ai   ',
+        'type': "website",
+        'url': 'https://comma.ai/'
+    },
+    {
+        'id': 0,
+        'image': 'https://businessnamegenerator.com/wp-content/uploads/2018/06/Brand-Name-Generator.png',
+        'intro': """ Generate Thousands of Name Ideas For Your Business or Company. Instantly Check Domain Availability with our Business Name Generator.
+        """,
+        'name': 'businessnamegenerator',
+        'type': "website",
+        'url': 'https://businessnamegenerator.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cdn.vox-cdn.com/thumbor/14thO4Zp4oeFRxOGntbvvV5f7lY=/0x94:1905x1047/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21806823/Dinoswords_ProductHunt_GalleryImage1_v2.png',
+        'intro': """100 Thieves x MSCHF presents:
+        """,
+        'name': 'MSCHF',
+        'type': "online",
+        'url': 'https://dinoswords.gg/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cas-img.sgp1.digitaloceanspaces.com/wp-content/uploads/2020/11/19062105/ppc-ad-copy-ai.jpg',
+        'intro': """ Copywriting
+simplified.
+Introducing the end of writer’s block.
+With CopyAI’s automated creativity tools,
+you can generate marketing copy in seconds.
+        """,
+        'name': 'copy.ai',
+        'type': "website",
+        'url': 'https://www.copy.ai/'
+    },
+    {
+        'id': 0,
+        'image': 'https://i.ytimg.com/vi/588eqmSS9Ps/maxresdefault.jpg',
+        'intro': """ The AI companion who cares
+Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!
+        """,
+        'name': 'replika.ai',
+        'type': "website",
+        'url': 'https://replika.ai/'
+    },
+    
+     {
+        'id': 0,
+        'image': 'https://static.hasjob.co/static/img/hasjob-logo-200x200.png',
+        'intro': """ Hasjob is India's premier job board for tech startups. Find the job that's best suited for you and apply directly. Hasjob is free for employers because we are a
+        """,
+        'name': 'hasjob',
+        'type': "website",
+        'url': 'https://hasjob.co/'
+    },
+     {
+        'id': 0,
+        'image': 'https://netflixhangouts.com/assets/img/laptop-scratched.pnghttps://netflixhangouts.com/assets/img/laptop-scratched.png',
+        'intro': """ Watch Netflix at work by making it look like you’re on a conference call
+        """,
+        'name': 'hasjob',
+        'type': "googelextention",
+        'url': 'https://netflixhangouts.com/?_ga=2.6032116.616577050.1611916042-1182789525.1611916042'
+    },
+    {
+        'id': 0,
+        'image': 'https://techcrunch.com/wp-content/uploads/2014/03/angellist.png',
+        'intro': """ Apply privately to 130000+ remote jobs and startup jobs near you with one application. See salary and equity upfront.
+        """,
+        'name': 'angel.co',
+        'type': "website",
+        'url': 'https://www.gwern.net/GPT-3'
+    },
+     {
+        'id': 0,
+        'image': 'https://pic.accessify.com/thumbnails/777x423/w/whenwasiconceived.com.png',
+        'intro': """ When was I conceived? A simple and instant way to find out when you were conceived. conceived around 6 May, 2020. When did I conceive? If you're a parent
+        """,
+        'name': 'whenwasiconceived',
+        'type': "website",
+        'url': 'https://www.whenwasiconceived.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/image-1-6-796x417.png',
+        'intro': """ Developing ultra high bandwidth brain-machine interfaces to connect humans and computers.
+        """,
+        'name': 'neuralink',
+        'type': "website",
+        'url': 'https://neuralink.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://hipertextual.com/files/2021/01/5G-3-740x416.png',
+        'intro': """ Play through all the major events of 2020: the Australia wildfires, COVID-19, quarantine, the rise of TikTok, the USA elections, etc.
+        """,
+        'name': '2020game',
+        'type': "website",
+        'url': 'https://2020game.io/'
+    },
+    {
+        'id': 0,
+        'image': 'https://jalammar.github.io/images/gpt3/gpt3-parameters-weights.png',
+        'intro': """ The tech world is abuzz with GPT3 hype. Massive language models (like GPT3) are starting to surprise us with their abilities. While not yet completely reliable for most businesses to put in front of their customers, these models are showing sparks of cleverness that are sure to accelerate the march of automation and the possibilities of intelligent computer systems. Let’s remove the aura of mystery around GPT3 and learn how it’s trained and how it works
+        """,
+        'name': 'jalammar',
+        'type': "website",
+        'url': 'https://jalammar.github.io/how-gpt3-works-visualizations-animations/'
+    },
+    {
+        'id': 0,
+        'image': 'https://www.dpreview.com/files/p/articles/9173310557/openai-dall-e-avocado-chair-screenshot.jpeg',
+        'intro': """ We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language.
+        """,
+        'name': 'openai',
+        'type': "website",
+        'url': 'https://openai.com/blog/dall-e/'
+    },
+    {
+        'id': 0,
+        'image': 'https://liveinnovation.org/wp-content/uploads/2017/10/1_DAIiB63JaI1br9XYPAQ-rA.png',
+        'intro': """AIVA, the Artificial Intelligence music composer that creates original & personalized music for your projects.
+        """,
+        'name': 'creators aiva',
+        'type': "website",
+        'url': 'https://creators.aiva.ai/'
+    },
+     {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/dv1vylzohjd7/28GGzo1ybZigjRt1c3QHd7/a8e2287a5d6488c94f04053839b6ac6e/hud.png',
+        'intro': """AIVA, the Artificial Intelligence music composer that creates original & personalized music for your projects.
+        """,
+        'name': 'cinekidplay',
+        'type': "website",
+        'url': 'https://cinekidplay.nl/ontdekken'
+    },
+    {
+        'id': 0,
+        'image': 'https://umamiland.withgoogle.com/version/1608117349803/static/giftshop/wallpaper/main-rice-street.jpg',
+        'intro': """Enjoy your virtual food trip and go out only once it's safe! Privacy Policy. Overview. Gift shop. 0. Language. English. 한국어. 中文. Privacy Terms & Conditions 
+        """,
+        'name': 'cinekidplay',
+        'type': "website",
+        'url': 'https://umamiland.withgoogle.com/en'
+    },
+
+    {
         'id': 0,
         'image': 'https://pbs.twimg.com/card_img/1353639823332970497/hMucgNj5?format=jpg',
         'intro': """ just launched "Most Recommended Books 2.0" on @ProductHunt ! Discover the books recommended by @elonmusk , @naval , @tferriss , and 400+ others 🙂📚 just launched "Most Recommended Books 2.0" on @ProductHunt ! Discover the books recommended by @elonmusk , @naval , @tferriss , and 400+ others 🙂📚
@@ -680,202 +992,246 @@ I knew the tech was coming but I didn’t expect it to be this good.
         'type': "website",
         'url': 'https://bilimyurt.com/'
     },
-            {
+    {
         'id': 0,
-        'image': 'https://pbs.twimg.com/card_img/1351393010085347328/WUrRVxYW?format=jpg',
-        'intro': """.@OpenAI’s GPT-3 is a bit like autocomplete—a shockingly good autocomplete. Here’s what happened when this tool joined a brainstorm alongside (human) designer 
+        'image': 'https://cdn.gamer-network.net/2019/usgamer/AI-Dungeon-2-header-ipad.png/EG11/thumbnail/1920x1080/format/jpg/quality/65/ai-dungeon-2-the-text-adventure-where-you-can-do-nearly-anything-is-now-on-mobile.jpg',
+        'intro': """Play and create adventures with infinite possiblities, brought to life with one of the most advanced AIs in the world..
         """,
-        'name': 'IDEO',
+        'name': 'aidungeon',
         'type': "website",
-        'url': 'https://t.co/QnRpznKHdk'
-    },{
-        'id': 0,
-        'image': 'https://twitter.com/_bramses/status/1319867941115092993',
-        'intro': """IOne of the most annoying parts about setting up a todo list is not being able to estimate how long or how hard a task may be. Will it take up an hour? Or the whole day?
-
-In this video, I'm using Semantic Search in the @OpenAI API to have GPT tell me how hard a task is!
-        """,
-        'name': 'todo',
-        'type': "twitter",
-        'url': 'https://twitter.com/_bramses/status/1319867941115092993?s=20'
-    },{
-        'id': 0,
-        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
-        'intro': """This is a pretty cool tool — an OpenAI-powered Jupyter notebook replacement which uses natural language rather than Python to specify queries: 
-        """,
-        'name': 'bilimyurt',
-        'type': "website",
-        'url': 'https://bilimyurt.com/'
-    },{
-        'id': 0,
-        'image': 'https://pbs.twimg.com/card_img/1353639823332970497/hMucgNj5?format=jpg',
-        'intro': """ just launched "Most Recommended Books 2.0" on @ProductHunt ! Discover the books recommended by @elonmusk , @naval , @tferriss , and 400+ others 🙂📚 just launched "Most Recommended Books 2.0" on @ProductHunt ! Discover the books recommended by @elonmusk , @naval , @tferriss , and 400+ others 🙂📚
-        """,
-        'name': 'MRB',
-        'type': "website",
-        'url': 'https://mostrecommendedbooks.com/?ref=producthunt'
-    },{
-        'id': 0,
-        'image': 'https://pbs.twimg.com/media/Ehc-LRsXYAEObi-?format=jpg ',
-        'intro': """Posted my first paper on arXiv💥🙌
-
-GPT-f is a Transformer-based automated theorem prover. We show that Transformer + Search is suitable to formal reasoning and continuous self-improvement 🦾
-        """,
-        'name': 'bilimyurt',
-        'type': "website",
-        'url': 'https://bilimyurt.com/'
-    },{
-        'id': 0,
-        'image': 'https://pbs.twimg.com/card_img/1353774957067550728/2rvreKyu?format=jpg',
-        'intro': """Fully interactive synthetic personas with GPT-3 and http://Generated.Photos 🎇
-
-They know who they are, where they worked, who their boss is, and so much more.  This is not your father's bot...
-        """,
-        'name': 'honest-ai',
-        'type': "website",
-        'url': 'https://honest-ai.com/'
-    },{
-        'id': 0,
-        'image': 'https://pbs.twimg.com/media/EgQ-RxkWoAERoCP?format=jpg',
-        'intro': """Generate Detailed Emails from One Line Descriptions (on your mobile)
-
-I used GPT-3 to build a mobile and web Gmail add-on that expands given brief descriptions into formatted and grammatically-correct professional emails.
-
-Thanks to @OpenAI @gdb for providing me access.
-        """,
-        'name': 'One Line Descriptions',
-        'type': "twitter",
-        'url': 'https://pbs.twimg.com/ext_tw_video_thumb/1297957206797688832/pu/img/51lL_6TcVr7gVegn?format=jpg'
-    },{
-        'id': 0,
-        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
-        'intro': """Writing a job description and need creative ideas? You can now use this OpenAI-powered tool, which suggests rewrites and additions: https://www.dover.io/tools/job-desc
-        Paste in a short job description and we'll generate a longer variant to help you get your creative juices flowing. If you don't like the output, hit Generate again to get a different idea! Experiment, take notes, and have fun!
-        """,
-        'name': 'Job Description Rewriter',
-        'type': "website",
-        'url': 'https://www.dover.io/tools/job-description-rewriter'
-    },{
-        'id': 0,
-        'image': 'https://pbs.twimg.com/media/Ef6ivkJUcAA0fy3?format=jpg',
-        'intro': """Creating a GPT-3 texting companion (using http://sendblue.co ) has been one of the most interesting experiences I’ve ever had. In the past week of using this thing I’ve had more ideas and conversations with this thing than I’ve had with real people. Truly incredible.
-        """,
-        'name': 'bilimyurt',
-        'type': "website",
-        'url': 'https://sendblue.co/'
-    },{
-        'id': 0,
-        'image': 'https://images.squarespace-cdn.com/content/v1/5e0997640f68875f9a06868a/1582595797392-ROX2Y3M8J1IIE9Z1AZIQ/ke17ZwdGBToddI8pDm48kNfMjBCwXSKF-vpuLJPYbFl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ql6vXyf1c5GMI2V4OEE0xph2rkY4ocV95D9qTgQoy1Dc2a4nkFIzM16w_OiPuarQw/Screen+Shot+2020-02-24+at+5.52.39+PM.png',
-        'intro': """Create meaningful dialogue flows using @Storymapr with @OpenAI #GPT3 API integration; In limited beta, sign up with @Storymapr at https://bit.ly/30OSKO9  or shoot us DM if you want access. #storymapr #ai #openai #gamedesign #NLP
-        """,
-        'name': 'storymapr',
-        'type': "website",
-        'url': 'https://www.storymapr.com/'
-    },{
-        'id': 0,
-        'image': 'https://pbs.twimg.com/media/EfyjQBUVAAMnIy_?format=jpg',
-        'intro': """Team just told me that GPT-3 wrote the product copy for our two down-alternative products 👾
-
-I only found out when the person who manages our site returned from vacation today and casually mentioned during evening standup. Wow. H/t @chris__lu. https://twitter.com/jjeremycai/status/1296098155994349568
-        """,
-        'name': 'slumber-down-alternative-comforter',
-        'type': "website",
-        'url': 'https://italic.com/products/slumber-down-alternative-comforter'
-    },{
-        'id': 0,
-        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
-        'intro': """Introducing Magnum- AI Driven Math Animations without coding!
-
-Magnum is an Open Source toolkit to generate Step-by-step animated solutions (with graphs) to ANY Math Query.
-
-You can also animate custom content for your classroom.
-
-Check out http://magnum.shreenabh.com  to get started!
-        """,
-        'name': 'magnum.shreenabh',
-        'type': "website",
-        'url': 'https://magnum.shreenabh.com/'
-    },{
-        'id': 0,
-        'image': 'https://pbs.twimg.com/ext_tw_video_thumb/1294631794579398656/pu/img/J_aPiihzrVpVQlD2?format=jpg',
-        'intro': """Introducing Revtheo Browser Extension! Check it out in comparison with Apple's "word lookup feature".
-
-Revtheo, a context based dictionary, wouldn't have been possible without #GPT3 @gdb 
-
-For early access drop me a message with your email id.
-        """,
-        'name': 'bilimyurt',
-        'type': "twitter",
-        'url': 'https://twitter.com/tusharkhattar_/status/1294631853224206339?s=20'
+        'url': 'https://play.aidungeon.io'
     },
     {
         'id': 0,
-        'image': 'https://miro.medium.com/max/618/1*drev2yd3c7gR4GVZFWiC8A.png',
-        'intro': """New: My adventures using GPT-3 to make Copycat analogies.   I did some systematic experiments with no cherry picking.  I hope you enjoy this!
-
-"Can GPT-3 Make Analogies?" 
+        'image': 'https://cdn-images-1.medium.com/max/1200/1*mbG2hAx42XZkwmTVwS2AXQ.png',
+        'intro': """Play and create adventures with infinite possiblities, brought to life with one of the most advanced AIs in the world..
         """,
-        'name': 'bilimyurt',
-        'type': "twitter",
-        'url': 'https://twitter.com/jsngr/status/1294635175222157313?s=20'
-    },
-
-    {
-        'id': 0,
-        'image': 'https://pbs.twimg.com/ext_tw_video_thumb/1284799918364749824/pu/img/GLdWG3ZeclzRAO7C?format=jpg',
-        'intro': """I made a fully functioning search engine on top of GPT3. 
-
-For any arbitrary query, it returns the exact answer AND the corresponding URL.
-
-Look at the entire video. It's MIND BLOWINGLY good. 
-
-cc: @gdb @npew @gwern
-        """,
-        'name': 'ask me anything',
-        'type': "twitter",
-        'url': 'https://twitter.com/paraschopra/status/1284801028676653060?s=20'
+        'name': 'Syncedreview',
+        'type': "website",
+        'url': 'https://syncedreview.com/'
     },
     {
         'id': 0,
-        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
-        'intro': """This is mind blowing.
+        'image': 'https://cdn.gamer-network.net/2019/usgamer/AI-Dungeon-2-header-ipad.png/EG11/thumbnail/1920x1080/format/jpg/quality/65/ai-dungeon-2-the-text-adventure-where-you-can-do-nearly-anything-is-now-on-mobile.jpg',
+        'intro': """This is an experiment in what one might call "prompt engineering", which is a way to utilize GPT-3, a neural network trained and hosted by OpenAI.
 
-With GPT-3, I built a layout generator where you just describe any layout you want, and it generates the JSX code for you.
+GPT-3 is a language model. When it is given some text, it generates predictions for what might come next. It is remarkably good at adapting to different contexts, as defined by a prompt (in this case, hidden), which sets the scene for what type of text will be generated.
 
-W H A T
+Please remember that the AI will generate different outputs each time; and that it lacks any specific opinions or knowledge -- it merely mimics opinions, proven by how it can produce conflicting outputs on different attempts.
         """,
-        'name': 'bilimyurt',
-        'type': "twitter",
-        'url': 'https://twitter.com/sharifshameem/status/1282676454690451457'
+        'name': 'philosopherai',
+        'type': "website Paid",
+        'url': 'https://philosopherai.com/'
     },
     {
         'id': 0,
-        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
-        'intro': """This changes everything. 🤯
-
-With GPT-3, I built a Figma plugin to design for you.
-
-I call it "Designer"
+        'image': 'https://s3-eu-west-1.amazonaws.com/sup46/wp-content/uploads/2018/10/09105504/SHORTLYNEWLOGO2.png',
+        'intro': """We use cutting edge technology to make writing easier and faster. Stuck? Just click the button and our AI will continue your writing for you.
         """,
-        'name': 'figma pluginn',
-        'type': "twitter",
-        'url': 'https://twitter.com/jsngr/status/1284511080715362304?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Ecollection%3A1286781399081639942%7Ctwcon%5Etimelinechrome&ref_url=https%3A%2F%2Fgpt3examples.com%2F%23examples'
+        'name': 'shortlyai',
+        'type': "website",
+        'url': 'https://www.shortlyai.com/'
+    },
+     {
+        'id': 0,
+        'image': 'https://pbs.twimg.com/profile_images/452047074813419520/xZcPzubX.jpeg',
+        'intro': """You have 80000 hours in your career. How can you best use them to help solve the world's most pressing problems?
+        """,
+        'name': '80000hours',
+        'type': "website",
+        'url': ' https://80000hours.org/'
+    },
+   
+    {
+        'id': 0,
+        'image': 'https://packt-type-cloud.s3.amazonaws.com/uploads/sites/2432/2018/09/134fa915-d093-4a8b-9be4-6f4669003e80.png',
+        'intro': """A toolkit for developing and comparing reinforcement learning algorithms.
+        pip insatll gym 
+        on your IDE
+        """,
+        'name': 'openai gum',
+        'type': "website",
+        'url': ' https://gym.openai.com/'
+    },
+       {
+        'id': 0,
+        'image': 'https://freebiesui.com/wp-content/uploads/2020/11/Multipurpose-App-UI-KIt-263x238.jpg',
+        'intro': "Are you looking for App Designs, UI Kits or Mockups? Download for free great freebies for Photoshop, Sketch, Principle & XD from FreebiesUI.",
+        'name': 'freebiesui',
+        'type': "Pattern for use",
+        'url': 'https://freebiesui.com/'
     },
     {
         'id': 0,
-        'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
-        'intro': """Reading code is hard! Don't you wish you could just ask the code what it does? To describe its functions, its types.
-
-And maybe... how can it be improved?
-
-Introducing: @Replit code oracle 🧙‍♀️
-
-It's crazy, just got access to @OpenAI API and I already have a working product!
-        """,
-        'name': 'bilimyurt',
-        'type': "twitter",
-        'url': 'https://twitter.com/amasad/status/1285789362647478272?s=20'
+        'image': 'https://cdn.dribbble.com/users/554451/screenshots/14111195/pattern-collect_4x.png',
+        'intro': "A curated gallery of patterns by awesome designers & illustrators",
+        'name': 'patterncollect',
+        'type': "Pattern for use",
+        'url': 'https://patterncollect.com/'
     },
+    {
+        'id': 0,
+        'image': 'https://www.edmsauce.com/wp-content/uploads/2017/11/programming-music.png',
+        'intro': "task = (task === undefined) ? 'programming' : task; return 'A series of mixes intended for listening while '+task+' to aid concentration and increase productivity (also compatible with other activities).",
+        'name': 'musicforprogramming',
+        'type': "Music",
+        'url': 'https://www.musicforprogramming.net/'
+    },
+    {
+        'id': 0,
+        'image': 'https://jonkuperman.com/static/9d5f8d15762e685534467c67e2cf281f/72e01/joshwcomeau.jpg',
+        'intro': 'As I was going through rebuilding my blog, I spent a lot of time looking at other people’s sites trying to get inspiration. Below is a list of my absolute favorite blog designs and my favorite thing about them.',
+        'name': 'jonkuperman/best-blog-designs',
+        'type': "best-blog-designs",
+        'url': 'https://www.joshwcomeau.com/'
+    },
+        {
+            
+        
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/3aqr7XDogg9jcGnUglJYOt/05488b640b4307bf3a2e96259bc9bd39/image.png',
+        'intro': 'Free resource of 100k high-quality faces, each entirely generated by AI.',
+        'name': '100,000 AI-Generated Faces',
+        'type': "Ai Photos",
+        'url': 'https://generated.photos/'
+    
+    
+    },
+  {
+        'id': 0,
+        'image': 'https://ichef.bbci.co.uk/news/800/cpsprodpb/2E61/production/_110537811_ec96af27-c995-4ed0-b977-9fb4f1d05d3f.jpg',
+        'intro': "The Spinner* is a service that enables you to subconsciously influence a specific person, by controlling the content on the websites he or she usually visits. The targeted person gets repetitively exposed to hundreds of items which are placed and disguised as editorial content.",
+        'type':'websites','name': 'thespinner',
+        'url': 'https://www.thespinner.net/',
+    },
+    {
+        'id': 0,
+        'image': 'https://pr.azureedge.net/img/picresize_logo_registered.png',
+        'intro': "PicResize.com was created in March 2005 and is the original picture editing tool on the Internet. The service has always remained free to use and has processed more than 150 million pictures since its launch",
+        'type':'websites','name': 'pixel resize',
+        'url': 'https://picresize.com/en/results#',
+    }
+    ,
+    {
+        'id': 0,
+        'image': 'https://kk.org/img/bloglogos/KevinKelly1-logo-sketch.gif',
+        'intro': "a must read palce to broden your understanding if you are ",
+        'type':'websites','name': 'Kevin kelly',
+        'url': 'https://kk.org/',
+    }
+    ,
+    {
+        'id': 0,
+        'image': 'https://twinery.org/homepage/img/logo.svg',
+        'intro': "You don't need to write any code to create a simple story with Twine, but you can extend your stories with variables, conditional logic, images, CSS, and JavaScript when you're ready.",
+        'sum+up': "where you can write stories",
+        'type':'websites','name': 'twine',
+        'url': 'https://twinery.org/',
+    },
+    {
+
+        'id': 0,
+        'image': 'https://www.irishnews.com/picturesarchive/irishnews/irishnews/2018/09/21/161005946-89fb1e98-8158-4b08-9bbd-dc01a0736cda.jpg',
+        'intro': "Hit the bongos like Bongo Cat!",
+        'type':'websites','name': 'Bango cat',
+        'url': 'https://bongo.cat/?fbclid=IwAR1xcOLH5dyp3tKne-uVMOAESHQxX3Ep6sBBSh6EdaL6Gzr8aZkgZITFY8E',
+    },
+    {
+
+        'id': 0,
+        'image': 'https://phreesite.com/wp-content/uploads/2018/12/audiobook-Bay-alternatives-.jpg',
+        'intro': "Download unabridged audiobook for free or share your audio books, safe, fast and high quality! Safe to get and share audio book here and downloading speed",
+        'type':'websites','name': 'AudioBook Bay',
+        'url': 'http://audiobookbay.nl/',
+    },
+    {
+
+        'id': 0,
+        'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
+        'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
+        'type':'websites','name': '10ideesrecuesenuxdesign',
+        'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
+    },
+      {
+
+        'id': 0,
+        'image': 'https://image.winudf.com/v2/image/Y29tLml5dG9yLmVyZXJ6X3NjcmVlbl82XzE1MzU0MDY1NDZfMDIy/screen-6.jpg?fakeurl=1&type=.jpg',
+        'intro': "skribbl.io is a free multiplayer drawing and guessing game. One game consists of a few rounds in which every round someone has to draw their chosen word and others have to guess it to gain points! The person with the most points at the end of game will then be crowned as the winner!",
+        'type':'websites','name': 'skribbl',
+        'url': 'https://skribbl.io/',
+    },
+    
+      {
+
+        'id': 0,
+        'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
+        'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
+        'type':'websites','name': '10ideesrecuesenuxdesign',
+        'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
+    },
+    
+      {
+
+        'id': 0,
+        'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
+        'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
+        'type':'websites','name': '10ideesrecuesenuxdesign',
+        'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
+    },
+    
+      {
+
+        'id': 0,
+        'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
+        'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
+        'type':'websites','name': '10ideesrecuesenuxdesign',
+        'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
+    },
+    
+          {
+            
+        
+        'id': 0,
+        'image': 'https://images.ctfassets.net/aq13lwl6616q/3aqr7XDogg9jcGnUglJYOt/05488b640b4307bf3a2e96259bc9bd39/image.png',
+        'intro': 'Free resource of 100k high-quality faces, each entirely generated by AI.',
+        'type':'websites','name': '100,000 AI-Generated Faces',
+        'type': "Ai Photos",
+        'url': 'https://generated.photos/'
+    
+    
+    },
+    {
+        'id': 0,
+        'image': 'https://ichef.bbci.co.uk/news/800/cpsprodpb/2E61/production/_110537811_ec96af27-c995-4ed0-b977-9fb4f1d05d3f.jpg',
+        'intro': "The Spinner* is a service that enables you to subconsciously influence a specific person, by controlling the content on the websites he or she usually visits. The targeted person gets repetitively exposed to hundreds of items which are placed and disguised as editorial content.",
+        'type':'websites','name': 'thespinner',
+        'url': 'https://www.thespinner.net/',
+    },
+    {
+        'id': 0,
+        'image': 'https://pr.azureedge.net/img/picresize_logo_registered.png',
+        'intro': "PicResize.com was created in March 2005 and is the original picture editing tool on the Internet. The service has always remained free to use and has processed more than 150 million pictures since its launch",
+        'type':'websites','name': 'pixel resize',
+        'url': 'https://picresize.com/en/results#',
+    }
+    ,
+    {
+        'id': 0,
+        'image': 'https://kk.org/img/bloglogos/KevinKelly1-logo-sketch.gif',
+        'intro': "a must read palce to broden your understanding if you are ",
+        'type':'websites','name': 'Kevin kelly',
+        'url': 'https://kk.org/',
+    }
+    ,
+    {
+        'id': 0,
+        'image': 'https://twinery.org/homepage/img/logo.svg',
+        'intro': "You don't need to write any code to create a simple story with Twine, but you can extend your stories with variables, conditional logic, images, CSS, and JavaScript when you're ready.",
+        'sum+up': "where you can write stories",
+        'type':'websites','name': 'twine',
+        'url': 'https://twinery.org/',
+    }
+    
             
     
 ]
@@ -1382,6 +1738,22 @@ Must_programmer_main = [
         'intro': 'useful api that you must see',
         'name': 'api',
         'start' : [
+            {
+        'id': 0,
+        'image': 'https://www.unscreen.com/assets/api_animation-c4d5c0b28c34d91a136d6207e8363534218eec6b177e20a3f78fd02d87dcc35c.gif',
+        'intro': """Submit a video:
+Call POST /videos with your video URL or file.
+Fetch the video status:
+Call GET /videos/:id to fetch the status of your video.
+(Alternatively, register a webhook_url to receive a callback when the processing is finished.)
+Download the result:
+When the status is done, download the result from the result_url.
+If required, continue with further processing of the result..
+        """,
+        'name': 'unscreen api',
+        'type': "online",
+        'url': 'https://www.unscreen.com/api'
+    },
     {
         'id': 0,
      'image': 'https://i.ytimg.com/vi/yY0ciWj8oco/maxresdefault.jpg',
@@ -1770,6 +2142,59 @@ everyydaytools = [
    ##############AWESOMEWEBSITES###############################
 awesome_websites = [
     {
+        'id': 0,
+        'image': 'https://removebgblog.files.wordpress.com/2020/03/unscreen.gif',
+        'intro': """Goodbye Greenscreen: Producing background-free video used to require fiddly techniques like chroma keying and greenscreens. With Unscreen you can record your footage anywhere, then simply get rid of the background.
+Create amazing GIFs: Pick, edit & share.
+        """,
+        'name': 'unscreen',
+        'type': "online",
+        'url': 'https://www.unscreen.com/'
+    },{
+        'id': 0,
+        'image': 'https://numbr.dev/numbr-logo.png',
+        'intro': """Numbr is a currency calculator, a notepad that understands your calculation. You can use notes with numbers alongside each other. And all your numbers are instantly calculated as you type.
+        """,
+        'name': 'xkcd',
+        'type': "online",
+        'url': 'https://numbr.dev/'
+    },{
+        'id': 0,
+        'image': 'https://krisp.ai/blog/wp-content/uploads/2020/01/krisp-for-ios-banner.png',
+        'intro': """Take calls from wherever you want without being embarrassed for the crying baby noise or airport noise in the background.
+
+Krisp works with any conferencing app and with headset .
+        """,
+        'name': 'krisp',
+        'type': "online",
+        'url': 'https://krisp.ai/'
+    },{
+        'id': 0,
+        'image': 'https://www.unscreen.com/assets/api_animation-c4d5c0b28c34d91a136d6207e8363534218eec6b177e20a3f78fd02d87dcc35c.gif',
+        'intro': """Submit a video:
+Call POST /videos with your video URL or file.
+Fetch the video status:
+Call GET /videos/:id to fetch the status of your video.
+(Alternatively, register a webhook_url to receive a callback when the processing is finished.)
+Download the result:
+When the status is done, download the result from the result_url.
+If required, continue with further processing of the result..
+        """,
+        'name': 'unscreen api',
+        'type': "online",
+        'url': 'https://www.unscreen.com/api'
+    },
+    {
+        'id': 0,
+        'image': 'https://production-wordpress-assets.s3.amazonaws.com/wp-content/uploads/2013/03/16225811/tech_support-1.png',
+        'intro': """A webcomic of romance,
+sarcasm, math, and language.
+        """,
+        'name': 'xkcd',
+        'type': "online",
+        'url': 'https://xkcd.com/'
+    },
+     {
         'id': 0,
         'image': 'https://i.insider.com/5e0f8579855cc20c9d24d0f8?width=750&format=jpeg',
         'intro': """MSCHF Box is a mystery box you can open (or not). There are two possible paths to reaping its value.
