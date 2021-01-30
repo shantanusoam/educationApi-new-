@@ -278,22 +278,29 @@ Create amazing GIFs: Pick, edit & share.
         'url': 'https://numbr.dev/'
     },{
         'id': 0,
-        'image': 'https://production-wordpress-assets.s3.amazonaws.com/wp-content/uploads/2013/03/16225811/tech_support-1.png',
-        'intro': """A webcomic of romance,
-sarcasm, math, and language.
+        'image': 'https://krisp.ai/blog/wp-content/uploads/2020/01/krisp-for-ios-banner.png',
+        'intro': """Take calls from wherever you want without being embarrassed for the crying baby noise or airport noise in the background.
+
+Krisp works with any conferencing app and with headset .
         """,
-        'name': 'xkcd',
+        'name': 'krisp',
         'type': "online",
-        'url': 'https://xkcd.com/'
+        'url': 'https://krisp.ai/'
     },{
         'id': 0,
-        'image': 'https://production-wordpress-assets.s3.amazonaws.com/wp-content/uploads/2013/03/16225811/tech_support-1.png',
-        'intro': """A webcomic of romance,
-sarcasm, math, and language.
+        'image': 'https://www.unscreen.com/assets/api_animation-c4d5c0b28c34d91a136d6207e8363534218eec6b177e20a3f78fd02d87dcc35c.gif',
+        'intro': """Submit a video:
+Call POST /videos with your video URL or file.
+Fetch the video status:
+Call GET /videos/:id to fetch the status of your video.
+(Alternatively, register a webhook_url to receive a callback when the processing is finished.)
+Download the result:
+When the status is done, download the result from the result_url.
+If required, continue with further processing of the result..
         """,
-        'name': 'xkcd',
+        'name': 'unscreen api',
         'type': "online",
-        'url': 'https://xkcd.com/'
+        'url': 'https://www.unscreen.com/api'
     },
     {
         'id': 0,
@@ -2141,6 +2148,34 @@ everyydaytools = [
    
    ##############AWESOMEWEBSITES###############################
 awesome_websites = [
+    {
+        'id': 0,
+        'image': 'https://ph-files.imgix.net/288dc94a-d43e-4a2f-ba26-1e70583f149f.png',
+        'intro': """Paraglide is the first machine learning API that lets you create, customize, and collaborate on automated AI workflows in minutes. Modify what you want, and let us handle the rest.
+        """,
+        'name': 'paraglide',
+        'type': "online",
+        'url': 'https://www.paraglide.ai/'
+    },
+    {
+        'id': 0,
+        'image': 'https://removebgblog.files.wordpress.com/2020/03/unscreen.gif',
+        'intro': """Rephrase.ai is the world's first AI tool that brings the power of merge tags to real human videos. We help sales and marketing teams increase their conversions by 400% using personalized videos at scale & make their customers feel special
+        """,
+        'name': 'Rephrase.ai',
+        'type': "online",
+        'url': 'http://rephrase.ai/'
+    },
+    {
+        'id': 0,
+        'image': 'https://removebgblog.files.wordpress.com/2020/03/unscreen.gif',
+        'intro': """Goodbye Greenscreen: Producing background-free video used to require fiddly techniques like chroma keying and greenscreens. With Unscreen you can record your footage anywhere, then simply get rid of the background.
+Create amazing GIFs: Pick, edit & share.
+        """,
+        'name': 'unscreen',
+        'type': "online",
+        'url': 'https://www.unscreen.com/'
+    },
     {
         'id': 0,
         'image': 'https://removebgblog.files.wordpress.com/2020/03/unscreen.gif',
@@ -10141,15 +10176,7 @@ def api_machine_learning_learning():
      
 
 android_courses = [
-            {
-                'id':0,
-                'image': 'https://prod-discovery.edx-cdn.org/media/course/image/8f8e5124-1dab-47e6-8fa6-3fbdc0738f0a-762af069070e.small.jpg',
-                'intro': "This course picks up where CS50 leaves off, diving more deeply intro the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
-                'name': "CS50's Web Programming with Python and JavaScript",
-                'Return': 'free certificate',
-                'type': 'video + assigment',
-                'url':  'https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript'
-            },
+            
             {
                 
                 'id':0,
