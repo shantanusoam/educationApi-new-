@@ -642,21 +642,13 @@ Always here to listen and talk. Always on your side. Join the millions growing w
         'url': 'https://replika.ai/'
     },
     
-     {
-        'id': 0,
-        'image': 'https://static.hasjob.co/static/img/hasjob-logo-200x200.png',
-        'intro': """ Hasjob is India's premier job board for tech startups. Find the job that's best suited for you and apply directly. Hasjob is free for employers because we are a
-        """,
-        'name': 'hasjob',
-        'type': "website",
-        'url': 'https://hasjob.co/'
-    },
+    
      {
         'id': 0,
         'image': 'https://netflixhangouts.com/assets/img/laptop-scratched.pnghttps://netflixhangouts.com/assets/img/laptop-scratched.png',
         'intro': """ Watch Netflix at work by making it look like you’re on a conference call
         """,
-        'name': 'hasjob',
+        'name': 'netflixhangouts',
         'type': "googelextention",
         'url': 'https://netflixhangouts.com/?_ga=2.6032116.616577050.1611916042-1182789525.1611916042'
     },
@@ -737,7 +729,7 @@ Always here to listen and talk. Always on your side. Join the millions growing w
         'image': 'https://umamiland.withgoogle.com/version/1608117349803/static/giftshop/wallpaper/main-rice-street.jpg',
         'intro': """Enjoy your virtual food trip and go out only once it's safe! Privacy Policy. Overview. Gift shop. 0. Language. English. 한국어. 中文. Privacy Terms & Conditions 
         """,
-        'name': 'cinekidplay',
+        'name': 'umamiland',
         'type': "website",
         'url': 'https://umamiland.withgoogle.com/en'
     },
@@ -908,16 +900,6 @@ Here it is creating balance sheets by turning everyday language into Python code
         'name': 'Financial Statement Generator',
         'type': "twitter George Saad & Yash Dani",
         'url': 'https://twitter.com/itsyashdani/status/1285695850300219392'
-    },{
-        'id': 0,
-        'image': 'https://twitter.com/itsyashdani/status/1285695850300219392',
-        'intro': """Built a GPT-3 bot that lets people with no accounting knowledge generate financial statements
-
-Here it is creating balance sheets by turning everyday language into Python code:"
-        """,
-        'name': 'Financial Statement Generator',
-        'type': "twitter Melanie Mitchell George Saad & Yash Dani",
-        'url': 'https://twitter.com/MelMitchell1/status/1291170016130412544'
     },{
         'id': 0,
         'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
@@ -2520,21 +2502,13 @@ Always here to listen and talk. Always on your side. Join the millions growing w
         'url': 'https://replika.ai/'
     },
     
-     {
-        'id': 0,
-        'image': 'https://static.hasjob.co/static/img/hasjob-logo-200x200.png',
-        'intro': """ Hasjob is India's premier job board for tech startups. Find the job that's best suited for you and apply directly. Hasjob is free for employers because we are a
-        """,
-        'name': 'hasjob',
-        'type': "website",
-        'url': 'https://hasjob.co/'
-    },
+     
      {
         'id': 0,
         'image': 'https://netflixhangouts.com/assets/img/laptop-scratched.pnghttps://netflixhangouts.com/assets/img/laptop-scratched.png',
         'intro': """ Watch Netflix at work by making it look like you’re on a conference call
         """,
-        'name': 'hasjob',
+        'name': 'netflixhangouts',
         'type': "googelextention",
         'url': 'https://netflixhangouts.com/?_ga=2.6032116.616577050.1611916042-1182789525.1611916042'
     },
@@ -2615,7 +2589,7 @@ Always here to listen and talk. Always on your side. Join the millions growing w
         'image': 'https://umamiland.withgoogle.com/version/1608117349803/static/giftshop/wallpaper/main-rice-street.jpg',
         'intro': """Enjoy your virtual food trip and go out only once it's safe! Privacy Policy. Overview. Gift shop. 0. Language. English. 한국어. 中文. Privacy Terms & Conditions 
         """,
-        'name': 'cinekidplay',
+        'name': 'umamiland',
         'type': "website",
         'url': 'https://umamiland.withgoogle.com/en'
     },
@@ -2786,16 +2760,6 @@ Here it is creating balance sheets by turning everyday language into Python code
         'name': 'Financial Statement Generator',
         'type': "twitter George Saad & Yash Dani",
         'url': 'https://twitter.com/itsyashdani/status/1285695850300219392'
-    },{
-        'id': 0,
-        'image': 'https://twitter.com/itsyashdani/status/1285695850300219392',
-        'intro': """Built a GPT-3 bot that lets people with no accounting knowledge generate financial statements
-
-Here it is creating balance sheets by turning everyday language into Python code:"
-        """,
-        'name': 'Financial Statement Generator',
-        'type': "twitter Melanie Mitchell George Saad & Yash Dani",
-        'url': 'https://twitter.com/MelMitchell1/status/1291170016130412544'
     },{
         'id': 0,
         'image': 'https://openai.com/content/images/2019/05/openai-cover.png',
