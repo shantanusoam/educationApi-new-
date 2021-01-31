@@ -167,6 +167,170 @@ motivation = [
 ]
 miscellaneous = [
     {
+        'image': 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/multiplayer-1576688681.jpg',
+        'intro': 'It’s all fun and games until someone, well, takes away the fun and games. Yes, even the best browser games can be a time-suck sometimes.',
+        'name': 'online browser games',
+        'start' : [
+            {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/eefa867f7df18258f95e03face6a063d/817544d7-b67b-4b6e-ad4f-5c0744d0b284_Best-Browser-Multiplayer-Games.jpg',
+        'intro': """Remember playing pictionary or Draw Something? Similar to those games, you can sum up Gartic.io in three words: draw, guess, win. In this online drawing game, up to 10 people can play.
+
+At the start of every round one person will randomly draw a word and draw it, while everyone else has to try and guess the word correctly.""",
+        'name': 'Gartic.io',
+        'url': 'https://gartic.io/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/4b9afe7d2256f90c118d38b9fdf0052d/6517acb4-e643-4b75-a58d-1088dbee29aa_Best-Free-Browser-Games-2018.jpg',
+        'intro': """Jump into Slither.io, the new and improved Snake game, with millions of players around the world! As you probably know, the goal is to become the longest snake of the day. All you have to do to grow is get other slitherers to run into your body.
+
+If you end up breaking the record for biggest snake that day, you get to leave a message on the screen for everyone who’s playing to see!""",
+        'name': 'Slither.io',
+        'url': 'http://slither.io/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://image.winudf.com/v2/image/Y29tLm5hZC5ib25rX3NjcmVlbl8xX25yOWV1djly/screen-1.jpg?fakeurl=1&type=.jpg',
+        'intro': """Battle your friends or anyone from anywhere in the world in last man standing or team based matches. Bonk.io is a game of strategy as well as raw skill, position """,
+        'name': 'Bonk.io',
+        'url': 'https://bonk.io/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://forum.curvefever.pro/uploads/default/original/2X/b/b1678361f37000be788a216c9679031032d79a36.png',
+        'intro': """The smash hit Curve Fever is back with a new multiplayer browser game: Curve Fever Pro. Cut off opponents, squeeze through tiny holes and unlock new ...""",
+        'name': 'curvefever',
+        'url': 'https://curvefever.pro/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://i.ytimg.com/vi/6Pmvq0m5za0/maxresdefault.jpg',
+        'intro': """Deeeep.io Pro is the new popular .io game! Start as a fish, and eat to advance in the underwater food chain. Some of the more than 70 animals ...""",
+        'name': 'deeeep.io',
+        'url': 'https://deeeep.io/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://cdn.littlebigsnake.com/img/sharing_img.png',
+        'intro': """Play Little Big Snake unblocked on the official website for free. New updates weekly, play with your friends and others online.
+""",
+        'name': 'Littlebigsnake / slither.io',
+        'url': 'https://littlebigsnake.com/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://iogames.space/sites/default/files/511x288_1_.png',
+        'intro': """Slay.one is a free multiplayer top-down shooter. You can play it directly in your browser.""",
+        'name': 'Slay.one  / braains.io',
+        'url': 'http://slay.one/beta/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://i.ytimg.com/vi/GH_2cABLhTA/maxresdefault.jpg',
+        'intro': """Build a gold stash to establish your base and start defending. · Collect resources with your pickaxe to upgrade your base. · Build towers to defend against zombies.""",
+        'name': 'zombs.io',
+        'url': 'http://zombs.io/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://hordes.io/assets/ui/background.jpg',
+        'intro': """Roam the lands in gigantic battlegroups, level up with your party, trade rare items and upgrade your gear!""",
+        'name': 'hordes.io',
+        'url': 'https://hordes.io/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://image.winudf.com/v2/image/Y29tLml5dG9yLmVyZXJ6X3NjcmVlbl83XzE1MzU0MDY1NDdfMDQ3/screen-7.jpg?fakeurl=1&type=.jpg',
+        'intro': """skribbl io is a free multiplayer drawing and guessing game. Draw and guess words with your friends and people all around the world! Score the most points and """,
+        'name': 'skribbl.io',
+        'url': 'https://skribbl.io/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://sites.google.com/site/playkrunker/_/rsrc/1589209682826/home/Is-Krunker-the-best-browser-shooting-game-in-2019.jpg',
+        'intro': """Krunker.io is a free Multiplayer Online Game. No Download needed.""",
+        'name': 'krunker.io',
+        'url': 'https://krunker.io/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://www.transformice.com/img/i1.jpg',
+        'intro': """Transformice is an online independent multiplayer free-to-play platform video game, created by French game designers, known by their aliases Melibellule and Tigrounette. Melibellule produces the game's artwork and graphics, while Tigrounette programs the game's functions and mechanics""",
+        'name': 'transformice',
+        'url': 'https://www.transformice.com/',
+    },
+             {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://geeklife.ca/wp-content/uploads/2017/10/Prodigy-Math-Tutoring-Game-Landing-page.png',
+        'intro': "Prodigy Math Game is a hyper-engaging, fantasy-inspired MMORPG (massively multiplayer online role-playing game) with over 90 million players. It’s dedicated to boosting children’s confidence and improving math skills.",
+        'name': 'Prodigy',
+        'url': 'https://play.prodigygame.com/',
+    },
+    {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/205e42b2fdf0b76b2c3dfcfa9a5659e7/d0dcd298-81bc-4564-bfbc-09b09127056d_Best-Free-Browser-Games.jpg',
+        'intro': """Remember playing Snake on the indestructible Nokia phone? In this version you’re not just a neon snake — you’re competing with other neon snakes for supremacy.
+
+Beam across the field to eat the cubes that appear when another snake dies and grow longer. But don’t run into other snakes or else you’ll turn into cubes and have to respawn in your original size.""",
+        'name': 'Powerline.io',
+        'url': 'http://powerline.io/',
+    },
+    {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/67b9ef52d20951d4c5c14a318e47440f/e7a282ab-771f-48ea-8785-19a2490b1c03_Best-Browser-Games-2018.jpg',
+        'intro': "In January 2001, developer Jagex released RuneScape, a point-and-click MMORPG set in the vast, medieval fantasy realm of Gielinor. Take part in over 200 quests while you explore a world filled with diverse races and guilds all seeking power.",
+        'name': 'RuneScape',
+        'url': 'https://www.runescape.com/community',
+    },
+    {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/a4571ef59944062c2f9972997819d9b1/133f6e30-e567-4514-80ed-891cf0095261_Best-in-Browser-Games.jpg',
+        'intro': """Simply use your arrow keys to steer and you’re off to the races! NoBrakes.io is a multiplayer racing game where you reach checkpoints to gain a competitive advantage with power-ups that boost your speed or slow others down.
+
+Sounds simple, right? Yes, until you realize this race isn’t a conventional one. If you’re near the front of a line, for example, checkpoints can pop up behind you. So you need to be ready for anything!""",
+        'name': 'NoBrakes.io',
+        'url': 'https://nobrakesio.totebo.com/',
+    },
+    {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/a1022bc5df491c9a79e5ea2225c1f918/4230fcab-10d2-4836-8bd7-ce6d69e8e83c_Best-Online-Browser-Games.jpg',
+        'intro': """his browser game invites you to explore a digital world from your — you guessed it — browser. Step into the shoes of a young warrior in search of friends, adventure and treasure.
+
+Whether you defeat enemies alone or as a party is up to you. But don’t forget to collect the loot when you do!It will take you far in BrowserQuest.""",
+        'name': 'BrowserQuest',
+        'url': 'http://browserquest.herokuapp.com/',
+    },
+    {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/dfb55fdd6b796125a60f2a7e7ec518c8/cf3b06f2-35d8-4c8a-b5c7-f44667214aad_Best-Clicker-Games-Browser.jpg',
+        'intro': """Drawing inspiration from Snake and Slither.io, Hexar.io is a free-for-all multiplayer game. Your mission is to conquer and keep as much hexagonal territory as possible. But others are trying to do the same, so don’t trail too far from your territory or else you might lose it.
+
+You should also avoid hitting your opponent’s head because that can result in having to start expanding all over again — and there’s only so much map space. Don’t forget to collect green circles to gain speed!""",
+        'name': 'Hexar.io',
+        'url': 'http://www.hexar.io/full/index.html',
+    },
+    {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/544d646eee89abde659091513af2fe0d/bddc6788-2ce3-4aef-bed3-b8fa086c16db_The-Best-Browser-Games.jpg',
+        'intro': """According to game creator Stephen Critoph, “This is The World’s Hardest Game. I guarantee you it is harder than any game you have ever played, or ever will play.”
+
+In this game, you’re a red square that needs to get from point A to point B while collecting yellow circles along the way. With each level you pass (if you can pass them at all) they get harder and harder.""",
+        'name': 'World’s Hardest Game',
+        'url': 'https://www.crazygames.com/game/worlds-hardest-game',
+    },
+    {
+        'id': 0,'type':'website game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/fe24c4d18663b582fed732242507837e/bece4a20-617d-4d9d-ac04-d002b3258c2b_Best-Browser-Strategy-Games.png',
+        'intro': """To close, here’s a classic that can end in triumph or fury. The goal of Helicopter Game is to fly your helicopter as far as possible without crashing into the cavern’s floor, ceiling or obstacles.
+
+No matter how far you’ve flown, if you crash you start again — from the beginning. Do you have the masterful control and patience to fly the farthest?""",
+        'name': 'Helicopter Game',
+        'url': 'http://www.helicopter-game.org/',
+    },
+    {
+        'id': 0,'type':'website game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/153cea042c434fc3f39fbbb3c734def4/08070dd9-6200-4a84-919d-36118afa47a0_Best-Free-to-Play-Browser-Games.jpg',
+        'intro': """If you think Flappy Bird was frustrating, you’ve got to try Apple Worm. The goal is to get your worm to eat the apples and reach the portals without getting stuck in the obstacles or falling off the level.
+
+It sounds simple, but the levels get trickier as you progress. Think you can help the worm eat the apple in all 30 levels?
+
+""",
+        'name': 'Apple Worm',
+        'url': 'https://poki.com/en/g/apple-worm',
+    }
+        ]
+    },
+    {
         'image': 'https://www.houseofbots.com/images/news/3631/cover.png',
         'intro': 'Programming tools which you may like',
         'name': 'programming_tools',
@@ -1151,14 +1315,7 @@ Please remember that the AI will generate different outputs each time; and that 
         'type':'websites','name': 'AudioBook Bay',
         'url': 'http://audiobookbay.nl/',
     },
-    {
-
-        'id': 0,
-        'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
-        'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
-        'type':'websites','name': '10ideesrecuesenuxdesign',
-        'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
-    },
+    
       {
 
         'id': 0,
@@ -1168,32 +1325,9 @@ Please remember that the AI will generate different outputs each time; and that 
         'url': 'https://skribbl.io/',
     },
     
-      {
-
-        'id': 0,
-        'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
-        'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
-        'type':'websites','name': '10ideesrecuesenuxdesign',
-        'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
-    },
+   
     
-      {
-
-        'id': 0,
-        'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
-        'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
-        'type':'websites','name': '10ideesrecuesenuxdesign',
-        'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
-    },
     
-      {
-
-        'id': 0,
-        'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
-        'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
-        'type':'websites','name': '10ideesrecuesenuxdesign',
-        'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
-    },
     
           {
             
@@ -1811,7 +1945,7 @@ If required, continue with further processing of the result..
                   {
                'intro': 'useful resources for interview preperations and job finding',       
     'image': 'https://benjweinberg.files.wordpress.com/2017/08/what-is-an-definite-and-indefinite-articles-hd.png',
-    'name': 'Interwiew',
+    'name': 'Interview',
     'start': [
              {
         'id': 0,
@@ -2166,16 +2300,7 @@ awesome_websites = [
         'type': "online",
         'url': 'http://rephrase.ai/'
     },
-    {
-        'id': 0,
-        'image': 'https://removebgblog.files.wordpress.com/2020/03/unscreen.gif',
-        'intro': """Goodbye Greenscreen: Producing background-free video used to require fiddly techniques like chroma keying and greenscreens. With Unscreen you can record your footage anywhere, then simply get rid of the background.
-Create amazing GIFs: Pick, edit & share.
-        """,
-        'name': 'unscreen',
-        'type': "online",
-        'url': 'https://www.unscreen.com/'
-    },
+    
     {
         'id': 0,
         'image': 'https://removebgblog.files.wordpress.com/2020/03/unscreen.gif',
@@ -2190,7 +2315,7 @@ Create amazing GIFs: Pick, edit & share.
         'image': 'https://numbr.dev/numbr-logo.png',
         'intro': """Numbr is a currency calculator, a notepad that understands your calculation. You can use notes with numbers alongside each other. And all your numbers are instantly calculated as you type.
         """,
-        'name': 'xkcd',
+        'name': 'numbr',
         'type': "online",
         'url': 'https://numbr.dev/'
     },{
@@ -3073,7 +3198,7 @@ Please remember that the AI will generate different outputs each time; and that 
         'id': 0,
         'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
         'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
-        'type':'websites','name': '10ideesrecuesenuxdesign',
+        'type':'websites','name': '10 misconception of ui ux',
         'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
     },
       {
@@ -3085,32 +3210,7 @@ Please remember that the AI will generate different outputs each time; and that 
         'url': 'https://skribbl.io/',
     },
     
-      {
-
-        'id': 0,
-        'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
-        'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
-        'type':'websites','name': '10ideesrecuesenuxdesign',
-        'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
-    },
-    
-      {
-
-        'id': 0,
-        'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
-        'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
-        'type':'websites','name': '10ideesrecuesenuxdesign',
-        'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
-    },
-    
-      {
-
-        'id': 0,
-        'image': 'https://10ideesrecuesenuxdesign.castoretpollux.com/UX-issuesImgMeta.png',
-        'intro': "Misconceptions stick. Here are our gems: 10 common misconceptions about design interface our designers often hear about. Can you outsmart the traps?",
-        'type':'websites','name': '10ideesrecuesenuxdesign',
-        'url': 'https://10ideesrecuesenuxdesign.castoretpollux.com/en/',
-    },
+     
     
           {
             
