@@ -2058,61 +2058,61 @@ Non-Technical Questions “Non-Google” Interviews""",
         'image': 'https://miro.medium.com/max/1909/1*ywYwvB-aydv0Ovx7K-5P3g.jpeg',
         'intro': "Some notes and code associated with a Udemy course titled JavaScript Interview Prep. While the notes themselves may be useful, it is really the process of writing these type of notes that fully prepares one for a technical interview.",
         'name': 'Notes for Coding Interviews',
-        'type': 'Artices',
+        'type': 'articles',
         'url': 'https://pulamusic.github.io/Moon/coding-interviews/',
         },{
         'id': 0,
         'image': 'https://cdn-media-1.freecodecamp.org/images/1*pU1kb1JfF45YbKgZ2zm9dg.png',
         'intro': "Some good, fairly detailed advice on job hunting, networking, interviewing, and negotiation",
         'name': 'How to Break Into the Tech Industry',
-        'type': 'Artices',
+        'type': 'articles',
         'url': 'https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/',
         },{
         'id': 0,
         'image': 'https://miro.medium.com/max/1909/1*ywYwvB-aydv0Ovx7K-5P3g.jpeg',
-        'intro': "(Artices)How to negotiate a better deal for yourself in the hiring process.",
+        'intro': "(articles)How to negotiate a better deal for yourself in the hiring process.",
         'name': 'How to negotiate a better deal for yourself in the hiring process.',
-        'type': 'Artices',
+        'type': 'articles',
         'url': 'https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea',
         },
             {
         'id': 0,
         'image': 'https://cdn-media-1.freecodecamp.org/images/1*8csA-fy8rMONaEVeOjVP4A.png',
-        'intro': "(Artices)Zhia Chong - a Twitter Software Engineer who possesses a wealth of experience as both an interviewer and interviewee - provides several tips on preparing for programming interviews as well as recommending a solid list of tools and resources (like Cracking The Coding Interview).",
+        'intro': "(articles)Zhia Chong - a Twitter Software Engineer who possesses a wealth of experience as both an interviewer and interviewee - provides several tips on preparing for programming interviews as well as recommending a solid list of tools and resources (like Cracking The Coding Interview).",
         'name': '5 Things You Need to Know in a Programming Interview',
-        'type': 'Artices',
+        'type': 'articles',
         'url': 'https://medium.freecodecamp.org/the-most-important-things-you-need-to-know-for-a-programming-interview-3429ac2454b',
         },
             
                 {
         'id': 0,
         'image': 'https://miro.medium.com/max/1909/1*ywYwvB-aydv0Ovx7K-5P3g.jpeg',
-        'intro': "(Artices)A new take on the age-old question: Should you rewrite your application from scratch, or is that “the single worst strategic mistake that any software company can make”? ",
+        'intro': "(articles)A new take on the age-old question: Should you rewrite your application from scratch, or is that “the single worst strategic mistake that any software company can make”? ",
         'name': 'Lessons from 6 software rewrite stories',
-        'type': 'Artices',
+        'type': 'articles',
         'url': 'https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22',
         },
     {
         'id': 0,
-        'type': 'Artices',
+        'type': 'articles',
         'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
-        'intro': "(Artices)How to escape tutorial purgatory as a new developer — or at any time in your career.",
+        'intro': "(articles)How to escape tutorial purgatory as a new developer — or at any time in your career.",
         'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
         'url': 'https://www.freecodecamp.org/news/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40/',
     },
     {
         'id': 0,
-        'type': 'Artices',
+        'type': 'articles',
         'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
-        'intro': "(Artices)How to escape tutorial purgatory as a new developer — or at any time in your career.",
+        'intro': "(articles)How to escape tutorial purgatory as a new developer — or at any time in your career.",
         'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
         'url': 'https://www.freecodecamp.org/news/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40/',
     },
     {
         'id': 0,
-        'type': 'Artices',
+        'type': 'articles',
         'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
-        'intro': "(Artices)How to escape tutorial purgatory as a new developer — or at any time in your career.",
+        'intro': "(articles)How to escape tutorial purgatory as a new developer — or at any time in your career.",
         'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
         'url': 'https://www.freecodecamp.org/news/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40/',
     },
@@ -8134,7 +8134,7 @@ Stock = [
 
 {
     'image': 'https://benjweinberg.files.wordpress.com/2017/08/what-is-an-definite-and-indefinite-articles-hd.png',
-    'name': 'Artices',
+    'name': 'articles',
     'start': [
     
         
@@ -8144,12 +8144,12 @@ Stock = [
         'image': 'https://miro.medium.com/max/1909/1*ywYwvB-aydv0Ovx7K-5P3g.jpeg',
         'intro': "A new take on the age-old question: Should you rewrite your application from scratch, or is that “the single worst strategic mistake that any software company can make”? ",
         'name': 'Lessons from 6 software rewrite stories',
-        'type': 'Artices',
+        'type': 'articles',
         'url': 'https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22',
         },
     {
         'id': 0,
-        'type': 'Artices',
+        'type': 'articles',
         'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
         'intro': "How to escape tutorial purgatory as a new developer — or at any time in your career.",
         'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
@@ -8157,7 +8157,7 @@ Stock = [
     },
     {
         'id': 0,
-        'type': 'Artices',
+        'type': 'articles',
         'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
         'intro': "How to escape tutorial purgatory as a new developer — or at any time in your career.",
         'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
@@ -8165,7 +8165,7 @@ Stock = [
     },
     {
         'id': 0,
-        'type': 'Artices',
+        'type': 'articles',
         'image': 'https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg',
         'intro': "How to escape tutorial purgatory as a new developer — or at any time in your career.",
         'name': 'For a long time I held off from starting my own side projects because of how much I didn’t know how to do.',
@@ -8226,7 +8226,7 @@ Stock = [
 ,
 {
     'image': 'https://www.thebalancecareers.com/thmb/EzVIPY9EHd15iMMBUVwJVjIM0jI=/735x0/ScreenShot2019-08-13at12.32.30PM-a5be9aa6e07f4b1381ff525cf7a3ecad.png',
-    'name':'Graphic_deginer',
+    'name':'Graphic_designer',
     'start': [
     {
         'id': 0,
@@ -9110,7 +9110,7 @@ webDevelopment_tools = [
 
 
 
-Graphic_deginer_tools = [
+Graphic_designer_tools = [
         {
         'id': 0,'type':'website',
         'image': 'https://speckyboy.com/wp-content/uploads/2019/02/free-adobe-premier-pro-video-templates-01.jpg',
@@ -9712,9 +9712,9 @@ def api_Ui_Ux_tools():
 @app.route('/gameDevelopment/tools')
 def api_gameDevelopment_tools():
     return jsonify(gameDevelopment_tools)
-@app.route('/Graphic_deginer/tools')
-def api_Graphic_deginer_tools():
-    return jsonify(Graphic_deginer_tools)
+@app.route('/Graphic_designer/tools')
+def api_Graphic_designer_tools():
+    return jsonify(Graphic_designer_tools)
 @app.route('/webDevelopment/tools')
 def api_webDevelopment_tools():
     return jsonify(webDevelopment_tools)
@@ -10215,9 +10215,9 @@ def api_Ui_Ux_learning():
 @app.route('/gameDevelopment/learning')
 def api_gameDevelopment_learning():
     return jsonify(gameDevelopment_learning)
-# @learning.route('/Graphic_deginer/learning')
+# @learning.route('/Graphic_designer/learning')
 # def api_programming_learning():
-#     return jsonify(Graphic_deginer)
+#     return jsonify(Graphic_designer)
 @app.route('/webDevelopment/learning')
 def api_webDevelopment_learning():
     return jsonify(webDevelopment_learning)
@@ -10570,9 +10570,9 @@ def api_Ui_Ux_courses():
 @app.route('/gameDevelopment/courses')
 def api_gameDevelopment_courses():
     return jsonify(gameDevelopment_courses)
-# @courses.route('/Graphic_deginer/courses')
+# @courses.route('/Graphic_designer/courses')
 # def api_programming_courses():
-#     return jsonify(Graphic_deginer)
+#     return jsonify(Graphic_designer)
 @app.route('/webDevelopment/courses')
 def api_webDevelopment_courses():
     return jsonify(webDevelopment_courses)
