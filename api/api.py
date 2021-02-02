@@ -7475,7 +7475,7 @@ Stock = [
     {
         'image':'https://marionettestudio.com/wp-content/uploads/2016/11/22-despicable-me-2-animation-movie.jpg',
         
-        'name': 'animation_images',
+        'name': 'Animation Images',
         'start': [
     {
         
