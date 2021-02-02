@@ -236,7 +236,8 @@ If you end up breaking the record for biggest snake that day, you get to leave a
         'intro': """skribbl io is a free multiplayer drawing and guessing game. Draw and guess words with your friends and people all around the world! Score the most points and """,
         'name': 'skribbl.io',
         'url': 'https://skribbl.io/',
-    },{
+    },
+    {
         'id': 0,'type':'website multiplayer game',
         'image': 'https://sites.google.com/site/playkrunker/_/rsrc/1589209682826/home/Is-Krunker-the-best-browser-shooting-game-in-2019.jpg',
         'intro': """Krunker.io is a free Multiplayer Online Game. No Download needed.""",
