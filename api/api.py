@@ -1968,6 +1968,14 @@ Always here to listen and talk. Always on your side. Join the millions growing w
         'type': "website",
         'url': 'https://www.whenwasiconceived.com/'
     },
+     {
+        'id': 0,
+        'image': 'https://www.cssdesignawards.com/cdasites/2021/202102/20210202095726.jpg',
+        'intro': """ One step, one smile, one experience. Travel is an infinite sum of memories. Discover my story through my photos and memories.""",
+        'name': 'tismes.com',
+        'type': "website",
+        'url': 'https://tismes.com/'
+    },
     {
         'id': 0,
         'image': 'https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/image-1-6-796x417.png',
