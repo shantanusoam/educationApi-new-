@@ -167,6 +167,175 @@ motivation = [
 ]
 miscellaneous = [
     {
+        'image': 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/multiplayer-1576688681.jpg',
+        'intro': 'It’s all fun and games until someone, well, takes away the fun and games. Yes, even the best browser games can be a time-suck sometimes.',
+        'name': 'online browser games',
+        'start' : [
+            {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/eefa867f7df18258f95e03face6a063d/817544d7-b67b-4b6e-ad4f-5c0744d0b284_Best-Browser-Multiplayer-Games.jpg',
+        'intro': """Remember playing pictionary or Draw Something? Similar to those games, you can sum up Gartic.io in three words: draw, guess, win. In this online drawing game, up to 10 people can play.
+
+At the start of every round one person will randomly draw a word and draw it, while everyone else has to try and guess the word correctly.""",
+        'name': 'Gartic.io',
+        'url': 'https://gartic.io/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/4b9afe7d2256f90c118d38b9fdf0052d/6517acb4-e643-4b75-a58d-1088dbee29aa_Best-Free-Browser-Games-2018.jpg',
+        'intro': """Jump into Slither.io, the new and improved Snake game, with millions of players around the world! As you probably know, the goal is to become the longest snake of the day. All you have to do to grow is get other slitherers to run into your body.
+
+If you end up breaking the record for biggest snake that day, you get to leave a message on the screen for everyone who’s playing to see!""",
+        'name': 'Slither.io',
+        'url': 'http://slither.io/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://image.winudf.com/v2/image/Y29tLm5hZC5ib25rX3NjcmVlbl8xX25yOWV1djly/screen-1.jpg?fakeurl=1&type=.jpg',
+        'intro': """Battle your friends or anyone from anywhere in the world in last man standing or team based matches. Bonk.io is a game of strategy as well as raw skill, position """,
+        'name': 'Bonk.io',
+        'url': 'https://bonk.io/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://forum.curvefever.pro/uploads/default/original/2X/b/b1678361f37000be788a216c9679031032d79a36.png',
+        'intro': """The smash hit Curve Fever is back with a new multiplayer browser game: Curve Fever Pro. Cut off opponents, squeeze through tiny holes and unlock new ...""",
+        'name': 'curvefever',
+        'url': 'https://curvefever.pro/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://i.ytimg.com/vi/6Pmvq0m5za0/maxresdefault.jpg',
+        'intro': """Deeeep.io Pro is the new popular .io game! Start as a fish, and eat to advance in the underwater food chain. Some of the more than 70 animals ...""",
+        'name': 'deeeep.io',
+        'url': 'https://deeeep.io/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://cdn.littlebigsnake.com/img/sharing_img.png',
+        'intro': """Play Little Big Snake unblocked on the official website for free. New updates weekly, play with your friends and others online.
+""",
+        'name': 'Littlebigsnake / slither.io',
+        'url': 'https://littlebigsnake.com/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://iogames.space/sites/default/files/511x288_1_.png',
+        'intro': """Slay.one is a free multiplayer top-down shooter. You can play it directly in your browser.""",
+        'name': 'Slay.one  / braains.io',
+        'url': 'http://slay.one/beta/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://i.ytimg.com/vi/GH_2cABLhTA/maxresdefault.jpg',
+        'intro': """Build a gold stash to establish your base and start defending. · Collect resources with your pickaxe to upgrade your base. · Build towers to defend against zombies.""",
+        'name': 'zombs.io',
+        'url': 'http://zombs.io/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://hordes.io/assets/ui/background.jpg',
+        'intro': """Roam the lands in gigantic battlegroups, level up with your party, trade rare items and upgrade your gear!""",
+        'name': 'hordes.io',
+        'url': 'https://hordes.io/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://image.winudf.com/v2/image/Y29tLml5dG9yLmVyZXJ6X3NjcmVlbl83XzE1MzU0MDY1NDdfMDQ3/screen-7.jpg?fakeurl=1&type=.jpg',
+        'intro': """skribbl io is a free multiplayer drawing and guessing game. Draw and guess words with your friends and people all around the world! Score the most points and """,
+        'name': 'skribbl.io',
+        'url': 'https://skribbl.io/',
+    },
+    {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://sites.google.com/site/playkrunker/_/rsrc/1589209682826/home/Is-Krunker-the-best-browser-shooting-game-in-2019.jpg',
+        'intro': """Krunker.io is a free Multiplayer Online Game. No Download needed.""",
+        'name': 'krunker.io',
+        'url': 'https://krunker.io/',
+    },{
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://www.transformice.com/img/i1.jpg',
+        'intro': """Transformice is an online independent multiplayer free-to-play platform video game, created by French game designers, known by their aliases Melibellule and Tigrounette. Melibellule produces the game's artwork and graphics, while Tigrounette programs the game's functions and mechanics""",
+        'name': 'transformice',
+        'url': 'https://www.transformice.com/',
+    },
+             {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://geeklife.ca/wp-content/uploads/2017/10/Prodigy-Math-Tutoring-Game-Landing-page.png',
+        'intro': "Prodigy Math Game is a hyper-engaging, fantasy-inspired MMORPG (massively multiplayer online role-playing game) with over 90 million players. It’s dedicated to boosting children’s confidence and improving math skills.",
+        'name': 'Prodigy',
+        'url': 'https://play.prodigygame.com/',
+    },
+    {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/205e42b2fdf0b76b2c3dfcfa9a5659e7/d0dcd298-81bc-4564-bfbc-09b09127056d_Best-Free-Browser-Games.jpg',
+        'intro': """Remember playing Snake on the indestructible Nokia phone? In this version you’re not just a neon snake — you’re competing with other neon snakes for supremacy.
+
+Beam across the field to eat the cubes that appear when another snake dies and grow longer. But don’t run into other snakes or else you’ll turn into cubes and have to respawn in your original size.""",
+        'name': 'Powerline.io',
+        'url': 'http://powerline.io/',
+    },
+    {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/67b9ef52d20951d4c5c14a318e47440f/e7a282ab-771f-48ea-8785-19a2490b1c03_Best-Browser-Games-2018.jpg',
+        'intro': "In January 2001, developer Jagex released RuneScape, a point-and-click MMORPG set in the vast, medieval fantasy realm of Gielinor. Take part in over 200 quests while you explore a world filled with diverse races and guilds all seeking power.",
+        'name': 'RuneScape',
+        'url': 'https://www.runescape.com/community',
+    },
+    {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/a4571ef59944062c2f9972997819d9b1/133f6e30-e567-4514-80ed-891cf0095261_Best-in-Browser-Games.jpg',
+        'intro': """Simply use your arrow keys to steer and you’re off to the races! NoBrakes.io is a multiplayer racing game where you reach checkpoints to gain a competitive advantage with power-ups that boost your speed or slow others down.
+
+Sounds simple, right? Yes, until you realize this race isn’t a conventional one. If you’re near the front of a line, for example, checkpoints can pop up behind you. So you need to be ready for anything!""",
+        'name': 'NoBrakes.io',
+        'url': 'https://nobrakesio.totebo.com/',
+    },
+    {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/a1022bc5df491c9a79e5ea2225c1f918/4230fcab-10d2-4836-8bd7-ce6d69e8e83c_Best-Online-Browser-Games.jpg',
+        'intro': """his browser game invites you to explore a digital world from your — you guessed it — browser. Step into the shoes of a young warrior in search of friends, adventure and treasure.
+
+Whether you defeat enemies alone or as a party is up to you. But don’t forget to collect the loot when you do!It will take you far in BrowserQuest.""",
+        'name': 'BrowserQuest',
+        'url': 'http://browserquest.herokuapp.com/',
+    },
+    {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/dfb55fdd6b796125a60f2a7e7ec518c8/cf3b06f2-35d8-4c8a-b5c7-f44667214aad_Best-Clicker-Games-Browser.jpg',
+        'intro': """Drawing inspiration from Snake and Slither.io, Hexar.io is a free-for-all multiplayer game. Your mission is to conquer and keep as much hexagonal territory as possible. But others are trying to do the same, so don’t trail too far from your territory or else you might lose it.
+
+You should also avoid hitting your opponent’s head because that can result in having to start expanding all over again — and there’s only so much map space. Don’t forget to collect green circles to gain speed!""",
+        'name': 'Hexar.io',
+        'url': 'http://www.hexar.io/full/index.html',
+    },
+    {
+        'id': 0,'type':'website multiplayer game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/544d646eee89abde659091513af2fe0d/bddc6788-2ce3-4aef-bed3-b8fa086c16db_The-Best-Browser-Games.jpg',
+        'intro': """According to game creator Stephen Critoph, “This is The World’s Hardest Game. I guarantee you it is harder than any game you have ever played, or ever will play.”
+
+In this game, you’re a red square that needs to get from point A to point B while collecting yellow circles along the way. With each level you pass (if you can pass them at all) they get harder and harder.""",
+        'name': 'World’s Hardest Game',
+        'url': 'https://www.crazygames.com/game/worlds-hardest-game',
+    },
+    {
+        'id': 0,'type':'website game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/fe24c4d18663b582fed732242507837e/bece4a20-617d-4d9d-ac04-d002b3258c2b_Best-Browser-Strategy-Games.png',
+        'intro': """To close, here’s a classic that can end in triumph or fury. The goal of Helicopter Game is to fly your helicopter as far as possible without crashing into the cavern’s floor, ceiling or obstacles.
+
+No matter how far you’ve flown, if you crash you start again — from the beginning. Do you have the masterful control and patience to fly the farthest?""",
+        'name': 'Helicopter Game',
+        'url': 'http://www.helicopter-game.org/',
+    },
+    {
+        'id': 0,'type':'website game',
+        'image': 'https://webcdn.prodigygame.com/2462b28-226/static/153cea042c434fc3f39fbbb3c734def4/08070dd9-6200-4a84-919d-36118afa47a0_Best-Free-to-Play-Browser-Games.jpg',
+        'intro': """If you think Flappy Bird was frustrating, you’ve got to try Apple Worm. The goal is to get your worm to eat the apples and reach the portals without getting stuck in the obstacles or falling off the level.
+
+It sounds simple, but the levels get trickier as you progress. Think you can help the worm eat the apple in all 30 levels?
+
+""",
+        'name': 'Apple Worm',
+        'url': 'https://poki.com/en/g/apple-worm',
+    }
+        ]
+    },
+    {
+        'image': 'https://www.houseofbots.com/images/news/3631/cover.png',
+        'intro': 'Programming tools which you may like',
+        'name': 'programming_tools',
+        
         'start' : [
             
     {
@@ -256,6 +425,317 @@ miscellaneous = [
 Developers have built an impressively diverse range of applications using the GPT-3 API, including an all purpose Excel function, a recipe generator, a layout generator (translates natural language to JSX), a search engine and several others.""",
         'name': 'open ai',
         'start' : [
+              {
+        'id': 0,
+        'image': 'https://removebgblog.files.wordpress.com/2020/03/unscreen.gif',
+        'intro': """Goodbye Greenscreen: Producing background-free video used to require fiddly techniques like chroma keying and greenscreens. With Unscreen you can record your footage anywhere, then simply get rid of the background.
+Create amazing GIFs: Pick, edit & share.
+        """,
+        'name': 'unscreen',
+        'type': "online",
+        'url': 'https://www.unscreen.com/'
+    },{
+        'id': 0,
+        'image': 'https://numbr.dev/numbr-logo.png',
+        'intro': """Numbr is a currency calculator, a notepad that understands your calculation. You can use notes with numbers alongside each other. And all your numbers are instantly calculated as you type.
+        """,
+        'name': 'xkcd',
+        'type': "online",
+        'url': 'https://numbr.dev/'
+    },{
+        'id': 0,
+        'image': 'https://krisp.ai/blog/wp-content/uploads/2020/01/krisp-for-ios-banner.png',
+        'intro': """Take calls from wherever you want without being embarrassed for the crying baby noise or airport noise in the background.
+
+Krisp works with any conferencing app and with headset .
+        """,
+        'name': 'krisp',
+        'type': "online",
+        'url': 'https://krisp.ai/'
+    },{
+        'id': 0,
+        'image': 'https://www.unscreen.com/assets/api_animation-c4d5c0b28c34d91a136d6207e8363534218eec6b177e20a3f78fd02d87dcc35c.gif',
+        'intro': """Submit a video:
+Call POST /videos with your video URL or file.
+Fetch the video status:
+Call GET /videos/:id to fetch the status of your video.
+(Alternatively, register a webhook_url to receive a callback when the processing is finished.)
+Download the result:
+When the status is done, download the result from the result_url.
+If required, continue with further processing of the result..
+        """,
+        'name': 'unscreen api',
+        'type': "online",
+        'url': 'https://www.unscreen.com/api'
+    },
+    {
+        'id': 0,
+        'image': 'https://production-wordpress-assets.s3.amazonaws.com/wp-content/uploads/2013/03/16225811/tech_support-1.png',
+        'intro': """A webcomic of romance,
+sarcasm, math, and language.
+        """,
+        'name': 'xkcd',
+        'type': "online",
+        'url': 'https://xkcd.com/'
+    },
+     {
+        'id': 0,
+        'image': 'https://i.insider.com/5e0f8579855cc20c9d24d0f8?width=750&format=jpeg',
+        'intro': """MSCHF Box is a mystery box you can open (or not). There are two possible paths to reaping its value.
+        """,
+        'name': 'MSCHF',
+        'type': "online",
+        'url': 'https://mschf.xyz/'
+    },
+    {
+        'id': 0,
+        'image': 'https://raw.githubusercontent.com/saurabhdaware/text-to-handwriting/master/sample.jpeg',
+        'intro': """change your comuter text into hand writing
+        """,
+        'name': 'copypasta',
+        'type': "online",
+        'url': 'https://imlolman.github.io/Copy-Pasta/?fbclid=IwAR072cvRKgSLXESWXBNEoVGJU3jWfM668b1DeX-HpS8ISSPvUqv0BafRqTk'
+    },
+    {
+        'id': 0,
+        'image': 'https://mir-s3-cdn-cf.behance.net/user/276/176118123513.5bb4760a2e540.jpg',
+        'intro': """I'm a designer and illustrator from Madrid. Agencies: Saatchi& Saatchi Berlin ,Young & Rubicam, TBWA, BBDO, El laboratorio, Leo Burnet, Sra.
+        """,
+        'name': 'oscarllorens',
+        'type': "online",
+        'url': 'https://oscarllorens.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5e36e86f7aa7cf2aeda7bed4/5e397536245b9265907459c6_20.jpghttps://static.independent.co.uk/s3fs-public/thumbnails/image/2020/04/02/14/homeschooling-books-indybest.jpg',
+        'intro': """Best Homeschool Resources. 70 likes. Helping homeschooling families find great educational books, videos, curricula, projects, and more.
+        """,
+        'name': 'besthomeschoolresources',
+        'type': "online",
+        'url': 'https://www.besthomeschoolresources.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://uploads-ssl.webflow.com/5e36e86f7aa7cf2aeda7bed4/5e397536245b9265907459c6_20.jpg',
+        'intro': """TestMyBrain aims to engage and collaborate with citizen scientists like you, by providing tools to help you learn about yourself. When you test yourself, you contribute to brain research.
+
+Click Go! next to any of the studies below to get started.
+        """,
+        'name': 'sketchfab',
+        'type': "online",
+        'url': 'https://sketchfab.com/3d-models'
+    },
+    {
+        'id': 0,
+        'image': 'https://developer.chrome.com/devsummit/adventure/assets/share/share-img.png',
+        'intro': """TestMyBrain aims to engage and collaborate with citizen scientists like you, by providing tools to help you learn about yourself. When you test yourself, you contribute to brain research.
+
+Click Go! next to any of the studies below to get started.
+        """,
+        'name': 'devsummit',
+        'type': "online",
+        'url': 'https://developer.chrome.com/devsummit/adventure/#cG9zaXRpb24veC8yMDkveS82MA=='
+    },
+    {
+        'id': 0,
+        'image': 'https://www.testmybrain.org/images/site_screenshot.png',
+        'intro': """TestMyBrain aims to engage and collaborate with citizen scientists like you, by providing tools to help you learn about yourself. When you test yourself, you contribute to brain research.
+
+Click Go! next to any of the studies below to get started.
+        """,
+        'name': 'testmybrain',
+        'type': "online",
+        'url': 'https://www.testmybrain.org/'
+    },
+    {
+        'id': 0,
+        'image': 'https://dnp-website-images.s3-us-west-2.amazonaws.com/dnp_social.png',
+        'intro': """The DoNotPay app is the home of the world's first robot lawyer. Fight corporations, beat bureaucracy and sue anyone at the press of a button.
+        """,
+        'name': 'donotpay',
+        'type': "online",
+        'url': 'https://donotpay.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cdn.mos.cms.futurecdn.net/RJXgoQuvfqiPEnEDEGAjYF.jpg',
+        'intro': """Welcome to Pixlr the Online Photo Editor that lets you edit photos and create great designs right in your browser for Free. Experience next level, intuitive photo editing and graphical design with AI-powered tools for quick yet professional edits. Our editor opens almost any image format such as PSD (Photoshop), PXD, JPEG, PNG (transparent), WebP, SVG and more. Start from an empty canvas or select one of our professionally crafted templates.
+        """,
+        'name': 'pixlr',
+        'type': "online",
+        'url': 'https://pixlr.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cruip.com/wp-content/uploads/2019/06/splash.png',
+        'intro': """Beautifully designed HTML, React, Vue.js, and Tailwind templates! Save weeks of time and build your startup landing page in minutes.
+        """,
+        'name': 'cruip',
+        'type': "online",
+        'url': 'https://cruip.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://ipiccy.com/res/template/img/hp_v2/pics/ba-01s5.jpg',
+        'intro': """Everything you need to make your photo awesome online
+        """,
+        'name': 'ipiccy',
+        'type': "software online",
+        'url': 'https://ipiccy.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://miro.medium.com/max/8096/1*od-00NAlpkiNUI5YICHUYA.jpeg',
+        'intro': """openpilot is an open source driver assistance system. Currently, openpilot performs the functions of Adaptive Cruise Control (ACC), Automated Lane Centering (ALC), Forward Collision Warning (FCW) and Lane Departure Warning (LDW) for a growing variety of supported car makes, models and model years. In addition, while openpilot is engaged, a camera based Driver Monitoring (DM) feature alerts distracted and asleep drivers.
+        """,
+        'name': 'openpilot',
+        'type': "github repo",
+        'url': 'https://github.com/commaai/openpilot'
+    },
+    {
+        'id': 0,
+        'image': 'https://electrek.co/wp-content/uploads/sites/3/2015/12/geohot-driverless-car-e1450278538151.png',
+        'intro': """ Works with the push of a button.
+openpilot is simple to use. It enables your car to steer, accelerate, and brake automatically within its lane. Drive to a highway, press the cruise control SET button, and openpilot will engage. To disengage, use either pedal.
+        """,
+        'name': 'comma.ai   ',
+        'type': "website",
+        'url': 'https://comma.ai/'
+    },
+    {
+        'id': 0,
+        'image': 'https://businessnamegenerator.com/wp-content/uploads/2018/06/Brand-Name-Generator.png',
+        'intro': """ Generate Thousands of Name Ideas For Your Business or Company. Instantly Check Domain Availability with our Business Name Generator.
+        """,
+        'name': 'businessnamegenerator',
+        'type': "website",
+        'url': 'https://businessnamegenerator.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cdn.vox-cdn.com/thumbor/14thO4Zp4oeFRxOGntbvvV5f7lY=/0x94:1905x1047/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21806823/Dinoswords_ProductHunt_GalleryImage1_v2.png',
+        'intro': """100 Thieves x MSCHF presents:
+        """,
+        'name': 'MSCHF',
+        'type': "online",
+        'url': 'https://dinoswords.gg/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cas-img.sgp1.digitaloceanspaces.com/wp-content/uploads/2020/11/19062105/ppc-ad-copy-ai.jpg',
+        'intro': """ Copywriting
+simplified.
+Introducing the end of writer’s block.
+With CopyAI’s automated creativity tools,
+you can generate marketing copy in seconds.
+        """,
+        'name': 'copy.ai',
+        'type': "website",
+        'url': 'https://www.copy.ai/'
+    },
+    {
+        'id': 0,
+        'image': 'https://i.ytimg.com/vi/588eqmSS9Ps/maxresdefault.jpg',
+        'intro': """ The AI companion who cares
+Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!
+        """,
+        'name': 'replika.ai',
+        'type': "website",
+        'url': 'https://replika.ai/'
+    },
+    
+    
+     {
+        'id': 0,
+        'image': 'https://netflixhangouts.com/assets/img/laptop-scratched.pnghttps://netflixhangouts.com/assets/img/laptop-scratched.png',
+        'intro': """ Watch Netflix at work by making it look like you’re on a conference call
+        """,
+        'name': 'netflixhangouts',
+        'type': "googelextention",
+        'url': 'https://netflixhangouts.com/?_ga=2.6032116.616577050.1611916042-1182789525.1611916042'
+    },
+    {
+        'id': 0,
+        'image': 'https://techcrunch.com/wp-content/uploads/2014/03/angellist.png',
+        'intro': """ Apply privately to 130000+ remote jobs and startup jobs near you with one application. See salary and equity upfront.
+        """,
+        'name': 'angel.co',
+        'type': "website",
+        'url': 'https://www.gwern.net/GPT-3'
+    },
+     {
+        'id': 0,
+        'image': 'https://pic.accessify.com/thumbnails/777x423/w/whenwasiconceived.com.png',
+        'intro': """ When was I conceived? A simple and instant way to find out when you were conceived. conceived around 6 May, 2020. When did I conceive? If you're a parent
+        """,
+        'name': 'whenwasiconceived',
+        'type': "website",
+        'url': 'https://www.whenwasiconceived.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/image-1-6-796x417.png',
+        'intro': """ Developing ultra high bandwidth brain-machine interfaces to connect humans and computers.
+        """,
+        'name': 'neuralink',
+        'type': "website",
+        'url': 'https://neuralink.com/'
+    },
+    {
+        'id': 0,
+        'image': 'https://hipertextual.com/files/2021/01/5G-3-740x416.png',
+        'intro': """ Play through all the major events of 2020: the Australia wildfires, COVID-19, quarantine, the rise of TikTok, the USA elections, etc.
+        """,
+        'name': '2020game',
+        'type': "website",
+        'url': 'https://2020game.io/'
+    },
+    {
+        'id': 0,
+        'image': 'https://jalammar.github.io/images/gpt3/gpt3-parameters-weights.png',
+        'intro': """ The tech world is abuzz with GPT3 hype. Massive language models (like GPT3) are starting to surprise us with their abilities. While not yet completely reliable for most businesses to put in front of their customers, these models are showing sparks of cleverness that are sure to accelerate the march of automation and the possibilities of intelligent computer systems. Let’s remove the aura of mystery around GPT3 and learn how it’s trained and how it works
+        """,
+        'name': 'jalammar',
+        'type': "website",
+        'url': 'https://jalammar.github.io/how-gpt3-works-visualizations-animations/'
+    },
+    {
+        'id': 0,
+        'image': 'https://www.dpreview.com/files/p/articles/9173310557/openai-dall-e-avocado-chair-screenshot.jpeg',
+        'intro': """ We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language.
+        """,
+        'name': 'openai',
+        'type': "website",
+        'url': 'https://openai.com/blog/dall-e/'
+    },
+    {
+        'id': 0,
+        'image': 'https://liveinnovation.org/wp-content/uploads/2017/10/1_DAIiB63JaI1br9XYPAQ-rA.png',
+        'intro': """AIVA, the Artificial Intelligence music composer that creates original & personalized music for your projects.
+        """,
+        'name': 'creators aiva',
+        'type': "website",
+        'url': 'https://creators.aiva.ai/'
+    },
+     {
+        'id': 0,
+        'image': 'https://images.ctfassets.net/dv1vylzohjd7/28GGzo1ybZigjRt1c3QHd7/a8e2287a5d6488c94f04053839b6ac6e/hud.png',
+        'intro': """AIVA, the Artificial Intelligence music composer that creates original & personalized music for your projects.
+        """,
+        'name': 'cinekidplay',
+        'type': "website",
+        'url': 'https://cinekidplay.nl/ontdekken'
+    },
+    {
+        'id': 0,
+        'image': 'https://umamiland.withgoogle.com/version/1608117349803/static/giftshop/wallpaper/main-rice-street.jpg',
+        'intro': """Enjoy your virtual food trip and go out only once it's safe! Privacy Policy. Overview. Gift shop. 0. Language. English. 한국어. 中文. Privacy Terms & Conditions 
+        """,
+        'name': 'umamiland',
+        'type': "website",
+        'url': 'https://umamiland.withgoogle.com/en'
+    },
+
             {
         'id': 0,
         'image': 'https://pbs.twimg.com/card_img/1353639823332970497/hMucgNj5?format=jpg',
@@ -9877,15 +10357,7 @@ def api_machine_learning_learning():
      
 
 android_courses = [
-            {
-                'id':0,
-                'image': 'https://prod-discovery.edx-cdn.org/media/course/image/8f8e5124-1dab-47e6-8fa6-3fbdc0738f0a-762af069070e.small.jpg',
-                'intro': "This course picks up where CS50 leaves off, diving more deeply intro the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
-                'name': "CS50's Web Programming with Python and JavaScript",
-                'Return': 'free certificate',
-                'type': 'video + assigment',
-                'url':  'https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript'
-            },
+
             {
                 
                 'id':0,
