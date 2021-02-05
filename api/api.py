@@ -172,6 +172,15 @@ miscellaneous = [
         'name': 'online browser games',
         'start' : [
             {
+        'id': 0,
+        'image': 'https://media.defense.gov/2021/Jan/26/2002571045/780/780/0/200126-F-ZZ999-333.JPG',
+        'intro': """Harnessing technology to improve the recruiting process, the Air Force is releasing a new online, interactive gaming experience: E.C.H.O. - Enhanced Cognitive Human Ops. Recruiters can now engage their target audiences with this new awareness-building tool that highlights Air Force opportunities. The experience takes players through three different challenges, testing a variety of cognitive skills that Airmen use every day. (U.S. Air Force courtesy graphic
+        """,
+        'name': 'airforceecho',
+        'type': "online",
+        'url': 'http://airforceecho.com/'
+    },
+            {
         'id': 0,'type':'website multiplayer game',
         'image': 'https://webcdn.prodigygame.com/2462b28-226/static/eefa867f7df18258f95e03face6a063d/817544d7-b67b-4b6e-ad4f-5c0744d0b284_Best-Browser-Multiplayer-Games.jpg',
         'intro': """Remember playing pictionary or Draw Something? Similar to those games, you can sum up Gartic.io in three words: draw, guess, win. In this online drawing game, up to 10 people can play.
@@ -2248,6 +2257,15 @@ everyydaytools = [
 awesome_websites = [
     {
         'id': 0,
+        'image': 'https://media.defense.gov/2021/Jan/26/2002571045/780/780/0/200126-F-ZZ999-333.JPG',
+        'intro': """Harnessing technology to improve the recruiting process, the Air Force is releasing a new online, interactive gaming experience: E.C.H.O. - Enhanced Cognitive Human Ops. Recruiters can now engage their target audiences with this new awareness-building tool that highlights Air Force opportunities. The experience takes players through three different challenges, testing a variety of cognitive skills that Airmen use every day. (U.S. Air Force courtesy graphic
+        """,
+        'name': 'airforceecho',
+        'type': "online",
+        'url': 'http://airforceecho.com/'
+    },
+    {
+        'id': 0,
         'image': 'https://i.insider.com/5e0f8579855cc20c9d24d0f8?width=750&format=jpeg',
         'intro': """MSCHF Box is a mystery box you can open (or not). There are two possible paths to reaping its value.
         """,
@@ -2384,7 +2402,7 @@ openpilot is simple to use. It enables your car to steer, accelerate, and brake 
         'image': 'https://cdn.vox-cdn.com/thumbor/14thO4Zp4oeFRxOGntbvvV5f7lY=/0x94:1905x1047/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21806823/Dinoswords_ProductHunt_GalleryImage1_v2.png',
         'intro': """100 Thieves x MSCHF presents:
         """,
-        'name': 'MSCHF',
+        'name': 'dinoswords',
         'type': "online",
         'url': 'https://dinoswords.gg/'
     },
