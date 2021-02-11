@@ -1383,6 +1383,24 @@ It's crazy, just got access to @OpenAI API and I already have a working product!
             },  
             ]
         
+    },
+    {
+        
+            'image': 'https://th.bing.com/th/id/R92d266f31db03ae4c3100f283271178c?rik=a92BDKO8J5NodA&riu=http%3a%2f%2fsocialheroes.co.uk%2fwp-content%2fuploads%2f2015%2f01%2fMarketing-Strategy.jpg',
+        'intro': 'Free Marketting content to learn and perform better ',
+        'name': 'Marketting e-books',
+        'start' : [
+            {
+        'id': 0,
+        'image': 'https://www.seoclerk.com/pics/617187-1gd95r1531814029.jpg',
+        'intro': """Free Marketting e-books by adobe"
+        """,
+        'name': "Marketting e-books",
+        'type': "e-books",
+        'url': 'https://www.marketo.com/ebooks/'
+            },  
+            ]
+        
     }
 ]
 
